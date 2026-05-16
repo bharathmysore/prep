@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="1330" viewBox="0 0 1300 1330">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#faf6e9"/>
+      <stop offset="1" stop-color="#e8f0f4"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 43px Georgia, serif; fill: #172b3c; }
+      .subtitle { font: 20px Arial, sans-serif; fill: #526878; }
+      .sign-box { fill: #fffdf8; stroke: #314c60; stroke-width: 3; }
+      .occupied { fill: #f6e7bd; }
+      .asc-box { fill: #dceaf1; }
+      .sign { font: 700 25px Georgia, serif; fill: #a34c2d; }
+      .planet { font: 700 20px Arial, sans-serif; fill: #17374d; }
+      .empty { font: 20px Arial, sans-serif; fill: #9ba6ad; }
+      .center-title { font: 700 31px Georgia, serif; fill: #263f52; }
+      .center-subtitle { font: 19px Arial, sans-serif; fill: #566c7b; }
+      .cusp { font: 17px Arial, sans-serif; fill: #334f62; }
+      .legend { font: 17px Arial, sans-serif; fill: #5d6d78; }
+    </style>
+  </defs>
+
+  <rect width="1300" height="1330" fill="url(#background)"/>
+  <text x="650" y="58" text-anchor="middle" class="title">Bharath — Sidereal Bhava Chalit</text>
+  <text x="650" y="94" text-anchor="middle" class="subtitle">South Indian fixed-sign layout • KP-style Placidus bhavas</text>
+
+  <!-- Fixed-sign South Indian grid -->
+  <!-- Top row: Pisces, Aries, Taurus, Gemini -->
+  <rect x="110" y="140" width="270" height="270" class="sign-box occupied"/>
+  <text x="130" y="176" class="sign">Pisces</text>
+  <text x="130" y="224" class="planet">Mars 14°20′  · B1</text>
+  <text x="130" y="263" class="planet">Venus 16°42′ · B1</text>
+  <text x="130" y="302" class="planet">Ketu 29°38′  · B2</text>
+
+  <rect x="380" y="140" width="270" height="270" class="sign-box occupied"/>
+  <text x="400" y="176" class="sign">Aries</text>
+  <text x="400" y="235" class="planet">Mercury ℞ 12°32′ · B2</text>
+  <text x="400" y="278" class="planet">Sun 23°38′       · B2*</text>
+
+  <rect x="650" y="140" width="270" height="270" class="sign-box occupied"/>
+  <text x="670" y="176" class="sign">Taurus</text>
+  <text x="670" y="250" class="planet">Jupiter 13°46′ · B3</text>
+
+  <rect x="920" y="140" width="270" height="270" class="sign-box"/>
+  <text x="940" y="176" class="sign">Gemini</text>
+  <text x="1055" y="270" text-anchor="middle" class="empty">—</text>
+
+  <!-- Middle left/right: Aquarius/Cancer and Capricorn/Leo -->
+  <rect x="110" y="410" width="270" height="270" class="sign-box asc-box"/>
+  <text x="130" y="446" class="sign">Aquarius</text>
+  <text x="130" y="510" class="planet">Ascendant 17°18′</text>
+  <text x="130" y="549" class="planet">Bhava 1 cusp</text>
+
+  <rect x="920" y="410" width="270" height="270" class="sign-box occupied"/>
+  <text x="940" y="446" class="sign">Cancer</text>
+  <text x="940" y="525" class="planet">Saturn 17°03′ · B6</text>
+
+  <rect x="110" y="680" width="270" height="270" class="sign-box"/>
+  <text x="130" y="716" class="sign">Capricorn</text>
+  <text x="245" y="810" text-anchor="middle" class="empty">—</text>
+
+  <rect x="920" y="680" width="270" height="270" class="sign-box"/>
+  <text x="940" y="716" class="sign">Leo</text>
+  <text x="1055" y="810" text-anchor="middle" class="empty">—</text>
+
+  <!-- Bottom row: Sagittarius, Scorpio, Libra, Virgo -->
+  <rect x="110" y="950" width="270" height="270" class="sign-box occupied"/>
+  <text x="130" y="986" class="sign">Sagittarius</text>
+  <text x="130" y="1060" class="planet">Moon 23°59′ · B11</text>
+
+  <rect x="380" y="950" width="270" height="270" class="sign-box"/>
+  <text x="400" y="986" class="sign">Scorpio</text>
+  <text x="515" y="1080" text-anchor="middle" class="empty">—</text>
+
+  <rect x="650" y="950" width="270" height="270" class="sign-box"/>
+  <text x="670" y="986" class="sign">Libra</text>
+  <text x="785" y="1080" text-anchor="middle" class="empty">—</text>
+
+  <rect x="920" y="950" width="270" height="270" class="sign-box occupied"/>
+  <text x="940" y="986" class="sign">Virgo</text>
+  <text x="940" y="1060" class="planet">Rahu 29°38′ · B8</text>
+
+  <!-- Center panel -->
+  <rect x="380" y="410" width="540" height="540" fill="#eef3f3" stroke="#314c60" stroke-width="3"/>
+  <text x="650" y="458" text-anchor="middle" class="center-title">Bhava Cusps</text>
+  <text x="650" y="490" text-anchor="middle" class="center-subtitle">Planets remain in their sidereal signs; B# is operative bhava</text>
+
+  <text x="420" y="540" class="cusp">B1  Aquarius 17°18′</text>
+  <text x="420" y="574" class="cusp">B2  Pisces 22°37′</text>
+  <text x="420" y="608" class="cusp">B3  Aries 24°10′</text>
+  <text x="420" y="642" class="cusp">B4  Taurus 21°41′</text>
+  <text x="420" y="676" class="cusp">B5  Gemini 17°40′</text>
+  <text x="420" y="710" class="cusp">B6  Cancer 15°22′</text>
+
+  <text x="680" y="540" class="cusp">B7   Leo 17°18′</text>
+  <text x="680" y="574" class="cusp">B8   Virgo 22°37′</text>
+  <text x="680" y="608" class="cusp">B9   Libra 24°10′</text>
+  <text x="680" y="642" class="cusp">B10 Scorpio 21°41′</text>
+  <text x="680" y="676" class="cusp">B11 Sagittarius 17°40′</text>
+  <text x="680" y="710" class="cusp">B12 Capricorn 15°22′</text>
+
+  <line x1="430" y1="754" x2="870" y2="754" stroke="#9aabb3" stroke-width="2"/>
+  <text x="650" y="800" text-anchor="middle" class="center-subtitle">Key Chalit movements</text>
+  <text x="650" y="838" text-anchor="middle" class="cusp">Mars, Venus: D1 H2 → B1</text>
+  <text x="650" y="872" text-anchor="middle" class="cusp">Sun, Mercury: D1 H3 → B2</text>
+  <text x="650" y="906" text-anchor="middle" class="cusp">Jupiter: D1 H4 → B3</text>
+
+  <text x="650" y="1265" text-anchor="middle" class="legend">B# = operative Bhava Chalit house • *Sun is cusp-sensitive near the B3 boundary</text>
+  <text x="650" y="1295" text-anchor="middle" class="legend">Rahu remains B8; Ketu remains B2. Highlighted boxes contain planets or the ascendant.</text>
+</svg>
