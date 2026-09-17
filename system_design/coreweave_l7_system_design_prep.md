@@ -19,7 +19,10 @@ Useful public anchors:
 - CoreWeave rack-scale Vera Rubin infrastructure deep dive: https://coreweave.com/blog/a-deep-dive-on-coreweave-innovations-for-nvidia-vera-rubin-nvl72
 - Kubernetes scheduling framework: https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/
 - Kubernetes gang scheduling: https://kubernetes.io/docs/concepts/scheduling-eviction/gang-scheduling/
+- Kubernetes Dynamic Resource Allocation: https://kubernetes.io/docs/concepts/resource-management/dynamic-resource-allocation/
 - Kueue all-or-nothing with ready Pods: https://kueue.sigs.k8s.io/docs/tasks/manage/setup_wait_for_pods_ready/
+- Kueue Dynamic Resource Allocation quota management: https://kueue.sigs.k8s.io/docs/concepts/dynamic_resource_allocation/
+- NVIDIA GPU Operator DRA Driver for GPUs: https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/dra-intro-install.html
 
 How to use this:
 - In a 45 minute interview, do not recite every detail.
@@ -101,6 +104,7 @@ Important internal objects:
 - `JobAttempt`: monotonically increasing attempt id used for idempotent placement, reservation, binding, rollback, and audit.
 - `PlacementSet`: the atomic result of scheduling one job attempt. It maps each worker/rank to a node shape and resource reservation. For Kubernetes, the actual GPU device ids may still be assigned by the device plugin, but the scheduler reserves GPU counts and topology; for a tighter custom stack, it can reserve explicit GPU ids.
 - `Reservation`: temporary hold on GPUs, CPU, memory, local storage, quota, and network topology slots. It has a TTL and is released if binding or readiness fails.
+- `DeviceClaim`: runtime-facing claim for specialized devices when the cluster uses Kubernetes Dynamic Resource Allocation. It records the `DeviceClass`, claim template, count or capacity request, and attempt generation so quota accounting and device binding can be reconciled.
 - `JobState`: `Queued -> Candidate -> Reserved -> Binding -> Starting -> Running`, with failure exits to `Requeued`, `Failed`, `Preempted`, or `Cancelled`.
 
 Queue pickup should balance fairness, priority, and utilization:
@@ -220,6 +224,33 @@ Implementation details:
 This avoids the classic deadlock where job A owns 32 GPUs and waits for 32 more while job B owns the other 32 and waits for 32 more. The scheduler either gives a gang enough resources to start or gives it none. To preserve utilization, it can backfill smaller jobs only when they do not violate a reservation window or make an admitted higher-priority gang impossible.
 
 Recommended answer: use gang scheduling for tightly coupled training, plus reservation TTLs, readiness timeout, idempotent rollback, and conservative backfill into gaps while preserving reservation windows.
+
+#### Topic: Kubernetes DRA And Queue Quota
+
+Problem: GPU fleets increasingly need device classes, claim-level configuration, MIG or shared-device accounting, and secure multi-node GPU domains. A scheduler that only counts `nvidia.com/gpu` devices loses too much placement and quota detail.
+
+Options:
+
+- Device-plugin extended resources
+  - Pros: familiar Kubernetes resource syntax and simple quota accounting by GPU count.
+  - Cons: weak expression-based filtering, limited per-workload device configuration, and awkward modeling for partitioned or shared accelerators.
+- Dynamic Resource Allocation with `ResourceClaimTemplate`
+  - Pros: explicit `DeviceClass` selection, claim-scoped configuration, and better modeling for full GPU, MIG, and device-preparation workflows.
+  - Cons: queue admission and final device binding can diverge; claim templates and device classes must exist in every worker cluster.
+- DRA extended-resource compatibility
+  - Pros: lets existing `resources.requests` workloads move toward DRA-backed devices with less manifest churn.
+  - Cons: the platform must avoid double-counting quota and still explain the generated claims.
+
+Implementation details:
+
+- Map each tenant-facing accelerator SKU to one or more `DeviceClass` names, including full GPU, MIG, and shared-device classes.
+- Charge queue quota by device count for full GPUs, by published partition counters for MIG-like devices, and by requested consumable capacity for shared devices when the driver exposes those fields.
+- Require queue configuration to choose one accounting path for a device class: explicit claim-template mappings or DRA-backed extended resources. Mixing both makes quota attribution hard to explain and can double-charge or undercharge.
+- Treat Kueue-style workload admission as quota reservation, not proof that the concrete GPU has been allocated.
+- Use a binding timeout and readiness gate: if the Kubernetes scheduler or DRA driver cannot allocate and prepare every claim, evict the workload, release quota, and requeue the attempt.
+- Keep topology-aware scheduling conservative until the runtime can prove that DRA device accounting and topology assignments are consistent for the same attempt.
+
+Recommended answer: model DRA as a device-allocation contract below the queue scheduler. Use it for heterogeneous GPU SKUs, MIG, shared devices, and secure multi-node NVLink domains, while preserving all-or-nothing gang semantics and idempotent quota release.
 
 #### Topic: Utilization Versus Performance
 
@@ -1100,6 +1131,7 @@ Design placement logic that understands GPUs, NVLink, hosts, racks, network swit
 
 - Represent physical topology as a graph.
 - Accept placement constraints such as same node, same rack, same fabric, or storage-local.
+- Understand DRA `DeviceClass` and `ResourceClaim` constraints when Kubernetes allocates concrete GPUs after queue admission.
 - Score candidate placements.
 - Support gang allocation.
 - React to topology changes and failures.
@@ -1184,6 +1216,27 @@ Options:
   - Cons: requires prediction and policy.
 
 Recommended answer: account for future large-job demand and preserve contiguous topology islands when queue signals justify it.
+
+#### Topic: DRA Topology Accounting Gap
+
+Problem: Queue systems can admit a workload based on DRA quota before the Kubernetes scheduler has allocated the exact devices. If topology-aware scheduling assumes those future devices too early, it can produce incorrect rack, fabric, or GPU-island assignments.
+
+Options:
+
+- Treat DRA quota as topology capacity
+  - Pros: simpler queue admission and better apparent utilization.
+  - Cons: can overpromise locality because admission is not final binding.
+- Use Kueue topology-aware scheduling with DRA quota as-is
+  - Pros: reuses upstream queue and topology objects.
+  - Cons: current public docs call out that DRA resources are not accounted for in topology-aware scheduling capacity, so this combination can produce incorrect topology assignments.
+- Let the local scheduler own exact DRA binding
+  - Pros: reflects real device and node state at bind time.
+  - Cons: global queue decisions have less precise placement visibility.
+- Add a reservation shim above DRA
+  - Pros: stronger end-to-end placement contracts.
+  - Cons: more custom control-plane state and more conflict handling.
+
+Recommended answer: use DRA for device selection and claim preparation, but keep topology reservations explicit in the scheduler state. If exact DRA binding conflicts with the reserved topology, fail the attempt quickly, release quota, and retry from a fresh fleet snapshot.
 
 ---
 

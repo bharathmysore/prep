@@ -41,11 +41,20 @@ This index links all maintained Markdown docs in this workspace.
 - [Company And Position Specific Prep](./company_positions/README.md)
 - [Apple Coding Code Index](./company_positions/apple/apple_coding_code_index.md)
 - [Apple Elastic Disk Staff/Principal Top 20 Questions](./company_positions/apple/apple_elastic_disk_staff_principal_top_20.md)
+- [CoreWeave Staff Storage Engine: Seven-Day Intensive Tracker](./company_positions/coreweave/coreweave_staff_storage_engine_prep.md)
+
+## Prep Design And Implementation Records
+
+- [CoreWeave Storage Engine Prep Design](./docs/superpowers/specs/2026-09-15-coreweave-storage-engine-prep-design.md)
+- [CoreWeave Storage Engine Prep Tracker Implementation Plan](./docs/superpowers/plans/2026-09-15-coreweave-storage-engine-prep.md)
 
 ## Focused Areas
 
 - [Focused Areas](./focused_areas/README.md)
 - [Rate Limiters](./focused_areas/rate_limiters.md)
+- [Linux Storage Principal Ramp Tracker: NVIDIA / Excelero](./focused_areas/linux_storage_principal_ramp.md)
+- [Linux Storage Principal Ramp Exercises](./focused_areas/linux_storage_principal_exercises.md)
+- [USP and OCI Block Storage Project Evidence](./focused_areas/linux_storage_project_evidence.md)
 
 ## Coding Prep
 

@@ -8,6 +8,7 @@ Use this folder for prep packs that are tied to both a company and a role/team. 
 | --- | --- | --- |
 | Apple | Coding public-signal index | [Apple Coding Code Index](./apple/apple_coding_code_index.md) |
 | Apple | Elastic Disk Staff/Principal | [Apple Elastic Disk Staff/Principal Top 20 Questions](./apple/apple_elastic_disk_staff_principal_top_20.md) |
+| CoreWeave | Staff Storage Engine | [CoreWeave Staff Storage Engine: Seven-Day Intensive Tracker](./coreweave/coreweave_staff_storage_engine_prep.md) |
 
 ## Linking Rules
 

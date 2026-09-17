@@ -29,6 +29,7 @@ Pattern tags are mirrored from [questions](./questions.md); keep both directions
 | `monotonic-stack`, `histogram` | monotonic increasing stack | [questions](./questions.md): Q4 |
 | `monotonic-deque`, `sliding-window` | monotonic deque | [questions](./questions.md): Q5 |
 | `two-stacks`, `amortized-queue` | input stack plus output stack | [questions](./questions.md): Q6 |
+| `circular-buffer`, `backpressure`, `mutex` | fixed-capacity FIFO with explicit count and rejection on full; mutex-serialized MPMC variant | [questions](./questions.md): Q7 |
 
 ## L7 Follow-Ups
 

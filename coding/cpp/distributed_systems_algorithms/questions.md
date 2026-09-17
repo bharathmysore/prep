@@ -42,7 +42,7 @@ Pattern tags use kebab-case backtick labels and are mirrored in [patterns](./pat
 6. Implement leader election in a simplified term-based cluster model.
    - Expected pattern: monotonic terms, one vote per node per term, majority wins.
    - Pattern tags: `leader-election`, `term`.
-   - Solution: _Pending implementation in [solutions](./solutions.md)._
+   - Solution: [Simplified Term-Based Leader Election](./solutions.md#6-simplified-term-based-leader-election).
    - Complexity target: messages `O(N)` per election round, space `O(N)`.
 
 7. Implement Lamport timestamps for a set of send and receive events.

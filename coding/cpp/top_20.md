@@ -189,6 +189,8 @@ Use this file for short-list practice when there is not enough time to sweep eve
 
 ### NVIDIA
 
+Storage-ramp foundation (outside the ranked twenty): [Fixed-Capacity Circular Queue — single-threaded and thread-safe](./stacks_queues/solutions.md#7-fixed-capacity-circular-queue). Domain fit only; no public-frequency score is assigned, so the public-ranked lists remain unchanged.
+
 | Rank | Question | Category | Signal |
 | --- | --- | --- | --- |
 | 1 | [Search Rotated Sorted Array](./binary_search/solutions.md#2-search-rotated-sorted-array) | binary search | Public High (6m 95.8) |
@@ -355,13 +357,14 @@ Use this file for short-list practice when there is not enough time to sweep eve
 | 6 | [Single-Flight Duplicate Suppression](./concurrency/solutions.md#4-single-flight-duplicate-suppression) | concurrency | Domain High |
 | 7 | [Reusable Barrier](./concurrency/solutions.md#6-reusable-barrier) | concurrency | Domain High |
 | 8 | [Heartbeat Failure Detector](./distributed_systems_algorithms/solutions.md#4-heartbeat-failure-detector) | distributed systems algorithms | Domain High |
-| 9 | [Parallel Reduce](./parallel_algorithms/solutions.md#2-parallel-reduce) | parallel algorithms | Domain High |
-| 10 | [Thread Pool](./concurrency/solutions.md#2-thread-pool) | concurrency | Domain High |
-| 11 | [Readers-Writer Cache](./concurrency/solutions.md#5-readers-writer-cache) | concurrency | Domain High |
-| 12 | [Parallel Prefix Sum](./parallel_algorithms/solutions.md#3-parallel-prefix-sum) | parallel algorithms | Domain High |
-| 13 | [Parallel Top K](./parallel_algorithms/solutions.md#4-parallel-top-k) | parallel algorithms | Domain High |
-| 14 | [Parallel Map](./parallel_algorithms/solutions.md#1-parallel-map) | parallel algorithms | Domain High |
-| 15 | [Delayed Job Scheduler](./systems_style/solutions.md#1-delayed-job-scheduler) | systems style | Domain High |
-| 16 | [Config Snapshot Manager](./systems_style/solutions.md#4-config-snapshot-manager) | systems style | Domain High |
-| 17 | [Quorum Read/Write Simulator](./distributed_systems_algorithms/solutions.md#3-quorum-readwrite-simulator) | distributed systems algorithms | Domain Medium |
-| 18 | [Vector Clock Comparison](./distributed_systems_algorithms/solutions.md#5-vector-clock-comparison) | distributed systems algorithms | Domain Medium |
+| 9 | [Simplified Term-Based Leader Election](./distributed_systems_algorithms/solutions.md#6-simplified-term-based-leader-election) | distributed systems algorithms | Domain High |
+| 10 | [Parallel Reduce](./parallel_algorithms/solutions.md#2-parallel-reduce) | parallel algorithms | Domain High |
+| 11 | [Thread Pool](./concurrency/solutions.md#2-thread-pool) | concurrency | Domain High |
+| 12 | [Readers-Writer Cache](./concurrency/solutions.md#5-readers-writer-cache) | concurrency | Domain High |
+| 13 | [Parallel Prefix Sum](./parallel_algorithms/solutions.md#3-parallel-prefix-sum) | parallel algorithms | Domain High |
+| 14 | [Parallel Top K](./parallel_algorithms/solutions.md#4-parallel-top-k) | parallel algorithms | Domain High |
+| 15 | [Parallel Map](./parallel_algorithms/solutions.md#1-parallel-map) | parallel algorithms | Domain High |
+| 16 | [Delayed Job Scheduler](./systems_style/solutions.md#1-delayed-job-scheduler) | systems style | Domain High |
+| 17 | [Config Snapshot Manager](./systems_style/solutions.md#4-config-snapshot-manager) | systems style | Domain High |
+| 18 | [Quorum Read/Write Simulator](./distributed_systems_algorithms/solutions.md#3-quorum-readwrite-simulator) | distributed systems algorithms | Domain Medium |
+| 19 | [Vector Clock Comparison](./distributed_systems_algorithms/solutions.md#5-vector-clock-comparison) | distributed systems algorithms | Domain Medium |

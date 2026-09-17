@@ -26,6 +26,8 @@ Use the top-20 focus index when time is short. Use the company focus index after
 
 ## Focused Areas
 
+- [Linux Storage Principal Ramp Tracker](../../focused_areas/linux_storage_principal_ramp.md) — timed C++/kernel C practice and [detailed lab specifications](../../focused_areas/linux_storage_principal_exercises.md).
+- [USP / OCI Block Storage Project Evidence](../../focused_areas/linux_storage_project_evidence.md) — connect the storage coding exercises to user-confirmed project areas without copying proprietary implementations.
 - [Rate Limiters](../../focused_areas/rate_limiters.md)
 
 ## Categories
@@ -49,5 +51,7 @@ Use the top-20 focus index when time is short. Use the company focus index after
 | Trees and tries | [patterns](./trees_tries/patterns.md) | [questions](./trees_tries/questions.md) | [solutions](./trees_tries/solutions.md) | [test cases](./trees_tries/test_cases.md) |
 
 ## Practice Rule
+
+Runnable queue exercise: [single-threaded header](./stacks_queues/circular_queue.h), [thread-safe header](./stacks_queues/thread_safe_circular_queue.h), [teaching solution](./stacks_queues/solutions.md#7-fixed-capacity-circular-queue), and [both test suites/run instructions](./stacks_queues/test_cases.md#7-fixed-capacity-circular-queue).
 
 For every solved question, include a short question explanation, company frequency tags, a link to external test cases, C++ code, explanation, invariants, time and space complexity, runtime optimizations, memory optimizations, edge cases to consider, and L7 follow-ups about scale, concurrency, failure, observability, and tradeoffs.

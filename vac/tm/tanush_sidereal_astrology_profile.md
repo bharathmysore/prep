@@ -1,6 +1,7 @@
 # Tanush — Vedic Sidereal (Lahiri) Astrology Working Profile
 
 **Compiled:** July 8, 2026  
+**Last technical correction:** September 10, 2026 — combustion audit clarified that both Mars and Mercury are combust by the classical Parāśara/Phaladīpikā degree limits.  
 **Birth data:** November 26, 2008, 4:33 PM IST, Bangalore, Karnataka, India  
 **Tradition:** Vedic Jyotiṣa only  
 **Methods required:** Parāśara, Bhava Chalit, Krishnamurti Paddhati (KP), and Bhrigu Nandi Nadi (BNN)  
@@ -125,6 +126,7 @@ Event recording must follow these rules:
 | TM-E005 | 2026–2027 college application and award cycle; exact dates unknown | Target / outcome pending | Seek scholarship or grant aid sufficient to cover tuition | User-supplied objective; no institution, application date, or decision date supplied | Outcome pending. Record each application, award decision, scholarship amount, and uncovered cost when supplied. |
 | TM-E006 | 2026–2027 college application cycle; exact dates and institutions unknown | Planned / outcome pending | Apply for undergraduate admission on a pre-med path and seek placement at a strong-fit university | User supplied the medicine interest and current Bothell, Washington home base on August 20, 2026; no institution, application date, or decision date supplied | Outcome pending. Record each named application, submission date, admission decision, scholarship package, enrollment choice, and any move from Bothell when supplied. |
 | TM-E007 | After undergraduate study; exact medical-school application and matriculation years unknown | Target / outcome pending | Pursue medicine and apply to medical school, potentially requiring a second educational relocation | User-supplied career interest on August 20, 2026; specialty, institutions, dates, and destination unknown | Outcome pending. Do not infer a medical-school acceptance, scholarship, destination, or move until concrete details are supplied. |
+| TM-E008 | “Lately,” reported September 9, 2026; exact onset unknown | Observed | Increased arguments between Tanush and his father; his father is speaking with him less regularly, and Tanush is having difficulty following parental instructions | User-supplied; relative time window only | Ongoing when reported. Exact onset, frequency, triggers, severity, and any later resolution have not yet been supplied. |
 
 Append new events using the next sequential `TM-E###` identifier. Do not delete prior entries merely because the outcome differs from an astrological forecast.
 
@@ -149,8 +151,8 @@ Append new events using the next sequential `TM-E###` identifier. Do not delete 
 | Ascendant | Aries 0°13′ | Ashwini 1 | 1 | Very close to sign boundary |
 | Sun | Scorpio 10°22′ | Anuradha 3 | 8 | Conjunct Mars and Mercury |
 | Moon | Libra 26°18′ | Vishakha 2 | 7 | Relationship-sensitive Moon |
-| Mars | Scorpio 13°16′ | Anuradha 3 | 8 | Ascendant lord in own sign |
-| Mercury | Scorpio 10°27′ | Anuradha 3 | 8 | About 5 arcminutes from Sun; deeply combust |
+| Mars | Scorpio 13°16′ | Anuradha 3 | 8 | Ascendant lord in own sign; 2°54′ from Sun and combust under the classical 17° Mars limit |
+| Mercury | Scorpio 10°27′ | Anuradha 3 | 8 | About 0°05′ from Sun; exceptionally deep combustion under the classical 14° direct-Mercury limit |
 | Jupiter | Sagittarius 27°18′ | Uttarashada 1 | 9 | Own sign; D1/D9 vargottama |
 | Venus | Sagittarius 22°26′ | Purvashada 3 | 9 | Conjunct Jupiter by sign |
 | Saturn | Leo 26°40′ | Uttara Phalguni 1 | 5 | Exactly at the nakshatra boundary to supplied precision |
@@ -158,6 +160,13 @@ Append new events using the next sequential `TM-E###` identifier. Do not delete 
 | Ketu | Cancer 18°52′ | Ashlesha 1 | 4 | Detachment from fixed emotional security |
 
 The supplied nakshatra and pada assignments are internally consistent with the supplied longitudes. Saturn is exactly on the Uttara Phalguni boundary at the one-arcminute precision supplied, so seconds of arc could change its nakshatra classification.
+
+### Combustion audit
+
+- Combustion is determined by longitudinal distance from the Sun, not merely by sharing its sign or house.
+- **Mars:** `13°16′ Scorpio − 10°22′ Scorpio = 2°54′`; therefore Mars is combust under the commonly used classical 17° direct-Mars limit.
+- **Mercury:** `10°27′ Scorpio − 10°22′ Scorpio = 0°05′`; therefore Mercury is exceptionally deeply combust under the commonly used classical 14° direct-Mercury limit.
+- The Sun is the source of combustion and is not itself described as combust. Mars retains its Scorpio sign dignity, rulerships, conjunctions, and aspects; combustion modifies its independent expression rather than deleting those strengths.
 
 ## 3. Calculation Conventions and Limits
 
@@ -192,8 +201,8 @@ The supplied nakshatra and pada assignments are internally consistent with the s
 
 ### Core synthesis
 
-- Mars, the ascendant lord, is strong in its own Scorpio but placed in the 8th. This favors depth, investigation, medicine or biology, surgery-related symbolism, crisis-solving, security, research, and work with hidden mechanisms. It also makes sustainable stress management more important than raw endurance.
-- Sun, Mars, and Mercury form an unusually concentrated Anuradha cluster. Mercury's near-exact combustion can manifest symbolically as quick, penetrating reasoning that becomes less accessible under evaluation pressure. It does not imply low intelligence; it suggests that performance conditions and emotional regulation materially affect expression.
+- Mars, the ascendant lord, is in its own Scorpio but only 2°54′ from the Sun and therefore combust by the classical degree rule. Own-sign dignity preserves substantial drive, depth, investigative capacity, and rulership strength, while combustion can make assertion more internalized, pressured, reactive, or difficult to express independently. The 8th-house placement favors investigation, medicine or biology, surgery-related symbolism, crisis-solving, security, research, and work with hidden mechanisms.
+- Sun, Mars, and Mercury form an unusually concentrated Anuradha cluster. Both Mars and Mercury are combust; Mercury's 0°05′ separation is especially extreme. Symbolically, penetrating reasoning and strong will may become less accessible or more reactive under authority, evaluation, or time pressure. This does not imply low intelligence or an ineffective Mars; performance conditions and emotional regulation materially affect how their strengths are expressed.
 - Jupiter rules the 9th and 12th and occupies its own Sagittarius in the 9th with Venus. This is the clearest protection in the chart for advanced education, mentors, international exposure, ethics, and recovery after setbacks.
 - Saturn rules the 10th and 11th and occupies the 5th. Career and gains are tied to disciplined learning, technical mastery, repetition, and delayed but durable competence.
 - Rahu in the 10th increases ambition, visibility, unconventional career paths, technology orientation, and sensitivity to status. Ketu in the 4th can correlate symbolically with relocation or a feeling that “home” is not entirely fixed.
@@ -477,6 +486,54 @@ The Moon at Libra 26°18′ is in Vishakha, ruled by Jupiter. Under standard Moo
 - Saturn–Venus is approximately a 2024–2027 sub-period.
 - October 4, 2025 falls extremely close to the calculated Saturn–Venus–Rahu/Jupiter boundary; minute-level Moon precision and convention choices can move the boundary by days.
 
+### Working Vimshottari timeline
+
+The tables below use the supplied Moon at Libra 26°18′, standard Moon-based Vimshottari proportions, and a 365.25636-day mean sidereal dasha year. Vishakha has 7°02′ of its 13°20′ span remaining, leaving 52.75% of Jupiter mahadasha, or approximately 8.44 years, at birth. Because the Moon is recorded only to the nearest arcminute, all boundaries carry approximately **±3.65 days** of uncertainty; software using a different dasha-year convention can differ further and must not be silently mixed with this table.
+
+#### Mahadasha sequence from birth
+
+| Mahadasha | Approximate start (IST) | Approximate end (IST) | Nominal duration |
+|---|---|---|---:|
+| Jupiter — birth balance | November 26, 2008 | May 6, 2017 | 8.44 years remaining |
+| Saturn | May 6, 2017 | May 6, 2036 | 19 years |
+| Mercury | May 6, 2036 | May 6, 2053 | 17 years |
+| Ketu | May 6, 2053 | May 6, 2060 | 7 years |
+| Venus | May 6, 2060 | May 6, 2080 | 20 years |
+| Sun | May 6, 2080 | May 7, 2086 | 6 years |
+| Moon | May 7, 2086 | May 6, 2096 | 10 years |
+| Mars | May 6, 2096 | May 8, 2103 | 7 years |
+| Rahu | May 8, 2103 | May 8, 2121 | 18 years |
+
+#### Saturn mahadasha antardashas
+
+| Antardasha | Approximate start (IST) | Approximate end (IST) |
+|---|---|---|
+| Saturn–Saturn | May 6, 2017 | May 9, 2020 |
+| Saturn–Mercury | May 9, 2020 | January 17, 2023 |
+| Saturn–Ketu | January 17, 2023 | February 26, 2024 |
+| **Saturn–Venus** | **February 26, 2024** | **April 27, 2027** |
+| Saturn–Sun | April 27, 2027 | April 8, 2028 |
+| Saturn–Moon | April 8, 2028 | November 8, 2029 |
+| Saturn–Mars | November 8, 2029 | December 18, 2030 |
+| Saturn–Rahu | December 18, 2030 | October 24, 2033 |
+| Saturn–Jupiter | October 24, 2033 | May 6, 2036 |
+
+#### Saturn–Venus pratyantardashas
+
+| Pratyantardasha | Approximate start (IST) | Approximate end (IST) |
+|---|---|---|
+| Saturn–Venus–Venus | February 26, 2024 | September 6, 2024 |
+| Saturn–Venus–Sun | September 6, 2024 | November 2, 2024 |
+| Saturn–Venus–Moon | November 2, 2024 | February 7, 2025 |
+| Saturn–Venus–Mars | February 7, 2025 | April 15, 2025 |
+| Saturn–Venus–Rahu | April 15, 2025 | October 6, 2025 |
+| Saturn–Venus–Jupiter | October 6, 2025 | March 9, 2026 |
+| Saturn–Venus–Saturn | March 9, 2026 | September 8, 2026 |
+| **Saturn–Venus–Mercury** | **September 8, 2026** | **February 19, 2027** |
+| Saturn–Venus–Ketu | February 19, 2027 | April 27, 2027 |
+
+On September 10, 2026, the nominal period is Saturn–Venus–Mercury. However, the ±3.65-day Moon-rounding uncertainty places the Mercury boundary anywhere from approximately September 4 to September 12, so the actual pratyantardasha on that date remains boundary-sensitive between **Saturn–Venus–Saturn** and **Saturn–Venus–Mercury** until the natal Moon longitude is available to arcseconds.
+
 ### Historical anchors supplied
 
 | Event | Supplied period label | Consistency finding |
@@ -510,3 +567,116 @@ For a higher-confidence astrological timing pass, preserve one canonical calcula
 7. Clearly dated life events without preassigned dasha labels, so rectification tests the chart rather than assuming the answer.
 
 Until those are available, use this file as the canonical **static natal and varga working profile**, with KP event verdicts and exact timing explicitly left open.
+
+## 21. Saturn and Mercury Mahadasha Comparative Reading — September 10, 2026
+
+This reading compares Saturn mahadasha, approximately May 6, 2017–May 6, 2036, with Mercury mahadasha, approximately May 6, 2036–May 6, 2053. Dates use the working mean-sidereal-year Vimshottari table above and retain approximately ±3.65 days of boundary uncertainty from the Moon longitude being rounded to one arcminute.
+
+### 1. Question and relevant houses
+
+The question concerns the two mahadashas' effects on learning, career, income, reputation, relationships, and well-being. The primary D1 houses are 3/5/6/8/10/11, supported by D10 for career, D24 for education, D9 for partnership and mature strength, and D6/D30 for symbolic adversity and resilience.
+
+### 2. Parāśara finding
+
+| Theme | Saturn MD | Mercury MD |
+|---|---|---|
+| Core role | Saturn owns houses 10 and 11 and occupies the 5th: education and disciplined intelligence are converted into career and gains. | Mercury owns houses 3 and 6 and occupies the 8th with Sun and own-sign Mars: skills and service are expressed through research, diagnosis, complex systems, competition, and transformation. |
+| Strength and friction | Saturn is in an enemy sign, so results tend to be slower and responsibility-heavy. Its aspect to its own 11th and Jupiter's aspect to Saturn favor durable gains and guidance. | Mercury is exceptionally combust, only 0°05′ from the Sun, but its dispositor Mars is strong in Scorpio. This supports penetrating analysis while making expression vulnerable to pressure, haste, pride, and overthinking. |
+| Education and career | Strong for credentials, repeated practice, medicine's long training path, and slow professional consolidation. D24 places Saturn with Jupiter, Mars, and Moon in the 10th; D10 places Saturn in the ascendant. | Strong for specialist practice, diagnosis, biomedical or technical research, consulting, writing, confidential judgment, and crisis-solving. D10 repeats Sun–Mercury in the 7th and strong Mars in the 8th; D24 repeats Sun–Mercury in the 8th. |
+| Money and recognition | Usually gradual: qualifications and scarce expertise precede stronger income. Reputation is more durable than sudden. | Potentially more mobile and productive, but the 8th activates taxes, grants, debt, insurance, shared resources, and abrupt changes. Recognition is more likely as an expert than as a celebrity. |
+| Relationships and well-being | Saturn aspects the 7th-house Moon: seriousness, reserve, sensitivity to criticism, and authority tension require deliberate repair. Main symbolic risks are chronic pressure, poor sleep, and achievement-based self-worth. | D9 puts Mercury in the 7th with Sun, Mars, and own-sign Venus: partnership can be constructive but communication cannot remain implicit. Main symbolic risks are cognitive overload, disputes, rushed documentation, and irregular routines. |
+
+Overall, Saturn MD is the apprenticeship and foundation phase; Mercury MD is the application, specialization, and professional-establishment phase.
+
+### 3. Bhava Chalit finding
+
+**Bhava Chalit verdict pending—verified Lahiri-sidereal Placidus cusp table unavailable.**
+
+The whole-sign placements above remain the working Parāśara layer. It is not yet possible to state whether Saturn or Mercury changes operational bhava in the cusp-based chart.
+
+### 4. KP finding
+
+**KP verdict pending—required cusp data unavailable.**
+
+Career and income require cusp significations for 2/6/10/11; higher education requires 4/5/9/11; partnership requires 2/7/11; and well-being requires 1/6/8/12. A mahadasha lord alone cannot certify a particular job, income level, marriage, medical outcome, admission, or date.
+
+### 5. BNN finding
+
+The locked chain is **Mercury as Intellect → Mars-driven investigation → Saturn as Karma → Jupiter as Jīva**. Saturn in the 5th disciplines talent and connects it to profession and gains; strong Jupiter in the 9th with Venus supplies knowledge, mentors, ethics, and purpose. In Saturn MD, the emphasis is repeated discipline becoming formal expertise. In Mercury MD, the accumulated expertise is deployed through analysis, communication, diagnosis, and complex problem-solving.
+
+### 6. Dasha finding
+
+#### Saturn antardashas
+
+| Period | Approximate dates | Reading |
+|---|---|---|
+| Saturn–Saturn | May 2017–May 2020 | Demanding foundation: routine, responsibility, endurance. |
+| Saturn–Mercury | May 2020–Jan 2023 | Analytical learning with pressure-sensitive communication and overthinking. |
+| Saturn–Ketu | Jan 2023–Feb 2024 | Pruning, detachment, and the need to simplify methods. |
+| **Saturn–Venus** | **Feb 2024–Apr 2027** | One of the better education, mentor, application, finance, and relationship phases; opportunity is supported, not guaranteed. |
+| Saturn–Sun | Apr 2027–Apr 2028 | Identity and authority restructuring; possible major educational transition. |
+| Saturn–Moon | Apr 2028–Nov 2029 | Home, relocation, emotional support, and partnership become prominent. |
+| Saturn–Mars | Nov 2029–Dec 2030 | Intense execution, research, clinical or technical exposure; manage conflict and burnout. |
+| Saturn–Rahu | Dec 2030–Oct 2033 | High ambition, global or unconventional institutions, public visibility, and volatility. |
+| Saturn–Jupiter | Oct 2033–May 2036 | Strong closing consolidation through mentors, advanced qualifications, ethics, and institutional support. |
+
+On September 10, 2026 the secure period is Saturn–Venus. The nominal PD is Saturn–Venus–Mercury from September 8, 2026, but the date remains boundary-sensitive with Saturn–Venus–Saturn because of the ±3.65-day uncertainty.
+
+#### Mercury antardashas
+
+| Period | Approximate dates | Reading |
+|---|---|---|
+| Mercury–Mercury | May 2036–Oct 2038 | Intellectual and professional reset; specialization, research, writing, and mental intensity. |
+| Mercury–Ketu | Oct 2038–Sep 2039 | Narrow specialization and pruning; avoid abrupt exits based only on temporary dissatisfaction. |
+| Mercury–Venus | Sep 2039–Jul 2042 | Constructive for alliances, income, relationship development, travel, and learning, with possible higher expenses. |
+| Mercury–Sun | Jul 2042–Jun 2043 | Leadership, visibility, publication, and authority tests. |
+| Mercury–Moon | Jun 2043–Nov 2044 | Patients or clients, public communication, partnership, home, and family become emotionally important. |
+| Mercury–Mars | Nov 2044–Nov 2045 | Very high procedural and research drive; productive but conflict- and burnout-sensitive. |
+| Mercury–Rahu | Nov 2045–May 2048 | Largest unconventional/global career expansion potential, paired with political, contractual, and reputational volatility. |
+| Mercury–Jupiter | May 2048–Aug 2050 | Strong for advanced expertise, teaching, licensing, publication, mentoring, and international work. |
+| Mercury–Saturn | Aug 2050–May 2053 | Culmination through senior responsibility, institutional authority, mentoring, and durable recognition. |
+
+### 7. Transit finding
+
+Transit dates below are Lahiri-sidereal sign phases; retrograde re-entry creates some disjoint windows. Node dates use mean-node calculations for transit planning, while the supplied natal node convention remains unspecified. Exact events require a fresh event-date ephemeris rather than using a multi-year range as a day-level prediction.
+
+**Current snapshot, September 10, 2026:** Saturn is retrograde in Pisces, Jupiter is in Cancer, Rahu is in Aquarius, and Ketu is in Leo. From Aries, these activate houses 12, 4, 11, and 5; from the Libra Moon they activate houses 6, 10, 5, and 11. Saturn therefore adds private effort, expense, institutional themes, and the need to protect sleep and routine. Jupiter in Cancer supports the educational/home base but is close to natal Ketu, so improvement may come through changing the environment or strategy rather than simply doing more. Rahu–Ketu can magnify goals while making confidence and focus fluctuate. Mercury's temporary transit through Virgo supports error diagnosis, structured revision, and health routines.
+
+**Remainder of Saturn MD:**
+
+- Saturn remains in Pisces through June 2, 2027, returns October 20, 2027–February 23, 2028, and emphasizes preparation, institutions, foreign links, expense control, and recovery routines. Its 10th aspect from late Pisces activates the natal Sagittarius Venus–Jupiter educational promise.
+- Saturn's Aries passages—June 2–October 20, 2027; February 23, 2028–August 8, 2029; and October 5, 2029–April 17, 2030—cross the 0°13′ ascendant soon after ingress. This marks a demanding independence, college, identity, and adult-routine reset and tests relationships from the Moon.
+- Saturn's Taurus phases—August 8–October 5, 2029 and April 17, 2030–May 30, 2032—concentrate on family speech, savings, debt, and financial responsibility. Its 7th aspect activates the natal Scorpio Sun–Mercury–Mars cluster, especially around 2030–31.
+- Saturn in Gemini, May 30, 2032–July 12, 2034, rewards writing, licensing, communication, technical skill, and sustained self-effort; its late-sign 7th aspect activates natal Venus and Jupiter.
+- Saturn in Cancer, July 12, 2034–August 27, 2036, restructures home and educational or professional footing, crosses natal Ketu, and opposes natal Rahu. Relocation or detachment from an old base is plausible, not certain.
+- Jupiter's especially relevant supportive passages are Cancer in 2025–27, Leo in 2026–28, Scorpio in 2030–31, Sagittarius in 2031–32, Capricorn in 2032–33, and Aries in 2035–36. These activate home/education, natal Saturn and merit, the Scorpio research cluster, the natal 9th-house Venus–Jupiter, the career axis, and the ascendant respectively.
+- Mean Rahu in Capricorn and Ketu in Cancer from December 5, 2026–June 23, 2028 produces a natal nodal return by sign; an exact 18°52′ return around mid-2027 is only conditional because the natal mean-versus-true-node convention is unknown. The symbolic emphasis is a career–home or relocation reset, not a guaranteed event.
+
+**Mercury MD:**
+
+- Mercury MD opens while Saturn is still in Cancer until August 27, 2036. Mean Rahu is also in Cancer from March 24, 2036–October 11, 2037, with Ketu in Capricorn over the natal Rahu sign. This is a **nodal opposition/half-return**, not a nodal return, and highlights the home–career axis at the MD transition.
+- Saturn enters Leo on August 27, 2036. The degree return to natal Saturn at 26°40′ Leo is approximately in late September 2038, near the Mercury–Mercury/Mercury–Ketu boundary. It concentrates accountability around creative output, education, leadership, and possibly children; it is distinct from Sade Sati.
+- For the Libra Moon, the traditional Sade Sati span begins when Saturn first enters Virgo on October 22, 2038 and ends when Saturn finally leaves Scorpio on December 7, 2046, with retrograde re-entries. Virgo phases emphasize work, routine, health maintenance, and expense control. Libra phases place Saturn over the Moon and intensify partnership, public, and emotional responsibility. Scorpio phases activate the natal 8th-house stellium and produce the deepest professional, financial, and psychological restructuring. This is a maturation cycle, not a guarantee of suffering.
+- During the Scorpio phase, Saturn reaches the natal Sun and Mercury near 10° around mid-December 2044 and natal Mars at 13°16′ around January 7–8, 2045. This closely activates the Mercury-MD lord and favors exacting research and mastery, while increasing the need for measured decisions, rest, financial controls, and professional review.
+- Saturn in Sagittarius, December 7, 2046–March 6, 2049, crosses natal Venus and Jupiter and can consolidate advanced qualifications, teaching, ethics, and international or institutional work.
+- Saturn's Capricorn passages begin March 6, 2049 and continue, with a 2049 retrograde interruption, until approximately February 24, 2052. Crossing natal Rahu in the 10th brings peak career accountability, status tests, and the need to avoid overreach.
+- Saturn remains in Aquarius from approximately February 24, 2052 through the May 2053 end of Mercury MD, closing the period with networks, institutional gains, mentoring, and long-range objectives.
+- Jupiter's strongest broad growth triggers during Mercury MD include Leo in 2038–40, Libra in 2040–42, Scorpio in 2042–43, Sagittarius in 2043–44, and later passages through Aries and the 2nd/3rd/4th houses. These can expand education, partnership, research, teaching, identity, income, skill, or home themes, but only the concurrent AD/PD and exact-degree transit can time an event.
+- The second mean-node return by sign—Rahu in Capricorn and Ketu in Cancer from July 12, 2045–January 29, 2047—overlaps Mercury–Rahu. An exact degree return is roughly early 2046 only if the natal nodes are also mean nodes. It can amplify a career, institution, or residence pivot while increasing political, contractual, and reputational volatility. Rahu's later Scorpio passage, August 17, 2048–March 6, 2050, reactivates the natal Sun–Mercury–Mars research cluster during Mercury–Jupiter.
+
+Long-range transit windows are based on the Astrodienst Swiss Ephemeris Lahiri tables; current positions use the September 10, 2026 Lahiri snapshot. Exact ingress and conjunction dates must be recalculated for the event being judged.
+
+### 8. Reconciliation
+
+Parāśara, D10, D24, and BNN agree on a path from disciplined learning to deep specialist contribution. Saturn's 10th/11th lordship and Mercury's 3rd/6th lordship connect both MDs to productive work, while the Scorpio cluster repeatedly favors medicine, diagnostics, research, forensics, or similarly complex systems. The main tensions are Saturn's slow, pressure-heavy delivery and Mercury's extreme combustion. Jupiter and strong Mars mitigate these issues but do not erase them. Bhava Chalit and KP remain unverified, so no exact external outcome is certified.
+
+### 9. Conclusion
+
+- **Saturn MD:** strong for education, credentials, endurance, and durable career foundations; moderate for ease and quick recognition; mixed for emotional comfort and authority relationships.
+- **Mercury MD:** strong for research, medicine or technical specialization, consulting, communication, and expertise-based reputation; moderate-to-strong for income with careful handling of debt, tax, grants, and shared resources; mixed for mental calm and conflict-free relationships.
+- The most sensitive Mercury-MD transit sequence is the late-September-2038 Saturn return followed by Sade Sati from approximately October 22, 2038–December 7, 2046. It should be treated as a long professional and emotional maturation phase, not as inevitable misfortune.
+- Overall pattern: **Saturn builds the qualification; Mercury monetizes and communicates the expertise.** Real education, career, relationship, financial, and medical decisions must remain evidence-led.
+
+No new concrete life event was supplied in this query, so no Event Ledger row was added.
+
+**Transit references:** [Astrodienst Sidereal Ephemeris Files (Lahiri)](https://www.astro.com/swisseph/sweph_sla_r.htm); [September 10, 2026 Lahiri planetary positions](https://www.kalmanas.com/planetary-positions-today).

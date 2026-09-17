@@ -196,3 +196,28 @@ Snippets assume C++17 standard headers and `using namespace std;`. These are sin
 * **Optimizations**: Runtime: sparse maps for active nodes. Memory: prune inactive members with epochs.
 * **Edge Cases To Consider**: Equal clocks, before/after, concurrent clocks, different vector lengths.
 * **L7 Follow-ups**: Vector clocks identify concurrency but do not resolve conflicts by themselves.
+
+## 6. Simplified Term-Based Leader Election
+
+* **Pattern / Idea**: Monotonic terms, one durable vote per node per term, and a majority to become leader.
+* **Company Frequency Tags**: Public signal: none in reviewed public CSVs; Domain fit: `CoreWeave: High`.
+* **Question**: Implement a single-process simulation of term-based leader election and fence a former leader's write.
+* **Test Cases**: [Test cases](./test_cases.md#6-simplified-term-based-leader-election).
+* **C++ Code**: [Implementation](./leader_election_simulator.cpp) and [public API](./leader_election_simulator.h); [executable tests](./leader_election_simulator_test.cpp).
+
+  ```bash
+  c++ -std=c++17 -Wall -Wextra -Werror leader_election_simulator.cpp \
+      leader_election_simulator_test.cpp -o leader_election_simulator_test
+  ./leader_election_simulator_test
+  ```
+
+* **Code Explanation**: `currentTerm` and `votedFor` model durable state; role, leader identity, and collected votes are volatile. Elections persist a self-vote before issuing vote requests. A response whose term is older than the candidate's current term is discarded. Directed links model partitions, and write acceptance requires both the recipient and sender to agree on the current leader term.
+* **Invariants**:
+  - A node never grants votes to two different candidates in one term.
+  - A candidate becomes leader only after a strict majority of unique votes in its current term.
+  - A higher term demotes a node and clears only its volatile election state.
+  - A replica rejects writes whose term is not its current term or whose sender is not the leader for that term.
+* **Complexity**: An election sends at most `O(N)` vote requests; node state is `O(1)` plus the candidate's `O(N)` vote set; the simulator stores `O(N + E)` state for nodes and directed blocked links.
+* **Optimizations**: Runtime: stop vote fanout after a majority in a real implementation, batch heartbeats, and use randomized timers. Memory: persist only term, vote, log/commit evidence, and compact membership configuration; do not retain unbounded vote history.
+* **Edge Cases To Consider**: Delayed responses, old-term heartbeats, duplicate vote responses, no-quorum partitions, restart after durable vote, membership changes, and a repair/write race with a newer generation.
+* **L7 Follow-ups**: This simulator does not implement a replicated log, durable device flush semantics, leases, membership joint consensus, or real network delivery. In production, the acknowledgment point is a configured durable quorum, not an RPC or RDMA completion.

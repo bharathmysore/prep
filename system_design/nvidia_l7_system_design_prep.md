@@ -12,9 +12,12 @@ Useful public references:
 - NVIDIA Dynamo platform overview: https://developer.nvidia.com/dynamo
 - NVIDIA Dynamo architecture flow: https://docs.nvidia.com/dynamo/latest/design-docs/architecture-flow
 - NVIDIA GPU Operator: https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/index.html
+- NVIDIA GPU Operator DRA Driver for GPUs: https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/dra-intro-install.html
 - NVIDIA KAI Scheduler open-source overview: https://developer.nvidia.com/blog/nvidia-open-sources-runai-scheduler-to-foster-community-collaboration/
 - NVIDIA shared GPU tenant-cluster pattern with KAI Scheduler and vCluster: https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/
 - NVIDIA DCGM health monitoring: https://docs.nvidia.com/datacenter/dcgm/latest/learn/modules/health-monitoring.html
+- Kubernetes Dynamic Resource Allocation: https://kubernetes.io/docs/concepts/resource-management/dynamic-resource-allocation/
+- Kueue DRA quota management: https://kueue.sigs.k8s.io/docs/concepts/dynamic_resource_allocation/
 
 For L7, the interviewer is testing whether you can turn an ambiguous infrastructure problem into a durable architecture, identify the highest-risk bottleneck, explain tradeoffs, and propose an execution path that multiple teams could operate.
 
@@ -1078,6 +1081,7 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
     * Minimize communication cost.
     * Support priority, preemption, and backfill.
     * Enforce queue guarantees, over-quota borrowing, reclaim, and consolidation to reduce fragmentation.
+    * Support DRA-style `DeviceClass`, `ResourceClaim`, and `ResourceClaimTemplate` allocation for full GPU, MIG, and shared-device policies where the cluster runtime supports it.
     * Explain scheduling decisions.
 
   * **Non Functional Requirements**
@@ -1145,6 +1149,12 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
         * Consumes passive DCGM health watches for PCIe, memory, thermal/power, NVLink, NVSwitch, ConnectX, and driver signals.
         * Filters hard-failed GPUs from new allocations, de-prioritizes warning GPUs for high-priority gangs, and requests active diagnostics only during safe prologue, epilogue, or maintenance windows.
         * Avoids treating a passive healthy result as proof that every subsystem passed an active stress test.
+      * **DRA allocation and quota bridge**
+        * Converts high-level accelerator requests into runtime-visible `DeviceClass` and `ResourceClaimTemplate` shapes when using Kubernetes Dynamic Resource Allocation.
+        * For NVIDIA GPU Operator deployments, treats the `GPUCluster` DRA path as separate from the legacy `ClusterPolicy` device-plugin path, with managed classes such as `gpu.nvidia.com`, `mig.nvidia.com`, and `vfio.gpu.nvidia.com`.
+        * Tracks whether quota is charged by device count, partition counters such as MIG capacity, or consumable capacity for shared devices such as time-slicing or MPS.
+        * Keeps scheduler admission separate from final device binding: queue admission says quota is available, while the Kubernetes scheduler and DRA driver still allocate and prepare the concrete device.
+        * Invariant: an admitted workload must either bind every required claim for the current attempt generation or be evicted/requeued before its quota reservation leaks.
 
   * **Deep dive topics and questions -> Explain the problem and suggest solutions**
     * Problem: optimal placement can be NP-hard at fleet scale, especially with gang scheduling and topology constraints.
@@ -1176,6 +1186,14 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
       * Consolidation improves fragmentation by moving jobs, but it can burn locality and user time if applied too aggressively.
       * Reclaim enforces inter-queue fairness when queues exceed fair share; preemption handles same-queue or priority inversions but has the highest user-visible cost.
       * Recommendation: use this order by default: allocate, consolidate within disruption budgets, reclaim from over-fair-share queues, then preempt lower-priority work with explicit audit and retry semantics.
+
+    * **DRA-backed GPU allocation**
+      * Dynamic Resource Allocation is useful when workload authors need device classes, attribute filtering, per-claim configuration, full GPU versus MIG selection, or secure multi-node GPU constructs without hard-coding vendor resource names everywhere.
+      * The scheduler must model a two-step flow: the queue layer admits the workload and charges quota, then DRA resolves concrete devices through `ResourceSlice` inventory, claim allocation, binding conditions, and device preparation.
+      * Operator design matters: DRA-based GPU clusters need their own install and upgrade workflow, CDI-compatible runtime setup, and telemetry attribution for `ResourceSlice`-backed allocations.
+      * The main tradeoff is sharper device semantics versus more places for admission and binding to diverge. If a claim cannot be prepared, the platform needs timeout-driven eviction, quota release, and idempotent retry.
+      * Preemption remains a caveat for DRA resources in upstream Kubernetes documentation: a higher-priority DRA workload may wait until a conflicting running workload releases the device. Treat preemption support as runtime-specific until verified.
+      * Recommendation: use DRA for heterogeneous GPU fleets, MIG, secure multi-node NVLink domains, and device-level configuration, but keep scheduler explainability around both quota admission and final claim binding.
 
 ---
 

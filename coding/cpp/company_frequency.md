@@ -302,6 +302,7 @@ Use this index to bias final-stage practice toward a target company while still 
 | Medium | Public | [Coin Change Minimum Coins](./dynamic_programming/solutions.md#2-coin-change-minimum-coins) | dynamic programming | all 38.4; source title: Coin Change |
 | Medium | Public | [Meeting Rooms II](./heaps_ordered_structures/solutions.md#4-meeting-rooms-ii) | heaps ordered structures | all 38.4; source title: Meeting Rooms II |
 | Medium | Public | [Min Stack](./stacks_queues/solutions.md#2-min-stack) | stacks queues | all 38.4; source title: Min Stack |
+| Medium | Domain | [Fixed-Capacity Circular Queue](./stacks_queues/solutions.md#7-fixed-capacity-circular-queue) | stacks queues | Editorial single-threaded and mutex-protected storage-queue foundation for the NVIDIA ramp; public frequency not assessed |
 | Medium | Domain | [Bounded Blocking Queue](./concurrency/solutions.md#1-bounded-blocking-queue) | concurrency | L7 domain fit; no exact public frequency in reviewed CSVs |
 | Medium | Domain | [Concurrent Token Bucket](./concurrency/solutions.md#3-concurrent-token-bucket) | concurrency | L7 domain fit; no exact public frequency in reviewed CSVs |
 | Medium | Domain | [Deadlock-Free Account Transfer](./concurrency/solutions.md#7-deadlock-free-account-transfer) | concurrency | L7 domain fit; no exact public frequency in reviewed CSVs |
@@ -500,6 +501,7 @@ Use this index to bias final-stage practice toward a target company while still 
 | High | Domain | [Thread Pool](./concurrency/solutions.md#2-thread-pool) | concurrency | L7 domain fit; no exact public frequency in reviewed CSVs |
 | High | Domain | [Consistent Hashing Ring](./distributed_systems_algorithms/solutions.md#1-consistent-hashing-ring) | distributed systems algorithms | L7 domain fit; no exact public frequency in reviewed CSVs |
 | High | Domain | [Heartbeat Failure Detector](./distributed_systems_algorithms/solutions.md#4-heartbeat-failure-detector) | distributed systems algorithms | L7 domain fit; no exact public frequency in reviewed CSVs |
+| High | Domain | [Simplified Term-Based Leader Election](./distributed_systems_algorithms/solutions.md#6-simplified-term-based-leader-election) | distributed systems algorithms | L7 domain fit; no exact public frequency in reviewed CSVs |
 | High | Domain | [Rendezvous Hashing](./distributed_systems_algorithms/solutions.md#2-rendezvous-hashing) | distributed systems algorithms | L7 domain fit; no exact public frequency in reviewed CSVs |
 | High | Domain | [Parallel Map](./parallel_algorithms/solutions.md#1-parallel-map) | parallel algorithms | L7 domain fit; no exact public frequency in reviewed CSVs |
 | High | Domain | [Parallel Prefix Sum](./parallel_algorithms/solutions.md#3-parallel-prefix-sum) | parallel algorithms | L7 domain fit; no exact public frequency in reviewed CSVs |

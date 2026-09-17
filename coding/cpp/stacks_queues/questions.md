@@ -42,3 +42,9 @@ Pattern tags use kebab-case backtick labels and are mirrored in [patterns](./pat
    - Pattern tags: `two-stacks`, `amortized-queue`.
    - Solution: [Queue Using Two Stacks](./solutions.md#6-queue-using-two-stacks).
    - Complexity target: amortized time `O(1)` per operation, space `O(n)`.
+
+7. Implement single-threaded and thread-safe fixed-capacity integer circular queues that reject overflow without overwriting existing values.
+   - Expected pattern: fixed array, wraparound indices, explicit occupancy count; one mutex around each complete operation for the MPMC variant.
+   - Pattern tags: `circular-buffer`, `backpressure`, `mutex`.
+   - Solution: [Fixed-Capacity Circular Queue](./solutions.md#7-fixed-capacity-circular-queue).
+   - Complexity target: `O(1)` queue work per operation, plus mutex wait in the thread-safe variant; `O(capacity)` storage and construction time.

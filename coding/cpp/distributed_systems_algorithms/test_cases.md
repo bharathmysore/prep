@@ -56,3 +56,16 @@ Concrete test cases live here so solution explanations stay focused on approach,
 | Happens-before | clock A `{x:1}`, B `{x:2}` | A < B. |
 | Concurrent | A `{x:2}`, B `{y:1}` | Return concurrent. |
 | Equal | same components | Return equal. |
+
+## 6. Simplified Term-Based Leader Election
+
+* **Question**: Implement a single-process term-based leader-election simulator.
+* **Solution**: [Simplified Term-Based Leader Election](./solutions.md#6-simplified-term-based-leader-election).
+
+| Case | Input / Scenario | Expected |
+| --- | --- | --- |
+| Delayed vote | Candidate advances from term 1 to 2 before a granted term-1 reply arrives | Reply is ignored; candidate remains follower in term 2. |
+| Stale heartbeat | Receiver is in term 2; former leader heartbeats in term 1 | Heartbeat is rejected; receiver does not restore the former leader. |
+| Partition | Five nodes divide into `{A,B}` and `{C,D,E}` | A cannot lead with two votes; C leads with three. |
+| Crash after self-vote | A persists term 1 and its vote, then restarts | A remains unable to vote for B in term 1. |
+| Former-leader write | B becomes leader in term 2 after A led term 1 | Replica rejects A's term-1 write and accepts B's term-2 write. |

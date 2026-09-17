@@ -36,6 +36,9 @@ This directory is a local workspace for L7 interview preparation, focused on clo
 
 - [Focused Areas](./focused_areas/README.md)
 - [Rate Limiters](./focused_areas/rate_limiters.md)
+- [Linux Storage Principal Ramp Tracker](./focused_areas/linux_storage_principal_ramp.md)
+- [Linux Storage Principal Ramp Exercises](./focused_areas/linux_storage_principal_exercises.md)
+- [USP and OCI Block Storage Project Evidence](./focused_areas/linux_storage_project_evidence.md)
 
 ## Current Coding Prep Files
 
@@ -55,6 +58,7 @@ This directory is a local workspace for L7 interview preparation, focused on clo
 - [Linked lists](./coding/cpp/linked_lists/patterns.md) ([questions](./coding/cpp/linked_lists/questions.md), [solutions](./coding/cpp/linked_lists/solutions.md), [test cases](./coding/cpp/linked_lists/test_cases.md))
 - [Parallel algorithms](./coding/cpp/parallel_algorithms/patterns.md) ([questions](./coding/cpp/parallel_algorithms/questions.md), [solutions](./coding/cpp/parallel_algorithms/solutions.md), [test cases](./coding/cpp/parallel_algorithms/test_cases.md))
 - [Stacks and queues](./coding/cpp/stacks_queues/patterns.md) ([questions](./coding/cpp/stacks_queues/questions.md), [solutions](./coding/cpp/stacks_queues/solutions.md), [test cases](./coding/cpp/stacks_queues/test_cases.md))
+  - Runnable [single-threaded circular queue](./coding/cpp/stacks_queues/circular_queue.h) and [tests](./coding/cpp/stacks_queues/circular_queue_test.cpp); [thread-safe circular queue](./coding/cpp/stacks_queues/thread_safe_circular_queue.h) and [concurrent tests](./coding/cpp/stacks_queues/thread_safe_circular_queue_test.cpp).
 - [Systems-style coding](./coding/cpp/systems_style/patterns.md) ([questions](./coding/cpp/systems_style/questions.md), [solutions](./coding/cpp/systems_style/solutions.md), [test cases](./coding/cpp/systems_style/test_cases.md))
 - [Trees and tries](./coding/cpp/trees_tries/patterns.md) ([questions](./coding/cpp/trees_tries/questions.md), [solutions](./coding/cpp/trees_tries/solutions.md), [test cases](./coding/cpp/trees_tries/test_cases.md))
 
