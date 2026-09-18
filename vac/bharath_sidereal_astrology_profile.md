@@ -1,8 +1,8 @@
 # Bharath — Sidereal Astrology Working Profile
 
 **Compiled:** July 8, 2026  
-**Last event update:** September 17, 2026  
-**Last analysis update:** September 17, 2026  
+**Last event update:** September 18, 2026  
+**Last analysis update:** September 18, 2026  
 **Primary methods:** Parāśara, Krishnamurti Paddhati (KP), Bhrigu Nandi Nadi (BNN), Jaimini, Aṣṭakavarga
 **Zodiac:** Sidereal only  
 **Working ayanāṁśa:** The supplied natal longitudes appear Lahiri/Chitrapaksha-like. The Bhava Chalit cusps are calibrated to the supplied sidereal ascendant.
@@ -1945,7 +1945,7 @@ This detailed table begins with Jupiter mahādaśā, the current MD, and runs th
 | Oct 2025 | Oracle RSUs vested | Referenced vest price was above $300 per share; vest-date documents and lot-level tax basis should be used for tax calculations | Jupiter–Saturn–Venus |
 | Nov/Dec 2025 | Apple full loop | Completed full loop | Jupiter–Saturn–Sun/Moon |
 | Early 2026 | SBA loan approved for wife’s business | $550K loan approved; current business lease runs through 2036 | Jupiter–Saturn |
-| Feb 2026 | Apple manager interview | Did not materialize | Jupiter–Saturn–Moon |
+| Feb 5, 2026 10:00–10:55 AM PST | Apple additional system-design interview with Swapnil | Added after the December Object Store panel; Apple declined on Feb 19. Outlook evidence identifies this as system design, not a manager interview. | Jupiter–Saturn–Moon |
 | Mar 11, 2026 10:00–11:00 PDT | Google screening 1 | Full-loop screening | Jupiter–Saturn–Mars–Rahu |
 | Mar 11, 2026 12:00–12:45 PDT | Google screening 2 | Full-loop screening | Jupiter–Saturn–Mars–Rahu |
 | Apr 23, 2026 11:00–12:00 PDT | Google design interview | Staff-targeted loop; later recruiter feedback described scores as L5-aligned | Jupiter–Saturn–Mars near Sun/Moon micro-boundary |
@@ -1956,7 +1956,7 @@ This detailed table begins with Jupiter mahādaśā, the current MD, and runs th
 | Jun 17, 2026 10:00–11:00 PDT | Apple coding screen | Second Apple 2026 loop | Jupiter–Saturn–Rahu–Saturn |
 | Jun 24, 2026 1:10 PM PDT | First Google Staff-labelled team-fit email | Did not proceed to manager conversation because the position required California location; not an offer or completed match | Jupiter–Saturn–Rahu–Saturn |
 | Jun 26, 2026 2:54–2:59 PM PDT | Google Sunnyvale constraint and continued-search exchange | Recruiter confirmed Sunnyvale was a hard requirement and recommended continuing the search for other teams. Bharath declined relocation, reaffirmed interest in Kirkland/Seattle infrastructure, cloud, or storage teams, and proposed syncing the following week about local options. | Jupiter–Saturn–Rahu–Saturn |
-| Jul 1, 2026 1:05–2:05 PM PDT | Apple design screen | Second Apple 2026 loop | Jupiter–Saturn–Rahu–Mercury |
+| Jul 2, 2026 1:35–2:35 PM PDT | Apple design screen with Ilker | Latest Outlook confirmation and Bharath's sent acceptance supersede the earlier Jul 1 invitation; retain Jul 1 only if separate attendance/calendar evidence proves another final change. | Jupiter–Saturn–Rahu–Mercury |
 | Jul 8, 2026 2:51 PM PDT | Apple rejection | Other applicants selected for business-needs alignment; role treated as closed | Jupiter–Saturn–Rahu–Mercury |
 | Jul 9, 2026 | Oracle RSU position reviewed | Reported vested ORCL holdings more than 50% below the October 2025 vest value above $300 per share; exact basis remains subject to lot-level records | Jupiter–Saturn–Rahu–Mercury |
 | Jul 10, 2026, approximately 9:00 PM PDT | Google referral and prospective sponsorship follow-up | Former colleague said his current contact had no L6 headcount but would keep watching. He also planned to contact a former Microsoft manager with whom Bharath worked from January through June 2016; Bharath is not currently in touch with that manager, now a Principal Engineer at Google. Both remain prospective referral/sponsorship paths, with no active team match identified. | Jupiter–Saturn–Rahu–Mercury |
@@ -2976,3 +2976,590 @@ Recommended written clarification:
 Preserve the full uncropped conversation with the contact header/number and device date/time, the original phone thread, call log and contemporaneous notes from the 8:30 call, the City request and acknowledgment with headers/timestamps, every CO and supporting record, a BuilderTrend export, and dated site photographs/work logs. The original should remain untouched; use copies for markup or distribution.
 
 Sources: [Washington Uniform Electronic Transactions Act](https://app.leg.wa.gov/RCW/default.aspx?cite=1.80&full=true), [RCW 39.04.360](https://apps.leg.wa.gov/rcw/default.aspx?cite=39.04.360), [Akhtar v. TTG](https://www.courts.wa.gov/opinions/pdf/838491.pdf), and [Cascade Civil Construction written-notice decision](https://www.courts.wa.gov/opinions/pdf/844652.pdf).
+
+## 55. Why the Carney Crisis Is Surfacing Now
+
+The planets did not cause Carney's conduct. The immediate real-world cause is a breakdown in project governance and change control at the most leverage-sensitive stage of construction. Scope questions, field directions and added costs were apparently not documented and resolved when they arose; final inspection and C-of-O dependence now make a work stoppage unusually expensive to Smash District; City clarification challenges whether claimed items are owner extras, original-scope/code obligations or contractor corrections; and the reversal between the 8:30 understanding and the 10:14 text suggests an internal escalation or a higher-authority decision to use suspension as negotiating pressure. The halt does not itself establish that the COs are valid or payable.
+
+Astrology describes why these unresolved themes are peaking now:
+
+- **Natal Parāśara structure:** Aquarius lagna has exalted 4th/9th lord Venus in Pisces with 10th lord Mars and Ketu. This strongly links property/buildout, business execution, fortune and capital, but Ketu can make handoffs, scope, documentation and continuity irregular. When this group is stressed, the result can be missing records, rework, separation or sudden stoppage rather than loss of the underlying asset.
+- **Vimshottari:** Jupiter mahādaśā expands enterprise and seeks gains; Saturn antardaśā is the institutional gatekeeper governing contracts, compliance, delay, cash discipline and accountability. Jupiter pratyantardaśā/sūkṣma now brings the issue to City, inspector, contract or counsel review instead of allowing it to remain verbal. Jupiter under Saturn is protection through evidence, not effortless luck.
+- **Current Parāśara transits:** retrograde Saturn in Pisces crosses the natal Mars–Venus–Ketu construction/value chain, forcing old omissions, cost allocation and responsibility to be audited. Exalted Jupiter in Cancer/H6 activates natal Saturn and aspects Pisces; it can protect through official clarification, but H6 first manifests the contractor, debt, compliance and service-provider dispute.
+- **KP/Bhava Chalit:** Rahu H12 describes poorly visible or insufficiently supported expense; Ketu H6 describes withdrawal/interruption of service. Mercury/H7 emphasizes the counterparty and written contract, while Venus/H8 emphasizes shared or disputed liability. The 2/6/10/11 chain preserves earning and problem-solving capacity, but H8/H12 warns against blanket approval and leakage.
+- **BNN:** Saturn audits the Mars–Venus–Ketu construction/value/separation chain while Jupiter simultaneously activates it. Opportunity/protection and painful correction therefore occur together.
+- **Jaimini:** Jupiter on Cancer A10 places business authority and reputation before an institution, while Saturn requires evidence accepted by the counterparty or authority.
+- **Aṣṭakavarga:** Jupiter's five Cancer bindus provide individual protection, but Cancer SAV 23 and Saturn Pisces BAV 2 describe resistance and delay rather than voluntary concession.
+
+This is best interpreted as a **forced scope-and-cost audit**, not punishment, inevitable business failure or proof of permanent financial loss. Saturn can ultimately protect the balance sheet by forcing unsupported liabilities into the open—provided the response is contractual, documented and disciplined. Approving charges merely to end the pressure would express the adverse H8/H12 leakage side of the same period.
+
+The practical timing remains: Sep 17–30 for clarification and evidence; Sep 30–Oct 19 for the hardest institutional/cash-pressure phase; later October for revised documentation and negotiation; and late November through early December for the strongest conditional commercial repair or formal closure. These are symbolic planning windows, not guarantees.
+
+## 56. NVIDIA and CoreWeave Delay Assessment — September 17, 2026
+
+The Carney dispute does not causally delay NVIDIA or CoreWeave. Their recruiting calendars are independent. The same Jupiter–Saturn period can symbolically produce institutional friction across several areas, but the main practical spillover risk is Bharath losing preparation time, attention or interview availability to the franchise escalation.
+
+### NVIDIA JR2024421
+
+NVIDIA is already delayed for stated operational reasons—interviewer availability and Israel holidays. The named Principal requisition, substitute arrangement, named interviewer Jared Holzman and expansion to a 90-minute conversation remain constructive process-preservation signals, not evidence of rejection. Bharath replied with Sep 28-week availability on Sep 15 at 2:35 PM. On Sep 16 the coordinator said she was working to confirm Sep 30 and would send an updated confirmation. No final calendar confirmation or answer about live coding was present in Outlook as of Sep 20, so Sep 30 remains tentative rather than booked.
+
+- Most likely screen: **Sep 28–Oct 2**, with Sep 30 the strongest prior electional option.
+- Moderate delayed alternative: **Oct 5–16**.
+- If no calendar confirmation arrives by **Sep 21–22**, send one concise scheduling check.
+- If still unconfirmed by **Sep 24–25**, ask whether the Sep 28 week remains the target.
+- Planning bands, not employer statistics: interview held by Oct 2 approximately 55–70%; slipped beyond Oct 2 approximately 20–35%; stalled/cancelled before the screen approximately 10–20%.
+
+### CoreWeave Staff Engineer, Storage Engine
+
+CoreWeave is **not yet proven delayed**. The referred application was submitted Sep 15 at 3:12 PM. No recruiter or hiring-manager reply was present in Outlook as of Sep 20, so the channel remains at referral/application stage rather than screening stage.
+
+- Primary human-contact window: **Sep 21–25**, strongest Sep 23–24.
+- Secondary contact window: **Sep 28–Oct 2**.
+- Most plausible actual recruiter or hiring-manager screen: **Sep 29–Oct 9**.
+- Delayed backup: **Oct 13–15**.
+- Check with the referrer around Sep 23–24 only to confirm referral linkage/recruiter ownership. If there is no human outreach by Oct 2, follow up once. If there is no engagement by Oct 15, classify the application as stalled or low-conversion rather than indefinitely pending.
+
+### Astrological synthesis
+
+- **Jupiter–Saturn–Jupiter–Jupiter through approximately Sep 30:** favors referrals, scheduling and opening a channel.
+- **Saturn sūkṣma, Sep 30–Oct 19:** favors rigorous Staff/Principal evaluation but slower approval and more administrative friction.
+- **Mercury sūkṣma from Oct 19:** supports technical evaluation; Oct 19–23 remains the cleanest compact technical/full-loop interval. Mercury retrograde from Oct 24 and Venus retrograde from Oct 3 can produce revised schedules or additional rounds, but do not independently predict rejection.
+- **Nov 22–Dec 10:** strongest conditional fit, compensation and approval interval if either pipeline has matured.
+- **KP:** 2/6/10/11 supports employment progress, while 3/8/12 explains repeated communication, rescheduling and reassessment.
+- **Parāśara/D10 and BNN:** Jupiter supplies the opportunity while Saturn audits the evidence for senior scope.
+- **Jaimini:** Jupiter on A10 supplies visibility, while Saturn demands accepted proof.
+- **Aṣṭakavarga:** the strong gains/network background helps referrals, but weaker institutional factors make frictionless conversion unlikely.
+
+The correct conclusion is **some scheduling friction, especially at NVIDIA, but not a synchronized shutdown of both pipelines**. Protect fixed interview-preparation blocks and handle the contractor dispute through written or delegated channels wherever possible.
+
+## 57. Mental Stabilization and Interview-Protection Plan
+
+Mental strength in this phase does not mean feeling calm at all times. It means keeping behavior orderly while the nervous system is alarmed: no pressured approvals, angry messages, abandoned interview preparation or attempt to solve every external dependency simultaneously.
+
+### 57.1 Immediate five-minute reset
+
+1. Put both feet on the floor and breathe gently for five minutes, counting approximately five on the inhale and five on the exhale without forcing unusually deep breaths.
+2. State: **“The threat is real, but it is not the final outcome. I need only the next documented step.”**
+3. Divide one page into **facts, fears and next actions**. Facts include the Carney threat, disputed COs, pending City clarification, intact Oracle employment and active NVIDIA/CoreWeave channels. Fears are possible outcomes, not current facts. Next actions are the only items that receive calendar time.
+4. When rumination returns, ask: **“Is this a new fact or the same fear?”** Record a genuinely new fact; defer the same fear to a scheduled review period.
+
+### 57.2 Two-lane operating system
+
+- **Contractor lane:** check and respond at two defined daily windows, for example 12:15–12:45 PM and 4:30–5:00 PM. Interrupt interview preparation only for a site-safety issue, active inspection/site-access problem, or a legal deadline within 24 hours.
+- **Interview lane:** reserve a protected 90–120-minute morning block with phone and contractor notifications silenced. Divya, counsel or another designated person should monitor only for a true emergency during an actual interview.
+- Use one spokesperson and one evidence/note owner for the contractor matter. End each work session with one written next action and deadline so the brain does not need to keep rehearsing it.
+- Reserve one 20-minute worry/review period before dinner. Stop contractor and recruiting review at least one hour before bed.
+- Maintain regular meals, a 20–30-minute walk, consistent sleep/wake times and at least seven hours of sleep when possible. Avoid relying on alcohol to shut off stress.
+
+### 57.3 Interview preparation through September 30
+
+Until CoreWeave schedules a conversation, allocate preparation approximately **60% NVIDIA, 25% reusable storage material and 15% CoreWeave**. Produce only four core artifacts:
+
+1. A one-page requirement-to-experience map for each company.
+2. Six quantified Staff/Principal stories: architecture, performance, production incident, cross-team influence, disagreement/tradeoff and recovery of a troubled project.
+3. Two reusable storage diagrams: a distributed storage service for GPU clusters and a metadata/data-plane storage-engine design.
+4. One page of questions about charter, Principal/Staff scope, current bottlenecks and first-year success criteria.
+
+NVIDIA emphasis: Linux I/O path, block versus file, page cache/O_DIRECT, NVMe, asynchronous I/O/io_uring, concurrency, failure handling, GPU-cluster storage and performance diagnosis. CoreWeave emphasis: object/storage-engine metadata and data-plane separation, consistency, replication versus erasure coding, rebalancing, recovery, Kubernetes/CSI, NFS/FUSE, RDMA/GPU Direct Storage, multi-tenancy and observability.
+
+Conduct one 90-minute NVIDIA mock by Sep 23 and another by Sep 27, including résumé depth, system design/debugging, Principal-level influence and questions. Rehearse at the expected interview time on Sep 28, then taper: review diagrams and story prompts rather than late-night cramming.
+
+Immediately before an interview, silence contractor notifications, take five slow breaths with a longer exhale, and write the design sequence **requirements → scale → architecture → failure modes → tradeoffs**. If a contractor thought intrudes, put it on a parking-lot note and return to the current question.
+
+### 57.4 Astrological behavioral remedy
+
+Jupiter–Saturn–Jupiter is best handled behaviorally: **Saturn** through schedule, boundaries, documentation and patient repetition; **Jupiter** through counsel, mentors, learning and proportion; and the **Moon** through sleep, breath and emotional regulation. An optional short mantra or prayer may be used as a focusing cue, but it does not replace preparation, counsel or medical care.
+
+Seek support from a primary-care clinician or therapist if anxiety or insomnia persists, interferes with work/interviews, produces frequent panic or makes checking and rumination difficult to control. Urgent physical symptoms require medical evaluation; thoughts of self-harm require immediate crisis support, including calling or texting 988 in the United States.
+
+References: [NHS breathing exercise for stress](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/), [CDC mental-health and sleep guidance](https://www.cdc.gov/mental-health/living-with/index.html), and [NIMH coping guidance](https://www.nimh.nih.gov/health/topics/coping-with-traumatic-events).
+
+## 58. Remaining Jupiter–Saturn Timeline — As of September 17, 2026
+
+Approximately **120 days**, or about four months, remain in Jupiter mahādaśā–Saturn antardaśā. The working end is approximately **January 15, 2027**, when Jupiter–Mercury begins. The entire remainder is Jupiter–Saturn–Jupiter pratyantardaśā, which is more constructive than the preceding Rahu pratyantardaśā but remains filtered by Saturn's contracts, evidence, institutions, debt, duty and delay.
+
+This is the authoritative rounded sūkṣma sequence for current planning. Earlier tables using Sep 29 or Nov 5 endpoints should be read as the same approximate boundary bands, not as a different daśā calculation.
+
+| Approximate dates | Sūkṣma lord | Working interpretation |
+|---|---|---|
+| **Sep 13/14–30** | Jupiter | City/contract clarification, NVIDIA scheduling, CoreWeave recruiter possibility and opening channels; stronger for initiation than final closure. |
+| **Sep 30–Oct 19/20** | Saturn | Heaviest scrutiny and liquidity pressure; Carney CO audit/recovery plan; demanding Staff/Principal evaluation; slower approvals. |
+| **Oct 19/20–Nov 6** | Mercury | Technical interviews, written negotiation and reconciliation. Oct 19–23 is cleanest; Mercury retrograde after Oct 24 can produce revisions or rescheduling. |
+| **Nov 6–13** | Ketu | Weakest clean-conversion pocket: silence, pruning, missing evidence or impasse. Avoid pressured approvals and irreversible financial decisions. |
+| **Nov 13–Dec 3/4** | Venus | Relationship/value repair. Nov 22–Dec 3 is strongest for contractor compromise, team fit and compensation if prior work is complete. |
+| **Dec 3/4–10** | Sun | Authority and decision: manager/executive approval, formal terms, franchisor/inspector intervention. Completes the strongest Nov 22–Dec 10 closure band. |
+| **Dec 10–20** | Moon | Family, relocation, operating coverage and start-date decisions; more review than fresh momentum. |
+| **Dec 20–27** | Mars | Decisive but conflict-prone; useful for resolving one final issue, poor for rushed leverage or purchases. |
+| **Dec 27–Jan 15, 2027** | Rahu | Surprise reopening or changed role/location is possible, but terms can be unstable; more likely to carry a process into Jupiter–Mercury than produce a clean last-minute switch. |
+
+### Area-level outcome
+
+- **Franchise/Carney:** evidence gathering through September; maximum cash/accountability pressure around Sep 30–Oct 19; revised documentation later October; strongest conditional settlement or work-repair period Nov 22–Dec 10.
+- **NVIDIA/CoreWeave:** scheduling and screening first, followed by evidence-heavy evaluation. Oct 19–23 is strongest for technical/full-loop performance; Nov 22–Dec 10 is strongest for conditional fit, compensation and approval. An early-2027 implementation remains more plausible than an immediate switch.
+- **Oracle/income:** salary and scheduled vesting continuity are better supported than a major new 2026 income reset. A late-year offer would primarily affect 2027 forward compensation.
+- **Finance:** liquidity remains the most vulnerable area because of franchise carrying costs, SBA debt, disputed COs and possible relocation. Preserve reserves and postpone luxury commitments.
+- **Family/health:** stable but responsibility-heavy; shared business/relocation decisions and protection of sleep are essential.
+
+### Method synthesis
+
+- **Parāśara:** Jupiter protects opportunity and earning capacity; Saturn delivers through work, debt, compliance and delay.
+- **KP/Bhava Chalit:** 2/6/10/11 supports employment and income, while 8/12 produces disputed costs, reassessment, separation and relocation expense.
+- **BNN:** exalted Jupiter supports the natal career/value group while Saturn audits the same group; opportunity and pressure coexist.
+- **Jaimini:** A10 activation supports senior responsibility, but recognition requires accepted evidence.
+- **Aṣṭakavarga:** Jupiter provides individual opportunity, while weak Saturn bindus and low SAV in the relevant transit signs describe a resistant environment rather than effortless success.
+
+The base case for the remaining Jupiter–Saturn period is **career-pipeline development plus franchise and household stabilization**, with the best conditional decision interval in late November/early December and practical implementation more likely after Jupiter–Mercury begins. All low-level boundaries can shift by several days because the supplied natal Moon longitude is rounded to one arcminute; hour-level precision is not justified.
+
+## 59. Current Transit Impact on the Remaining Jupiter–Saturn Period — September 17, 2026
+
+Reference longitudes are Lahiri/Chitrapaksha sidereal positions for Seattle at approximately noon PDT on September 17, 2026. Mean nodes are used consistently with the working chart; true nodes remain in the same signs and nakshatras.
+
+| Transit | Sidereal position | Aquarius whole-sign house | Working Bhava Chalit delivery | Main activation |
+|---|---|---:|---:|---|
+| Sun | Virgo 0°40′ | 8 | 7 | Counterparties, authority, contract review and newly exposed facts |
+| Moon | Scorpio 18°58′ | 10 | 9 | Short-lived career intensity; not a multi-month timer |
+| Mars | Gemini 29°35′ | 5 | 5 | Interview performance and strategic action; enters debilitated Cancer around Sep 18 and later intensifies H6 competition/dispute |
+| Mercury | Virgo 17°20′ | 8 | 7 | Strong technical analysis and documentation, but combust and therefore vulnerable to pressured or misunderstood communication |
+| Jupiter | Cancer 22°53′ | 6 | 6 | Exalted employment/competition support, dispute resolution, career-house aspect and protection through advisers/evidence |
+| Venus | Libra 10°06′ | 9 | 8 | Own-sign mentor/fairness support delivered through shared money, contractor cost, debt and value negotiation |
+| Saturn | Pisces 18°21′ retrograde | 2 | 1 | Identity, health, compensation, liquidity and professional-value audit; close to natal Venus and Mars |
+| Rahu | Aquarius 4°11′ | 1 | 12 | Exit/relocation thinking, hidden process and expense |
+| Ketu | Leo 4°11′ | 7 | 6 | Employment filtering, contractor interruption and separation from unsuitable counterparties |
+
+### Integrated reading
+
+- **Central pattern — opportunity under audit:** exalted transit Jupiter activates the mahādaśā and current pratyantardaśā lord, Cancer A10, natal Saturn and the natal Pisces Mars–Venus–Ketu career/value group. Retrograde Saturn, the active antardaśā lord, simultaneously crosses that Pisces group. Real openings, referrals and protection can coexist with delayed level approval, demanding interviews, disputed costs and cash discipline.
+- **Parāśara:** Jupiter in H6 aspects the natal 10th sign Scorpio, Pisces H2 and Capricorn H12. It supports employment competition and a possible employer-exit process, but H6 first produces effort, screening, compliance and problem-solving rather than effortless promotion. Saturn in Pisces, whole-sign H2, restricts liquidity and tests whether compensation, property/business expenditure and family obligations are sustainable.
+- **KP/Bhava Chalit:** Jupiter has crossed the Cancer 15°22′ sixth cusp, confirming concrete H6 delivery. When Jupiter enters early Leo around Oct 31 it becomes H7 by sign, but remains below the Leo 17°18′ seventh cusp throughout this shallow first pass and therefore continues to operate through Chalit H6. Manager or agreement discussions may increase without an automatic signed contract. Rahu/Ketu remain on the Chalit H12/H6 exit–employment/dispute axis even as their signs later change.
+- **KP nakshatra link:** Jupiter in Ashlesha and Saturn in Revati are both in Mercury-ruled stars. Technical explanation, written evidence, resumes, contracts, cost backup and precise communication are the practical conversion mechanism. Mercury is strong in Virgo but combust, so written verification is safer than relying on verbal understandings.
+- **BNN:** Jupiter supports the same natal Pisces Mars–Venus–Ketu career, value and construction group that Saturn is auditing. This is an opening-plus-examination pattern, not a denial pattern or effortless windfall.
+- **Jaimini:** Jupiter activates Cancer A10 through late October, improving visibility and sponsor access. Saturn's connection to A10 and rāśi aspect to the Sagittarius Arudha Lagna make recognition institutionally slow and evidence-driven.
+- **Aṣṭakavarga:** Jupiter has five BAV bindus in both Cancer and Leo, but each sign has only 23 raw SAV points; Saturn has only two BAV bindus in Pisces. This supports personal opportunity inside a resistant environment.
+
+### Effect on active matters
+
+- **NVIDIA:** remains the strongest named Principal-level process. Mercury helps technical preparation, and Mars entering the employment/competition sector increases drive. Saturn makes current Linux/storage depth, measurable scale and Principal-level influence the decisive proof. Scheduling or evaluation can remain slow without implying rejection.
+- **CoreWeave:** the referral can produce recruiter movement through late September or early October; expect evidence-heavy screening rather than instant conversion.
+- **Google:** Jupiter can support a later new requisition, sponsor or reassessment conversation, but no transit overrides Google's actual L5 calibration. L6 requires a new approved evaluation route and accepted Staff-level signal.
+- **Carney/franchise:** Sun and Mercury emphasize the counterparty and hidden facts; Saturn audits the natal construction/value cluster; Mars entering Cancer can intensify confrontation. The constructive expression is City clarification, contract procedure, invoice support, responsibility allocation and a written recovery schedule. The adverse expression is reactive communication or blanket approval merely to end pressure.
+- **Finance:** Jupiter protects earning and problem-solving capacity more than it promises a windfall; it can also expand H6 debt or service obligations. Saturn keeps liquidity tighter than headline W-2 or equity value suggests. Preserve reserves while the franchise exposure is unbounded and do not base luxury purchases on an expected offer.
+- **Health/family:** the principal symbolic risks are accumulated stress, sleep disruption, irritability and financial tension, not a specific diagnosis. Saturn is Chalit H1 and the nodes are H12/H6, making routine, rest, delegation and medical care when warranted more important.
+
+### Transit-modified working windows
+
+| Window | Combined transit and daśā effect |
+|---|---|
+| **Sep 17–30** | Strongest for opening channels, scheduling, technical/document work and City/contract clarification. Mars enters Cancer around Sep 18, so use urgency constructively and avoid reactive escalation. |
+| **Sep 30–Oct 19/20** | Saturn sūkṣma plus retrograde Saturn near natal Venus/Mars produces the heaviest scrutiny, cost pressure and stop–go conditions. Useful for audit and proof; slower for approval. |
+| **Oct 19–23** | Cleanest compact technical-interview and written-negotiation interval before Mercury turns retrograde. Venus is still retrograde, so compensation or team-fit closure can lag. |
+| **Oct 24–Nov 13** | Mercury and Venus retrograde: revisions, extra rounds, rescheduling, changed terms and old disputes returning. Nov 6–13 remains the weakest clean-conversion pocket. |
+| **Nov 22–Dec 10** | Strongest conditional closure band after Venus is direct and back in Libra: better for team fit, compensation, contractor allocation, inspection or authority approval if the preparatory record is complete. |
+| **Dec 10–20** | Saturn turns direct around Dec 11 and Jupiter retrograde around Dec 13. Better for formalizing or reviewing an existing decision than launching a completely new process. |
+| **Dec 20–Jan 15** | Decisive but less stable, with year-end calendars and later Rahu sūkṣma. A changed role/location may reopen, but implementation is more likely to carry into Jupiter–Mercury. |
+
+**Net judgment:** the current transits strengthen movement, competition, investigation and senior-career visibility, but not immediate frictionless closure. The most defensible base case is pipeline development and franchise stabilization now, exacting review through mid-November, and the best conditional decision window from approximately November 22 through December 10. A late-2026 decision whose income and joining effect appears in 2027 remains more plausible than an immediate dramatic 2026 compensation reset.
+
+Astronomical references: [Drik Panchang Seattle sidereal positions](https://www.drikpanchang.com/planet/position/planetary-positions-sidereal.html?geoname-id=5809844), [2026 sidereal transit calendar](https://www.prokerala.com/astrology/gochar.html), [2026 Saturn motion](https://www.prokerala.com/astrology/shani-gochar.html), and [2026 Jupiter retrograde timings](https://www.drikpanchang.com/planet/retrograde/guru-retrograde-date-time.html?lang=en&year=2026).
+
+## 60. Oracle November 13–15 Layoff Concern — September 18, 2026 Audit
+
+### 60.1 Factual status
+
+Bharath reported hearing a rumor of another Oracle layoff around November 15. The currently verifiable Washington record does **not** establish a separate November selection round. Washington's official WARN registry lists a permanent Oracle America layoff affecting **359 Seattle workers**, with the notice received on **September 14, 2026** and the layoff start/effective date on **November 13, 2026**. Bharath separately reported that he was not affected by the September 14 notification. The November date therefore appears most likely to be the formal separation date for workers selected/notified in the September round, not proof that Oracle will choose a new group in mid-November.
+
+Further restructuring remains possible because Oracle has publicly disclosed ongoing restructuring actions, but no authoritative source reviewed as of September 18 establishes a distinct November 15 round, target organization, or employee list. Keep this item classified as **unconfirmed rumor / likely WARN-date confusion** unless separate evidence appears.
+
+References: [Washington ESD WARN registry](https://fortress.wa.gov/esd/file/WARN/Public/SearchWARN.aspx), [Washington WARN requirements](https://esd.wa.gov/employer-requirements/layoffs-and-employee-notifications/warn-requirements), and [Oracle Seattle filing summary](https://www.layofftracker.us/layoff-tracker/oracle-america-seattle-wa-nov-2026-layoffs/xByvKl).
+
+### 60.2 Daśā at the reported date
+
+The working Vimshottari sequence for November 15 is **Jupiter mahādaśā–Saturn antardaśā–Jupiter pratyantardaśā–Venus sūkṣma**, with Venus sūkṣma approximately **November 13–December 3, 2026**. The lowest-level boundaries can shift several days because the supplied natal Moon is rounded to one arcminute.
+
+- Jupiter rules natal 2/11 and occupies corrected D10 H11, preserving income, networks and alternative opportunities.
+- Saturn rules 1/12 and occupies natal H6, making institutional restructuring, employment filtering, delay and exit anxiety real themes.
+- Natal exalted yogakāraka Venus operates through Chalit H1; in corrected D10 it occupies H10 and rules H11. Its sūkṣma is more protective for status, terms, reassignment, compensation or an alternate channel than the immediately preceding Ketu sūkṣma.
+- The D10 9–10–11 career/gains circuit and KP 2–6–10–11 chain remain active. The period therefore does not justify a categorical prediction of termination.
+
+### 60.3 Sidereal transit overlay for November 15
+
+Approximate Lahiri positions for Seattle are: Sun Libra 28°44′; Mercury Libra 11°03′ newly direct; Venus Virgo 28°40′ newly direct and debilitated; Mars Leo 1°14′; Jupiter Leo 1°35′; Saturn Pisces 14°17′ retrograde; Rahu Aquarius 1°05′; and Ketu Leo 1°05′.
+
+Using Bharath's KP Bhava Chalit cusps rather than whole-sign houses:
+
+- Mars–Jupiter–Ketu in early Leo remain in **H6**, strongly activating employment, competition, service and organizational filtering.
+- Rahu in early Aquarius operates through **H12**, activating hidden decisions, separation anxiety, expense and exit planning.
+- Mercury and Venus operate through **H8**, describing HR/restructuring information, benefits, equity, severance or valuation uncertainty.
+- Saturn at Pisces 14° operates through **H1** and is almost exactly conjunct natal 10th-lord Mars at Pisces 14°20′, while also approaching natal Venus at Pisces 16°42′. This is a serious professional-value and workload audit.
+- Jupiter's presence in H6 is protective in competition even though the 6/8/12 axis makes November 12–18 volatile.
+
+The Mars–Jupiter–Ketu cluster peaks around November 15–16, and the Sun enters sidereal Scorpio around November 16. This can coincide with management decisions, reporting/scope changes or strong organizational news. It is not sufficient by itself to identify Bharath as an affected employee.
+
+### 60.4 Cross-method judgment
+
+- **Parāśara/D10:** strong institutional audit and restructuring pressure, but Jupiter/Venus and the corrected D10 career-gains circuit provide material protection.
+- **KP/Bhava Chalit:** the 6/12 employment-versus-exit axis is active and H8 adds HR/compensation uncertainty; however, 2/6/10/11 are not displaced by a dominant separation-only chain.
+- **BNN:** transit Saturn audits the natal Mars–Venus–Ketu career/value cluster. Jupiter–Mars–Ketu can produce abrupt redirection, but also a sponsor, reassignment or external opportunity.
+- **Jaimini:** Jupiter has left Cancer A10, reducing the unusually strong summer visibility support, while Saturn continues to pressure the Sagittarius Arudha Lagna. Jupiter in Leo still activates the Aries Amātyakāraka sign, so professional visibility remains under review rather than disappearing.
+- **Aṣṭakavarga:** Jupiter has five BAV points in Leo, providing personal protection inside a low Leo SAV environment of 23; Saturn has only two BAV points in Pisces, showing real restriction; Aquarius SAV 37 and Sagittarius SAV 33 support resilience and network/gains recovery.
+
+### 60.5 Working conclusion and preparation
+
+The chart shows an **elevated organizational-change window from approximately November 12–18**, but not a clean or reliable personal-layoff signature. Retention with changed scope, reporting line, workload or team is more defensible than predicting involuntary termination. If separation nevertheless occurs, Jupiter–Saturn–Jupiter–Venus is more compatible with severance/benefits and an alternate employment channel than with prolonged zero income.
+
+The sharper pruning/silence pocket is approximately November 6–13 under Ketu sūkṣma. November 13–21 is transitional because Mercury and Venus have only just turned direct and Venus remains debilitated. Approximately **November 22–December 3** is more constructive for clarification, reassignment, negotiated terms or an external opportunity after Venus returns to Libra. Saturn remains retrograde until approximately December 10–11.
+
+Practical response: do not resign or assume inclusion. Confirm whether any future report is a new notice or merely the November 13 effective date; keep performance/impact evidence current; understand vesting and severance/WARN terms; identify funded internal teams; and continue NVIDIA, CoreWeave and other external pipelines. Preserve only lawful personal employment records and never company confidential information or intellectual property.
+
+## 61. Possibility of Switching Companies in November–December 2026 — September 18, 2026
+
+### 61.1 Core judgment
+
+A company change can **materialize as a selection, written offer, negotiation or accepted offer in late November/early December 2026**, but completing the resignation, background checks and first day at the new employer before December 31 is not the base case. The stronger sequence is a mature interview process in October/early November, offer closure from approximately **November 28 through December 10**, notice/transition in December, and joining in **January–February 2027**.
+
+This forecast requires an actual hiring channel. As of September 18, NVIDIA is the strongest named Principal-level possibility, while CoreWeave becomes a second active pipeline only after recruiter or hiring-manager engagement. Google should not be counted as an L6 pipeline unless it formally opens a new Staff-level assessment route.
+
+### 61.2 Milestone windows
+
+| Milestone | Working window | Interpretation |
+|---|---|---|
+| Screening and pipeline maturation | Sep 18–Oct 19 | NVIDIA/CoreWeave must become manager-owned processes rather than referrals or scheduling activity alone. |
+| Full loop / technical decision | Oct 19–Nov 6; cleanest Oct 19–23 | Strong for technical proof; Mercury/Venus retrograde conditions can produce added rounds, rescheduling or revised scope afterward. |
+| Weak pruning/revision pocket | Nov 6–21 | Ketu sūkṣma, stationary Mercury/Venus and Saturn over natal Mars make this better for reassessment than a clean new commitment. |
+| Fit, compensation and due diligence | Nov 22–Dec 3; strongest Nov 28–Dec 3 | Venus is direct and in own-sign Libra; good for revived discussions, level, compensation, make-whole and confidential terms. |
+| Written decision / executive approval | **Dec 7–10** | Strongest compact closure window if a full loop is already complete. Transit Sun crosses the Chalit H10 cusp and the Sun sūkṣma activates authority and agreement themes. |
+| Secondary formalization | Dec 16–20 | Sun and Mercury operate through Chalit H10; useful for paperwork or clarification, but Jupiter is retrograde and year-end calendars slow execution. |
+| Resignation / transition | Dec 10–20, only after contingencies clear | More suitable for notice and start-date planning than beginning a new search. |
+| Most plausible first day | Jan–Feb 2027 | More likely than joining during November or December; a slower process can extend into spring 2027. |
+
+### 61.3 Cross-method analysis
+
+- **Parāśara and corrected D10:** Jupiter MD–Saturn AD–Jupiter PD activates the natal 2/11 income lords and the D10 H9–H10–H11 career/gains circuit. Saturn makes the result conditional on institutional review. Venus sūkṣma (approximately Nov 13–Dec 3) supports team fit and compensation; Sun sūkṣma (approximately Dec 3–10) supports authority approval or a written decision.
+- **KP/Bhava Chalit:** the 2–6–10–11 employment/income chain is active together with 8/12 restructuring and departure factors. However, transit Jupiter and Mars remain below the Leo 17°18′ H7 cusp and continue delivering through H6: competition, employment processing and screening are stronger than effortless contract completion. Transit Venus remains Chalit H8 until approximately Dec 26, favoring compensation, equity, benefits and transformation rather than an immediate uncomplicated start.
+- **BNN:** transit Saturn over the natal Pisces Mars–Venus–Ketu career/value group makes the change important but slow, with proof of senior scope and careful financial terms required. The exact Saturn–natal Mars contact around mid-November is better read as a career audit/redirection than as an automatic offer or termination.
+- **Jaimini:** Jupiter's unusually direct activation of Cancer A10 ends with its Leo ingress around Oct 31. Leo still activates the Aries Amātyakāraka sign, preserving professional visibility, while late Sun/Mercury Chalit-H10 movement restores decision emphasis in December. Recognition remains evidence-driven.
+- **Aṣṭakavarga:** Jupiter has five BAV points in Leo, but Leo has only 23 raw SAV points; Saturn has only two BAV points in Pisces. This describes real personal opportunity inside a resistant, slow institution.
+
+### 61.4 Transit audit
+
+Mercury turns direct in Libra on Nov 13; Venus turns direct in Virgo on Nov 13 and returns to own-sign Libra on Nov 22. The mean nodes enter Capricorn/Cancer on Dec 5 but remain on Bharath's Chalit H12/H6 exit-versus-employment axis. Saturn turns direct around Dec 10 and Jupiter turns retrograde around Dec 12. Therefore an already mature decision can close around **Nov 28–Dec 10**, especially **Dec 7–10**, while a process that begins only after Jupiter's station is more likely to carry into 2027.
+
+Approximate Chalit cusp crossings refine the timing: Mercury enters H9 around Nov 28 and H10 around Dec 16; the Sun crosses the Scorpio 21°41′ H10 cusp around Dec 7. These calculations use Lahiri daily ephemerides and are approximate to several hours.
+
+References: [2026 Lahiri sidereal ephemeris](https://cafeastrology.com/wp-content/uploads/2023/07/2026-Sidereal-Ephemeris.pdf), [planet station data](https://vedara.me/data/planet-stations), [Rahu/Ketu sidereal ingresses](https://vedara.me/data/rahu-ketu-sidereal-ingresses), and [Venus transit dates](https://www.prokerala.com/astrology/shukra-gochar.html).
+
+### 61.5 Conditional planning ranges
+
+These are scenario-planning ranges, not measured astrological statistics:
+
+- At least one Staff/Principal full loop by mid-November: approximately **40–55%** from the current pipelines.
+- At least one target-level written offer by Dec 31: approximately **15–30%** today; if a full loop is completed by Nov 15, approximately **30–45%**.
+- Accepted offer/resignation by Dec 31: approximately **10–25%**.
+- Actual new-employer start by Dec 31: approximately **5–15%**.
+- New-employer start by the end of February 2027: approximately **25–40%**, conditional on NVIDIA or CoreWeave reaching a substantive interview stage in October.
+
+If no full loop is scheduled by approximately Oct 23, a pre-Thanksgiving decision becomes unlikely. If no full loop is completed by Nov 15, the year-end written-offer probability falls below roughly 5–10%. If no written offer exists by Dec 4, a January or later start is the normal practical outcome because approvals, background checks and holiday calendars intervene.
+
+**Decision rule:** do not resign based on a forecast or on Oracle restructuring anxiety. Act only after receiving a written offer that confirms level, base/bonus/equity, location, reporting line and start date, and after all material contingencies are cleared. Compare the offer with the November Oracle RSU vest and request an appropriate make-whole if departure sacrifices earned compensation.
+
+## 62. Chart-Only Employer-Change and Job-Disruption Forecast — September 20, 2026
+
+This review deliberately ignores all current Google, NVIDIA, CoreWeave and other recruiting pipelines. It asks only when the natal chart, Vimshottari sequence and sidereal transits independently support a company change, and whether they show a distinct involuntary-layoff pattern.
+
+### 62.1 Core judgment
+
+The chart-only base case is **career pressure and organizational churn in late 2026, followed by a completed employer change in 2027**. Late 2026 can still produce a decision or agreement, especially approximately **November 22–December 10**, but without assuming an already mature recruiting process it is not the strongest window for actually leaving and joining another employer.
+
+The broad 2027 change band is approximately **May 12–November 14, 2027**. The cleanest complete-conversion phase is **September 7–November 14, 2027**, with the most concentrated contract/employer interval beginning after **September 17**.
+
+| Working interval | Most likely chart expression |
+|---|---|
+| Nov 6–18, 2026 | Reorganization, management news, scope/reporting change or pruning; pressure is clearer than personal termination. |
+| Nov 22–Dec 10, 2026 | Secondary decision, terms or agreement window; actual joining is more naturally carried into 2027. |
+| Jan 15–May 12, 2027 | Jupiter–Mercury begins: renewed communication, evaluation, compensation discussion and an accelerated path to change; cleaner after Jupiter turns direct Apr 12/13. |
+| **May 12–Jun 29, 2027** | Jupiter–Mercury–Ketu: the sharpest near-term separation trigger—resignation, team exit, reorganization or release from the old arrangement. |
+| **Jun 29–Sep 7, 2027** | Jupiter–Mercury–Venus: stronger valuation, title, compensation and fit; building toward a contract. |
+| **Sep 7–Nov 14, 2027** | **Strongest chart-only window for completing the employer change.** The nodes leave the Chalit 12/6 axis, Jupiter crosses the Chalit seventh cusp and Venus pratyantardaśā remains active. |
+| Nov 14, 2027–Apr 21, 2028 | Strong secondary period for formalization, joining, authority or career action if the main 2027 window runs late. |
+| Apr 21–Aug 23, 2028 | More volatile fallback: restructuring or an externally forced change is relatively more likely than in the 2027 Venus period. |
+
+The low-level Vimshottari boundaries are working dates and can move several days because the supplied natal Moon longitude is rounded to one arcminute.
+
+### 62.2 Exact Bhava Chalit transit refinement
+
+Local Swiss-Ephemeris calculations using the Lahiri ayanāṃśa and mean node give the following relevant crossings:
+
+- Jupiter re-enters Cancer retrograde on **January 24, 2027 PDT**, stations direct at Cancer 22°45′ on **April 12 PDT**, and re-enters Leo on **June 25 PDT**.
+- Transit Jupiter crosses Bharath's Chalit H7 cusp at **Leo 17°18′ on September 17, 2027 at approximately 8:16 PM PDT**. Before that instant it still delivers primarily through Chalit H6—employment, competition and processing. After it, the delivery shifts toward H7—employer, agreement and contract.
+- The mean Rahu/Ketu axis enters Capricorn/Cancer on **December 5, 2026**, but this sign change does **not** immediately change the Bhava Chalit result. Rahu remains H12 and Ketu H6 until approximately **September 7, 2027 at 1:27 PM PDT**, when Rahu crosses into Chalit H11 and Ketu into H5. This is a material change from exit/anxiety/service pressure toward gains, selection, strategy and recognition.
+- Saturn crosses the Pisces 22°37′ Chalit H2 cusp on **April 1, 2027 PDT**, then enters Aries on **June 2 PDT**. It remains in Chalit H2 rather than H3, making pay, savings, family obligations and the valuation of the next role serious considerations. Saturn retrogrades into Pisces again on **October 19 PDT** but stays above the H2 cusp.
+- Saturn's repeated audit of the natal Pisces career/value cluster is unusually precise: retrograde conjunction to natal Venus on **October 8, 2026**, retrograde conjunction to natal Mars on **November 13**, and direct returns to Mars on **January 6, 2027** and Venus on **February 8**. Saturn then conjoins natal Ketu near **May 29/30, 2027**, **October 24, 2027**, and **February 19, 2028**. These are separation/revaluation markers, but none alone distinguishes layoff from restructuring, resignation or transfer.
+
+These crossings explain why **September 18–November 14, 2027** is cleaner than merely saying “sometime in 2027”: the dasha, gains axis and contract house operate together. Jupiter's combustion ends around September 14/15, immediately before the H7 crossing.
+
+Astronomical cross-checks: [Jupiter Lahiri ingresses](https://vedara.me/data/jupiter-sidereal-ingresses), [Saturn Lahiri ingresses](https://vedara.me/data/saturn-sidereal-ingresses), [Rahu/Ketu Lahiri ingresses](https://vedara.me/data/rahu-ketu-sidereal-ingresses), [2027 Jupiter nakshatra timeline](https://vedicmarga.com/transit/jupiter/2027/), and [2027 Rahu nakshatra timeline](https://vedicmarga.com/transit/rahu/2027/).
+
+### 62.3 Cross-method basis
+
+- **Parāśara and Vimshottari:** Jupiter MD activates the natal 2nd/11th lord and protects earnings. Saturn AD, as 1st/12th lord placed in H6, produces institutional pressure, delay and exit anxiety but also the capacity to survive competition. Jupiter–Mercury from approximately Jan 15, 2027 activates Mercury's 5th/8th ownership and the income/communication zone, making employer transformation much more explicit. Jupiter–Mercury–Venus, approximately Jun 29–Nov 14, is the best value-and-career phase.
+- **Corrected D10:** Venus occupies H10 and rules D10 H11, Jupiter occupies H11, and 10th lord Mars occupies H9. This protects career continuity and favors a better-valued technical role. Mercury–Saturn–Ketu in D10 H2 and Rahu in H8 explain nonlinear title/pay recognition, restructuring and a potentially abrupt break with the old arrangement.
+- **KP and Bhava Chalit:** the 2–6–10–11 employment-and-income chain remains active while 8/12 supplies restructuring and separation. The 2027 node and Jupiter cusp crossings convert that mixed pattern into a clearer 11/7 gains-and-contract pattern. Exact KP event timing remains provisional because the cuspal sub-lords have not been independently birth-time rectified.
+- **BNN:** transit Saturn's repeated passage across natal Mars–Venus–Ketu in Pisces audits career, value and attachment to the existing employer. The Venus/Mars contacts from Oct 2026 through Feb 2027 explain compensation and workload pressure; the three Ketu contacts from May 2027 through Feb 2028 are the clearer detachment/reset pattern. Jupiter's Cancer protection and later Leo activation of natal Aries Sun–Mercury make redirection and a new professional identity more defensible than career collapse.
+- **Jaimini:** Moon Ātmakāraka and exalted Sun Amātyakāraka favor technically visible authority, while Saturn's connection with A10 makes recognition slow and institutionally verified. Jupiter revisits Cancer A10 from Jan 24 to Jun 25, 2027, then its Leo transit activates the Aries Amātyakāraka sign; this supports a staged process—visibility first, agreement later.
+- **Aṣṭakavarga:** Jupiter has five BAV bindus in Cancer and Leo, giving individual opportunity/protection despite their modest SAV totals of 23. Saturn's two Pisces BAV bindus confirm real resistance. Strong Aquarius SAV 37, Sagittarius 33 and Capricorn 32 support personal resilience, networks and eventual gains more strongly than an unbuffered employment loss.
+
+### 62.4 Layoff versus other disruption
+
+Astrology cannot reliably distinguish layoff from resignation, internal transfer, manager change or team reorganization. The chart does show disruption, but **not a dominant separation-only pattern or a strong signature of prolonged unemployment**.
+
+| Window | Role/reorg disruption | Personal involuntary-layoff indication | Prolonged income-gap indication |
+|---|---|---|---|
+| Oct 8–Nov 18, 2026; sharpest Nov 6–18 | Moderate–high | Low–moderate | Low |
+| Dec 27, 2026–Jan 15, 2027 | Moderate; surprise/reopening | Low–moderate | Low |
+| **May 12–Jun 29, 2027** | High; strongest separation period | Moderate | Low–moderate |
+| **Jun 29–Nov 14, 2027** | High but constructive transition | Low | Low |
+| Apr 21–Aug 23, 2028 | High/volatile | Moderate; highest later relative window | Low–moderate |
+
+Therefore the most defensible reading is **retention with changing scope/reporting in late 2026, followed by a controlled or quickly replaced employer exit during 2027**. If an involuntary separation occurs, Jupiter MD, the D10 H10/H11 protection and the subsequent Venus period support severance, benefits, reassignment or another income channel more than a long zero-income interval.
+
+This is symbolic timing, not a factual prediction of an employer's personnel action. Actual layoff exposure depends on funded work, management decisions, performance, geography and company finances. No resignation or financial commitment should be made from this forecast without a written offer and verified terms.
+
+## 63. Retrospective Job-Change Audit: Late 2025 and Early 2026
+
+### 63.1 Core judgment
+
+Late 2025 was a **genuine multi-pipeline senior external-opportunity and full-loop period**, but it was materially stronger for visibility, interviews and institutional evaluation than for a signed offer or completed employer change. The September–December email record shows Amazon screening interest, a Meta Production Engineering full loop, a Microsoft Principal screen, a Cloudflare Principal assessment and the Apple Object Store coding/design/full-panel sequence. Early 2026 shifted toward additional review, competition and filtering: Apple added one more system-design round, CoreWeave conducted a code screen and Meta applied a cooldown. None converted into a company change.
+
+| Period | Vimshottari sequence | Retrospective interpretation |
+|---|---|---|
+| May 31–Nov 1, 2025 | Jupiter–Saturn–Venus | Venus, exalted yogakāraka and D10 H10/H11 factor, created a credible senior opening. |
+| **Oct 18–Nov 23, 2025** | Venus ending; Jupiter–Saturn–Sun beginning | Strongest compact opportunity/full-loop visibility pocket. Jupiter briefly activated Cancer A10 and the exalted Sun Amātyakāraka supported senior evaluation. |
+| Nov 11–Dec 17, 2025 | Jupiter–Saturn–Sun; Jupiter retrograde | Strong interview/authority review, but increasingly revision-heavy; Jupiter returned to Gemini Dec 5. |
+| **Nov 26–Dec 31, 2025** | Sun, then Moon PD; transit Mars in Chalit H10 | Strongest direct career-evaluation/loop execution phase. Mars was combust and Jupiter/Mercury were retrograde during part of it, favoring review over closure. |
+| Dec 17, 2025–Mar 4, 2026 | Jupiter–Saturn–Moon | Manager fit, employment competition, networks and subjective evaluation; weaker for final contractual closure. |
+| **Jan 13–15, 2026 onward** | Moon PD; nodes cross Bhava cusps | Rahu/Ketu shifted from Chalit H1/H7 to H12/H6, changing candidate–employer engagement into hidden decisions, filtering, exit anxiety and competition. |
+| Mar 4–Apr 27, 2026 | Jupiter–Saturn–Mars | Renewed technical and career activity because Mars is the D1 and D10 10th lord; supportive for screens/loops, not yet a clean joining period. |
+
+### 63.2 Transit mechanism
+
+- Jupiter entered sidereal Cancer on **October 18, 2025**, stationed retrograde at only Cancer 0°56′ on **November 11**, returned to Gemini on **December 5**, and remained retrograde until **March 11, 2026**. Cancer is A10 and the whole-sign sixth from Aquarius, so this brief visit produced employment visibility. But Jupiter never reached the Cancer 15°22′ Bhava Chalit H6 cusp and therefore continued delivering through H5—merit, interview performance and selection—rather than concrete employment. Its retreat correctly describes an opportunity being reconsidered rather than stabilized.
+- Saturn remained in Pisces and stationed direct near 0°56′ Pisces on **November 28, 2025**. It was still Chalit H1 and only beginning the sign-level BNN audit of natal Mars–Venus–Ketu. This emphasized identity, valuation, institutional proof and delay rather than an immediate company exit.
+- Mean Rahu/Ketu occupied Aquarius/Leo. Until approximately **January 13–15, 2026**, they operated through Chalit H1/H7, activating candidate versus employer/team fit. Ketu in H7 allowed serious employer contact while weakening attachment or agreement completion. After crossing the Aquarius 17°18′/Leo 17°18′ cusps, Rahu moved to H12 and Ketu to H6, producing hidden decisions, competition and withdrawal rather than a clean H7 contract.
+- Transit Mars crossed the Scorpio 21°41′ Chalit H10 cusp around **November 26–27, 2025** and remained H10 until approximately **December 31**, directly energizing career evaluation. It then operated through H11 until approximately **February 4, 2026**, H12 until approximately **March 17**, and H1 afterward. Because Mars was combust from approximately Nov 7 through Mar 26, the sequence produced effort, interviews and review more reliably than a clean appointment. Jupiter's direct station on Mar 11, Mars crossing the ascendant around Mar 17 and the end of combustion around Mar 26 explain the renewed late-March/April technical momentum.
+
+Sidereal references: [Jupiter ingress dataset](https://vedara.me/data/jupiter-sidereal-ingresses), [Jupiter retrograde dates](https://vedicmarga.com/transit/jupiter/retrograde/), [Saturn station dataset](https://vedara.me/data/planet-stations), and [mean Rahu/Ketu ingress dataset](https://vedara.me/data/rahu-ketu-sidereal-ingresses).
+
+### 63.3 Cross-method explanation
+
+- **Parāśara/D10:** Jupiter MD supported income and gains; Saturn AD, as D1 1/12 lord in H6 and D10 7/8 lord in H2 with Mercury/Ketu, made the result dependent on institutional approval and introduced delay/discontinuity. Venus PD opened the senior opportunity; Sun PD activated the exalted D1 seventh lord and Amātyakāraka for formal external-employer evaluation; Moon PD activated employment competition and personal fit; Mars PD restarted technical-career action.
+- **KP/Bhava Chalit:** the 2–6–10–11 employment chain was present, but transit Jupiter remained H5 and the January node shift replaced H7 agreement emphasis with H12/H6 filtering. The period could deliver the interview process without delivering the contract. Exact KP sub-lord timing remains provisional without independent birth-time rectification.
+- **BNN:** Jupiter–Saturn activated the natal Saturn–Mars–Venus–Ketu career/value chain. Jupiter's brief Cancer activation of natal Saturn/A10 and its subsequent retreat describe a genuine opening that was reconsidered; Saturn in Pisces made proof, organizational fit and valuation the governing filters.
+- **Jaimini:** Sun PD activated exalted Amātyakāraka and Moon PD activated Ātmakāraka/Arudha themes. Jupiter occupied Cancer A10 only from Oct 18 to Dec 5, providing a sharp visibility trigger but not sustained appointment support. Saturn's relationship to Sagittarius Arudha Lagna maintained institutional gatekeeping.
+- **Aṣṭakavarga:** Jupiter had strong personal BAV support in Gemini (6) and Cancer (5), validating the opportunity. But Gemini, Cancer and Leo each had only 23 raw SAV points, while Saturn had only 2 BAV points in Pisces. Strong Aquarius SAV 37 and Sagittarius/H11 SAV 33 supported personal leverage, contacts and visibility more strongly than smooth employer conversion.
+
+### 63.4 Event mapping and comparison
+
+The Outlook record materially strengthens the conclusion that late 2025 was a high-activation interval. Meta advanced from screening to a November 20–21 full loop; Microsoft ran a Principal technical screen; Cloudflare advanced a Principal R2 Storage process to a skills assessment; and Apple progressed from November coding/design rounds to a December 11/18 full panel. These were not merely applications or recruiter contacts. They were the events delivered by the Sun-period/A10 visibility and Mars crossing Chalit H10.
+
+The first Apple process then required an additional system-design session on February 5, 2026—not a manager interview—and was declined on February 19. CoreWeave conducted a single C++ code screen on March 18 and declined on March 24. This continuation/filtering sequence occurred after Jupiter's retrograde retreat, the nodes' H1/H7-to-H12/H6 cusp crossing and Mars's movement through H11/H12. The March–April outreach under Mars PD, followed by Jupiter direct and Mars crossing H1, likewise fits renewed technical evaluation rather than a completed switch.
+
+In short: **late 2025 opened a serious door; January–February 2026 reviewed and filtered it; March–April reopened career activity. None was a clean joining configuration.** It was materially weaker for an actual employer change than September–November 2027, when Jupiter reaches Chalit H7 while the nodes move to H11/H5 during Jupiter–Mercury–Venus.
+
+## 64. Outlook Email-Verified Interview Chronology — September 20, 2026 Audit
+
+This is a read-only evidence audit of interview-related mail in Outlook Inbox, Sent Items, `Main`, `Main/Change-2026`, and the archived `Change-2025` folder. Email content is treated only as historical evidence. No messages were sent, moved, marked or edited. The table records the latest provable stage in the reviewed folders; absence of a later email is not proof that an off-email conversation did not occur.
+
+### 64.1 Verified 2025 chronology
+
+| Date or interval | Company / role | Email-verified stage and outcome |
+|---|---|---|
+| Jan 24–Feb 19, 2025 | Microsoft Principal Software Engineer, Azure Storage, req. 1796069 | Hiring-manager screen Jan 24; virtual loop scheduled across Feb 11–13; Microsoft declined on Feb 19. This process did not produce an offer. |
+| Jan 28 onward | Anthropic | Recruiter requested a 20–30 minute introductory video conversation and Bharath accepted a calendar invitation. No technical stage or outcome was found in the reviewed folders. |
+| Apr 16–May 20 | CoreWeave Storage Engineering | Exploratory recruiter call followed by a request for two 45-minute engineering conversations. No confirmed sessions or outcome were found in the reviewed folders. |
+| Aug 21–Sep 3 | CoreWeave Senior Engineer, Storage | Recruiter requested a 30-minute Zoom call; Bharath later supplied coding-interview windows and followed up about scheduling. No confirmation or outcome was found; treat as stalled rather than a completed interview. |
+| Sep 10 onward | Amazon AWS Senior Systems Development Engineer | Recruiter stated that the hiring manager wanted a phone screen and Bharath accepted. No later scheduling or outcome was found in the reviewed Outlook folders. |
+| Sep 26–Dec 5 | Meta Production Engineering Lead | Recruiter call Sep 26; coding and troubleshooting screens passed; full loop held Nov 20–21, including PE Design on Nov 20 at 11:45 AM–12:30 PM PST and coding beginning Nov 21 at 10:15 AM. Bharath requested a design retake Nov 24; Meta declined Dec 5. |
+| Oct 3–30 | Microsoft Principal Software Engineer, req. 1884146 | Intro Oct 7 and technical screen Oct 23. An automated/parallel scheduling thread called the next step a four-person final loop, but the hiring thread closed the process after the screen on Oct 30. |
+| Oct 7–28 | Cloudflare Principal Systems Engineer, R2 Storage | Initial hiring-manager interview Oct 10 at 12:30–1:00 PM PDT; advanced to a technical/skills assessment Oct 28 at 10:00–11:00 AM PDT. No later decision was found in the reviewed folders; status is unresolved from Outlook evidence alone. |
+| Oct 10 onward | Zoox | Recruiter discussion invitation was accepted. No subsequent technical stage or outcome was found in the reviewed folders. |
+| Oct 22, 2025–Feb 19, 2026 | Apple Senior Software Engineer, Distributed Storage/Object Store | Coding Nov 3 at 10:00–11:00 AM PST; system design Nov 13 at 10:00–11:00 AM; five-session full panel on Dec 11 (9:00–10:00, 10:00–11:00 and 12:00–1:00) and Dec 18 (10:00–11:00 and 11:30–12:30); one additional system-design round with Swapnil Feb 5, 2026 at 10:00–10:55 AM PST; Apple declined Feb 19. The February session was **system design, not a manager interview**. |
+
+### 64.2 Verified 2026 chronology
+
+| Date or interval | Company / role | Email-verified stage and outcome |
+|---|---|---|
+| Jan 20–Feb 10 | Meta Principal outreach | Recruiter call was scheduled for Feb 3, then rescheduled for a family reason. On Feb 10 Meta stopped the process because the prior interview created a 12-month cooldown; no interview occurred. |
+| Feb 4–Mar 24 | CoreWeave Senior Engineer, Storage Control Plane | Recruiter/HM interest; possible expanded scope was discussed but not guaranteed. A 60-minute live C++ screen occurred Mar 18 at 10:45–11:45 AM PDT. CoreWeave declined Mar 24 and provided no specific feedback. The temporary `Senior Engineer II, Storage` label was corrected as an ATS/scheduling error. |
+| Mar 25–Apr 8 | Uber Senior Staff L5B, Storage/Search/Data Platforms | Recruiter shared the Senior Staff role and held a recruiter call Apr 8. No technical round or later outcome appears in the reviewed folders. |
+| Apr 16–17 | Amazon EC2 Nitro / embedded systems | Recruiter outreach and role discussion based on C/C++/Rust/kernel experience. No interview was found in the reviewed folders. |
+| May 13–Jun 25 | CoreWeave Senior Software Engineer, Storage Engineer | Recruiter-screen invitations were issued and two calendar attempts were canceled/rescheduled. Bharath's last email requested fresh windows; no later response appears in the reviewed folders. Treat as dormant, not an active scheduled interview. |
+| May 29–Jul 8 | Apple Staff Software Engineer, ASE Storage Infrastructure | Hiring-manager introduction Jun 5 at 1:30 PM PDT; recruiter call Jun 11; coding Jun 17 at 10:00–11:00 AM PDT; system design ultimately confirmed for **Jul 2 at 1:35–2:35 PM PDT**; Apple declined Jul 8. This corrects the prior record of Jul 1 at 1:05 PM unless separate calendar or attendance evidence proves that the session was changed again. |
+| Aug 29 | Qualcomm | Recruiter outreach only; no interview stage in the reviewed folders. |
+| Sep 8 onward | NVIDIA JR2024421, Principal Block and File Storage Software Engineer, Linux—DGX Cloud | NVIDIA formally requested scheduling Sep 8. The original interviewer requested a mid-October delay; a substitute made it a 90-minute conversation with Jared Holzman. Bharath supplied Sep 28–30 availability. The latest Sep 16 email says NVIDIA is trying to confirm **Sep 30**; no final confirmation or answer on live coding was present as of Sep 20. |
+| Sep 14–15 onward | CoreWeave Staff Engineer, Storage Engine / Staff Software Engineer, Storage | Referral emails and two application-information requests were received. No recruiter or hiring-manager screen is present as of Sep 20; this remains a pre-screen referral/application channel. |
+
+### 64.3 Google evidence boundary
+
+The only Google-related career item found in Outlook was Bharath's December 19, 2025 resume/referral request to a contact; it was referral activity, not an interview. No substantive Google recruiting or team-match messages were present in the reviewed Outlook Inbox, Sent Items, `Main`, or `Main/Change-2026` records. The Google March/April interview loop, June team-match activity and August L5/L6 conversations remain user-reported events in this profile, but they cannot be independently verified from Outlook. They appear to reside in Bharath's Gmail account and should be audited there before using exact email timestamps as evidence.
+
+### 64.4 Corrected interpretation
+
+The email record rejects the idea that 2025/early 2026 was a quiet or opportunity-poor interval. Across 2025 the mailbox verifies at least three completed full-loop/panel processes—Microsoft Azure Storage in February, Meta in November and Apple in December—plus several additional screens and assessments. The repeated failure mode was **conversion after evaluation**, not lack of access to interviews. January–March 2026 was primarily continuation, extra-round scrutiny, cooldown/eligibility filtering and closure; March–April then reopened recruiter channels without producing a signed offer.
+
+For future astrological event matching, distinguish four milestones instead of treating every recruiter contact as a job-change event: **lead generated**, **technical evaluation**, **full loop or committee-level approval**, and **written offer/accepted switch**. The late-2025 signatures strongly delivered the first three categories but not the fourth.
+
+## 65. Outlook Archive Interview Chronology — 2021–2024 Audit
+
+### 65.1 Scope and evidence rules
+
+This is a read-only audit of every message in `XXX-Archive/explore/Change-2021` (256 messages), `Change-2022` (114), `Change-2023` (191), `Change-2024` (163), and the 41 direct-parent messages dated in 2021. Folder names are approximate rather than strict calendar boundaries. No messages were sent, moved, marked or edited.
+
+An interview is classified as **completed** only when a later email establishes attendance, advancement, feedback, debrief or a decision. A calendar invitation by itself is classified as **scheduled**. Company-authored offer and rejection messages take precedence over a candidate's statements to another recruiter. Absence of a later email means the result is unresolved from this archive, not that an off-email event could not have occurred.
+
+### 65.2 Offer events and important corrections
+
+| Process | Email-verified conclusion |
+|---|---|
+| Microsoft offer accepted before 2021 | Background clearance and onboarding continued in January 2021. Bharath withdrew January 30 because of immigration/AOS concerns; the manager said January 31 that Microsoft would rescind the accepted offer, and GTA processed the rescission February 2. Bharath did not join. This was the closeout of an earlier offer, not a new 2021 interview process. |
+| Microsoft Principal Software Engineer, Azure Cosmos DB Elasticity, req. 1020774 | Technical/HM screen August 3, four-interviewer final loop August 20, and an explicit offer by August 26. The archive verifies the Principal title and offer but contains no internal level, compensation, start date or disposition. Bharath's later statement that a Microsoft offer was below the desired level is user-reported and cannot be tied conclusively to a particular numerical level from these emails. |
+| Apple Software Engineer, Block Storage | Coding screen April 7, 2022; full panel June 3; initially declined June 7, reopened June 9, then entered compensation discussions. Apple's recruiter explicitly referred to “the offer” on July 7; Bharath declined July 8 after Apple could not materially raise compensation. The archived Apple messages do not state the offer numbers. A later reopening in November did not produce a second offer. |
+
+One contrary statement is excluded from the verified-offer history: in June 2022 Bharath told Apple that he had a current Uber offer and supplied compensation figures, and in January 2023 he referenced verbal Apple and Uber offers to Microsoft. Apple's offer is independently corroborated. Uber's own recruiter, however, wrote on May 31, 2022 that Uber would **not** move forward with an offer. The archive therefore supports only a candidate-reported Uber claim, not a company-confirmed Uber offer.
+
+### 65.3 Verified 2021 interview chronology
+
+| Company / role | Verified stages | Outcome |
+|---|---|---|
+| Remitly Principal Software Development Engineer | Technical screen Jan 19 | Rejected Jan 22; Principal technical bar not met. |
+| DoorDash, role unspecified | Recruiter call Jan 6; technical screen Jan 21 | Rejected Feb 3 for insufficient technical signal. |
+| Confluent Software Engineer | Recruiter call Jan 6; technical interview Jan 29 | Rejected Feb 5. |
+| Samsara Staff Backend | Recruiter call; HM call Mar 12 | Rejected Mar 17. |
+| Facebook Production Engineer | Recruiter call Mar 19; Linux/systems interview Apr 1 | Rejected Apr 2; separate SWE process continued. |
+| Facebook Software Engineer, Infrastructure | Coding screen Mar 23 passed; five-session final loop Apr 27 | Rejected May 4. |
+| CloudKitchens / City Storage Systems | CoderPad Mar 15 passed; multi-session coding/deep-dive/CS/design loop Apr 23 and 26 | Loop completion is supported by a delayed-debrief note; no written decision or offer is archived. |
+| Qumulo File and Data Management | Technical screen Jul 8 passed; five-session onsite Aug 16 | Rejected Aug 18. |
+| Microsoft Principal SWE, Azure Cosmos DB Elasticity | Technical/HM screen Aug 3; four-interviewer loop Aug 20 | **Offer confirmed Aug 26**; terms and disposition absent. |
+| Robinhood, Staff/Platform path | Technical screen Aug 12 passed; system design, leadership, Linux troubleshooting, project deep dive and coding loop Sep 7 | Rejected Sep 9, citing Design/Architecture and General Coding. |
+| Stripe Infrastructure Engineer, Online Databases | Recruiter Jun 18; programming screen Jul 9 passed; final loop Sep 9 | Rejected Sep 14; no offer. |
+| Snap Software Engineer | Coding/algorithm screen Dec 2 passed; invited to onsite Dec 3 | Onsite continued Jan 14, 2022; see below. |
+
+Important unresolved or scheduled-only 2021 records:
+
+- Amazon AWS ElastiCache Senior SDE: Mar 4 live-coding screen was completed and passed; five-interviewer onsite was fully scheduled for Apr 7–8, but the folder has no post-loop evidence proving attendance or outcome.
+- Google, role unspecified: a 45-minute technical Hangout was confirmed for Mar 9, but no later email proves completion or outcome.
+- Futurewei Principal Architect, Cloud Storage: Jul 6 informational conversation and Aug 27 interview block; a power outage interrupted the process, the Sep 14 replacement interviewer did not join, and no later completion or result is archived.
+- Microsoft Azure Service Fabric Principal SWE: an Aug 10 informational/coding screen was arranged, but neither exact time nor completion is established.
+
+### 65.4 Verified 2022 interview chronology
+
+| Company / role | Verified stages | Outcome |
+|---|---|---|
+| Snap Software Engineer | Five-interviewer remote onsite Jan 14 | Rejected Jan 18; recruiter noted strengths but no match. |
+| ThoughtSpot | Positive interview Jan 18; four evidenced invitations Mar 16–17 covering coding, two design rounds and culture | Team described a five-interview round, but the archive lacks a fifth invitation, completion confirmation and outcome. |
+| Nutanix Member of Technical Staff, File System | Senior Director screen Mar 14; follow-up calls through Apr 1 | No written outcome or offer. |
+| Lacework | Recruiter Mar 15; engineering-manager screen Mar 22 | Rejected Apr 4. |
+| Apple Software Engineer, Block Storage | Coding Apr 7 passed; full panel Jun 3; extra discussion Jun 10; compensation process | **Offer confirmed; declined Jul 8** after compensation negotiations. |
+| Uber Staff SWE, Core Storage | Recruiter in early Apr; coding Apr 14 passed; five-session full loop May 24–25 | Rejected May 31; recruiter explicitly said no offer. |
+| LinkedIn Staff SWE, Azure Graph | Recruiter Apr 25; technical screen May 5 | Rejected May 10. |
+| NVIDIA Principal System SWE, Data Platform and Distributed Systems, JR1962011 | Manager screen Dec 20 | Rejected Dec 22. |
+
+Other bounded records: Snowflake invited three first-step interviews after an Apr 21 recruiter call but no confirmations or outcome are archived; Microsoft Azure Blob/Data Lake scheduled a Jul 7 technical discussion with no result; Twitter, Google, Amazon, Woven Planet and Meta records did not progress beyond outreach, application or an unverified early stage in these folders.
+
+### 65.5 Verified 2023 interview chronology
+
+| Company / role | Verified stages | Outcome |
+|---|---|---|
+| Robinhood Senior Staff SWE, Infrastructure Storage Tech Lead | Recruiter Jan 11; HM Jan 20 passed; five-session onsite scheduled Mar 10 | Onsite canceled Mar 6 before it occurred because another candidate accepted and the role closed. This was not a performance rejection. |
+| SpaceX Principal SWE, Starlink | HM/phone interview Feb 10; advanced to a take-home coding test | No test completion, loop or outcome is archived. |
+| Meta SWE, OS Frameworks | Recruiter Feb 16; coding screen Mar 28 | Rejected Mar 31. |
+| Reddit Storage Infrastructure | Recruiter Feb 17; single CodeSignal screen Mar 9 | Rejected Mar 13. Despite “Virtual Onsite” in the subject, the body establishes one coding screen, not a loop. |
+| Apple Senior SWE, Distributed Storage/Object Store | Technical interview Mar 30 passed; second technical Apr 10 | Rejected Apr 14; no full loop. |
+| NVIDIA Senior Distributed Systems Engineer, JR1966138 | Screen May 12; remote panel Jun 29; missed interviewer replaced by Jul 6 round | Jul 28 recruiter said to treat it as a pass for the time being because of headcount/org-development flux, with possible reopening. No offer. |
+| Microsoft Principal SWE, Azure Database, req. 1549058 | Technical/HM screen Jun 30; four-round loop scheduled Jul 20; unavailable final interviewer rescheduled Jul 27 | Schedule and replacement round are verified; the archive contains no explicit completion, decision or offer. |
+| Meta SWE Infrastructure, Gameplay/Graphics path | Recruiter contact Aug 22; an interview occurred by Sep 11; invited to a five-hour virtual loop and completed prep Sep 18 | Exact loop date lived in Career Profile; no cancellation, completion, decision or offer email is archived. |
+| Snowflake Senior SWE, Replication | HM Aug 31; initially rejected Sep 6, reopened Sep 18; system-design and coding rounds Nov 16 | Rejected Nov 28. Recruiter called these the first two rounds, not a full loop. |
+| Amazon EBS Senior SDE, Server Durability Engine | Technical/behavioral/live-coding screen Oct 18 | No later outcome or loop is archived. |
+| Snowflake Principal SWE, Storage Platform | HM screen set for Dec 1, missed because of a production issue, moved to Jan 18, 2024 | No 2023 completion or result. |
+
+Other 2023 records include recruiter-only or unadvanced conversations with Confluent, Splunk, Zoox, YugabyteDB and others; they are not treated as interview loops.
+
+### 65.6 Verified 2024 interview chronology
+
+| Company / role | Verified stages | Outcome |
+|---|---|---|
+| Firebolt Software Engineer, Storage | Recruiter Jan 24; coding around Feb 1 with positive feedback; three-part system-design/managerial/CTO loop planned for Feb 9 and 15 | Debrief Feb 15; rejected Feb 16. Sequence strongly indicates the loop occurred, but individual attendance confirmations are absent. |
+| Snowflake Distributed Systems Engineer | Coding and system-design interviews Feb 5 | Rejected Feb 13. |
+| Microsoft Principal SWE Backend, Indexserve, req. 2023-1668118 | Technical screen around Jan 31 passed | Invited in principle to a 4–5-person round that was never scheduled; rejected Feb 29. |
+| LinkedIn Staff SWE, Systems Infrastructure | Recruiter Mar; technical Apr 4 passed; six-session onsite Apr 25–26 | Apr 30 recruiter said LinkedIn could not proceed at Staff and asked about possible Senior consideration. No final downlevel decision or offer is archived. |
+| Microsoft Principal SWE, Azure Storage, req. 1692221 | HM screen passed by Apr 11; four one-hour interviews Apr 24 | Post-loop compensation discussion; process closed May 8 because Microsoft would not exceed the discussed compensation ceiling. No written offer. |
+| NVIDIA Senior System SWE, Scientific Computing PaaS, JR1979896 | Technical interviews Mar 22 and Apr 8; advanced to a six-interviewer panel planned May 2/6 | NVIDIA canceled Apr 16 because the role was paused; still paused May 13. Not a merit rejection or completed panel. |
+| Meta Software Engineer, Infrastructure | Recruiter Aug 22; Structured E eventually passed Oct 11; full-round activity in Nov/Dec including behavioral | Rejected Dec 10 after engineering-leader review. Exact module dates and proof every module occurred are absent because details lived in Career Profile. |
+| Netflix Distributed Systems Engineer L4/5, Storage | Recruiter Oct 9; engineering-manager screen Oct 11 | Rejected Oct 15. |
+| GEICO Distinguished Engineer, Object Storage PaaS, R0053388 | Recruiter Oct 11; technical/HM CodeLive Oct 28 passed | Invited to four-part full loop Nov 3; process stopped Nov 5 because GEICO could not meet compensation expectations. Full loop not completed. |
+
+Other 2024 boundaries: a Meta IC6 process reached a February screen and Mar 1 rejection, but exact screen attendance is not established; NVIDIA JR1984998 had a Sep 27 director screen scheduled with no post-event record; several Microsoft roles stopped at HM request or outreach; Amazon had assessment invitations without proof of completion. An Aug 30 Azure Front Door email was addressed to another person and is excluded entirely.
+
+### 65.7 Historical pattern relevant to future analysis
+
+The 2021–2024 archive materially rejects the idea that Bharath lacked access to senior interview opportunities. It verifies repeated technical advancement and multiple full loops at Microsoft, Facebook/Meta, Qumulo, Robinhood, Stripe, Apple, Uber, LinkedIn and other infrastructure/storage employers. It also verifies at least three distinct offer-related outcomes across the broader record: the earlier Microsoft offer withdrawn in January 2021, the August 2021 Microsoft Cosmos offer, and the July 2022 Apple Block Storage offer.
+
+The recurring bottleneck was **conversion under level, compensation, role-fit, headcount or organizational constraints**, not an absence of interviews. Outcomes fall into several distinct categories that must not be collapsed into one astrological “job change” event:
+
+1. technical or manager screen;
+2. full loop completed;
+3. loop stopped by headcount, role closure or compensation;
+4. offer made but declined/withdrawn;
+5. offer accepted and actual employer joining.
+
+This sharper event classification must be used in all future Parāśara, KP, BNN, Jaimini, Aṣṭakavarga, transit and dasha comparisons. A period that produces a full loop or offer has delivered a materially stronger result than a recruiter lead, even if no employer switch follows.
+
+## 66. NVIDIA Principal Process and Desired-Level/Compensation Timeline — September 20, 2026
+
+### 66.1 Verified process status
+
+The latest Outlook evidence does **not** establish a confirmed full loop. NVIDIA coordinator Stacey Grimes said on September 15 that the interview would be a 90-minute conversation with Jared Holzman. Bharath supplied September 30, 7:30–9:00 AM PDT as his first choice. On September 16 Stacey replied that she was “getting 9/30 confirmed” and would send an updated confirmation. As of September 20, no final confirmation, accepted start time, format description or answer about live coding was present. The correct label is therefore **provisional 90-minute initial/extended screen**, not full loop.
+
+The repeated date movement is documented as original-interviewer availability and Israel-holiday scheduling. The substitute interviewer, named 90-minute session and continued attempt to confirm September 30 preserve the process; they are not evidence of adverse candidate feedback.
+
+The official requisition, JR2024421, is titled **Principal Block and File Storage Software Engineer, Linux—DGX Cloud** and is an existing Santa Clara vacancy. It calls for a 100%-hands-on C/C++ role covering Linux kernel and userspace, block/file storage, NVMe, distributed storage, Host/DPU environments, production debugging, performance and scale. Its posted base range is **$272,000–$431,250 plus equity and benefits**. The title meets the Staff/Principal target on paper, but NVIDIA's internal grade, actual cross-team architecture scope, location requirement, equity, refresh policy and make-whole remain unconfirmed. Source: [official NVIDIA requisition](https://jobs.nvidia.com/careers/job/893397365695?ncid=prsy-896405).
+
+### 66.2 Most likely NVIDIA progression
+
+| Conditional milestone | Working interval | Interpretation |
+|---|---|---|
+| Final scheduling confirmation | Sep 21–23 | If nothing arrives by Sep 22/23, one concise scheduling check is reasonable. |
+| 90-minute initial/extended screen | Provisionally Sep 30, 7:30–9:00 AM PDT | Technical/domain evaluation; not yet a full loop. Treat it as coding-capable until NVIDIA answers otherwise. |
+| Screen feedback or formal-loop invitation | Oct 2–7; allow through Oct 12 | Positive feedback may still be followed by another manager or domain-calibration conversation. |
+| Internal level, location and rough compensation alignment | Ideally Oct 5–16 | Confirm that the requisition remains Principal, identify the internal band and onsite/relocation expectations before investing in a long final process. |
+| Formal multi-interviewer loop | Most plausibly Oct 19–Nov 6 | NVIDIA states that full-time hiring normally proceeds from phone interviews to several virtual/in-person rounds and presently requires an onsite before an offer. Source: [NVIDIA hiring process](https://www.nvidia.com/en-us/about-nvidia/careers/how-we-hire/). |
+| Debrief and final approvals | Nov 9–Dec 10 | A result can take several business days and level/compensation approval can extend the process. |
+| Joining | Jan–Feb 2027 accelerated case | More plausible than a material 2026 W-2 reset if a late-2026 offer is accepted. |
+
+The public technical record associates Jared Holzman with NVIDIA work on Linux `ublk`/`io_uring` cancellation and race behavior. This supports—but does not prove—that the screen may probe kernel/userspace boundaries, concurrency, object lifetime, queues/completions and failure paths. Source: [Linux Block mailing-list exchange](https://www.spinics.net/lists/linux-block/msg128979.html).
+
+### 66.3 Astrological assessment of the proposed September 30 screen
+
+- **Vimshottari:** the session sits at the rounded Jupiter–Saturn–Jupiter–Jupiter to Saturn sūkṣma boundary. Jupiter opens a real Principal opportunity; Saturn applies an exacting proof threshold. The signature is stronger for a serious evaluation and possible advancement than for an immediate decision.
+- **Parāśara/D10:** Jupiter MD and the D10 9–10–11 circuit support senior technical opportunity, while Saturn AD and D10 Saturn/Ketu in H2 repeatedly separate technical success, level, compensation and timing. The candidate must prove present hands-on depth, not rely on tenure or title.
+- **KP/Bhava Chalit:** the 2–6–10–11 employment/gain chain is active, while H3/H8/H12 factors describe interview communication, deep investigation, re-evaluation, delay and relocation. Transit Jupiter is still delivering concretely through Chalit H6—competition and selection—rather than a completed H7 agreement.
+- **BNN:** exalted transit Jupiter supports the natal Mars–Venus–Ketu career/value group that Saturn is simultaneously auditing. This is an opportunity-plus-examination pattern, not a denial pattern.
+- **Jaimini:** Jupiter's Cancer/A10 activation supports visibility; Saturn's A10 connection makes Principal recognition evidence-driven and slow.
+- **Aṣṭakavarga:** Jupiter's five bindus in Cancer support the personal opportunity, while Cancer SAV 23 and Saturn's two Pisces bindus describe institutional resistance and repeated scrutiny.
+- **Electional overlay:** Seattle sunrise is 7:07 AM and Mercury hora runs 7:07–8:05 AM. Krittika nakshatra continues through the day, direct Mercury and own-sign Venus support technical speech and value, and exalted Jupiter supports opportunity. Mars is debilitated in Cancer and Saturn remains retrograde near the natal value/career group, so the second half can feel more demanding. A 7:30 start is favorable for demonstrating technical substance but cannot guarantee selection. References: [September 30 Seattle panchanga](https://vaya.so/tools/panchang?d=2026-09-30&l=seattle), [September 30 Seattle hora](https://vaya.so/tools/hora?d=2026-09-30&l=seattle).
+
+The most defensible forecast is **a technically difficult but genuinely aligned screen, with a reasonable route to the formal loop if current Linux-kernel/C depth is demonstrated**. The main risk is being read as a strong distributed-storage architect whose recent answers remain above the kernel implementation layer. Prepare one kernel-debugging story, one quantified performance/reliability investigation and one cross-organizational architecture decision; be ready to trace the Linux I/O path, explain page cache versus direct I/O, durability/write ordering, NVMe queueing/timeout recovery, concurrency/races and the Host-versus-DPU boundary.
+
+Subjective planning ranges—not NVIDIA statistics or astrological certainties—are approximately **45–65% screen-to-loop** if the answers demonstrate current kernel/C depth, versus **20–35%** if they remain mostly high-level. Before the screen, the end-to-end probability of a target-level offer is better treated as roughly **10–25%**. These numbers should be updated from actual feedback rather than preserved as fixed predictions.
+
+### 66.4 When desired level and compensation can align
+
+| Window | Strength and likely result |
+|---|---|
+| **Nov 22–Dec 10, 2026** | Earliest credible current-pipeline closure. Venus is direct and back in Libra during the Venus sūkṣma, followed by the Sun authority period. Best late-2026 window for team fit, Principal calibration, compensation and approval if NVIDIA completes the technical process first. |
+| **Jan 15–Feb 27, 2027** | Accelerated carryover under Jupiter–Mercury if a late-2026 process is already mature; useful for renewed terms or implementation, but still review-heavy. |
+| **Apr 13–May 12, 2027** | Cleaner technical calibration and written-term period after Jupiter turns direct. May 12–Jun 29 can separate Bharath from the old arrangement. |
+| **Jun 29–Sep 7, 2027** | Jupiter–Mercury–Venus begins: strong valuation, title and compensation-building phase. |
+| **Sep 17–Nov 6, 2027** | Strongest overall alignment of desired Staff/Principal-equivalent level, satisfactory recurring compensation and completed agreement: Jupiter crosses the working Chalit H7 cusp, the nodes support H11 gains, and Venus remains active. |
+
+Thus NVIDIA can produce the desired result in late 2026, but **mid-to-late 2027 remains the stronger base-case period for level and compensation to align together** if this process does not convert.
+
+Compensation must be compared using normalized forward value, not the stock-appreciation-inflated $728K 2025 W-2. Even at the posted maximum base of $431,250, matching $728K requires about $296,750 a year from target bonus, annualized equity and/or sign-on/make-whole; at the range midpoint it requires roughly $376,000 beyond base. These are arithmetic gaps, not NVIDIA promises. The decision comparison should use base, target bonus, annualized initial equity, expected refreshes, sign-on/make-whole, forfeited Oracle vesting, relocation cost and the first 24 months of realistic value. Do not accept a verbal “join lower and fast-track” premise unless the written current level and compensation are already acceptable.

@@ -15,6 +15,14 @@ This index links all maintained Markdown docs in this workspace.
 - [Nihaal Comprehensive Sidereal Astrology Profile](./vac/nm/nihaal_sidereal_astrology_profile.md)
 - [Tanush Vedic Sidereal (Lahiri) Astrology Working Profile](./vac/tm/tanush_sidereal_astrology_profile.md)
 
+## iSmash Franchise Records
+
+- [iSmash Everett Chat Handoff — September 19, 2026](./ismash/CHAT_HANDOFF_2026-09-19.md)
+- [Carney / iSmash Conversation Log](./ismash/conversations.md)
+- [Supplied Evidence Index](./ismash/evidence/EVIDENCE_INDEX_2026-09-18.md)
+- [August Exterior-Ramp Text Evidence](./ismash/evidence/screenshots/2026-08-06-troy-fink-exterior-ramps/EVIDENCE_INDEX.md)
+- [Read.ai Transcript Archive Index](./ismash/evidence/read_ai/READ_AI_ARCHIVE_INDEX_2026-09-18.md)
+
 ## System Design Prep
 
 - [System Design Prep By Company](./system_design/README.md)

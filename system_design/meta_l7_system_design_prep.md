@@ -17,7 +17,7 @@ Treat this as a living company-specific catalog. Do not encode a fixed question 
 * [IGotAnOffer: Meta system design interview guide](https://igotanoffer.com/blogs/tech/meta-system-design-interview)
 * [GeeksforGeeks: Meta/Facebook system design interview questions](https://www.geeksforgeeks.org/system-design/meta-facebook-system-design-interview-questions/)
 * [CodingInterview: Meta system design interview questions](https://www.codinginterview.com/guide/meta-system-design-interview-questions/)
-* Public AI infrastructure context: [Meta MTIA public reporting](https://www.tomshardware.com/tech-industry/semiconductors/meta-reveals-four-new-mtia-chips-built-for-ai-inference), [Next Gen MTIA public reporting](https://www.investopedia.com/meta-unveils-its-latest-ai-chip-here-is-what-you-need-to-know-8629599), [First-Generation Inference Accelerator Deployment at Facebook](https://arxiv.org/abs/2107.04140), and [TritorX agentic operator generation for ML ASICs](https://arxiv.org/abs/2512.10977).
+* Public AI infrastructure context: [Meta MTIA 2026 update](https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/), [Meta infrastructure evolution for AI](https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/), [Next-generation MTIA](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/), [First-Generation Inference Accelerator Deployment at Facebook](https://arxiv.org/abs/2107.04140), and [TritorX agentic operator generation for ML ASICs](https://arxiv.org/abs/2512.10977).
 
 ## Answer Template
 
@@ -1885,11 +1885,12 @@ Privacy Change Events --> Cache Invalidation Stream
 
 ** Functional Requirements
   * Product services can request inference by model name, version, tenant/product, input shape, and latency class.
-  * Platform supports multiple hardware pools: GPUs, custom accelerators, CPU fallback, and simulation or canary environments.
+  * Platform supports multiple hardware pools: GPUs, MTIA generations, CPU fallback, and simulation or canary environments.
   * Model owners can publish artifacts, kernels/operators, runtime constraints, feature dependencies, and rollout policy.
   * Router chooses serving backend by model compatibility, accelerator health, capacity, latency, cost, and policy.
   * Platform supports dynamic batching, priority queues, deadline-aware admission, overload shedding, and graceful fallback.
   * Operators can canary new model versions, runtimes, kernels, and hardware generations with fast rollback.
+  * Operators can introduce new accelerator generations while preserving a stable software contract for model owners.
 
 ** Non Functional Requirements
   * Very low p95/p99 latency for ranking and ads paths; bounded tail latency for GenAI.
@@ -1898,6 +1899,7 @@ Privacy Change Events --> Cache Invalidation Stream
   * Accurate cost and capacity attribution by product, model, version, hardware pool, and request class.
   * Reproducible validation across heterogeneous hardware despite precision, kernel, and runtime differences.
   * Deep observability for queueing, batching, feature fetch, model runtime, accelerator utilization, memory bandwidth, and fallback rates.
+  * High-velocity hardware adoption without forcing product teams to rewrite models for every accelerator generation.
 
 ** High level design and diagram (at block level)
 
@@ -1915,7 +1917,7 @@ Inference Gateway
 Heterogeneous Serving Router
   |
   +--> GPU Serving Pool
-  +--> MTIA / Custom Accelerator Pool
+  +--> MTIA 300 / 400 / 450 / 500 Pools
   +--> CPU Fallback Pool
   +--> Canary / Shadow Pool
   |
@@ -1936,25 +1938,34 @@ Telemetry -> SLOs, Cost, Drift, Hardware Health
   * Inference Gateway receives product requests, validates schema, attaches deadlines, applies quotas, and records product/model attribution.
   * Model Routing Policy maps model families to compatible runtimes, hardware pools, precision modes, fallback order, and rollout constraints.
   * Feature Fetch / Embedding Lookup gathers online features, embedding vectors, and context before model execution; it must be separately budgeted because feature latency can dominate model latency.
-  * Heterogeneous Serving Router picks a pool using compatibility, current queue depth, hardware health, memory pressure, SLO class, and cost.
+  * Heterogeneous Serving Router picks a pool using compatibility, current queue depth, hardware health, memory bandwidth pressure, SLO class, and cost.
   * Batcher groups compatible requests by model version, input shape, deadline, and hardware target without violating p99 budgets.
-  * Runtime Worker loads artifacts, executes kernels/operators through GPU or accelerator drivers, reports fine-grained latency and correctness counters, and returns outputs.
+  * Runtime Worker loads artifacts, executes kernels/operators through GPU or accelerator drivers, reports fine-grained latency and correctness counters, and returns outputs. For MTIA-style pools, the worker relies on PyTorch-native graph capture, Triton or compiler-generated kernels, and runtime support for continuous batching or prefill/decode split where applicable.
   * Model Registry, Artifact Store, and Compatibility Validator make model/runtime/hardware support explicit before rollout.
   * Capacity Planner and Autoscaler reserve scarce accelerators, rebalance hot models, and scale fallback pools before overload becomes user visible.
 
 *** Core components and low-level design
   * **Model registry and compatibility contract**
-    * Durable state includes model ID, version, artifact hash, runtime, supported hardware, precision, max batch size, input shapes, memory footprint, feature dependencies, owner, SLO class, and fallback policy.
-    * Compatibility validation runs unit tests, golden-output comparisons, performance smoke tests, operator coverage checks, and precision-drift thresholds before a model is eligible for a hardware pool.
+    * Durable state includes model ID, version, artifact hash, runtime, supported hardware generation, precision or low-precision data type, max batch size, input shapes, memory footprint, feature dependencies, owner, SLO class, and fallback policy.
+    * Compatibility validation runs unit tests, golden-output comparisons, performance smoke tests, operator coverage checks, compiler/runtime checks, and precision-drift thresholds before a model is eligible for a hardware pool.
     * Invariant: the router never sends traffic to a model/hardware/runtime tuple that has not passed compatibility validation for the requested version.
+  * **Accelerator generation manager**
+    * Tracks GPU and MTIA fleet inventory by generation, rack or scale-up domain, HBM capacity, HBM bandwidth, network fabric, cooling envelope, runtime version, driver or firmware version, and supported kernel/operator set.
+    * Publishes generation capabilities to the model registry and router as a versioned contract instead of scattering hardware assumptions through product services.
+    * Separates R&R inference, R&R training, GenAI inference, and experimental training pools so optimization for one workload does not silently starve another.
+    * Invariant: a new accelerator generation receives production traffic only after capacity, compatibility, health telemetry, fallback, and rollback paths are all active.
   * **Deadline-aware router**
     * Maintains per-pool health, queue length, recent latency histograms, accelerator memory pressure, admission limits, and cost weights.
     * Routing score favors healthy compatible pools with enough slack before deadline; cost optimization is secondary for critical ranking paths.
     * If no primary pool can meet the deadline, the router chooses degraded model, smaller batch, CPU fallback, cached score, or fail-closed depending on product policy.
   * **Batcher and worker isolation**
     * Requests are grouped by model version, input shape, priority, and remaining deadline.
-    * Workers use per-model memory reservations so one large GenAI model cannot evict latency-critical ranking models from hot accelerator memory.
+    * Workers use per-model memory and bandwidth reservations so one large GenAI model cannot evict latency-critical ranking models from hot accelerator memory or saturate decode bandwidth.
     * Backpressure flows from worker queue to router to gateway so overload is shed before queues create unbounded tail latency.
+  * **Full-stack observability and debug**
+    * Telemetry joins product request, model version, runtime version, worker, accelerator generation, host, firmware, kernel, HBM bandwidth, queue delay, batch size, and fallback decision.
+    * Hardware-specific profilers and debuggers must feed the same SLO and rollout system as application metrics; otherwise accelerator regressions look like generic service latency.
+    * Operators need safe high-resolution capture on canary or shadow traffic before enabling broad production debugging.
   * **Rollout controller**
     * Supports shadow traffic, canary percentage, product allowlists, hardware-pool allowlists, automatic halt, and rollback to previous artifact hash.
     * Compares latency, error rate, fallback rate, output drift, feature freshness, and accelerator health between baseline and candidate.
@@ -1963,7 +1974,8 @@ Telemetry -> SLOs, Cost, Drift, Hardware Health
 *** Explain the control flow
   * Model owner exports a model artifact and declares runtime, feature, hardware, precision, and SLO constraints.
   * Registry stores the version and triggers compatibility validation for each target hardware pool.
-  * Capacity planner estimates peak QPS, memory footprint, batch efficiency, and hardware demand, then reserves serving slots.
+  * Accelerator generation manager publishes available hardware capabilities, software stack versions, and pool policy to the registry and router.
+  * Capacity planner estimates peak QPS, memory footprint, memory-bandwidth demand, batch efficiency, and hardware demand, then reserves serving slots.
   * Rollout controller starts shadowing, canaries low-risk products, expands traffic by policy, and watches automated guardrails.
   * Operators can freeze rollouts, change fallback policy, lower admission limits, or move traffic away from a degraded hardware pool.
 
@@ -1988,6 +2000,19 @@ Telemetry -> SLOs, Cost, Drift, Hardware Health
     * Pros: balances efficiency and resilience.
     * Cons: requires strong routing, validation, telemetry, and rollout discipline.
   * Recommended: heterogeneous serving with model/hardware compatibility contracts, strict isolation for latency-critical paths, and CPU/GPU fallback for availability.
+
+*** Accelerator generation velocity vs operational stability
+  * Problem: AI models can shift faster than traditional chip cycles, so a large inference platform needs to adopt new hardware generations quickly without breaking product teams or SLOs.
+  * Option 1: Wait for one universal accelerator generation.
+    * Pros: simpler compatibility matrix and fewer rollout surfaces.
+    * Cons: slow adaptation when bottlenecks move between compute, HBM bandwidth, network, and operator support.
+  * Option 2: Deploy every generation as a separate bespoke platform.
+    * Pros: each workload can be optimized aggressively.
+    * Cons: model owners face fragmented tooling, separate debug paths, and inconsistent rollout mechanics.
+  * Option 3: High-velocity heterogeneous hardware under one software and routing contract.
+    * Pros: lets the fleet adopt MTIA-style generation-specific improvements while keeping PyTorch-native onboarding, routing, validation, telemetry, and rollback consistent.
+    * Cons: demands accurate capability metadata, compiler/runtime discipline, and strong observability from host through firmware and device.
+  * Recommended: treat accelerator generations as versioned capacity classes behind a common model registry, router, runtime, and telemetry contract. Use generation-specific compiler kernels, low-precision formats, and bandwidth-aware scheduling inside the worker layer, not in product service code.
 
 *** Tail latency vs batch efficiency
   * Problem: batching improves accelerator utilization, but waiting for a larger batch can violate p99 latency.
