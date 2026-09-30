@@ -14,6 +14,7 @@ Use this document as a 45-60 minute whiteboard answer skeleton. The question cou
 * OpenAI computer use guide: https://platform.openai.com/docs/guides/tools-computer-use
 * OpenAI Codex harness platform note: https://developers.openai.com/blog/codex-as-a-platform
 * OpenAI repetitive workflow automation note: https://developers.openai.com/blog/automating-repetitive-work-at-openai-with-codex
+* OpenAI Agents API public beta: https://openai.com/index/introducing-the-agents-api/
 * OpenAI WebMCP Challenge: https://openai.com/webmcp-challenge/
 * OpenAI Workspace Agents help: https://help.openai.com/en/articles/20001143/
 
@@ -1477,19 +1478,22 @@ Use this document as a 45-60 minute whiteboard answer skeleton. The question cou
 
   **Scope**
   * Support bounded noninteractive runs, resumable long-running tasks, browser-embedded tool surfaces, scheduled automations, approval gates, shared workflow artifacts, and replayable run history.
-  * Include Codex-harness-style execution, WebMCP-style browser tools, workflow notebooks, context indexes, task state, permissions, and audit.
+  * Include managed Codex-harness-style execution, API-created agent sessions, hosted or partner sandboxes, WebMCP-style browser tools, workflow notebooks, context indexes, task state, permissions, and audit.
   * Exclude training base models and replacing every existing CI/orchestration system.
 
   **Functional Requirements**
   * Define reusable workflows with instructions, allowed tools, required inputs, expected outputs, and approval points.
-  * Start runs from CLI jobs, SDK/API callers, schedules, chat, or an agent-ready web page.
-  * Let agents read and update workflow artifacts through structured tools instead of screen-only UI guessing.
+  * Start runs from CLI jobs, SDK/API callers, schedules, chat, or an agent-ready web page, with task, model, tools, environment, identity, and artifact destination specified at session creation.
+  * Let agents discover and use MCP, custom functions, built-in tools, and browser-side app tools through structured schemas instead of screen-only UI guessing.
+  * Fan out independent investigation, implementation, validation, or review work to bounded subagents and merge their evidence into one run result.
   * Persist commands, decisions, artifacts, status, approvals, failures, and final summaries for future runs.
   * Support resume, cancellation, retries, notifications, and human review before consequential actions.
 
   **Non Functional Requirements**
   * Strong sandboxing and least-privilege tool access.
   * Deterministic audit trails for regulated engineering and operations workflows.
+  * Efficient long-session context management so multi-hour or multi-day agents keep critical state without replaying every token.
+  * Elastic execution for bursty agent fleets without keeping idle customer infrastructure warm.
   * Low-friction authoring so operators capture context while doing the work.
   * Clear blast-radius limits for automated background execution.
   * Portability across local apps, static web apps, CI jobs, and internal operational dashboards.
@@ -1502,14 +1506,17 @@ Use this document as a 45-60 minute whiteboard answer skeleton. The question cou
   Workflow Entry Point
     |---- codex exec for bounded jobs
     |---- Codex SDK for programmatic task control
+    |---- Agents API for managed cloud sessions
     |---- App Server for persistent conversations and approvals
     |---- WebMCP for browser-side app tools
     |
   Agent Harness
     |
+    +--> Session Spec: task + model + tools + environment
     +--> Context Loader / Artifact Index
-    +--> Tool Registry + Permission Policy
-    +--> Sandbox / Shell / Browser Runtime
+    +--> Tool Search / Tool Registry + Permission Policy
+    +--> Subagent Coordinator
+    +--> Sandbox / Shell / Browser / Partner Runtime
     +--> Approval + Notification Service
     +--> Run Log / Notebook / Trace Store
     |
@@ -1517,35 +1524,50 @@ Use this document as a 45-60 minute whiteboard answer skeleton. The question cou
   ```
 
   **Explain The Blocks**
-  * Workflow Entry Point chooses the integration layer: noninteractive CLI execution for bounded jobs, SDK calls for applications that start and resume tasks, app-server sessions for streamed events and approvals, or WebMCP for live browser-side app tools.
-  * Agent Harness owns the loop: gather context, plan, call tools, request approval, checkpoint, and produce structured output.
-  * Context Loader reads prior notebooks, Markdown indexes, run history, tickets, runbooks, and repository files to avoid relearning the workflow each time.
-  * Tool Registry exposes only the tools a workflow needs, with schemas, risk class, resource scope, and approval mode.
-  * Sandbox Runtime isolates shell, filesystem, browser, and network access according to workflow policy.
+  * Workflow Entry Point chooses the integration layer: noninteractive CLI execution for bounded jobs, SDK/API sessions for managed cloud agents, app-server sessions for streamed events and approvals, or WebMCP for live browser-side app tools.
+  * Session Spec is the durable contract for a run: task text, model choice, tool list, sandbox type, secret vaults, skill/capability directories, cost policy, and output location.
+  * Agent Harness owns the loop: gather context, plan, call tools, delegate subagents, request approval, checkpoint, and produce structured output.
+  * Context Loader reads prior notebooks, Markdown indexes, run history, tickets, runbooks, and repository files to avoid relearning the workflow each time; automatic compaction preserves decision state across context windows.
+  * Tool Search and Tool Registry expose only the tools a workflow needs, with schemas, risk class, resource scope, approval mode, and lazy loading so rarely used tool definitions do not crowd out working context.
+  * Subagent Coordinator splits independent work, gives each subagent scoped context and tool grants, tracks child status, and merges findings with citations or artifacts.
+  * Sandbox Runtime isolates shell, filesystem, browser, network access, secrets, packages, files, skills, and plugins according to workflow policy; the implementation can run in a hosted sandbox, customer infrastructure, or a partner environment.
   * Run Log and Notebook Store keep reviewed commands, outputs, decisions, artifacts, and a compact index that future agents can search.
 
   **Explain The Control Flow**
   * Platform owners define global permission classes, sandbox profiles, network policies, retention rules, and approval requirements.
   * Workflow authors capture a repeatable procedure as instructions plus tool grants, test it in review mode, then publish a version.
-  * Schedules, CI jobs, or API callers start pinned workflow versions. Policy decides which steps run automatically, which require approval, and which are blocked.
+  * Schedules, CI jobs, or API callers start pinned workflow versions by creating a session with explicit task, model, tools, environment, vaults, and maximum subagent concurrency.
+  * The harness loads compact context, searches for relevant tools, runs programmatic tool calls in parallel where safe, and delegates independent branches to subagents with bounded assignments.
+  * Policy decides which steps run automatically, which require approval, and which are blocked.
   * Each run writes a durable summary and artifact index before completion so the next run starts with current operational context.
 
   **Explain The Data Flow**
   * A trigger creates a task with workflow version, inputs, identity, and target resources.
-  * The harness loads context, executes bounded tool calls, updates the notebook or target app through structured APIs, and streams progress.
-  * Approval events, command outputs, generated patches, screenshots, links, and final results flow into the trace store and artifact index.
+  * The harness loads context, compacts or restores prior state, executes bounded tool calls, updates the notebook or target app through structured APIs, and streams progress.
+  * Subagents receive scoped context, write evidence and intermediate artifacts, and return summaries to the parent session.
+  * Approval events, command outputs, generated patches, screenshots, links, costs, child-agent outputs, and final results flow into the trace store and artifact index.
   * Follow-up notifications point reviewers to the exact run, changed artifacts, and pending decision.
 
   **Deep Dive Topics And Questions**
-  * **Question: CLI job, SDK, app server, or WebMCP?**
+  * **Question: CLI job, Agents API, app server, or WebMCP?**
     * CLI execution is simple for bounded background jobs and CI, but weak for interactive state and approvals.
-    * SDK and app-server integrations fit products that need task lifecycle control, streaming, resume, and approval handling.
+    * Agents API sessions fit applications that want a managed Codex harness, explicit task/model/tool/environment contract, long-session context management, hosted or partner sandboxes, and first-class subagents.
+    * App-server integrations fit products that need custom task lifecycle control, streaming, resume, approval handling, and native UI state.
     * WebMCP fits agent-ready web apps because the browser can expose structured tools beside the human UI without adding a separate backend tool server.
     * Recommendation: choose the narrowest integration that matches the workflow lifecycle; do not force every workflow through one surface.
+  * **Question: One monolithic agent or coordinated subagents?**
+    * A monolithic agent has simpler policy and fewer merge conflicts, but it serializes independent work and can lose focus on large investigations.
+    * Subagents improve latency and specialization for parallel research, dependency analysis, validation, and code review, but need scoped tool grants, per-child budgets, and evidence merging.
+    * Recommendation: default to one agent for small mutations; use bounded subagents for read-heavy or independently verifiable branches, then require the parent to synthesize and own the final decision.
+  * **Question: Hosted sandbox, customer infrastructure, or partner environment?**
+    * Hosted sandboxes minimize setup and scale bursty work well, but may not reach private dependencies or custom hardware.
+    * Customer infrastructure preserves network locality, secrets, and compliance posture, but pushes more lifecycle and isolation responsibility to the customer.
+    * Partner environments can match language runtimes, GPU/CPU/memory profiles, and cold-start targets, but add another operational dependency.
+    * Recommendation: model environment as a first-class session choice with explicit file, package, secret, network, and artifact boundaries.
   * **Question: How do you keep recurring runs from losing context?**
     * Chat history alone is hard to search, easy to fork, and poor as an operational record.
-    * Durable notebooks plus Markdown indexes make commands, outcomes, and decisions discoverable by humans and agents.
-    * Recommendation: write compact run summaries, link durable artifacts, and promote stable procedures into versioned workflow definitions.
+    * Durable notebooks plus Markdown indexes make commands, outcomes, and decisions discoverable by humans and agents; automatic compaction keeps long sessions alive without treating the full transcript as hot context.
+    * Recommendation: write compact run summaries, link durable artifacts, preserve approval and side-effect records, and promote stable procedures into versioned workflow definitions.
   * **Question: How much autonomy should scheduled workflows have?**
     * Full automation reduces toil but can mutate the wrong target when input discovery or policy is stale.
     * Review-only automation is safe but may not remove enough operational load.
