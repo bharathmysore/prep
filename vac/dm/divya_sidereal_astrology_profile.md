@@ -377,6 +377,68 @@ Mercury/Saturn from approximately 17 September 2026 to 27 May 2029 is more conso
 
 Ketu mahadasha from 2029 to 2036 may redirect priorities toward simplification, home/inner life, or more specialized work. Venus mahadasha from 2036 is traditionally promising because Venus is the 2nd/9th lord in the 11th, but no distant period should be treated as a guaranteed outcome.
 
+### Sign-based Sade-sati calendar for the Aquarius Moon
+
+This profile uses the common sign-based definition: Saturn transiting the 12th, 1st, and 2nd signs from Divya's Aquarius Moon. Ingresses were calculated with Swiss Ephemeris 2.10.3.2 and standard Lahiri ayanamsha. UTC dates are canonical below; Pacific local dates are included where the calendar date differs. Sade-sati is not treated as seven-and-a-half years of uniform misfortune. Natal promise, dasha, other transits, and actual events remain necessary.
+
+| Phase | Lahiri-sidereal Saturn interval | Main fields activated for Virgo ascendant / Aquarius Moon |
+|---|---|---|
+| First: Capricorn, 12th from Moon | 24 Jan 2020 UTC (23 Jan PST) to 29 Apr 2022 UTC; retrograde revisit 12 Jul 2022 to 17 Jan 2023 | Capricorn is the D1 5th house and 12th from the Moon: expenditure/closure, sleep or withdrawal, study, judgment, children/creativity, and disciplined long-range planning. |
+| Middle: Aquarius, over Moon sign | 29 Apr–12 Jul 2022; then 17 Jan 2023–29 Mar 2025 | Aquarius is the D1 6th house and Moon sign: workload, service, competition, routines, and emotional/identity pressure. Saturn exactly crossed the natal Moon on 13 Jun 2024, 15 Jul 2024 retrograde, and 16 Feb 2025; these are the strongest degree-based pressure markers, not guaranteed events. |
+| Final: Pisces, 2nd from Moon | 29 Mar 2025 to 2 Jun 2027 at 23:58 UTC (2 Jun PDT; 3 Jun IST); retrograde return 20 Oct 2027 UTC (19 Oct PDT) to final exit 23 Feb 2028 | Pisces is the D1 7th house and 2nd from the Moon: contracts, spouse/partners, vendors, clients, money, family security, speech, and values. |
+| Temporary break | 2 Jun 2027 at 23:58 UTC to 20 Oct 2027 at 01:42 UTC (2 Jun–19 Oct PDT) while Saturn is in Aries | Saturn is temporarily outside the three Sade-sati signs. Mercury/Saturn dasha continues, so responsibility does not disappear even though the Moon-based transit pressure is reduced. |
+
+The entire Sade-sati occurs within Mercury mahadasha. The major antardasha sequence is approximately Mercury/Moon to 25 Nov 2020, Mercury/Mars to 22 Nov 2021, Mercury/Rahu to 11 Jun 2024, Mercury/Jupiter to 17 Sep 2026, and Mercury/Saturn thereafter. As of 28 Sep 2026, Divya is in Mercury/Saturn/Saturn until approximately 19 Feb 2027, with the finer Saturn level ending around 11 Oct 2026. The temporary 2027 exit occurs in Mercury/Saturn/Mercury; the final retrograde return occurs in Mercury/Saturn/Venus; and the final 23 Feb 2028 exit occurs in Mercury/Saturn/Sun. Dasha boundaries are approximate by about a day across software conventions.
+
+#### Complete pratyantardashas in Mercury/Saturn antardasha
+
+Mercury/Saturn runs approximately 17 Sep 2026–27 May 2029. The conventional date labels below use the profile's UTC-based dasha calculation and are approximate by about one day; a boundary can fall on the preceding Pacific date.
+
+| Vimshottari level | Approximate interval | Interpretive timing context |
+|---|---|---|
+| Mercury/Saturn/Saturn | 17 Sep 2026–19 Feb 2027 | Concentrated Saturn phase during the Pisces/final Sade-sati stage. |
+| Mercury/Saturn/Mercury | 19 Feb–8 Jul 2027 | Covers the 2 Jun PDT temporary Sade-sati exit; emphasizes documents, decisions, coordination, and change management. |
+| Mercury/Saturn/Ketu | 8 Jul–4 Sep 2027 | Occurs entirely during the temporary Aries break; favors simplification and reassessment but can feel detached or inconclusive. |
+| Mercury/Saturn/Venus | 4 Sep 2027–15 Feb 2028 | Begins during the break and contains the 19 Oct PDT retrograde return; Venus's natal 2nd/9th lordship and Chalit 10th placement make this comparatively supportive for professional and resource stabilization. |
+| Mercury/Saturn/Sun | 15 Feb–4 Apr 2028 | Contains the final Sade-sati exit on 23 Feb 2028; emphasizes authorities, leadership, decisions, and visibility. |
+| Mercury/Saturn/Moon | 4 Apr–25 Jun 2028 | Post-Sade-sati focus on operations, staff, routines, well-being, customers, and fluctuating gains. |
+| Mercury/Saturn/Mars | 25 Jun–21 Aug 2028 | Initiative, technical or legal action, decisive change, and greater conflict or haste risk. |
+| Mercury/Saturn/Rahu | 21 Aug 2028–16 Jan 2029 | Unconventional career expansion, technology/foreign links, scaling, visibility, and volatility; verify commitments. |
+| Mercury/Saturn/Jupiter | 16 Jan–27 May 2029 | Advisers, partners, contracts, family resources, consolidation, and completion of Mercury mahadasha. |
+
+#### Fourth-level sequence inside current Mercury/Saturn/Saturn
+
+| Fourth-level lord | Approximate interval | Compact emphasis |
+|---|---|---|
+| Saturn | 17 Sep–11 Oct 2026 | Maximum accountability, delay, correction, and consolidation. |
+| Mercury | 11 Oct–2 Nov 2026 | Filings, communication, technical details, and decisions; Mercury turns retrograde during the latter part. |
+| Ketu | 2–11 Nov 2026 | Review, separation from unworkable paths, and uncertainty; verify assumptions. |
+| Venus | 11 Nov–7 Dec 2026 | Comparatively helpful for agreements, finances, diplomacy, reputation, and professional stabilization. |
+| Sun | 7–15 Dec 2026 | Authorities, permits, leadership, and formal decisions. |
+| Moon | 15–28 Dec 2026 | Workload and emotional fluctuation; protect routine and rest. |
+| Mars | 28 Dec 2026–6 Jan 2027 | Action and escalation potential; manage haste and conflict. |
+| Rahu | 6–29 Jan 2027 | Unconventional help or sudden changes, with greater uncertainty and need for verification. |
+| Jupiter | 29 Jan–19 Feb 2027 | Strongest supportive segment within the current pratyantardasha for counsel, networks, practical help, and gains; not a guaranteed outcome. |
+
+Natal exalted retrograde Saturn supports endurance, accountability, learning, and durable rebuilding, but as 6th lord it can still deliver duty, corrections, disputes, and slow resolution. It modifies how Divya handles Sade-sati; it does not cancel the transit.
+
+### Low-risk traditional remedy framework during Mercury/Saturn
+
+**Recorded 28 Sep 2026.** These are optional devotional and behavioral supports, not scientifically validated methods for changing planetary effects and not guarantees of permits, opening, profit, conception, or health. They do not replace code compliance, written occupancy authorization, professional advice, or mental-health care.
+
+The chart-specific aim is to pacify pressure and cultivate steadiness rather than indiscriminately strengthen Saturn, Rahu, or Mars. Parashara supplies the traditional upaya framework; Bhava Chalit, KP, and BNN identify the active Mercury–Saturn–Venus–Moon work/contract/emotion chain but do not prove that a ritual causes an external result.
+
+| Rhythm | Optional traditional practice | Required practical counterpart |
+|---|---|---|
+| Daily for a sustainable 40-day sankalpa | Simple Ganapati prayer or `Om Gam Ganapataye Namah` 11, 27, or 108 times. Consistency is more important than count; an existing ishta-devata practice may be used instead. | Choose three realistic priorities, protect meals/sleep, and allow honest expression rather than forced cheerfulness. |
+| Wednesday / Mercury | `Om Bum Budhaya Namah` 27 or 108 times, or Vishnu/Ganapati prayer; optional donation of books, stationery, or green gram through an appropriate charity. | Conduct a written permit/document audit; record the owner, evidence, dependency, due date, and authoritative source for every correction. Confirm verbal instructions in writing. |
+| Saturday / Saturn | Hanuman Chalisa once and/or `Om Sham Shanicharaya Namah` 11, 27, or 108 times; optional temple-approved sesame-oil offering. | Serve elderly, disabled, working, or under-resourced people; treat workers/vendors fairly, pay agreed dues on time, obey safety rules, and avoid blame or shortcuts. |
+| Monday / emotional steadiness | `Om Namah Shivaya`, a simple water-only Shiva offering at an appropriate place, quiet reflection, or prayer in Divya's own tradition. | Schedule rest and a supportive conversation where Divya does not need to appear cheerful. Persistent or worsening sadness or impaired functioning requires qualified professional support. |
+
+If one ceremony is desired, prefer a modest Ganapati puja or temple-based Ganapati homa with a simple Navagraha/Shani prayer rather than multiple costly rites. After the premises is legally accessible and near opening, a non-fire Lakshmi–Ganapati or Vastu Shanti prayer may be performed. Any homa belongs at a temple or other specifically authorized venue while the store awaits fire and occupancy approvals. Do not use homa, oil lamps, camphor, incense, candles, smoke, temporary wiring, or anything affecting egress at the store; a battery LED diya and silent prayer are sufficient if site rules permit.
+
+Do not prescribe blue sapphire merely because Saturn is exalted: Saturn is already strong and also rules the 6th house. Likewise avoid casual emerald, red coral, hessonite, cat's-eye, costly talismans, severe fasting, uninitiated tantric practices, fear-based dosha packages, or anyone guaranteeing a regulatory or financial outcome. Gemstones are intentionally not prescribed in this profile.
+
 ## 15. Transit snapshot — 8 July 2026, 12:00 PM IST
 
 This is a dated snapshot, not permanent natal context.
@@ -397,19 +459,20 @@ Jupiter is exalted in the 11th and near natal Venus by sign and degree, emphasiz
 
 ## Current business context and dated event anchor
 
-**Status date:** 8 July 2026  
-**Source distinction:** The project phase, contractor issues, and permitting status below are user-supplied. The iSMASH business model, Everett location, address, and “Opening Soon” status are corroborated by the company's public locations page; no specific opening date is publicly listed.
+**Status date:** 27 September 2026 for the latest business update
+
+**Source distinction:** The project phase, contractor issues, and permitting status below are user-supplied. The iSMASH business model, Everett location, address, and “Opening Soon” status were corroborated from the company's public locations page on 8 July 2026; no later public-listing check is implied here.
 
 | Field | Saved context |
 |---|---|
 | Venture | Divya is setting up an iSMASH franchise. |
 | Public business context | iSMASH describes its venues as experiential entertainment businesses offering rage/smash rooms, splatter painting, axe throwing, parties, and corporate events. |
-| Project phase | The location is currently being built and is in the final stage before opening. |
-| Current operational issue | Fire-alarm permitting remains in progress. |
-| Coordination | The fire-alarm permit is being managed with vendors. |
+| Project phase | Permit and inspection closeout after the 1 Sep inspection required corrections; the location has not been reported open. |
+| Current operational issue | A temporary Certificate of Occupancy will not be issued. City acceptance of the exit changes and updated tenant-improvement plan, completion of the drinking-fountain and loading-gate items, final inspections, and occupancy authorization remain unconfirmed. |
+| Coordination | Contractor Change Orders are reportedly cleared. The landlord filed exit changes with the City; Carney planned to file the updated tenant-improvement plan during 28 Sep–2 Oct; Bharath is working to close the high/low drinking-fountain and loading-gate items. |
 | Exact location | 607 SE Everett Mall Way, Everett, WA 98208. |
-| Public listing | iSMASH lists the Everett location as “Opening Soon.” |
-| Planned opening date | As of the latest 6 Aug 2026 discussion, three opening pairs are being compared: Aug 28 soft/Aug 29 public, Sep 4 soft/Sep 5 public, and Sep 11 soft/Sep 12 public. Soft openings are proposed for approximately 2:00 PM and public openings for noon or 1:00 PM PDT. None is confirmed or completed. The repeated “Aug 28” in the latest question is provisionally interpreted as Aug 28 soft/Aug 29 public, consistent with the earlier schedule, unless the user corrects it. |
+| Public listing | The official iSMASH Everett and locations pages still listed the location as “Coming Soon” when rechecked on 28 Sep 2026; hours and a grand-opening date were not announced. |
+| Planned opening date | No current public-opening date is confirmed. The Aug 28/29, Sep 4/5, and Sep 11/12 candidate schedules are past and did not become confirmed openings in the supplied record; any new date remains contingent on plan acceptance, correction completion, passed inspections, and occupancy authorization. |
 
 For future questions about this venture, treat it as a real operating-business and premises/permit matter rather than a generic career question. The primary Parashara/KP topics are capital and cash flow (`2/8/11/12`), premises and build-out (`4/11/12`), vendors/contracts (`3/7`), permits/compliance and obstacles (`6/9/10/11`), operations (`6/10`), customers/revenue (`7/10/11`), and business success (`2/6/10/11`). Review D2, D4, and D10; the Bhava Chalit shifts; KP cusp significators; the BNN chain; and the event-date MD/AD/PD and transits before drawing any timing conclusion.
 
@@ -436,6 +499,10 @@ Append new entries chronologically. A status snapshot is not the same as a compl
 | 27 Aug 2026 local / 28 Aug 2026 UTC | A deep partial lunar eclipse was visible across the Americas and peaked at approximately 9:13–9:14 PM PDT on 27 Aug in Everett (04:13–04:14 UTC on 28 Aug). In the canonical Lahiri framework its eclipse point was approximately Aquarius 10°37′ in Shatabhisha, about 14°24′ from Divya's natal Moon at Aquarius 25°01′. Divya requested an interpretation of its effect. | Astronomical timing and visibility from NASA GSFC/NASA Science; sidereal degree and chart relationship derived from the saved Lahiri chart and contemporary sidereal ephemeris references | Completed astronomical event and dated guidance anchor, not a reported personal or business outcome. The eclipse was in Divya's Moon sign but was not a close conjunction to the natal Moon; no store opening, permit result, health event, or other outcome is inferred. |
 | 1 Sep 2026 | A building inspection was conducted for the iSMASH Everett premises, and corrections were required. | User-supplied project event | Completed inspection with an adverse/corrective result. The correction list, responsible parties, completion dates, and reinspection date have not yet been supplied. No approval or occupancy authorization is implied. |
 | 4 Sep 2026; status reported 5 Sep 2026 | Bharath spoke with the inspector and confirmed that a temporary certificate of occupancy would not be issued. Bharath engaged the iSMASH franchisor team for assistance, but no concrete resolution had emerged as of the report. | User-supplied project event and status | Completed inspector discussion and franchisor escalation. Temporary CO is unavailable; final-CO requirements, correction completion, reinspection timing, franchisor commitments, and public-opening date remain unresolved. This supersedes prior opening-date forecasts that depended on temporary occupancy approval. |
+| 24 Sep 2026; planning status | Bharath reported an intention to open a second franchise store after the current venture. | User-supplied strategic intention | Planned only. No territory, site, franchise agreement, lease, financing, lender/franchisor approval, construction plan or opening date has been supplied. Do not treat this as a committed expansion until the first store has opened and produced sufficient verified operating history. |
+| 27 Sep 2026; project status | All contractor Change Orders are reported cleared. The landlord has filed the exit changes with the City; Carney plans to file the updated tenant-improvement plan during the week of 28 Sep–2 Oct; Bharath is working to close the high/low drinking-fountain and loading-gate items for inspection. | User-supplied project status | “COs” means Change Orders, not a Certificate of Occupancy. City acceptance/permit issuance, completed corrective work, passed final inspections, occupancy authorization, opening, and first revenue remain unconfirmed. This materially narrows the project from a payment/dispute blockage to permit-and-inspection closeout. |
+| 28 Sep 2026; well-being/status report | Divya is reportedly encountering obstacles frequently and feeling sad while trying to keep herself cheerful. | User-supplied subjective current-status report | This records Divya's reported emotional state under sustained project pressure; it is not a medical diagnosis. Duration, severity, effect on sleep/appetite/functioning, and any professional evaluation have not been supplied. |
+| 28 Sep 2026; public-status check | The official iSMASH Everett contact and locations pages continued to show the Everett venue as “Coming Soon”; hours and a grand-opening date had not been announced. | Official iSMASH Everett and locations pages, checked 28 Sep 2026 | Public marketing status only. It does not establish the City permit, inspection, Certificate of Occupancy, construction-readiness, staffing, or actual opening status. |
 
 ## 16. How to use this profile for later questions
 
