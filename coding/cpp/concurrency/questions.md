@@ -54,3 +54,9 @@ Pattern tags use kebab-case backtick labels and are mirrored in [patterns](./pat
    - Pattern tags: `producer-consumer`, `backpressure`, `cancellation`.
    - Solution: _Pending implementation in [solutions](./solutions.md)._
    - Complexity target: time `O(items + coordination)`, space bounded by queue capacities.
+
+9. Implement a writer-preference reader-writer lock without using `std::shared_mutex` internally.
+   - Expected pattern: mutex-protected reader count, waiting-writer count, writer flag, and separate condition variables.
+   - Pattern tags: `readers-writer-lock`, `condition-variable`.
+   - Solution: [Writer-Preference Reader-Writer Lock](./solutions.md#9-writer-preference-reader-writer-lock).
+   - Complexity target: `O(1)` bookkeeping per call, unbounded contention wait, up to `O(r)` reader wakeups; `O(1)` object state plus waiter resources.

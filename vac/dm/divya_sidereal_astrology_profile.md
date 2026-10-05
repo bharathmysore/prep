@@ -202,6 +202,20 @@ Virgo rising makes Mercury the ascendant and 10th-house lord. The chart combines
 - Jupiter, the 4th- and 7th-house lord, aspects its own 7th house, the 9th house, and Venus in the 11th. Traditionally this supports learning, counsel, partnership capacity, and gains through trusted people, even though retrograde Jupiter may make the path reflective or nonstandard.
 - The Moon in the 6th often expresses care through useful service and problem-solving. It also makes emotional equilibrium more dependent on manageable workloads, sleep, and repeatable routines.
 
+### Arudha Lagna (AL) — public image and social projection
+
+Under the standard sign-count Jaimini method, Divya's **Arudha Lagna is Scorpio**:
+
+1. The D1 ascendant is Virgo and its lord Mercury occupies Aries, the 8th sign from Virgo when counted inclusively.
+2. Counting the same eight signs from Aries lands in Scorpio.
+3. Scorpio is neither Virgo itself nor the 7th sign from Virgo, so no Arudha exception or corrective placement applies.
+
+Classical Arudha Lagna is a sign-level pada; this profile does not assign it a longitude by projecting degree distance. Bhava Chalit and KP cusps do not recalculate the Arudha.
+
+Key placements from Scorpio AL are Jupiter in the 1st, Ketu in the 2nd, Moon in the 4th, Mercury in the 6th, Sun–Mars in the 7th, Rahu in the 8th, Venus in the 9th, and exalted Saturn in the 12th. The public projection can therefore appear strategic, resilient, private, research-oriented, and capable of handling difficult transformations. Jupiter in the AL sign adds an advisory, principled, teaching, or protective tone. AL lord Mars conjoined the Sun in the 7th from AL gives visible entrepreneurial drive and leadership through clients, partners, or the public, but it can also attract strong reactions when communication becomes forceful. Venus in the 9th supports goodwill, mentors, networks, and public grace, while Saturn in the 12th can make substantial effort remain behind the scenes before recognition arrives.
+
+The D10 reinforces this reading through Moon–Jupiter in its ascendant and Sun–Mars in its 10th. Arudha describes perception and reputation, not Divya's entire inner personality or a guaranteed level of fame.
+
 ## 5. D2 — Hora: wealth capacity and money style
 
 Parashari Sun/Moon Hora is used: odd signs assign the first half to Leo and second to Cancer; even signs reverse the order.
@@ -457,11 +471,106 @@ This is a dated snapshot, not permanent natal context.
 
 Jupiter is exalted in the 11th and near natal Venus by sign and degree, emphasizing networks, gains, mentors, and opportunities. Sun and Mercury transit the 10th, increasing career visibility. Saturn in the 7th asks for realism and durable agreements in partnership; Rahu in the 6th can intensify work and competition; Ketu with Venus in the 12th can increase travel, retreat, private work, or discretionary expense. Because Mercury/Jupiter/Rahu is also active, the strongest traditional theme through mid-September 2026 is opportunity through people and career change, paired with a need for careful due diligence.
 
+## 15A. Forecast window — 2 October 2026 through 31 March 2027
+
+**Analysis date and place:** 2 October 2026, using 12:00 PM PDT at Everett, Washington for the current transit snapshot. Future ingress and station times below are Pacific local times. Longitudes use standard Lahiri sidereal zodiac and true nodes.
+
+**Scope:** Symbolic well-being, career, finance, and growth, judged from the Virgo natal ascendant, Aquarius Moon, and Scorpio Arudha Lagna. Virgo Lagna remains primary for concrete outcomes and well-being; the Moon describes lived/emotional experience; Arudha Lagna is used only for public image, visibility, and response from others.
+
+### Current dasha and fine-period sequence
+
+The active period is **Mercury/Saturn/Saturn** from approximately 17 September 2026 to 19 February 2027, followed by **Mercury/Saturn/Mercury**. Boundaries can differ by about one day across software conventions.
+
+| Vimshottari level | Approximate Pacific-date interval | Main emphasis |
+|---|---|---|
+| Me/Sa/Sa/Saturn | Through 11 Oct 2026 | Maximum accountability, correction, delay, and consolidation |
+| Me/Sa/Sa/Mercury | 11 Oct–2 Nov | Documents, technical details, communication, and decisions |
+| Me/Sa/Sa/Ketu | 2–11 Nov | Elimination, uncertainty, and reassessment |
+| Me/Sa/Sa/Venus | 11 Nov–7 Dec | Agreements, money, diplomacy, reputation, and professional stabilization |
+| Me/Sa/Sa/Sun | 7–15 Dec | Authorities, leadership, permits, and formal decisions |
+| Me/Sa/Sa/Moon | 15–28 Dec | Operations, routines, and emotional fluctuation |
+| Me/Sa/Sa/Mars | 28 Dec–6 Jan 2027 | Action and escalation; manage conflict and haste |
+| Me/Sa/Sa/Rahu | 6–29 Jan | Volatility and unconventional help; verify claims and terms |
+| Me/Sa/Sa/Jupiter | 29 Jan–19 Feb | Best counsel, networks, practical support, and gains within the Saturn PD |
+| Me/Sa/Me/Mercury | 19 Feb–about 11 Mar | Paperwork, decisions, technical coordination, and rework |
+| Me/Sa/Me/Ketu | About 11–19 Mar | Pruning, reassessment, and avoiding premature conclusions |
+| Me/Sa/Me/Venus | About 19 Mar–11 Apr | Better diplomacy, customer response, career support, and financial stabilization |
+
+Mercury is the 1st/10th lord in the D1 and Bhava Chalit 8th, so its mahadasha advances life and career through correction, restructuring, risk management, and solving hidden complexity. Saturn is exalted in the D1 2nd but shifts to the Chalit 1st; as 5th/6th lord it can build durable resources and authority while personally increasing duty, compliance work, disputes, and fatigue. The Mercury–Saturn period therefore indicates **delayed, work-intensive progress rather than denial**.
+
+### Verified transit snapshot on 2 October 2026
+
+| Body | Lahiri-sidereal position | From Virgo Lagna | From Aquarius Moon | From Scorpio AL |
+|---|---:|---:|---:|---:|
+| Sun | Virgo 15°22′ | 1st | 8th | 11th |
+| Moon | Gemini 05°14′ | 10th | 5th | 8th |
+| Mars | Cancer 08°30′ | 11th | 6th | 9th |
+| Mercury | Libra 08°47′ | 2nd | 9th | 12th |
+| Jupiter | Cancer 25°41′ | 11th | 6th | 9th |
+| Venus | Libra 14°15′ | 2nd | 9th | 12th |
+| Saturn (R) | Pisces 17°12′ | 7th | 2nd | 5th |
+| Rahu (true) | Aquarius 04°50′ | 6th | 1st | 4th |
+| Ketu (true) | Leo 04°50′ | 12th | 7th | 10th |
+
+Saturn made its retrograde exact crossing of the Pisces 17°41′ partnership cusp/opposition to the Virgo ascendant on **26 September 2026 at about 8:54 AM PDT**. It is separating on 2 October and recrosses direct on **18 February 2027 at about 1:12 AM PST**. These are accountability and relationship/vendor-axis markers, not predictions of harm.
+
+### Slow-transit phases in the three reference frames
+
+| Transit phase | Virgo Lagna: material delivery | Aquarius Moon: lived experience | Scorpio AL: public response |
+|---|---|---|---|
+| Saturn in Pisces throughout | 7th: vendors, contracts, partners, customers; opposition to Lagna increases personal burden | 2nd: final Sade-sati phase stresses money, family security, speech, and values | 5th: strategic growth is slow, tested, and potentially durable |
+| Jupiter in Cancer through 30 Oct | 11th: allies, leads, networks, and gains | 6th: benefit comes through problem-solving and heavy work | 9th: advisers, goodwill, and reputational protection |
+| Jupiter in Leo, 30 Oct–24 Jan | 12th: startup costs, leakage, and backstage work | 7th: clients, partners, and counsel can help | 10th: stronger career/business visibility |
+| Jupiter returns to Cancer 24 Jan | 11th: material gains and networks regain support | 6th: workload remains substantial | 9th: mentors and goodwill remain protective |
+| Rahu Aquarius → Capricorn 25 Nov | 6th → 5th: obstacle-fighting turns toward innovation and calculated promotion | 1st → 12th: less identity/emotional fog, but sleep and expense need attention | 4th → 3rd: more initiative and bolder marketing; avoid exaggeration |
+| Mars Cancer → Leo 12 Nov; retrograde 10 Jan; back Cancer 9 Mar | 11th → 12th → 11th: action and leads, then cost/backstage rework, then gains pursued again | 6th → 7th → 6th: operational friction shifts to partners/customers and returns to workload | 9th → 10th → 9th: action becomes highly visible; conflict can also become public |
+
+The apparent contradiction is central: from 30 October through 24 January, Jupiter can improve public visibility and partner/customer support from the Moon and Arudha frames while occupying the 12th from Virgo Lagna. **Visible progress can therefore precede profitability**, with capital outflow or backstage work remaining high.
+
+### Key transit turns
+
+- Venus is retrograde 3 October–13 November, returns from Libra to Virgo on 5 November, and re-enters Libra on 22 November. Reprice, renegotiate, and correct terms before treating a financial agreement as settled.
+- Mercury is retrograde 24 October–13 November and again 9 February–3 March. These periods favor review, resubmission, debugging, and written confirmation over assumptions.
+- Mars enters Leo on 12 November, turns retrograde on 10 January, and returns to debilitated Cancer on 9 March. Public activity can be high, but aggressive scaling, conflict, and unmanaged cost are less supported during the retrograde phase.
+- True Rahu leaves Aquarius and Ketu leaves Leo on 25 November. This reduces the node's direct occupation of Divya's Moon sign and removes Ketu from the 10th from Arudha, giving partial emotional and public-direction relief; Rahu then becomes 12th from the Moon, so sleep, private worry, and expenses still need management.
+- Saturn turns direct on 10 December. Its direct cusp/ascendant-axis recrossing occurs 18 February; its 3rd aspect exactly reaches natal Mars around 4–5 March and natal Sun around 6 March. Read this as responsibility, authority scrutiny, and stamina pressure—not a medical or calamity prediction.
+- Jupiter enters Leo on 30 October, turns retrograde on 12 December, and returns to Cancer on 24 January. The return restores its 11th-house support from Virgo Lagna, though results still require work because it is 6th from the Moon.
+
+### Four-method reconciliation
+
+- **Parashara and vargas:** D1 Mercury as 1st/10th lord in the 8th makes transformation and correction the route to career progress. Exalted Saturn in the 2nd supports durable resources but brings 6th-house duty. D10 remains constructive—Moon–Jupiter in its ascendant, Sun–Mars in its 10th, and Saturn in its 2nd—while D4 shows premises gains after corrections and expenditure. D6/D30 support disciplined maintenance and timely professional help; they do not diagnose illness.
+- **Bhava Chalit:** Saturn's shift `2 → 1` explains why financial/operational responsibility is personally heavy. Venus's shift `11 → 10` and Jupiter's shift `3 → 2` preserve professional and resource potential. Rahu's shift `10 → 9` favors unconventional expertise, advisers, or higher-level approvals rather than simple instant recognition.
+- **KP:** For well-being, the active Saturn links the pressure houses `1/6/8` with constructive `2/9/10` results through its Mars star and Venus sub. For career and finance, Mercury links `1/10/8` to Venus's `2/9/10`; the 6th and 10th cusp sub-lord Venus supports delivery through correction, diplomacy, and professional action, while the 11th cusp sub-lord Jupiter makes gains dependent on advisers, clients, partners, and premises. The same period can therefore produce both obstruction and outcome.
+- **BNN:** Mercury → Mars/Sun → Venus → Moon → Saturn, while Saturn → Venus → Moon → Saturn and Jupiter → Mars/Sun → Venus → Moon → Saturn. Documents and decisions must pass through visible action, money/alliances, customer-service/emotional load, and patient structure. Jupiter protects the chain; retrograde Mars adds rework and conflict risk.
+
+### Topic outlook and comparative monthly grades
+
+Scores are comparative ease/support on a 10-point scale, not probabilities or guarantees.
+
+| Month | Well-being | Career | Finance | Growth | Compact reading |
+|---|---:|---:|---:|---:|---|
+| Oct 2026 | 4.5 | 5.0 | 5.0 | 4.5 | Densest through 11 Oct; 12–23 Oct is better for documentation; Mercury retrograde after 24 Oct makes rework more likely. |
+| Nov 2026 | 5.0 | 5.5 | 5.5 | 5.5 | 1–13 Nov remains revision-prone. Conditions improve after 14 Nov; 22–30 Nov is the cleanest portion, though costs remain. |
+| Dec 2026 | 5.5 | 6.5 | 6.0 | 5.5 | Better for formal progress. Saturn direct and the Sun fine period favor authorities around 7–15 Dec; protect rest after 15 Dec. |
+| Jan 2027 | 4.5 | 5.5 | 5.0 | 5.5 | 6–24 Jan is volatile. Jupiter's return on 24 Jan and Jupiter fine period from 29 Jan materially improve support. |
+| Feb 2027 | 4.5 | 6.5 | 6.5 | 6.0 | 29 Jan–8 Feb is the cleanest combined window. Later February is review-heavy; the 18 Feb Saturn recrossing brings results with partner dependence and strain. |
+| Mar 2027 | 4.5 | 5.5 | 5.5 | 5.0 | Mercury direct on 3 Mar helps, but 4–10 Mar is responsibility/rework heavy. Venus's fine period after about 19 Mar improves diplomacy and stabilization, not rapid expansion. |
+
+**Well-being — mixed/demanding:** The symbolic pressure is accumulated responsibility, disrupted recovery, and workload—not a specific disease prediction. The most sensitive windows are 2–11 October, 1–13 November, 6–24 January, and about 18 February–10 March. Maintain sleep, meals, movement, preventive care, and honest emotional support; persistent symptoms or sustained sadness require qualified clinical care.
+
+**Career — moderate/constructive:** The career promise remains intact. The better forward-moving windows are **22 November–15 December** and **29 January–8 February**. Saturn keeps vendors, authorities, clients, and formal agreements as the gatekeepers. March is better for correcting and stabilizing systems than for a major launch or expansion.
+
+**Finance — mixed, improving in windows:** Late November–December and late January–early February are relatively better. Through 24 January, visible progress may coexist with continuing expenditure. Preserve reserves, distinguish booked revenue from cash collected, and avoid treating promotional interest as profitability.
+
+**Growth — moderate but controlled:** Build one repeatable operating model, strengthen documentation, and scale only after actual unit economics and cash flow are visible. Rahu in the 5th from Virgo after 25 November can stimulate inventive promotion but also speculative overreach. Public image can grow faster than cash flow from November through January.
+
+**Overall graded conclusion:** well-being **mixed/demanding**; career **moderate and constructive**; finance **mixed with improving windows**; growth **moderate if controlled**. The cleanest combined support is **29 January–8 February 2027**. Late March improves negotiation and customer handling, but substantial expansion remains better after systems and cash flow prove stable.
+
 ## Current business context and dated event anchor
 
-**Status date:** 27 September 2026 for the latest business update
+**Status date:** 27 September 2026 for the latest user-supplied business update; public listing rechecked 28 September 2026
 
-**Source distinction:** The project phase, contractor issues, and permitting status below are user-supplied. The iSMASH business model, Everett location, address, and “Opening Soon” status were corroborated from the company's public locations page on 8 July 2026; no later public-listing check is implied here.
+**Source distinction:** The project phase, contractor issues, and permitting status below are user-supplied. The iSMASH business model, Everett location, and address were corroborated from the company's public pages on 8 July 2026; the “Coming Soon” public-listing status was rechecked on 28 September 2026. Public marketing status does not establish permit or occupancy status.
 
 | Field | Saved context |
 |---|---|

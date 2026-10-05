@@ -298,3 +298,62 @@ Snippets assume C++17 standard headers and `using namespace std;`.
 * **Optimizations**: Runtime: avoid nested unknown lock order. Memory: no extra lock graph.
 * **Edge Cases To Consider**: Same account, insufficient funds, concurrent opposite transfers, negative amount policy.
 * **L7 Follow-ups**: Real transfers need idempotency, ledger records, audit, and transactional durability.
+
+## 9. Writer-Preference Reader-Writer Lock
+
+* **Pattern / Idea**: A monitor: one mutex protects admission state; separate condition variables park readers and writers. Recognize this when many readers may overlap, writers need exclusive access, and the preference policy must be explicit. A plain mutex is the simpler baseline but serializes readers too.
+* **Company Frequency Tags**: Public signal: not assessed; Domain fit: `NVIDIA: Medium` (editorial systems/concurrency relevance, not a reported interview-frequency score).
+* **Question**: Implement a nonrecursive reader-writer lock that prevents new readers from bypassing an enrolled writer, without using `std::shared_mutex` internally.
+* **Pattern Tags**: `readers-writer-lock`, `condition-variable`.
+* **Test Cases**: [Scenarios, executable suite, and run instructions](./test_cases.md#9-writer-preference-reader-writer-lock).
+* **Requirements / API**: `lock_shared()` / `unlock_shared()` for readers and `lock()` / `unlock()` for writers. Blocking RAII usage works with `std::shared_lock<ReaderWriterLock>` and `std::unique_lock<ReaderWriterLock>`. No try-lock, timed/cancellable acquisition, recursion, upgrade, downgrade, or close. This is not a complete replacement for the standard `SharedMutex` interface. Calls must be properly paired by the acquiring thread; do not move ownership to another thread. All users, including waiters, must finish before destruction. Counter sizes assume the number of simultaneous callers fits in `std::size_t`.
+* **C++ Code**: The complete, tested implementation is [reader_writer_lock.h](./reader_writer_lock.h); it is the canonical source rather than a second copy of the algorithm. Example consumer:
+
+  ```cpp
+  #include "reader_writer_lock.h"
+  #include <mutex>
+  #include <shared_mutex>
+
+  class SharedValue {
+  public:
+      int read() const {
+          std::shared_lock<ReaderWriterLock> guard(lock_);
+          return value_; // Return a value, not an unprotected borrowed reference.
+      }
+
+      void write(int value) {
+          std::unique_lock<ReaderWriterLock> guard(lock_);
+          value_ = value;
+      }
+
+  private:
+      mutable ReaderWriterLock lock_;
+      int value_ = 0;
+  };
+  ```
+
+* **Code Explanation**:
+  1. `mutex_` protects `active_readers_`, `waiting_writers_`, and `writer_active_`. It is not held throughout the caller's critical section; logical ownership is represented by those fields.
+  2. A reader waits for `!writer_active_ && waiting_writers_ == 0`, increments the reader count, and releases the bookkeeping mutex on return. Shared ownership continues until `unlock_shared()`.
+  3. A writer increments `waiting_writers_` before waiting. This is the enrollment boundary that closes the gate to later readers. Merely starting a thread or calling `lock()` does not yet establish priority.
+  4. The writer waits for `!writer_active_ && active_readers_ == 0`. Decrementing its waiting count and setting the writer flag happen under the same mutex, so a reader cannot slip between them.
+  5. The last departing reader wakes one writer. A departing writer wakes one queued writer, or broadcasts to readers when no writers remain queued. Notification is not ownership transfer: every woken thread reacquires the mutex and rechecks its predicate.
+  6. Predicate waits handle spurious wakeups and avoid a lost-wakeup gap between checking the condition and sleeping. Ordinary protected payload accesses become visible through the internal mutex's release/acquire synchronization; the fields need not be atomics.
+  7. Acquiring the internal mutex can fail before any admission state changes. The untimed CV wait and our `noexcept` scalar predicates have no recoverable exception path after writer enrollment; failed mutex reacquisition terminates under the standard contract. If adding cancellation, timeout, or a throwing predicate, explicitly undo enrollment and wake newly eligible callers. Exceptions in the user's critical section are handled by the external RAII guard, not by cancelling a wait.
+* **Invariants**:
+  - `writer_active_` implies `active_readers_ == 0`; there is at most one active writer.
+  - `active_readers_ > 0` implies no active writer. Shared holders may read, not mutate the protected data without separate synchronization.
+  - A new reader increments its count only when there is no active writer and no enrolled writer.
+  - All predicate reads, state transitions, and notifications use the same internal mutex.
+* **Complexity**: `O(1)` bookkeeping per call and `O(1)` lock-object state. Actual acquisition time is unbounded under contention or an unfair scheduler. Broadcasting can wake `r` readers and induce `O(r)` scheduling/recheck work; blocked callers also consume `O(r + w)` aggregate thread/waiter resources outside the object. This is a blocking lock, not lock-free or wait-free.
+* **Optimizations**:
+  - **Runtime**: Separate CVs avoid waking an ineligible reader instead of the only eligible writer. Reader broadcasting enables concurrent work. Benchmark against a plain mutex and `std::shared_mutex`: shared counter/cache-line contention and bookkeeping can outweigh parallelism for tiny reads. Sharding or immutable snapshots can reduce contention, at a cost in semantics and memory.
+  - **Memory**: Counters avoid an application-level per-waiter FIFO queue. Explicit FIFO/phase-fair policies need additional scheduling state; do not add them unless the fairness contract requires them.
+* **Edge Cases To Consider**: Last-reader wakeup, multiple queued writers, writer-to-reader broadcast, spurious wakeups, RAII unwinding, and quiescent destruction. Assertions diagnose some misuse but do not track individual thread ownership. Reacquiring a shared lock while already holding one can deadlock when a writer is queued. Upgrading while retaining a read lock can deadlock even with one upgrading reader because the writer waits for that reader count to reach zero.
+* **L7 Follow-ups**:
+  - **Fairness**: Writer preference prevents new readers from extending an existing reader cohort indefinitely after writer enrollment. It does not promise FIFO ordering, bounded waiting for an individual writer, or starvation freedom. Continuous writers can starve readers; thread scheduling and mutex acquisition remain outside this policy.
+  - **Failure matrix**: A spurious wake rechecks the predicate; a critical-section exception releases through RAII; a holder that never releases can block others indefinitely; concurrent destruction, wrong-thread unlock, and unbalanced calls violate the contract. This lock cannot recover protected state after a process crash.
+  - **Observability**: Measure read/write acquisition and hold-time distributions separately, plus contention and writer backlog using low-overhead instrumentation. Do not invoke arbitrary callbacks while holding the bookkeeping mutex.
+  - **Rollout / rollback**: Compare correctness, throughput, and reader/writer P99 against the existing synchronization primitive on representative workloads. Switch implementations only with all users quiescent; two different locks do not protect the same data against each other. Roll back the policy at a drained lifecycle boundary.
+  - **Leadership decision**: Is writer preference acceptable, or does the product require reader latency bounds or FIFO/phase fairness? This decides whether the simple implementation fits the contract.
+* **Useful Public References**: [C++17 condition-variable semantics](https://timsong-cpp.github.io/cppwp/n4659/thread.condition.condvar), [shared-lock RAII](https://eel.is/c++draft/thread.lock.shared). These establish library behavior, not company interview frequency. Prefer a standard primitive in production unless a measured policy requirement justifies a custom one.

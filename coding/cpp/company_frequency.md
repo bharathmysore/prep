@@ -307,6 +307,7 @@ Use this index to bias final-stage practice toward a target company while still 
 | Medium | Domain | [Concurrent Token Bucket](./concurrency/solutions.md#3-concurrent-token-bucket) | concurrency | L7 domain fit; no exact public frequency in reviewed CSVs |
 | Medium | Domain | [Deadlock-Free Account Transfer](./concurrency/solutions.md#7-deadlock-free-account-transfer) | concurrency | L7 domain fit; no exact public frequency in reviewed CSVs |
 | Medium | Domain | [Readers-Writer Cache](./concurrency/solutions.md#5-readers-writer-cache) | concurrency | L7 domain fit; no exact public frequency in reviewed CSVs |
+| Medium | Domain | [Writer-Preference Reader-Writer Lock](./concurrency/solutions.md#9-writer-preference-reader-writer-lock) | concurrency | Editorial systems/concurrency foundation for the NVIDIA ramp; public frequency not assessed |
 | Medium | Domain | [Single-Flight Duplicate Suppression](./concurrency/solutions.md#4-single-flight-duplicate-suppression) | concurrency | L7 domain fit; no exact public frequency in reviewed CSVs |
 | Medium | Domain | [Thread Pool](./concurrency/solutions.md#2-thread-pool) | concurrency | L7 domain fit; no exact public frequency in reviewed CSVs |
 

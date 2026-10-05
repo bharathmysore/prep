@@ -54,4 +54,6 @@ Use the top-20 focus index when time is short. Use the company focus index after
 
 Runnable queue exercise: [single-threaded header](./stacks_queues/circular_queue.h), [thread-safe header](./stacks_queues/thread_safe_circular_queue.h), [teaching solution](./stacks_queues/solutions.md#7-fixed-capacity-circular-queue), and [both test suites/run instructions](./stacks_queues/test_cases.md#7-fixed-capacity-circular-queue).
 
+Runnable reader-writer lock exercise: [C++17 header](./concurrency/reader_writer_lock.h), [tests](./concurrency/reader_writer_lock_test.cpp), [teaching solution](./concurrency/solutions.md#9-writer-preference-reader-writer-lock), and [run instructions](./concurrency/test_cases.md#9-writer-preference-reader-writer-lock). Writer preference is explicit; FIFO ordering and starvation freedom are not promised.
+
 For every solved question, include a short question explanation, company frequency tags, a link to external test cases, C++ code, explanation, invariants, time and space complexity, runtime optimizations, memory optimizations, edge cases to consider, and L7 follow-ups about scale, concurrency, failure, observability, and tradeoffs.

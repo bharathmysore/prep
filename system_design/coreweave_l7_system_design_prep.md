@@ -20,6 +20,8 @@ Useful public anchors:
 - Kubernetes scheduling framework: https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/
 - Kubernetes gang scheduling: https://kubernetes.io/docs/concepts/scheduling-eviction/gang-scheduling/
 - Kubernetes Dynamic Resource Allocation: https://kubernetes.io/docs/concepts/resource-management/dynamic-resource-allocation/
+- Kubernetes v1.37 DRA updates: https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/
+- Kubernetes v1.37 workload-aware scheduling: https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/
 - Kueue all-or-nothing with ready Pods: https://kueue.sigs.k8s.io/docs/tasks/manage/setup_wait_for_pods_ready/
 - Kueue Dynamic Resource Allocation quota management: https://kueue.sigs.k8s.io/docs/concepts/dynamic_resource_allocation/
 - NVIDIA GPU Operator DRA Driver for GPUs: https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/dra-intro-install.html
@@ -246,8 +248,12 @@ Implementation details:
 - Map each tenant-facing accelerator SKU to one or more `DeviceClass` names, including full GPU, MIG, and shared-device classes.
 - Charge queue quota by device count for full GPUs, by published partition counters for MIG-like devices, and by requested consumable capacity for shared devices when the driver exposes those fields.
 - Require queue configuration to choose one accounting path for a device class: explicit claim-template mappings or DRA-backed extended resources. Mixing both makes quota attribution hard to explain and can double-charge or undercharge.
+- Treat Kubernetes 1.37 DRA-backed extended resources as the low-friction migration path for ordinary pod specs, not as proof that the platform can skip queue accounting. The same `DeviceClass` still needs tenant-facing quota, admission, and audit rules.
+- Use DRA device taints and tolerations to remove bad GPUs, reserve experimental hardware, or fence dedicated tenant pools without inventing a parallel scheduler-side quarantine model.
+- For partitioned devices, require compatibility-group metadata before placing mixed MIG, vGPU, or shared profiles on the same physical GPU. Reject incompatible combinations at scheduling time rather than discovering them during node preparation.
 - Treat Kueue-style workload admission as quota reservation, not proof that the concrete GPU has been allocated.
 - Use a binding timeout and readiness gate: if the Kubernetes scheduler or DRA driver cannot allocate and prepare every claim, evict the workload, release quota, and requeue the attempt.
+- For gang jobs, prefer PodGroup or workload-level ResourceClaims when the whole training attempt should share a claim. Per-pod templates are still useful for homogeneous replicas, but shared claims are clearer for multi-node domains, common storage/network devices, or topology bundles.
 - Keep topology-aware scheduling conservative until the runtime can prove that DRA device accounting and topology assignments are consistent for the same attempt.
 
 Recommended answer: model DRA as a device-allocation contract below the queue scheduler. Use it for heterogeneous GPU SKUs, MIG, shared devices, and secure multi-node NVLink domains, while preserving all-or-nothing gang semantics and idempotent quota release.
@@ -1235,8 +1241,11 @@ Options:
 - Add a reservation shim above DRA
   - Pros: stronger end-to-end placement contracts.
   - Cons: more custom control-plane state and more conflict handling.
+- Use Kubernetes workload-aware scheduling directly
+  - Pros: 1.37 Beta Workload/PodGroup APIs, PodGroup queueing, workload-aware preemption, and shared DRA ResourceClaims reduce the amount of custom gang-scheduling glue.
+  - Cons: advanced topology-aware scheduling and Kueue interoperability are still evolving, and feature gates must be deliberately enabled and validated per cluster version.
 
-Recommended answer: use DRA for device selection and claim preparation, but keep topology reservations explicit in the scheduler state. If exact DRA binding conflicts with the reserved topology, fail the attempt quickly, release quota, and retry from a fresh fleet snapshot.
+Recommended answer: use DRA for device selection and claim preparation, and adopt workload-aware scheduling where the cluster version and controller integration are mature enough. Keep topology reservations explicit in scheduler state until DRA, Kueue, and topology-aware scheduling agree on the same capacity model. If exact DRA binding conflicts with the reserved topology, fail the attempt quickly, release quota, and retry from a fresh fleet snapshot.
 
 ---
 

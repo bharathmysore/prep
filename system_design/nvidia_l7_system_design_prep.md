@@ -17,6 +17,8 @@ Useful public references:
 - NVIDIA shared GPU tenant-cluster pattern with KAI Scheduler and vCluster: https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/
 - NVIDIA DCGM health monitoring: https://docs.nvidia.com/datacenter/dcgm/latest/learn/modules/health-monitoring.html
 - Kubernetes Dynamic Resource Allocation: https://kubernetes.io/docs/concepts/resource-management/dynamic-resource-allocation/
+- Kubernetes v1.37 DRA updates: https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/
+- Kubernetes v1.37 workload-aware scheduling: https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/
 - Kueue DRA quota management: https://kueue.sigs.k8s.io/docs/concepts/dynamic_resource_allocation/
 
 For L7, the interviewer is testing whether you can turn an ambiguous infrastructure problem into a durable architecture, identify the highest-risk bottleneck, explain tradeoffs, and propose an execution path that multiple teams could operate.
@@ -1153,6 +1155,9 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
         * Converts high-level accelerator requests into runtime-visible `DeviceClass` and `ResourceClaimTemplate` shapes when using Kubernetes Dynamic Resource Allocation.
         * For NVIDIA GPU Operator deployments, treats the `GPUCluster` DRA path as separate from the legacy `ClusterPolicy` device-plugin path, with managed classes such as `gpu.nvidia.com`, `mig.nvidia.com`, and `vfio.gpu.nvidia.com`.
         * Tracks whether quota is charged by device count, partition counters such as MIG capacity, or consumable capacity for shared devices such as time-slicing or MPS.
+        * Supports the Kubernetes 1.37 migration path where a `DeviceClass` can satisfy legacy extended-resource requests, while still keeping tenant quota and audit semantics in the NVIDIA scheduler layer.
+        * Uses DRA device taints and tolerations to fence unhealthy, experimental, or dedicated devices at the device level rather than only at the node level.
+        * Validates partition compatibility groups for mixed MIG, vGPU, and shared profiles so incompatible slices on the same physical device fail in scheduler admission, not during late node preparation.
         * Keeps scheduler admission separate from final device binding: queue admission says quota is available, while the Kubernetes scheduler and DRA driver still allocate and prepare the concrete device.
         * Invariant: an admitted workload must either bind every required claim for the current attempt generation or be evicted/requeued before its quota reservation leaks.
 
@@ -1190,10 +1195,12 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
     * **DRA-backed GPU allocation**
       * Dynamic Resource Allocation is useful when workload authors need device classes, attribute filtering, per-claim configuration, full GPU versus MIG selection, or secure multi-node GPU constructs without hard-coding vendor resource names everywhere.
       * The scheduler must model a two-step flow: the queue layer admits the workload and charges quota, then DRA resolves concrete devices through `ResourceSlice` inventory, claim allocation, binding conditions, and device preparation.
+      * Kubernetes 1.37 makes the migration story stronger: DRA-backed extended resources reach GA, device taints become stable, workload-level `ResourceClaim` support reaches Beta, and scheduler prequeueing hints narrow DRA-triggered requeues to affected pods instead of broad rescans.
       * Operator design matters: DRA-based GPU clusters need their own install and upgrade workflow, CDI-compatible runtime setup, and telemetry attribution for `ResourceSlice`-backed allocations.
+      * Workload-aware scheduling can now express PodGroup-level gang behavior and shared claims in Beta, but advanced CompositePodGroup and topology-aware scheduling features still require careful feature-gate and version validation.
       * The main tradeoff is sharper device semantics versus more places for admission and binding to diverge. If a claim cannot be prepared, the platform needs timeout-driven eviction, quota release, and idempotent retry.
       * Preemption remains a caveat for DRA resources in upstream Kubernetes documentation: a higher-priority DRA workload may wait until a conflicting running workload releases the device. Treat preemption support as runtime-specific until verified.
-      * Recommendation: use DRA for heterogeneous GPU fleets, MIG, secure multi-node NVLink domains, and device-level configuration, but keep scheduler explainability around both quota admission and final claim binding.
+      * Recommendation: use DRA for heterogeneous GPU fleets, MIG, secure multi-node NVLink domains, device-level quarantine, and gradual extended-resource migration, but keep scheduler explainability around both quota admission and final claim binding.
 
 ---
 

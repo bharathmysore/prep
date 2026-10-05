@@ -191,6 +191,8 @@ Use this file for short-list practice when there is not enough time to sweep eve
 
 Storage-ramp foundation (outside the ranked twenty): [Fixed-Capacity Circular Queue — single-threaded and thread-safe](./stacks_queues/solutions.md#7-fixed-capacity-circular-queue). Domain fit only; no public-frequency score is assigned, so the public-ranked lists remain unchanged.
 
+Additional storage-ramp concurrency practice: [Writer-Preference Reader-Writer Lock](./concurrency/solutions.md#9-writer-preference-reader-writer-lock), including executable tests and reader-starvation/FIFO tradeoffs. Domain fit only; this addition does not alter the public-ranked category, cross-company, or company-specific lists.
+
 | Rank | Question | Category | Signal |
 | --- | --- | --- | --- |
 | 1 | [Search Rotated Sorted Array](./binary_search/solutions.md#2-search-rotated-sorted-array) | binary search | Public High (6m 95.8) |

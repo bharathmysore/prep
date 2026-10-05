@@ -78,3 +78,42 @@ Concrete test cases live here so solution explanations stay focused on approach,
 | Opposite transfers | thread A transfers X->Y while thread B transfers Y->X | Both complete without deadlock. |
 | Insufficient funds | transfer more than balance | No balances change or failure returned. |
 | Self transfer | from and to same account | No deadlock and balance unchanged. |
+
+## 9. Writer-Preference Reader-Writer Lock
+
+* **Question**: Implement writer-preference shared/exclusive locking with a mutex and condition variables.
+* **Solution**: [Teaching explanation](./solutions.md#9-writer-preference-reader-writer-lock).
+* **Executable tests**: [reader_writer_lock_test.cpp](./reader_writer_lock_test.cpp), against [reader_writer_lock.h](./reader_writer_lock.h).
+
+| Case | Input / Scenario | Expected |
+| --- | --- | --- |
+| Overlapping readers | One thread retains shared ownership while another acquires it | Second reader completes without waiting for the first to release |
+| Writer blocks reader | Reader attempts entry while writer holds lock | No observed entry during the hold; reader completes after release |
+| Writer blocks writer | First writer holds lock; second writer's enrollment is confirmed | Second writer waits, then completes after release |
+| Last-reader wakeup | Two distinct threads hold shared ownership; writer is enrolled | Releasing one reader is insufficient; releasing the last enables writer |
+| Writer preference | Hold a reader, enroll two writers, then introduce a late reader | Both writers enter before the late reader; either writer order is valid |
+| Reader broadcast | Four readers contend behind a writer and remain held after acquisition | All four can acquire before any reader releases |
+| Exclusive RAII | Throw inside an exclusive critical section | A later reader acquires successfully |
+| Shared RAII | Throw inside a shared critical section | A later writer acquires successfully |
+| Contention / visibility | Three writers each increment 2,000 times; four readers each check 2,000 times | Final value and mirror both equal 6,000; no conflicting holders or inconsistent reads |
+| Compile-time ownership | Attempt type-trait checks for copy and move | Lock is neither copyable nor movable |
+
+The runner has nine runtime tests and compile-time ownership checks. The friend accessor is defined only in the test file and reads writer enrollment under the real internal mutex; it adds no public observer API. It does not claim that starting a writer thread means that writer is already enrolled. Bounded negative future waits are timing-based observations, not proofs of scheduler progress. Positive handshakes and a per-test watchdog bound hangs. Each thread releases its own locks; async workers are joined by completion/get before lock destruction. The relaxed diagnostic occupancy counter intentionally adds no payload synchronization that could conceal a missing lock edge from ThreadSanitizer.
+
+### Run the local software tests
+
+From `/Users/bmysoren/prep` (use `/tmp` instead of `/private/tmp` on Linux):
+
+```bash
+rwlock_test_dir=$(mktemp -d /private/tmp/rwlock-tests.XXXXXX)
+c++ -std=c++17 -Wall -Wextra -Wpedantic -Werror -pthread coding/cpp/concurrency/reader_writer_lock_test.cpp -o "$rwlock_test_dir/basic"
+"$rwlock_test_dir/basic"
+c++ -std=c++17 -O2 -DNDEBUG -Wall -Wextra -Wpedantic -Werror -pthread coding/cpp/concurrency/reader_writer_lock_test.cpp -o "$rwlock_test_dir/optimized"
+"$rwlock_test_dir/optimized"
+c++ -std=c++17 -g -Wall -Wextra -Wpedantic -Werror -pthread -fsanitize=address,undefined -fno-omit-frame-pointer coding/cpp/concurrency/reader_writer_lock_test.cpp -o "$rwlock_test_dir/asan_ubsan"
+"$rwlock_test_dir/asan_ubsan"
+c++ -std=c++17 -g -Wall -Wextra -Wpedantic -Werror -pthread -fsanitize=thread coding/cpp/concurrency/reader_writer_lock_test.cpp -o "$rwlock_test_dir/tsan"
+"$rwlock_test_dir/tsan"
+```
+
+Verification on 2026-10-03, Apple Clang 21, macOS arm64: all nine tests first failed against the unimplemented API scaffold, then passed in normal, optimized/NDEBUG, ASan/UBSan, and separate TSan builds with no sanitizer reports. This is local software evidence, not a proof of fairness/all possible interleavings, a Linux-kernel test, or a learner-confidence confirmation. Critical-section exception tests verify RAII release, not an injected CV wait failure; untimed wait with these non-throwing predicates has no recoverable wait-exception branch. Misuse and concurrent destruction are precondition violations, not supported recovery cases.

@@ -13,6 +13,7 @@ Pattern tags are mirrored from [questions](./questions.md); keep both directions
 | Thread pool | Execute submitted tasks on workers | Task queue plus shutdown flag defines worker lifecycle | Submit `O(1)`, execution depends on tasks, space `O(queue)` | Runtime: avoid waking all workers for one task. Memory: bounded queue option. |
 | Futures/promises executor | Need result propagation | Each task completes promise exactly once | Time task-dependent, space `O(tasks)` | Runtime: move callables. Memory: release packaged tasks after completion. |
 | Readers-writer cache | Many reads, fewer writes | Readers see a coherent value protected by shared/exclusive lock | Time `O(1)` average per access, space `O(n)` | Runtime: `std::shared_mutex` for read-heavy cases. Memory: avoid duplicate snapshots unless needed. |
+| Writer-preference reader-writer lock | Implement shared/exclusive admission and an explicit preference policy | A writer never overlaps another holder; new readers wait behind enrolled writers | `O(1)` bookkeeping, unbounded wait, up to `O(r)` wakeups; `O(1)` object state | Runtime: separate reader/writer CVs; benchmark against a mutex. Memory: counters instead of an explicit FIFO queue. |
 | Token bucket rate limiter | Limit average rate with bursts | Tokens never exceed capacity and refill with elapsed time | Time `O(1)` per request, space `O(1)` | Runtime: lazy refill on request. Memory: scalar state only. |
 | Semaphore resource limiter | Bound concurrent access | Permits in use plus available permits equals capacity | Time `O(1)` under lock, space `O(waiters)` | Runtime: condition variable. Memory: no per-resource object if resources are identical. |
 | Countdown latch / barrier | Wait for N events or threads | Waiters unblock only when count reaches zero or phase completes | Time `O(1)` arrive plus wake cost, space `O(1)` | Runtime: notify all at phase completion. Memory: generation counter for reusable barrier. |
@@ -31,6 +32,7 @@ Pattern tags are mirrored from [questions](./questions.md); keep both directions
 | `barrier`, `condition-variable` | mutex, condition variable, count, and generation | [questions](./questions.md): Q6 |
 | `deadlock-prevention`, `lock-ordering` | global lock ordering or `std::scoped_lock` | [questions](./questions.md): Q7 |
 | `producer-consumer`, `backpressure`, `cancellation` | bounded queues plus shutdown propagation | [questions](./questions.md): Q8 |
+| `readers-writer-lock`, `condition-variable` | custom writer-preference admission, predicates, and shared/exclusive RAII | [questions](./questions.md): Q9 |
 
 ## L7 Follow-Ups
 
