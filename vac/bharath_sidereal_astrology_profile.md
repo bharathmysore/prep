@@ -1,8 +1,8 @@
 # Bharath — Sidereal Astrology Working Profile
 
 **Compiled:** July 8, 2026  
-**Last event update:** October 5, 2026  
-**Last analysis update:** October 4, 2026  
+**Last event update:** October 6, 2026  
+**Last analysis update:** October 5, 2026  
 **Primary methods:** Parāśara, Krishnamurti Paddhati (KP), Bhrigu Nandi Nadi (BNN), Jaimini, Aṣṭakavarga
 **Zodiac:** Sidereal only  
 **Working ayanāṁśa:** The supplied natal longitudes appear Lahiri/Chitrapaksha-like. The Bhava Chalit cusps are calibrated to the supplied sidereal ascendant.
@@ -479,8 +479,10 @@ Again, these micro-period dates can shift by several days because the Moon longi
 | Microsoft promotion 61→62 | Aug 2010 | Rahu–Saturn–Venus | Career change + formal employment + fortune |
 | Second son born | Jan 2013 | Rahu–Mercury–Venus | Mercury 5th lord + Venus fortune |
 | Bothell house | Feb 2014 | Rahu–Mercury–Rahu | Relocation/property restructuring |
-| Microsoft promotion 62→63 | Aug 2015 | Rahu–Ketu–Saturn | Nodal career network + formal level |
-| Joined Oracle | Jun 2016 | Rahu–Venus–Sun | External reset + status + income |
+| Microsoft promotion 62→63 | Aug 2015 | Rahu–Ketu–Saturn | Manager-sponsored formal level increase; Bharath was not aware that the promotion was being advanced before it was approved |
+| Oracle interview process | Feb–Apr 2016 | Rahu–Venus–Venus approximately | Interviews began several months before the employer switch; the process developed during the Venus value/career period |
+| Immigration and transition processing for Oracle | Apr–Jun 2016 | Rahu–Venus, Venus→Sun lower-period transition approximately | Immigration processing delayed the final employer transition after the interviews |
+| Joined Oracle | Jun 2016 | Rahu–Venus–Sun | Completed the Microsoft-to-Oracle switch after the Feb–Apr interview process and immigration delay; external reset + status + income |
 | Second Bothell house | May 2020 | Rahu–Moon–Jupiter | Moon/Jupiter property and expansion chain |
 
 The event history strongly supports the supplied Moon nakshatra, Aquarius ascendant framework, and the major KP/BNN chains. It does not prove the birth time to the exact minute. The working rectification range remains approximately 2:15–2:19 AM, with 2:17 AM credible.
@@ -497,8 +499,10 @@ The event history strongly supports the supplied Moon nakshatra, Aquarius ascend
 | Aug 2007 | Promoted Microsoft level 59→60 |
 | Jun 2008 | Moved to U.S. at level 61 |
 | Aug 2010 | Promoted level 61→62 |
-| Aug 2015 | Promoted level 62→63 |
-| Jun 2016 | Joined Oracle |
+| Aug 2015 | Promoted level 62→63; the manager with whom Bharath had worked sponsored and completed the promotion without Bharath knowing beforehand |
+| Feb–Apr 2016 | Interviewed with Oracle while still at Microsoft |
+| Apr–Jun 2016 | Oracle transition remained pending while immigration processing was completed |
+| Jun 2016 | Switched from Microsoft to Oracle after the multi-month interview and immigration process |
 | Jun 2016–Jul 2026 | No formal promotion and no major employer-assigned level increase |
 
 ### Large income resets
@@ -507,7 +511,7 @@ The event history strongly supports the supplied Moon nakshatra, Aquarius ascend
 |---|---:|---|
 | Joined Intel, Mar 2002 | Approximately +30% | Mars–Ketu–Saturn |
 | Joined Microsoft, Oct 2005 | Approximately 2–3× | Rahu–Rahu–Mercury |
-| Joined Oracle, Jun 2016 | Nearly 2× | Rahu–Venus–Sun |
+| Joined Oracle, Jun 2016 | Nearly 2×; interviews began Feb–Apr and immigration processing delayed the eventual June start | Rahu–Venus–Venus pipeline → Rahu–Venus–Sun completion |
 
 The repeated structure is external employer change plus 2/6/8/10/11/12 activation. Internal promotions advanced level; employer switches produced the largest financial resets.
 
@@ -1934,7 +1938,9 @@ This detailed table begins with Jupiter mahādaśā, the current MD, and runs th
 | Jan 2013 | Second son born | Childbirth | Rahu–Mercury–Venus |
 | Feb 2014 | Moved into Bothell house | Property/residence milestone | Rahu–Mercury–Rahu |
 | Aug 2015 | Microsoft promotion 62→63 | Promotion | Rahu–Ketu–Saturn |
-| Jun 2016 | Joined Oracle | Income nearly doubled | Rahu–Venus–Sun |
+| Feb–Apr 2016 | Oracle interviews while employed at Microsoft | The eventual employer switch began as a multi-month interview pipeline rather than a sudden June event | Rahu–Venus–Venus approximately |
+| Apr–Jun 2016 | Oracle immigration/transition processing | Immigration created a lag between interviewing and the completed switch | Rahu–Venus, Venus→Sun lower-period transition approximately |
+| Jun 2016 | Joined Oracle | Income nearly doubled after the interview and immigration process completed | Rahu–Venus–Sun |
 | Jun 2016–Aug 2026 | Oracle tenure | No promotion or major employer-assigned level increase reported | Rahu→Jupiter MD |
 | Approximately 2017/2018–Aug 2026 | Repeated attempts to switch employers | Bharath reports actively trying to change companies for roughly eight to nine years, but no attempt resulted in a completed employer switch. Exact applications, interview dates and outcomes remain to be supplied. | Rahu MD → Jupiter MD; exact lower periods depend on event dates |
 | Date not yet supplied, within the Oracle tenure | Microsoft employment offer | Bharath received a Microsoft offer, but the proposed level was below his expectation and the opportunity did not result in a company switch. Exact date, role, offered level, compensation and final disposition remain unspecified. | Cannot map below mahādaśā until the date is supplied |
@@ -4122,6 +4128,8 @@ It is not a replay of 2008. The earlier cycle ran under **Rahu–Jupiter**, with
 - Symbolically, it is consistent with the ongoing Jupiter–Saturn–Jupiter–Saturn period and retrograde Saturn's audit of the natal Mars–Venus career/value combination: institutional dependency, delay and repeat scheduling are emphasized. This correspondence is interpretive rather than causal.
 - Operational checkpoint: retain the calendar invitation and a timestamped attendance screenshot; wait for NVIDIA to provide a firm replacement time before recalibrating the pipeline.
 - **October 5 resolution:** At **5:54 AM PDT**, recruiting coordinator Stacey Grimes apologized and explained that Daniel was ill. She asked Bharath to provide additional dates and times to reschedule. This converts the unexplained no-show into a documented interviewer-illness/scheduling event; it is **not evidence of rejection or adverse interview feedback**, and the JR2024421 process remains active pending a replacement appointment.
+- **October 5 availability and confirmation:** At **10:13 AM PDT**, Bharath sent availability for October 11, October 8 and October 22, each from 8:00–9:30 AM PT, in that preference order. At **10:21 AM PDT**, Stacey confirmed a replacement interview for **Monday, October 12, 2026 at 8:00 AM PT** and supplied a new Microsoft Teams link. This is a firm rescheduled appointment that supersedes the proposed windows; it confirms that the process remains active, but it does not by itself predict or establish the interview outcome.
+- **October 12 electional assessment:** The 8:00–9:30 AM PT appointment is a usable but mixed election, approximately **6–6.5/10 symbolically**, and should be retained rather than reopened solely for astrology. Seattle Panchanga gives Libra rising from about 7:55 AM, Shukla Dvitiiya and Kaulava through about 9:43 AM, Swati through about 11:22 AM, and Rahukala from about 8:47–10:09 AM. The interview therefore begins before Rahukala, in Moon hora, then passes through Saturn hora and closes in Jupiter hora. Libra Moon–Mercury–retrograde Venus in the event ascendant and exaltation-sign Jupiter in the event tenth support presentation and career visibility; Pratyak Tara from natal Purva Ashadha, the Rahukala overlap, early-degree event ascendant, and Jupiter–Saturn–Jupiter–Saturn indicate scrutiny, pressure and possibly slower feedback. This is better for a rigorous technical evaluation and advancement to the next stage than for an effortless or immediate offer decision.
 
 ## 81. Varshaphal 2026–27 — Career, Finance and Growth
 
@@ -4238,6 +4246,8 @@ This review separates three materially different outcomes: an Oracle internal pr
 ### 83.1 Oracle internal promotion
 
 The chart does not supply a uniquely strong Oracle-only promise. Oracle has produced high compensation but no formal promotion since June 2016, and no funded promotion packet, named sponsor or approved higher-level internal headcount has yet been documented. **As of October 4, 2026, Bharath reports no sign, clue or organizational indication that an Oracle promotion is being prepared during 2026.** The following are therefore opportunity windows that become operative only if a real promotion mechanism appears, not a prediction that Oracle will promote Bharath automatically or through luck.
+
+**October 7, 2026 context update:** Bharath clarified that his August 2015 Microsoft promotion was advanced by a manager with whom he had worked and was approved without Bharath knowing that it was in progress. His current Oracle manager is new. This historical fact shows that a promotion can be manager-sponsored without advance visibility, but the new Oracle manager has not yet been documented as having the tenure, evidence base, calibration support or executive sponsorship that the 2015 manager possessed.
 
 | Window | Weight | Required real-world condition |
 |---|---|---|
@@ -4386,3 +4396,18 @@ Stronger potential categories are documented direct losses: unsupported or unaut
 The arbitration clause is materially important: Washington generally treats a written arbitration agreement as valid and permits a court to compel arbitration. [RCW 7.04A.060–.070](https://app.leg.wa.gov/rcw/default.aspx?cite=7.04A&full=true). A written-contract claim generally has a six-year limitation period, but shorter contractual notice, cure, final-payment waiver, insurance or arbitration prerequisites can control practical preservation much earlier. [RCW 4.16.040](https://app.leg.wa.gov/rcw/default.aspx?cite=4.16.040). Attorney-fee recovery is not automatic; Washington makes a unilateral contractual fee clause reciprocal, but counsel must first identify an applicable fee provision or statute. [RCW 4.84.330](https://app.leg.wa.gov/rcw/default.aspx?cite=4.84.330).
 
 **Integrated conclusion:** the chart supports pursuing a well-documented claim and has a credible negotiated-recovery signature, with **September–November 2027** the cleanest near-term settlement period. It does not support confidently forecasting a courtroom sweep or millions. The realistic target is maximum provable direct recovery, preservation of fee/statutory arguments, and a settlement whose net value exceeds legal/expert costs and counterclaim exposure. A Washington commercial-construction lawyer should review the executed agreement and send any necessary preservation/reservation notice before Certificate-of-Occupancy final payment or release, even if formal mediation/arbitration begins later.
+
+## 85. Landlord ADA Permit Approval and Remaining Carney Filing — October 6, 2026
+
+- Bharath reports that the landlord's permit for the ADA-compliance work was approved and that the landlord-controlled work is authorized to begin on **October 6, 2026**. This replaces the earlier expected/imminent-approval status with a reported permit milestone.
+- Permit approval is distinct from construction completion. Retain the issued permit, approved plan set and conditions, and document the contractor's actual mobilization, work start, completion and inspection dates.
+- Bharath reports that Carney has not yet supplied confirmation that its revised tenant-improvement changes were filed with the City. The earlier message from GPN Architecture that the package was “sent” does not establish City intake without the submitted version and a City receipt, portal status or intake number.
+- The project now has two separately traceable paths: landlord ADA work can proceed under the approved permit, while Carney/GPN must complete and prove the tenant-revision filing. From October 6 forward, track the owner, promised date, actual date and any critical-path effect for each path independently.
+
+## 86. Thomas Sign Final-Invoice Reconciliation — October 7, 2026
+
+- The supplied Thomas Sign contract is **Contract 36845**, issued **September 22, 2025**, for the iSmash Everett signage. It lists a contract total of **$35,429.00**, a **$21,257.40** deposit and a stated post-deposit balance of **$14,171.60**. The supplied copy has blank execution/signature lines on its face. Page 1 says actual permit fees, tax and freight will be billed at cost on the final invoice; Section 8 also identifies engineering as an at-cost item.
+- Thomas Sign invoice **T42616**, dated **July 31, 2026**, shows a **$28,113.20** subtotal, **$2,225.95** sales tax, **$30,339.15** total, the same **$21,257.40** deposit and **$9,081.75 due**. The arithmetic is internally consistent. The final total and balance are each **$5,089.85 below** the corresponding original contract amounts, even though individual categories changed materially.
+- The final invoice lists freight of **$1,870.44** versus $4,300.00 in the contract; engineering of **$1,020.00** versus $350.00; actual permits of **$869.76**; surveys totaling **$2,418.00** versus one $1,077.00 survey; and installation lines totaling **$10,961.00** versus the original $6,074.00 installation line. The original $18,280.00 sign-fabrication line does not appear by the same part number; three different sign-product lines total **$5,626.00**. These are reconciliation questions, not proof of overbilling by themselves.
+- The City records supplied by Thomas Sign show both **SIGN 04-FINAL/PERMIT CLOSE OUT** and **ELEC 10-FINAL** as **APPRVD-PERMIT FINAL**, completed **August 19, 2026**. The sign note says the signage was installed per the submitted plan, the attached electrical permit received final approval and the sign permit could be closed. These records establish final approval of the sign and associated electrical permits only; they do not establish the overall tenant-improvement permit, Certificate of Occupancy, invoice cost support or the reason for the project timeline.
+- For correspondence with Thomas Sign, distinguish the lower aggregate invoice from the unexplained line-item changes. Request a contract-to-invoice reconciliation; cost support for freight, engineering and permits; the sales-tax rate and taxable base; the date, scope and reason for the two additional survey entries; and the authorization or change history mapping the original sign and installation scope to the final invoice. The timeline request should seek dated permit, engineering, manufacture, shipment, installation and inspection milestones rather than assert breach solely from the elapsed months, because the supplied contract states no fixed completion date.

@@ -1,12 +1,15 @@
 # Read.ai transcript evidence archive
 
 **Project:** iSmash Everett / Smash District LLC  
-**Collection date:** September 18, 2026  
+**Initial collection date:** September 18, 2026
+
+**Additional owner-supplied files indexed:** October 5, 2026
+
 **Source account:** Bharath Mysore's authenticated Read.ai Reports page  
 
 ## Preservation method
 
-Each item was obtained by opening the identified report in Read.ai and using **Download → Transcript (.txt)**. The unaltered export is retained in this folder's [raw_exports](./raw_exports/) directory. A separately labelled, readable case copy carries source metadata. Both are integrity-hashed below.
+The September 18 collection was obtained by opening the identified reports in Read.ai and using **Download → Transcript (.txt)**. Those unaltered exports are retained in this folder's [raw_exports](./raw_exports/) directory. Separately labelled, readable case copies carry source metadata. Both are integrity-hashed below. Additional owner-supplied exports are indexed separately below with their actual preservation paths and provenance; do not assume that they were downloaded by the assistant or have an independently verified report URL.
 
 Read.ai transcripts are machine-generated. They preserve the report's speaker labels and timestamps, but a disputed word should be confirmed against the original Read.ai recording before it is treated as verbatim evidence.
 
@@ -40,3 +43,29 @@ Read.ai transcripts are machine-generated. They preserve the report's speaker la
 ## Scope note
 
 The Read.ai Reports page also displays additional Everett, iSmash town-hall, and office-hours reports. This index is a living chain-of-custody record: add a row and recompute the individual SHA-256 when each additional source export is preserved.
+
+## October 5, 2026 — Owner-supplied transcript intake
+
+Bharath reported downloading additional call transcripts into `transcripts/`. All four supplied `.txt` files were reviewed and left at their supplied paths without renaming, editing or removing them. The meeting dates below are present in the files themselves and agree with the filenames. The intake date is not the meeting date. SHA-256 hashes record the bytes observed at intake; they help detect later changes but do not authenticate speakers, establish completeness or prove the underlying statements. The three newer reports' Read.ai URLs and recordings were not supplied or independently retrieved during this intake.
+
+| Meeting date | Supplied export | SHA-256 at intake | Archive status |
+|---|---|---|---|
+| February 27, 2025 | [iSmash Seattle Kick Off Call](<./transcripts/02272025_iSmash Seattle Kick Off Call Transcript.txt>) | `54bfada15459dc5ee94950e4624ff6eacacdfe4518f7682822b94c35972c7117` | Byte-identical to the previously preserved February 27 raw export above; retain both, count as one meeting. |
+| September 22, 2026 | [Water fountain](<./transcripts/09222026_Water fountain Transcript.txt>) | `7bc1560c7a1e6df2e8279b352351880e762df9cfebf51c56e3a43c884805ecde` | Additional meeting; owner-supplied export. |
+| September 25, 2026 | [Fw: Everett weekly calls](<./transcripts/09252026_Fw_ Everett weekly calls Transcript.txt>) | `c68a4c626292fc8bfef6a18ac3cf2a31826bf9096756d6f1371945253bd13fa4` | Additional meeting; owner-supplied export. |
+| October 2, 2026 | [Fw: Everett weekly calls](<./transcripts/10022026_Fw_ Everett weekly calls Transcript.txt>) | `72bece5fda2bbbbed4c8a49228038baa207b3c582f0d1e547299729afd7112d3` | Additional meeting; owner-supplied export. |
+
+### Reference map for material passages
+
+The following is a derived navigation aid, not a substitute for the originals. Line numbers refer to the preserved text files. Timestamps are elapsed call offsets, not wall-clock times. Preserve exact transcript speaker labels; in particular, September 25's three “Conference Room (Bharath Mysore)” speaker labels must not automatically be attributed to Bharath or Divya individually. Some blocks merge speakers or contain obvious transcription errors; confirm important words and attribution against recordings before relying on them as exact quotations.
+
+* **February 27 — pre-build representations and optional contractor choice:** Kevin Macmaster's 11:39 block, lines 118–124, describes construction-team involvement from site search through opening, budgets/floor plans and cost information before negotiating. The same passage expressly says the full design/build engagement is optional and that franchisees may choose their own contractor/architect. The team is unnamed; this transcript alone does not identify it as Carney, establish a vendor mandate, or prove a completed Everett-site/lease/code review. At 13:56, lines 129–132, Kevin describes Philadelphia-based staff and possible subcontracting.
+* **September 22 — fountain question and payment under dispute:** Bharath, 0:13, lines 10–13, says the documents show demolition/replacement but the fountain remains missing. Scott, 0:58, line 25, says he saw the relevant depiction and suggests asking Carney. Scott's 1:40 block, lines 30–33, discusses making disputed payments to restart work and disputing later; his 8:35 block, lines 98–101, relays that Troy will not work unless paid and expresses disagreement. These are Scott's remarks, not a direct Carney admission, legal advice adopted by this record, proof of payment, or proof that any rights were preserved. At 2:45–6:52, lines 38–79, the parties discuss competing stair design/permit approaches and claimed dimensions; these are not verified code requirements or City rulings.
+* **September 25 — separate stair permit and changing drawings:** “Conference Room (Bharath Mysore) - Speaker 2,” 0:18 and 2:46, lines 16–17 and 50–53, reports a landlord permit and asks that stair dimensions be removed from the tenant package. Scott at 1:46, lines 39–42, attributes some delay to repeated changes; Speaker 2 describes landlord uncertainty at 2:46. Preserve both accounts without resolving responsibility from the transcript.
+* **September 25 — unfinished fountain/owner items:** Scott at 10:13, line 167, says plans show fountain demolition and replacement; Troy at 10:40, line 170, says he is awaiting clarity. Troy at 11:42, lines 183–184, says Carney is ready to proceed and promises feedback through Ron. At 14:38, lines 217–218, Troy says owner-furnished work could coincide with plan revision, expressly qualifying that Ron has the final say. This is not a dated work completion or final payment reconciliation.
+* **October 2 — Ron's conditional no-cost fountain statement:** Ronald Tobiasz, 4:40 and 5:00, lines 105–112: “Then we will definitely handle that 100%” and “if it's on the drawings, there will be no cost to Bharath.” Preserve the drawing condition. Earlier, at 1:43–3:16, lines 46–67, Ron claims Bharath had preferred a bottle filler and refers to an email; that underlying email was not verified during this intake, and the account should not be omitted or treated as established fact. At 19:50, lines 375–378, he describes potential minor plumbing/wall work and repairs; the phrase “included in the calls” is unclear and must not silently be changed to “cost.” At 21:21, lines 395–396, he says he will order that day and obtain tracking. The call does not prove an order was placed or establish an installation date.
+* **October 2 — start and owner-item completion windows:** Ronald Tobiasz, 20:35, lines 383–384, twice says Monday afternoon or worst-case Tuesday morning, corresponding to **October 5–6, 2026**. The same block ends “They'll be on Sunday,” an unexplained inconsistency worth checking against audio. Bharath asks at 20:55 about completion of owner items by the next Friday; Ron at 21:01, lines 389–390, answers “100% unless they completely go off the radar” and estimates roughly two days. That Friday is **October 9, 2026**. This is a qualified commitment, not completed work; the fountain's exact installation day remained unsettled.
+* **October 2 — separate workstreams, filing and scope limitations:** At 16:27–16:38, lines 302–318, the discussion identifies fountain/owner items, cash-wrap placement, a TV and rubber mats. Ron's 18:43 block, lines 349–350, says his work requires his own approval and is not dependent on which permit is approved first; this does not establish the City's position. At 24:27, lines 453–454, he proposes landlord review before submission, potentially October 2 or 5; no filing receipt is in the call. At 25:01–25:33, lines 465–475, Scott and Ron say Carney will not build the windshield rack and discuss sourcing it separately. Do not assume the general owner-item completion statement includes that rack.
+* **October 2 — clearance and opening remain unresolved:** Bharath repeatedly requests fountain corridor-clearance confirmation at 5:48, 6:21 and 21:31. Ron offers specifications at 6:33 and 22:43–23:33, lines 133–134 and 415–430. The call does not provide a verified field measurement or compliance determination. At 26:03–27:17, lines 483–505, opening dates remain speculative and tied to landlord stair progress. No loading-dock gate closure commitment or completion was located in either new weekly-call transcript; September 25's dock discussion concerns deliveries instead.
+
+See the [project conversation log](../../conversations.md) for how this intake supplements the October 5 email-only refresh. No email was sent, and no permit, contract or payment record was changed as part of this intake.

@@ -681,3 +681,76 @@ Parāśara, D10, D24, and BNN agree on a path from disciplined learning to deep 
 No new concrete life event was supplied in this query, so no Event Ledger row was added.
 
 **Transit references:** [Astrodienst Sidereal Ephemeris Files (Lahiri)](https://www.astro.com/swisseph/sweph_sla_r.htm); [September 10, 2026 Lahiri planetary positions](https://www.kalmanas.com/planetary-positions-today).
+
+## 22. Studies, Career, Finance, Income, and Social Status — October 6, 2026
+
+### 1. Question and relevant houses
+
+This assessment covers studies through D1/D24 and houses 4/5/9/11; career and status through D1/D10 and houses 6/10/11; accumulated wealth through D1/D2 and houses 2/5/9/11; and earned income through houses 2/6/10/11. D9 is used for mature strength and professional alliances.
+
+### 2. Parāśara finding
+
+| Area | Graded finding | Main basis | Main friction |
+|---|---|---|---|
+| Studies | Strong for rigorous higher education and research; moderate for timed-test consistency | Own-sign 9th lord Jupiter with Venus; 10th/11th lord Saturn in 5th; D24 Mars/Jupiter/Saturn/Moon in 10th | Combust Mercury and D24 Mercury in 8th produce overanalysis and a knowledge-to-timed-output gap |
+| Career | Strong for medicine, diagnostics, biomedical research, specialized technology, risk, or other complex problem-solving | Own-sign Mars and Sun–Mercury in D1 8th; D10 Mars in own 8th, Jupiter/Ketu in 6th, Saturn in ascendant | Long training, nonlinear progress, workload, authority conflict, and communication under pressure |
+| Finance | Moderate-to-strong long-term capacity; weaker for effortless early accumulation | 2nd lord Venus joins strong 9th lord Jupiter; Saturn links profession/gains to intelligence and aspects houses 2 and 11 | D2 12th-house concentration shows large purposeful outflows for education, relocation, family, travel, and institutions |
+| Income | Stronger after qualifications; primarily self-earned and expertise-based | 10th/11th lord Saturn in 5th and D10 ascendant; its aspect to own 11th supports durable gains | Early compensation may trail competence; Rahu can produce volatility or status-driven choices |
+| Social status | Moderate early, potentially strong with maturity as a specialist or institutional authority | Rahu in D1 10th, Jupiter's aspect to career lord Saturn, D10 Saturn in ascendant | Better for respected expertise than effortless celebrity; reputation requires ethics and restraint |
+
+The strongest combined professional signature is depth-oriented service: medicine, procedural or diagnostic specialties, biomedical research, clinical informatics, laboratories, hospitals, cybersecurity/forensics, deep engineering, or another field where confidential technical judgment matters. The chart does not predetermine a profession.
+
+Financially, the chart favors qualifications, scarce skills, conservative compounding, and institutional networks more than speculation. The active 8th house supports competence with grants, insurance, taxes, research funding, debt, and shared assets, but also demands written documentation and restrained leverage. No inheritance should be inferred.
+
+### 3. Bhava Chalit finding
+
+**Bhava Chalit verdict pending—verified Lahiri-sidereal Placidus cusp table unavailable.**
+
+The D1 whole-sign houses remain the working basis; planet-to-bhava shifts cannot yet be verified.
+
+### 4. KP finding
+
+**KP verdict pending—required cusp data unavailable.**
+
+Studies require verified 4/5/9/11 cusp significations, competitive success requires 6/11, and career/income/status require 2/6/10/11. The natal and varga promise is supportive, but no exact admission, scholarship, occupation, compensation level, or rank is certified.
+
+### 5. BNN finding
+
+The chart-specific flow remains **Jupiter as Jīva with Venus in the 9th → Saturn as Karma in the 5th → Mercury as Intellect working through own-sign Mars in Scorpio**. In practical terms: mentors and higher knowledge create disciplined credentials; credentials become specialized service; specialized service produces income and respected status. The principal risk is allowing scores, salary, or rank to become the sole measure of worth.
+
+### 6. Dasha finding
+
+On October 6, 2026, the period is securely **Saturn–Venus–Mercury**, nominally September 8, 2026–February 19, 2027. Saturn activates profession and gains through study; Venus activates the 2nd-house finance and 9th-house higher-education themes; Mercury activates skills, competition, service, applications, and the 8th-house research complex.
+
+- Through April 2027, Saturn–Venus remains one of the more constructive Saturn-MD periods for mentors, college applications, scholarships or aid negotiations, partnerships, and skill investment. It can also bring large tuition, application, or relocation outflows.
+- Saturn–Sun, April 2027–April 2028, is a demanding educational and identity transition.
+- Saturn–Rahu, December 2030–October 2033, has substantial career/income expansion potential with high volatility and status sensitivity.
+- Saturn–Jupiter, October 2033–May 2036, is the strongest closing consolidation phase for advanced credentials, mentors, professional entry, and institutional support.
+- Mercury MD, May 2036–May 2053, is the principal skill-monetization and specialization period. Mercury–Venus, Mercury–Jupiter, and Mercury–Saturn are stronger for durable income and alliances; Mercury–Rahu has the widest expansion potential but the greatest political, contractual, and reputational volatility.
+
+### 7. Transit finding
+
+On October 6, 2026, Lahiri transits place Saturn retrograde in Pisces, Jupiter and Mars in Cancer, Rahu in Aquarius, Ketu in Leo, and Mercury with retrograde Venus in Libra.
+
+- Saturn in the 12th from Aries and 6th from the Moon emphasizes private preparation, institutions, expenses, sleep, and disciplined routines; its 10th aspect activates the natal 9th-house education promise.
+- Jupiter in Cancer is supportive for the educational/home foundation and aspects both the Scorpio research cluster and Capricorn career house. Because it moves through natal Ketu's sign, progress may require changing environment or method.
+- Mercury and Venus in Libra activate the natal Moon sign, helping feedback, essays, advisers, and revised choices while increasing social-comparison and relationship sensitivity.
+- Rahu in the 11th enlarges network and gain ambitions; Ketu in the 5th can make confidence and study engagement uneven.
+- The 2026–28 nodal return by sign emphasizes the college/career-versus-home axis. Saturn crossing the early Aries ascendant from 2027 begins a demanding independence and adult-responsibility phase.
+- Longer term, the Saturn return around late September 2038, Saturn over the Scorpio cluster during 2044–46, and Saturn's later Sagittarius–Capricorn passages create successive stages of professional maturation, specialist authority, and status accountability.
+
+### 8. Reconciliation
+
+D1, D10, D24, D2, D9, and BNN agree on high depth, long training, and expertise-based success. D24 supports serious credentials but explains why knowledge may exceed timed-test output. D10 supports respected specialist work, while D2 warns that education and relocation can absorb substantial resources before income matures. The September 12, 2026 SAT score reported as 1480–1490 is consistent with strong ability but incomplete conversion into the target score; it is one real-world observation, not proof of an astrological mechanism.
+
+### 9. Conclusion
+
+- **Studies:** strong for advanced and research-oriented education; moderate and trainable vulnerability in timed testing.
+- **Career:** strong for medicine/research/diagnostics or another specialist technical field; success is more likely to be earned and durable than early and effortless.
+- **Finance:** moderate-to-strong wealth capacity, with heavy early investment in education and relocation and a need for conservative debt management.
+- **Income:** strong after qualifications, mainly through specialized service, institutional work, consulting, or technical judgment.
+- **Status:** stronger as a respected physician, researcher, technical authority, mentor, or institutional leader than as a mass celebrity. The most durable standing develops after the long training phase.
+
+No new concrete life event was supplied in this query, so no Event Ledger row was added.
+
+**Current transit reference:** [October 6, 2026 Lahiri planetary positions](https://www.kalmanas.com/planetary-positions-today).
