@@ -43,6 +43,7 @@ This directory is a local workspace for L7 interview preparation, focused on clo
 ## Current Coding Prep Files
 
 - [C++ L7 Coding Prep Index](./coding/cpp/README.md)
+- [LeetCode Popularity Top 1,000 in C++](./coding/cpp/leetcode_top_1000/README.md)
 - [C++ Top 20 Coding Question Focus](./coding/cpp/top_20.md)
 - [C++ Company Frequency Focus Index](./coding/cpp/company_frequency.md)
 - [Advanced data structures](./coding/cpp/advanced_data_structures/patterns.md) ([questions](./coding/cpp/advanced_data_structures/questions.md), [solutions](./coding/cpp/advanced_data_structures/solutions.md), [test cases](./coding/cpp/advanced_data_structures/test_cases.md))

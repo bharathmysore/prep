@@ -566,11 +566,59 @@ Scores are comparative ease/support on a 10-point scale, not probabilities or gu
 
 **Overall graded conclusion:** well-being **mixed/demanding**; career **moderate and constructive**; finance **mixed with improving windows**; growth **moderate if controlled**. The cleanest combined support is **29 January–8 February 2027**. Late March improves negotiation and customer handling, but substantial expansion remains better after systems and cash flow prove stable.
 
+## 15B. Income YoY planning bands — 2025 through 2034
+
+**Question and analysis date:** “How does Divya's income change, in percentage terms, year over year from 2025 onward?” Analyzed on 7 October 2026 for the income houses `2/6/10/11`, with `8/12` treated as capital, debt, tax, shared-resource, and leakage factors.
+
+### Measurement rule and limitation
+
+Astrology cannot calculate an audited income percentage. The ranges below are **symbolic scenario/planning bands**, not statistical forecasts or promises. Because 2025 is historical and most of 2026 has already occurred, their real percentages must come from records:
+
+`YoY change (%) = 100 × (current-year income − prior-year income) ÷ prior-year income`
+
+For this table, “Divya's income” means **personal pre-tax recurring cash income**: salary, bonus, consulting income, and actual franchise owner pay or distributions. It excludes store gross sales, loan proceeds, capital contributions, owner withdrawals that are a return of capital, and unrealized business value. Franchise sales, accounting profit, free cash flow, and Divya's personal distribution must be tracked separately. If prior-year income is zero, a YoY percentage is undefined and dollar change should be used.
+
+### Annual bands
+
+| Calendar year | Dasha and principal transit basis | Direction | Illustrative YoY band versus prior year | Conditions and confidence |
+|---|---|---|---:|---|
+| **2025** | Mercury/Jupiter; Jupiter moved Taurus→Gemini, while Saturn entered Pisces and Rahu entered Aquarius | Constructive backdrop | **Calculate from actual 2024/2025 records; no honest retrospective estimate** | Use 2025 as index `100` for forward comparison. Astrology support was about `7/10`, but that is not an income measurement. |
+| **2026** | Mercury/Jupiter through about 17 Sep, then Mercury/Saturn/Saturn; Jupiter moved 10th→11th→12th from Virgo | Flat/mixed retained income | **−5% to +5%** | Strong career/gain support June–October coexisted with franchise capital needs and delays. Use Jan–Sep actuals plus a Q4 forecast; assume no franchise distribution until one actually occurs. |
+| **2027** | Mercury/Saturn: Saturn→Mercury→Ketu→Venus PDs; Jupiter alternates 12th/11th/12th/1st from Virgo | Measured growth | **+3% to +12%** | Better January–June and again under the Venus PD from September. Use the lower half if the store opens late, is still reinvesting, or has not achieved positive free cash flow. |
+| **2028** | Mercury/Saturn with Venus, Sun, Moon, Mars, and Rahu PDs; final Sade-sati exit 23 Feb; Rahu enters the 11th from Moon/2nd from AL on 24 May | Strongest broad Mercury/Saturn growth year | **+6% to +16%** | Better after May; visibility and operating traction can improve. Late-year volatility remains possible, so gross receipts may outpace distributable cash. |
+| **2029** | Mercury/Saturn/Rahu–Jupiter until 27 May; then Ketu MD/Ketu, followed by Ketu/Venus from about 23 Oct | Plateau/reorientation | **−3% to +8%** | Strong transit windows occur early and after late August, but the mahadasha transition can change role, priorities, or income mix. Do not extrapolate 2028 linearly. |
+| **2030** | Mostly Ketu/Venus; Jupiter activates Libra/Scorpio, Saturn stabilizes in Taurus after April, and Rahu enters Scorpio | Renewed growth | **+7% to +18%** | Venus is the natal 2nd/9th lord in the 11th and Chalit 10th. This is the strongest early-Ketu period for clients, partnerships, enterprise, and owner income, conditional on sound operations. |
+| **2031** | Ketu/Sun then Ketu/Moon; Jupiter activates Scorpio/Sagittarius; Rahu moves Scorpio→Libra | Moderate/strong but expense-sensitive | **+2% to +12%** | Jupiter reaches the 11th from Moon and 2nd from AL during Sagittarius phases. Moon supports service-derived gains; Rahu's wealth drive can also increase leverage or hidden costs. |
+| **2032** | Ketu/Mars then Ketu/Rahu; Saturn enters Gemini; Jupiter alternates Sagittarius/Capricorn | High variance | **−8% to +18%** | Reinvention, technical/entrepreneurial work, or a second income channel can jump, but the same signatures allow irregular receipts, higher spending, and career restructuring. |
+| **2033** | Ketu/Rahu until about 14 May, then Ketu/Jupiter; Jupiter moves Capricorn→Aquarius, Saturn remains Gemini, and Rahu enters Virgo | Strategic rebuilding/growth | **0% to +12%** | Jupiter PD restores stronger KP income links; Rahu over Virgo Lagna and 11th from AL can enlarge reach while increasing personal strain and volatility. |
+| **2034** | Ketu/Jupiter until about 20 Apr, then Ketu/Saturn; Jupiter enters Pisces, Saturn enters Cancer in July, Rahu later enters Leo | Gradual durable growth | **+3% to +14%** | Saturn's move to the 11th from Virgo favors systematized gains, while Jupiter emphasizes clients/partners and remains 2nd from Moon. Results depend on disciplined agreements and workload control. |
+
+Ranges after 2030 are deliberately wide and lower-confidence. Recalculate them annually with actual income, the store's operating history, and updated transit stations rather than treating them as a fixed ten-year budget.
+
+### Required four-method synthesis
+
+- **Parashara and vargas:** D1 Venus, lord of the 2nd and 9th, occupies the 11th and receives Jupiter's aspect; exalted Saturn occupies the 2nd. This is a strong long-run accumulation promise, but Saturn favors compounding over sudden jumps. D10 Moon–Jupiter rising, Sun–Mars in the 10th, Saturn in the 2nd, and Venus in the 7th support expertise, leadership, clients, and ownership. The D2 Cancer concentration warns that family needs, reinvestment, or comfort expenditure can make retained cash trail gross earnings.
+- **Bhava Chalit:** Venus shifts `11 → 10`, Jupiter shifts `3 → 2`, and Saturn shifts `2 → 1`. Income is therefore strongly career/client-linked and potentially durable, but Divya personally carries the workload and financial discipline required to produce it.
+- **KP:** The 2nd cusp sub-lord Sun operates through Moon's star and Mercury's sub, linking receipts to the 6th/11th and 1st/10th/8th. The 6th and 10th cusp sub-lord Venus signifies `2/9/10` through Saturn's work/service structure; the 11th cusp sub-lord Jupiter delivers through the Chalit 2nd, Saturn, and Moon's `6/11`. Income is promised through work, clients, partners, and operations, with capital/tax/shared-resource complications—not through effortless windfalls.
+- **BNN:** The recurring income chain is `Saturn → Venus → Moon → Saturn`: disciplined resources feed profession, clients, and networks; service/customer activity becomes durable income only after structure is repeatable. Mercury and Jupiter ultimately enter this loop. Ketu mahadasha reroutes it through specialization and pruning; it does not automatically destroy income.
+
+### Dasha/transit reconciliation from Lagna, Moon, and Arudha
+
+- **2025–26:** Jupiter's Gemini/Cancer movement activates the 10th/11th from Virgo, while it is 5th/6th from Moon and 8th/9th from Scorpio AL. This supports career and gross opportunity, but Saturn in Pisces—7th from Lagna, 2nd from Moon, 5th from AL—makes contracts, vendors, customers, and cash discipline the gating factors.
+- **2027:** Jupiter's Cancer/Leo phases alternate gains with 12th-house cost from Virgo, while remaining favorable for public visibility from AL. Income can improve, but public progress may still precede net profit.
+- **2028:** The final Sade-sati exit and Rahu's move to the 11th from Moon/2nd from AL improve the income climate after May. Jupiter's Virgo/Leo/Virgo/Libra cycle still alternates self-development, expenditure, network growth, and direct 2nd-house wealth support.
+- **2029–31:** Jupiter increasingly activates Libra, Scorpio, and Sagittarius—2nd/3rd/4th from Virgo, 9th/10th/11th from Moon, and 12th/1st/2nd from AL—creating the best broad wealth, enterprise, brand, and gains transits. The Ketu-mahadasha transition prevents treating this as automatic linear salary growth; income sources may change.
+- **2032–34:** Saturn's Gemini/Cancer movement emphasizes career restructuring followed by gains, while node and Jupiter phases alternate visibility, workload, and expense. These years require the widest scenario ranges.
+
+**Graded conclusion:** The long-run income promise is **strong**, but the timing is **work-intensive and nonlinear**. The most defensible pattern is: actual baseline in 2025 → flat/mixed 2026 → gradual rise 2027 → stronger 2028 → transition 2029 → renewed growth 2030–31 → high variance 2032 → gradual strengthening 2033–34. Use the lower half of every forward range until the franchise has opened and produced at least two consecutive quarters of positive free cash flow after debt service and owner compensation.
+
+For real planning, construct monthly revenue, fixed-cost, variable-cost, debt-service, cash-flow, and owner-distribution scenarios. The [U.S. Small Business Administration's planning guidance](https://www.sba.gov/counseling/plan-your-business/) recommends financial projections and break-even analysis based on actual costs, pricing, and unit volume; these measurements—not astrology—determine whether income can be distributed safely.
+
 ## Current business context and dated event anchor
 
-**Status date:** 27 September 2026 for the latest user-supplied business update; public listing rechecked 28 September 2026
+**Status date:** 27 September 2026 for the latest user-supplied business update; public listing rechecked 7 October 2026
 
-**Source distinction:** The project phase, contractor issues, and permitting status below are user-supplied. The iSMASH business model, Everett location, and address were corroborated from the company's public pages on 8 July 2026; the “Coming Soon” public-listing status was rechecked on 28 September 2026. Public marketing status does not establish permit or occupancy status.
+**Source distinction:** The project phase, contractor issues, and permitting status below are user-supplied. The iSMASH business model, Everett location, and address were corroborated from the company's public pages on 8 July 2026; the “Coming Soon” public-listing status was rechecked on 7 October 2026. Public marketing status does not establish permit or occupancy status.
 
 | Field | Saved context |
 |---|---|
@@ -580,7 +628,7 @@ Scores are comparative ease/support on a 10-point scale, not probabilities or gu
 | Current operational issue | A temporary Certificate of Occupancy will not be issued. City acceptance of the exit changes and updated tenant-improvement plan, completion of the drinking-fountain and loading-gate items, final inspections, and occupancy authorization remain unconfirmed. |
 | Coordination | Contractor Change Orders are reportedly cleared. The landlord filed exit changes with the City; Carney planned to file the updated tenant-improvement plan during 28 Sep–2 Oct; Bharath is working to close the high/low drinking-fountain and loading-gate items. |
 | Exact location | 607 SE Everett Mall Way, Everett, WA 98208. |
-| Public listing | The official iSMASH Everett and locations pages still listed the location as “Coming Soon” when rechecked on 28 Sep 2026; hours and a grand-opening date were not announced. |
+| Public listing | The official iSMASH Everett and locations pages still listed the location as “Coming Soon” when rechecked on 7 Oct 2026; hours and a grand-opening date were not announced. |
 | Planned opening date | No current public-opening date is confirmed. The Aug 28/29, Sep 4/5, and Sep 11/12 candidate schedules are past and did not become confirmed openings in the supplied record; any new date remains contingent on plan acceptance, correction completion, passed inspections, and occupancy authorization. |
 
 For future questions about this venture, treat it as a real operating-business and premises/permit matter rather than a generic career question. The primary Parashara/KP topics are capital and cash flow (`2/8/11/12`), premises and build-out (`4/11/12`), vendors/contracts (`3/7`), permits/compliance and obstacles (`6/9/10/11`), operations (`6/10`), customers/revenue (`7/10/11`), and business success (`2/6/10/11`). Review D2, D4, and D10; the Bhava Chalit shifts; KP cusp significators; the BNN chain; and the event-date MD/AD/PD and transits before drawing any timing conclusion.
@@ -612,6 +660,7 @@ Append new entries chronologically. A status snapshot is not the same as a compl
 | 27 Sep 2026; project status | All contractor Change Orders are reported cleared. The landlord has filed the exit changes with the City; Carney plans to file the updated tenant-improvement plan during the week of 28 Sep–2 Oct; Bharath is working to close the high/low drinking-fountain and loading-gate items for inspection. | User-supplied project status | “COs” means Change Orders, not a Certificate of Occupancy. City acceptance/permit issuance, completed corrective work, passed final inspections, occupancy authorization, opening, and first revenue remain unconfirmed. This materially narrows the project from a payment/dispute blockage to permit-and-inspection closeout. |
 | 28 Sep 2026; well-being/status report | Divya is reportedly encountering obstacles frequently and feeling sad while trying to keep herself cheerful. | User-supplied subjective current-status report | This records Divya's reported emotional state under sustained project pressure; it is not a medical diagnosis. Duration, severity, effect on sleep/appetite/functioning, and any professional evaluation have not been supplied. |
 | 28 Sep 2026; public-status check | The official iSMASH Everett contact and locations pages continued to show the Everett venue as “Coming Soon”; hours and a grand-opening date had not been announced. | Official iSMASH Everett and locations pages, checked 28 Sep 2026 | Public marketing status only. It does not establish the City permit, inspection, Certificate of Occupancy, construction-readiness, staffing, or actual opening status. |
+| 7 Oct 2026; public-status check | The official iSMASH Everett contact and locations pages continued to show the Everett venue as “Coming Soon”; hours and a grand-opening date remained unannounced. | [Official iSMASH Everett contact page](https://ismashusa.com/wa-everett/contact-us/) and [locations page](https://ismashusa.com/locations/), checked 7 Oct 2026 | Public marketing status only. It does not establish City permit, inspection, Certificate of Occupancy, construction-readiness, staffing, or actual opening status. No positive 2026 franchise owner distribution is assumed in the income bands without an actual opening and distributable cash. |
 
 ## 16. How to use this profile for later questions
 

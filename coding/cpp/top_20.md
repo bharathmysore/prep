@@ -10,6 +10,8 @@ Use this file for short-list practice when there is not enough time to sweep eve
 - If a company has fewer than 20 currently tagged questions, list every available tagged question rather than inventing weak matches.
 - Public scores are preparation signals from public company-tag data, not official interview probabilities. Domain-fit entries are relevance signals, not frequency measurements.
 
+The newly solved [Two Sum](./hashing/solutions.md#7-two-sum), [Valid Anagram](./hashing/solutions.md#8-valid-anagram), and [Top K Frequent Elements](./hashing/solutions.md#9-top-k-frequent-elements) remain outside the ranked lists until their company scores are verified; existing ranks are unchanged.
+
 ## Top 20 Across Categories
 
 | Rank | Question | Category | Best signal | Why practice it |

@@ -24,6 +24,10 @@ This set is a curated representative top-100 list, not an official question bank
 
 Use the top-20 focus index when time is short. Use the company focus index after a category pass: pick a target company, review the `High` public signals first, then fill gaps with `Medium` public signals and L7 domain-fit questions.
 
+## LeetCode Popularity Collection
+
+[LeetCode Popularity Top 1,000 in C++](./leetcode_top_1000/README.md) is a separate popularity-ranked reference with short problem excerpts, solution ideas, C++ code, and time and space complexity for 1,000 free algorithm problems. Its ranking uses likes rather than company interview frequency. Read its [source and license notes](./leetcode_top_1000/ATTRIBUTION.md) before reusing imported material.
+
 ## Focused Areas
 
 - [Linux Storage Principal Ramp Tracker](../../focused_areas/linux_storage_principal_ramp.md) — timed C++/kernel C practice and [detailed lab specifications](../../focused_areas/linux_storage_principal_exercises.md).

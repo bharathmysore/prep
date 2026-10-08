@@ -29,6 +29,9 @@ Pattern tags are mirrored from [questions](./questions.md); keep both directions
 | `vector-index-map`, `randomized-structure` | vector plus index hash map | [questions](./questions.md): Q4 |
 | `deduplication`, `ttl-window` | hash set plus expiry queue | [questions](./questions.md): Q5 |
 | `bidirectional-map`, `bijection` | bidirectional character mapping | [questions](./questions.md): Q6 |
+| `hash-map`, `complement-lookup` | one-pass complement lookup | [questions](./questions.md): Q7 |
+| `frequency-map`, `character-counting` | fixed-alphabet frequency counting | [questions](./questions.md): Q8 |
+| `frequency-map`, `bucket-sort`, `top-k` | frequency map plus frequency buckets | [questions](./questions.md): Q9 |
 
 ## L7 Follow-Ups
 

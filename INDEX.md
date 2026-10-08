@@ -69,6 +69,19 @@ This index links all maintained Markdown docs in this workspace.
 - [C++ L7 Coding Prep](./coding/cpp/README.md)
 - [C++ Top 20 Coding Question Focus](./coding/cpp/top_20.md)
 - [C++ Company Frequency Focus Index](./coding/cpp/company_frequency.md)
+- [LeetCode Popularity Top 1,000 in C++](./coding/cpp/leetcode_top_1000/README.md)
+- [LeetCode Top 1,000 Source and License Notes](./coding/cpp/leetcode_top_1000/ATTRIBUTION.md)
+- [LeetCode Top 1,000 MIT Code License](./coding/cpp/leetcode_top_1000/LICENSE_KAMYU.md)
+- [LeetCode Ranks 1–100](./coding/cpp/leetcode_top_1000/ranks_0001_0100.md)
+- [LeetCode Ranks 101–200](./coding/cpp/leetcode_top_1000/ranks_0101_0200.md)
+- [LeetCode Ranks 201–300](./coding/cpp/leetcode_top_1000/ranks_0201_0300.md)
+- [LeetCode Ranks 301–400](./coding/cpp/leetcode_top_1000/ranks_0301_0400.md)
+- [LeetCode Ranks 401–500](./coding/cpp/leetcode_top_1000/ranks_0401_0500.md)
+- [LeetCode Ranks 501–600](./coding/cpp/leetcode_top_1000/ranks_0501_0600.md)
+- [LeetCode Ranks 601–700](./coding/cpp/leetcode_top_1000/ranks_0601_0700.md)
+- [LeetCode Ranks 701–800](./coding/cpp/leetcode_top_1000/ranks_0701_0800.md)
+- [LeetCode Ranks 801–900](./coding/cpp/leetcode_top_1000/ranks_0801_0900.md)
+- [LeetCode Ranks 901–1,000](./coding/cpp/leetcode_top_1000/ranks_0901_1000.md)
 
 | Category | Pattern catalog | Interview questions | Implemented solutions | Test cases |
 | --- | --- | --- | --- | --- |

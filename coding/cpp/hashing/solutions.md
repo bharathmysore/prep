@@ -196,3 +196,91 @@ Snippets assume C++17 standard headers and `using namespace std;`.
 * **Optimizations**: Runtime: single pass. Memory: fixed arrays for byte alphabets.
 * **Edge Cases To Consider**: Different lengths, many-to-one mapping, repeated patterns, empty strings.
 * **L7 Follow-ups**: For Unicode, map normalized code points rather than raw bytes.
+
+## 7. Two Sum
+
+* **Pattern / Idea**: `hash-map`, `complement-lookup`; store earlier values so each position can find its partner in one pass.
+* **Company Frequency Tags**: Public signal: not scored in the current company-frequency index; no company-specific claim is made.
+* **Question**: [LeetCode 1](https://leetcode.com/problems/two-sum/) asks for two distinct zero-based indices whose values add to `target`; exactly one pair exists.
+* **Test Cases**: [Test cases](./test_cases.md#7-two-sum).
+* **C++ Code**
+  ```cpp
+  vector<int> twoSum(const vector<int>& nums, int target) {
+      unordered_map<int, int> firstIndex;
+      firstIndex.reserve(nums.size());
+      for (int i = 0; i < static_cast<int>(nums.size()); ++i) {
+          const long long need = static_cast<long long>(target) - nums[i];
+          if (need >= INT_MIN && need <= INT_MAX) {
+              const auto it = firstIndex.find(static_cast<int>(need));
+              if (it != firstIndex.end()) return {it->second, i};
+          }
+          firstIndex.emplace(nums[i], i);
+      }
+      return {};  // Outside LeetCode's exactly-one-solution contract.
+  }
+  ```
+* **Code Explanation**: Before inserting the current value, look up the complement among earlier indices. This order prevents using the same element twice; `emplace` retains the first index for duplicates.
+* **Invariants**: At the start of iteration `i`, the map contains only values from indices less than `i`, with one valid index per value.
+* **Complexity**: Average time `O(n)` and space `O(n)`; a collision-heavy hash table can degrade lookup time toward `O(n²)` overall.
+* **Optimizations**: Runtime: reserve the map once to reduce rehashing. Memory: sorting index-value pairs uses `O(n)` space as well, so the hash map is simpler for this API.
+* **Edge Cases To Consider**: Equal values at different indices, negative values, complement arithmetic near integer limits, no match outside the stated contract.
+* **L7 Follow-ups**: For a stream of targets, index the immutable input once; for adversarial keys, consider an ordered map with `O(n log n)` worst-case time.
+
+## 8. Valid Anagram
+
+* **Pattern / Idea**: `frequency-map`, `character-counting`; equal strings up to permutation have identical counts for every letter.
+* **Company Frequency Tags**: Public signal: not scored in the current company-frequency index; no company-specific claim is made.
+* **Question**: [LeetCode 242](https://leetcode.com/problems/valid-anagram/) asks whether two lowercase English strings contain the same letters with the same multiplicities.
+* **Test Cases**: [Test cases](./test_cases.md#8-valid-anagram).
+* **C++ Code**
+  ```cpp
+  bool isAnagram(const string& s, const string& t) {
+      if (s.size() != t.size()) return false;
+      array<int, 26> count{};
+      for (size_t i = 0; i < s.size(); ++i) {
+          ++count[s[i] - 'a'];
+          --count[t[i] - 'a'];
+      }
+      return all_of(count.begin(), count.end(),
+                    [](int value) { return value == 0; });
+  }
+  ```
+* **Code Explanation**: Add counts from `s` and subtract matching positions from `t`. All zeroes at the end mean every letter occurs equally often.
+* **Invariants**: After processing prefix length `i`, each slot is the count difference between those two prefixes.
+* **Complexity**: Time `O(n + 26) = O(n)` and auxiliary space `O(26) = O(1)` for the fixed alphabet.
+* **Optimizations**: Runtime: length rejection avoids scanning unequal lengths. Memory: the fixed array avoids hash-table allocation; sorting would use `O(n log n)` time.
+* **Edge Cases To Consider**: Equal lengths with different counts, repeated letters, empty strings outside LeetCode's minimum length, Unicode input outside the lowercase contract.
+* **L7 Follow-ups**: For Unicode, define normalization and count code points with a map; byte counts alone can misclassify equivalent text.
+
+## 9. Top K Frequent Elements
+
+* **Pattern / Idea**: `frequency-map`, `bucket-sort`, `top-k`; use the fact that each frequency lies between `1` and `n`.
+* **Company Frequency Tags**: Public signal: not scored for this exact solution in the current company-frequency index; no company-specific claim is made.
+* **Question**: [LeetCode 347](https://leetcode.com/problems/top-k-frequent-elements/) asks for the `k` most frequent distinct integers, in any order; the problem guarantees a unique answer.
+* **Test Cases**: [Test cases](./test_cases.md#9-top-k-frequent-elements).
+* **C++ Code**
+  ```cpp
+  vector<int> topKFrequent(const vector<int>& nums, int k) {
+      unordered_map<int, int> frequency;
+      frequency.reserve(nums.size());
+      for (int x : nums) ++frequency[x];
+
+      vector<vector<int>> buckets(nums.size() + 1);
+      for (const auto& [value, count] : frequency) {
+          buckets[count].push_back(value);
+      }
+
+      vector<int> answer;
+      answer.reserve(k);
+      for (size_t count = buckets.size(); count-- > 1 && answer.size() < static_cast<size_t>(k);) {
+          for (int value : buckets[count]) answer.push_back(value);
+      }
+      return answer;
+  }
+  ```
+* **Code Explanation**: Count each value, place it in the bucket matching its frequency, then scan buckets from highest frequency downward. The unique-answer guarantee means the last nonempty bucket cannot straddle the `k` boundary.
+* **Invariants**: Every distinct value appears in exactly one bucket indexed by its frequency; before scanning frequency `f`, all selected values have frequency greater than `f`.
+* **Complexity**: Average time `O(n)` and space `O(n)` for the hash table and buckets; adversarial hash collisions can make counting `O(n²)`.
+* **Optimizations**: Runtime: buckets meet the better-than-`O(n log n)` follow-up. Memory: a size-`k` min-heap uses `O(u + k)` space with the frequency map and `O(n + u log k)` average time, where `u` is distinct values.
+* **Edge Cases To Consider**: `k = 1`, `k = u`, negative values, one repeated value, ties below the cutoff, and the unique-answer assumption at the cutoff.
+* **L7 Follow-ups**: With distributed shards, merge per-key counts before ranking; local top-`k` lists alone can miss a globally frequent key.

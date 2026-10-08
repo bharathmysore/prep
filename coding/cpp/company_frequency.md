@@ -16,6 +16,10 @@ Use this index to bias final-stage practice toward a target company while still 
 - [Interview Browser company-wise LeetCode page](https://interviewbrowser.com/leetcode-questions)
 - [LeetCode company tags strategy note](https://leetcopilot.dev/blog/how-to-use-leetcode-premium-company-tags-for-targeted-interview-prep)
 
+## New Solutions Awaiting Company Scores
+
+These solved LeetCode prompts have verified problem statements but no verified company-frequency score in this index, so they are not assigned a company bucket: [Two Sum](./hashing/solutions.md#7-two-sum), [Valid Anagram](./hashing/solutions.md#8-valid-anagram), and [Top K Frequent Elements](./hashing/solutions.md#9-top-k-frequent-elements).
+
 ## Company Sections
 
 ### Amazon/AWS

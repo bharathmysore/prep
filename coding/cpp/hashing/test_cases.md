@@ -67,3 +67,39 @@ Concrete test cases live here so solution explanations stay focused on approach,
 | True | `egg`, `add` | Return true. |
 | False | `foo`, `bar` | Return false. |
 | Two-to-one conflict | `ab`, `aa` | Return false. |
+
+## 7. Two Sum
+
+* **Question**: Return distinct zero-based indices whose values sum to the target.
+* **Solution**: [Two Sum](./solutions.md#7-two-sum).
+
+| Case | Input / Scenario | Expected |
+| --- | --- | --- |
+| Basic | `nums=[2,7,11,15]`, `target=9` | `[0,1]` |
+| Duplicate values | `nums=[3,3]`, `target=6` | `[0,1]`, using different indices |
+| Unsorted | `nums=[3,2,4]`, `target=6` | `[1,2]` |
+| Signed values | `nums=[-3,4,3,90]`, `target=0` | `[0,2]` |
+
+## 8. Valid Anagram
+
+* **Question**: Decide whether two lowercase strings have the same character multiset.
+* **Solution**: [Valid Anagram](./solutions.md#8-valid-anagram).
+
+| Case | Input / Scenario | Expected |
+| --- | --- | --- |
+| Reordered | `s="anagram"`, `t="nagaram"` | `true` |
+| Equal length, wrong counts | `s="rat"`, `t="car"` | `false` |
+| Repeated letters | `s="aabb"`, `t="abab"` | `true` |
+| Different lengths | `s="a"`, `t="aa"` | `false` |
+
+## 9. Top K Frequent Elements
+
+* **Question**: Return the `k` values with greatest frequency in any order.
+* **Solution**: [Top K Frequent Elements](./solutions.md#9-top-k-frequent-elements).
+
+| Case | Input / Scenario | Expected |
+| --- | --- | --- |
+| Basic | `nums=[1,1,1,2,2,3]`, `k=2` | `{1,2}` in any order |
+| One value | `nums=[1]`, `k=1` | `[1]` |
+| All distinct | `nums=[4,2,7]`, `k=3` | `{4,2,7}` in any order |
+| Negative values | `nums=[-1,-1,2,2,2,3]`, `k=1` | `[2]` |

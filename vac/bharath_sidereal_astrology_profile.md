@@ -515,18 +515,25 @@ The event history strongly supports the supplied Moon nakshatra, Aquarius ascend
 
 The repeated structure is external employer change plus 2/6/8/10/11/12 activation. Internal promotions advanced level; employer switches produced the largest financial resets.
 
-### Oracle W-2 income
+### Reported W-2 income
 
-Assuming figures are in thousands:
+The following are the exact user-reported W-2 figures. The 2026 amount is a projection at Oracle, not a filed W-2 result.
 
-| Tax year | W-2 income | Change | Main explanation supplied |
+| Tax year | W-2 income | Year-over-year change | Status/context |
 |---|---:|---:|---|
-| 2023 | $552K | — | Existing compensation/vesting |
-| 2024 | $603K | +9.2% | Stock appreciation |
-| 2025 | $728K | +20.7% | Stock appreciation |
-| 2026 YTD through Aug 19 | $142K reported so far | Incomplete year | User-supplied year-to-date figure; exact payroll cutoff, included vest events, remaining base/bonus, and remaining 2026 RSU share counts are not yet documented |
+| 2016 | $204,306 | — | Combined Microsoft and Oracle W-2 income during the June 2016 employer-transition year |
+| 2017 | $310,104 | +51.8% | First full Oracle calendar year |
+| 2018 | $319,758 | +3.1% | Reported W-2 |
+| 2019 | $363,925 | +13.8% | Reported W-2 |
+| 2020 | $372,032 | +2.2% | Reported W-2 |
+| 2021 | $400,609 | +7.7% | Reported W-2 |
+| 2022 | $386,960 | −3.4% | Reported W-2 |
+| 2023 | $573,520 | +48.2% | Reported W-2; equity value materially affected the increase |
+| 2024 | $625,059 | +9.0% | Reported W-2; stock appreciation was a major contributor |
+| 2025 | $751,567 | +20.2% | Reported W-2; stock appreciation was a major contributor |
+| 2026 projected at Oracle | $391,000 | −48.0% versus 2025 | Projection only; not a filed W-2 amount |
 
-2023→2025 increased approximately 31.9%, or roughly 14.8% annualized. This was not promotion-driven compensation growth.
+Reported W-2 increased approximately **267.9% from 2016 through 2025**, equivalent to roughly **15.6% annualized**. The 2023→2025 increase was approximately **31.0%**. This was not promotion-driven compensation growth. The projected 2026 decline primarily measures the loss of the unusually high stock-driven W-2 comparison base; it does not by itself establish a base-pay cut, demotion or permanent decline in normalized earning capacity.
 
 ### Saturn and stock appreciation
 
@@ -740,9 +747,9 @@ Astrology cannot calculate W-2 income or stock prices. The following ranges are 
 | Central external-move estimate | Approximately 20% |
 | Another doubling | Not the central expectation |
 
-2025 W-2 was $728K and materially affected by stock appreciation. A 2026 W-2 comparison may be distorted by Oracle share price, forfeited or accelerated vesting, sign-on payments, make-whole equity, and the new employer’s vest schedule.
+2025 W-2 was **$751,567** and materially affected by stock appreciation. A 2026 W-2 comparison may be distorted by Oracle share price, forfeited or accelerated vesting, sign-on payments, make-whole equity, and the new employer’s vest schedule.
 
-As of August 19, 2026, Bharath reported approximately $142K of 2026 W-2 income year to date. Matching $728K therefore requires approximately $586K of additional taxable wages during the remainder of 2026. This is an arithmetic threshold, not an astrological forecast; assess it from remaining cash compensation, bonuses, RSU share counts and actual vest-date fair-market values.
+As of August 19, 2026, Bharath reported approximately $142K of 2026 W-2 income year to date. The later Oracle-only full-year projection is **$391,000**. Matching the exact 2025 amount of $751,567 would have required approximately $609,567 beyond that August checkpoint and is no longer the working projection. This is an arithmetic comparison, not an astrological forecast; assess the final filed result from cash compensation, bonuses, RSU share counts and actual vest-date fair-market values.
 
 For any offer, compare:
 
@@ -1073,7 +1080,7 @@ Always distinguish:
 - Total compensation
 - Taxable W-2 income
 
-The 2025 W-2 figure of approximately $728K was elevated by Oracle stock appreciation. It is not a clean baseline for employer-controlled compensation.
+The exact 2025 W-2 figure of **$751,567** was elevated by Oracle stock appreciation. It is not a clean baseline for employer-controlled compensation.
 
 Do not describe stock appreciation as a promotion or base-pay increase. Do not assume a higher forward package must produce a higher W-2 in the transition year.
 
@@ -1945,9 +1952,10 @@ This detailed table begins with Jupiter mahādaśā, the current MD, and runs th
 | Approximately 2017/2018–Aug 2026 | Repeated attempts to switch employers | Bharath reports actively trying to change companies for roughly eight to nine years, but no attempt resulted in a completed employer switch. Exact applications, interview dates and outcomes remain to be supplied. | Rahu MD → Jupiter MD; exact lower periods depend on event dates |
 | Date not yet supplied, within the Oracle tenure | Microsoft employment offer | Bharath received a Microsoft offer, but the proposed level was below his expectation and the opportunity did not result in a company switch. Exact date, role, offered level, compensation and final disposition remain unspecified. | Cannot map below mahādaśā until the date is supplied |
 | May 2020 | Moved into second Bothell house | Property/residence milestone | Rahu–Moon–Jupiter |
-| 2023 | Oracle W-2 | $552K | Jupiter–Jupiter |
-| 2024 | Oracle W-2 | $603K; increase mainly from stock appreciation | Jupiter–Jupiter→Saturn |
-| 2025 | Oracle W-2 | $728K; increase mainly from stock appreciation | Jupiter–Saturn |
+| 2023 | Oracle W-2 | $573,520; large increase driven materially by equity value | Jupiter–Jupiter |
+| 2024 | Oracle W-2 | $625,059; increase mainly from stock appreciation | Jupiter–Jupiter→Saturn |
+| 2025 | Oracle W-2 | $751,567; increase mainly from stock appreciation | Jupiter–Saturn |
+| 2026 projection supplied Oct 7 | Oracle-only projected W-2 | $391,000; projection rather than a filed tax result, approximately 48.0% below the stock-inflated 2025 W-2 | Jupiter–Saturn |
 | Oct 2025 | Oracle RSUs vested | Referenced vest price was above $300 per share; vest-date documents and lot-level tax basis should be used for tax calculations | Jupiter–Saturn–Venus |
 | Nov/Dec 2025 | Apple full loop | Completed full loop | Jupiter–Saturn–Sun/Moon |
 | Early 2026 | SBA loan approved for wife’s business | $550K loan approved; current business lease runs through 2036 | Jupiter–Saturn |
@@ -2731,12 +2739,12 @@ The next role should be evaluated by architecture ownership, multi-team influenc
 
 ## 48. Finance and Income Trajectory From Age 50
 
-Bharath turns 50 on **May 8, 2027**. This is better interpreted as a financial pivot than a peak or decline. The chart supports substantial earning and wealth-building capacity through the 50s, but income is likely to remain uneven because career compensation, equity valuation, the franchise, debt and possible property obligations operate on different schedules. The $728K 2025 W-2 was materially assisted by Oracle stock appreciation and should not be treated as guaranteed recurring earning power.
+Bharath turns 50 on **May 8, 2027**. This is better interpreted as a financial pivot than a peak or decline. The chart supports substantial earning and wealth-building capacity through the 50s, but income is likely to remain uneven because career compensation, equity valuation, the franchise, debt and possible property obligations operate on different schedules. The **$751,567** 2025 W-2 was materially assisted by Oracle stock appreciation and should not be treated as guaranteed recurring earning power.
 
 | Age / period | Salary and equity | Business, debt and net-worth emphasis |
 |---|---|---|
 | **49–50: now–May 2027** | Income continuity is better supported than another stock-driven W-2 peak. A late-2026 offer may improve 2027 forward compensation, but transition timing can reduce reported W-2. | Franchise launch costs and the $550K SBA exposure make liquidity the priority. Do not count paper equity or projected franchise revenue as spendable income. |
-| **50–52: May 2027–Apr 2029 — Jupiter–Mercury** | Best broad period for an employer-driven recurring-compensation reset. An external Staff package may improve normalized forward value; the existing planning scenario is roughly 15–30%, not measured against the $728K stock-inflated peak and not an astrological guarantee. First-year W-2 can still be lower because of forfeited Oracle vesting, start-date timing and a new vest schedule. | The franchise is more plausibly in stabilization/reinvestment mode than producing dependable household distributions. Preserve flexibility while the job and store establish operating histories. |
+| **50–52: May 2027–Apr 2029 — Jupiter–Mercury** | Best broad period for an employer-driven recurring-compensation reset. An external Staff package may improve normalized forward value; the existing planning scenario is roughly 15–30%, not measured against the $751,567 stock-inflated peak and not an astrological guarantee. First-year W-2 can still be lower because of forfeited Oracle vesting, start-date timing and a new vest schedule. | The franchise is more plausibly in stabilization/reinvestment mode than producing dependable household distributions. Preserve flexibility while the job and store establish operating histories. |
 | **52–53: Apr 2029–Mar 2030 — Jupiter–Ketu** | Clearest capital-preservation and income-restructuring phase. Vest interruptions, role/equity changes or unusual costs are more plausible than clean expansion. | Avoid assuming distributions or taking new leverage solely from optimistic forecasts. This is the strongest pre-2035 caution window for write-downs, cash calls or financial pruning. |
 | **53–55: Mar 2030–Nov 2032 — Jupiter–Venus** | Cleanest advancement, compensation and equity-refresh period. Most supportive phase for Senior Staff-level earnings and sustainable accumulation. | Best conditional period for business surplus, additional SBA principal reduction and asset acquisition, but only if actual margins and reserves support them. Property symbolism is strongest around 2031–early 2032. |
 | **55–58: late 2032–2035 — Jupiter–Sun/Moon/Mars** | High authority and earning potential; stronger cash/equity capacity is plausible. Taxes, property, education/family and lifestyle obligations can absorb much of the rise. | Favorable for net-worth growth when leverage is controlled. 2035 is decisive and expansionary but should not be treated as risk-free. |
@@ -3589,7 +3597,7 @@ Subjective planning ranges—not NVIDIA statistics or astrological certainties�
 
 Thus NVIDIA can produce the desired result in late 2026, but **mid-to-late 2027 remains the stronger base-case period for level and compensation to align together** if this process does not convert.
 
-Compensation must be compared using normalized forward value, not the stock-appreciation-inflated $728K 2025 W-2. Even at the posted maximum base of $431,250, matching $728K requires about $296,750 a year from target bonus, annualized equity and/or sign-on/make-whole; at the range midpoint it requires roughly $376,000 beyond base. These are arithmetic gaps, not NVIDIA promises. The decision comparison should use base, target bonus, annualized initial equity, expected refreshes, sign-on/make-whole, forfeited Oracle vesting, relocation cost and the first 24 months of realistic value. Do not accept a verbal “join lower and fast-track” premise unless the written current level and compensation are already acceptable.
+Compensation must be compared using normalized forward value, not the stock-appreciation-inflated **$751,567** 2025 W-2. Even at the posted maximum base of $431,250, matching $751,567 requires about **$320,317** a year from target bonus, annualized equity and/or sign-on/make-whole; at the range midpoint it requires roughly **$399,567** beyond base. These are arithmetic gaps, not NVIDIA promises. The decision comparison should use base, target bonus, annualized initial equity, expected refreshes, sign-on/make-whole, forfeited Oracle vesting, relocation cost and the first 24 months of realistic value. Do not accept a verbal “join lower and fast-track” premise unless the written current level and compensation are already acceptable.
 
 ## 67. Long-Range Career Rise, Plateau and Taper — September 24, 2026
 
@@ -4411,3 +4419,85 @@ The arbitration clause is materially important: Washington generally treats a wr
 - The final invoice lists freight of **$1,870.44** versus $4,300.00 in the contract; engineering of **$1,020.00** versus $350.00; actual permits of **$869.76**; surveys totaling **$2,418.00** versus one $1,077.00 survey; and installation lines totaling **$10,961.00** versus the original $6,074.00 installation line. The original $18,280.00 sign-fabrication line does not appear by the same part number; three different sign-product lines total **$5,626.00**. These are reconciliation questions, not proof of overbilling by themselves.
 - The City records supplied by Thomas Sign show both **SIGN 04-FINAL/PERMIT CLOSE OUT** and **ELEC 10-FINAL** as **APPRVD-PERMIT FINAL**, completed **August 19, 2026**. The sign note says the signage was installed per the submitted plan, the attached electrical permit received final approval and the sign permit could be closed. These records establish final approval of the sign and associated electrical permits only; they do not establish the overall tenant-improvement permit, Certificate of Occupancy, invoice cost support or the reason for the project timeline.
 - For correspondence with Thomas Sign, distinguish the lower aggregate invoice from the unexplained line-item changes. Request a contract-to-invoice reconciliation; cost support for freight, engineering and permits; the sales-tax rate and taxable base; the date, scope and reason for the two additional survey entries; and the authorization or change history mapping the original sign and installation scope to the final invoice. The timeline request should seek dated permit, engineering, manufacture, shipment, installation and inspection milestones rather than assert breach solely from the elapsed months, because the supplied contract states no fixed completion date.
+- **October 7, 2026, 2:04 PM PDT:** Bharath reports sending Thomas Sign a payment-resolution email proposing a **$3,000 project-completion adjustment**, which would reduce Invoice T42616's stated balance from **$9,081.75** to **$6,081.75**, subject to Thomas confirming in writing that the reduced payment would satisfy the invoice in full. This is a negotiation proposal, not an agreed credit or completed payment; no reduced payment should be treated as full settlement without Thomas's written acceptance.
+
+## 87. 2026 W-2 Decline and Sign-On Assessment — October 7, 2026
+
+- The supplied 2025 W-2 was **$751,567** and the current Oracle-only 2026 projection is **$391,000**, a projected decline of **$360,567 or 48.0%**. This makes a lower 2026 reported W-2 the base case independently of astrology. It does not establish a base-salary cut, demotion or permanent decline in normalized forward compensation; the comparison is dominated by the unusually high stock-appreciation contribution to 2025.
+- **Parāśara/D10:** Jupiter mahādaśā and Jupiter's 2nd/11th ownership protect earning capacity, while Saturn antardaśā makes valuation and realization depend on employer process, vesting and institutional approval. The chart supports continuity and a later compensation reset more strongly than repeating the 2025 equity-driven taxable peak.
+- **KP/Bhava Chalit:** the 2–6–10–11 employment-income chain remains active, but 8/12 involvement connects a possible employer transition with forfeited vesting, make-whole negotiation, taxes, relocation and timing offsets. This supports a one-time sign-on or make-whole component only if an external offer actually reaches compensation negotiation.
+- **BNN/Jaimini:** Jupiter opens the career/value chain while Saturn audits the natal Mars–Venus–Ketu combination; Cancer A10 remains activated, but Saturn makes recognition and money evidence-driven. The result is delayed negotiated value rather than an automatic windfall.
+- **Aṣṭakavarga/annual chart:** H11 gains support of 33 is constructive, but H2 is 27, H12 is 32, the Cancer/Leo SAV environment is 23 and Saturn has only two Pisces BAV points. Bharath's capacity is stronger than the ease of the institution; gains can coexist with high outflow and delay. The 2026–27 Varshaphal protects earning capacity but emphasizes liquidity and recurring compensation over headline equity values.
+- **Timing:** Jupiter–Saturn–Jupiter–Saturn through approximately **October 19** is an audit/screening phase. Mercury through approximately **November 6** supports interviews and documents but overlaps revision. Ketu approximately **November 6–13** is weak for clean closure. Venus approximately **November 13–December 3**, especially **November 22–December 3**, is the best sign-on/make-whole and compensation-negotiation window; the Sun through approximately **December 10** can supply authority approval. This remains conditional on a mature external process.
+- **Practical conclusion:** an external offer could contain a sign-on or make-whole provision in late 2026, but actual cash receipt by December 31 is low probability because a late offer would more naturally produce a January–February 2027 start and 2027 W-2 payment. An internal Oracle transfer ordinarily would not create a sign-on. Matching the 2025 W-2 would require an additional **$360,567** of 2026 taxable income; even a $100,000 cash sign-on would produce approximately **$491,000**, still about **34.7% below** 2025.
+
+## 88. Illustrative W-2 Path Through 2037 — October 7, 2026
+
+This is a **nominal personal W-2 planning scenario**, not an astrological calculation of salary and not a prediction of stock prices. It excludes spouse/franchise distributions, investment gains and settlement proceeds. The central path assumes Bharath establishes a genuine Staff/Principal-equivalent compensation platform through an external move or material scope reset during 2027–28. Remaining at Oracle without a new charter would make the 2027–28 increases materially smaller. Annual ranges are scenario bands, not statistical confidence intervals.
+
+| Year | Main Vimshottari emphasis | Central YoY | Defensible scenario range | Central illustrative W-2 |
+|---|---|---:|---:|---:|
+| 2026 | Jupiter–Saturn | **−48.0%** | Supplied projection | **$391,000** |
+| 2027 | Saturn → Mercury | **+18%** | −5% to +35% | **$461,000** |
+| 2028 | Jupiter–Mercury | **+12%** | 0% to +25% | **$517,000** |
+| 2029 | Mercury → Ketu | **−4%** | −18% to +10% | **$496,000** |
+| 2030 | Ketu → Venus | **+10%** | −5% to +25% | **$546,000** |
+| 2031 | Jupiter–Venus | **+15%** | +3% to +30% | **$628,000** |
+| 2032 | Venus → Sun | **+10%** | 0% to +22% | **$690,000** |
+| 2033 | Sun → Moon | **+8%** | −5% to +20% | **$746,000** |
+| 2034 | Jupiter–Moon | **+9%** | −3% to +22% | **$813,000** |
+| 2035 | Jupiter–Mars | **+12%** | −8% to +30% | **$910,000** |
+| 2036 | Jupiter–Rahu | **+4%** | −20% to +35% | **$947,000** |
+| 2037 | Jupiter–Rahu | **−5%** | −30% to +30% | **$899,000** |
+
+- **2027–28:** Jupiter–Mercury is the strongest realistic employer-change and recurring-compensation reset. A transition year can be lower because of forfeited Oracle vesting or higher because of sign-on/make-whole. If Bharath remains at Oracle without promotion, approximately **0–8%** is more defensible than the central +18% for 2027.
+- **2029:** Jupiter–Ketu is the clearest interruption/consolidation window. Role separation, vest timing, equity repricing or an employer reset can reduce calendar W-2 even while technical scope improves.
+- **2030–32:** Jupiter–Venus is the cleanest compensation and advancement phase. The exalted yogakāraka Venus–10th-lord Mars combination and D10 Venus in H10 support a sustainable rise; **2031** is the strongest clean-growth year in the central model.
+- **2032–34:** Sun/Moon periods support authority and visibility, but title and taxable W-2 need not rise at the same rate. The central path does not exceed the stock-inflated 2025 W-2 until approximately **2034**.
+- **2035:** Jupiter–Mars can produce a decisive promotion, employer move or equity event, but also conflict and overextension.
+- **2036–37:** Jupiter–Rahu is the highest-variance phase. Global scope, employer transformation and equity can produce an upside result, while reorganization, equity reversal, the 2036 franchise lease decision and shared liabilities create substantial downside. The −5% central 2037 figure is a conservative planning assumption, not a promised decline.
+- **Cross-method basis:** Parāśara/D10 protects long-run earnings through Jupiter's 2nd/11th ownership and the 9–10–11 career circuit; KP/Bhava Chalit preserves the 2–6–10–11 employment-income chain with 8/12 volatility; BNN links Jupiter–Venus–Mars across gains, career and compensation; Jaimini makes recognition delayed but durable through Saturn in A10; Aṣṭakavarga supports strong gains but uneven salary/title delivery, with the 2030–32 Saturn-in-Taurus period cleaner than the later Saturn-in-Gemini phase.
+
+The central 2026–37 path implies approximately **7.9% nominal annualized growth** from the depressed 2026 base and reaches approximately **$899,000 in 2037**. It is a career-progress scenario, not a safe budgeting assumption. Household commitments should be based on guaranteed salary and vested/realized compensation rather than this table.
+
+### 88.1 First $1 Million Annual-Income Threshold
+
+- This threshold refers to **nominal personal W-2/earned compensation**, not base salary alone, household income, unrealized equity, franchise revenue or investment gains.
+- **Earliest plausible one-year crossing: 2035.** Jupiter–Mars can produce a decisive promotion, employer move or large equity realization, and the central model's broad 2035 upside band crosses $1 million. This is an upside case rather than the base case.
+- **Most likely first-crossing window: 2036.** Jupiter–Rahu begins in late December 2035 and can create nonlinear equity or transformation-linked compensation. The conservative central 2036 model is approximately $947,000, so only about 5.6% additional realization is required to cross $1 million; however, the same Rahu period can also reverse equity gains.
+- **Durable/repeatable $1 million:** approximately **2036–38**, conditional on establishing Staff scope by 2027–28, Senior Staff/Principal authority during 2030–35, and receiving a package whose recurring salary, bonus and annualized vesting—not merely one appreciated stock lot—supports the threshold. Saturn mahādaśā beginning around May 2038 can consolidate an established platform but does not create it automatically.
+- A surprise stock-driven W-2 above $1 million could occur earlier, including 2031–34, but the chart and current career evidence do not justify using that as the planning case. Conversely, without the 2027–28 employer/scope reset, the threshold may be delayed beyond 2038 or may never become a stable annual level.
+
+### 88.2 Probability of a $900,000 W-2 in 2027
+
+- From the supplied **$391,000** 2026 projection, a $900,000 W-2 would require an increase of approximately **$509,000 or 130.2%** in one year. It would also exceed the stock-appreciation-driven 2025 W-2 of $751,567 by approximately **19.8%**.
+- The working 2027 central scenario is approximately **$461,000**, with a broad career-transition band of roughly **$371,000–$528,000**. A $900,000 result is therefore not the base case and lies far outside the normal scenario range.
+- **Symbolic/planning likelihood of an actual $900,000 2027 W-2: approximately 3–7%.** This is not a statistical probability. It requires an exceptional combination such as a very large cash sign-on or make-whole, accelerated taxable vesting, a major Oracle-equity appreciation event, or a senior external package that begins early enough to affect most of the tax year.
+- **Conditional likelihood after first securing a true Principal/Senior Staff package with substantial first-year cash or make-whole value:** approximately **10–15%**. A high annualized offer does not automatically produce the same calendar-year W-2 because initial equity normally vests over time and a midyear start splits income across employers.
+- Jupiter–Mercury beginning January 15, 2027 supports a compensation reset, negotiation and employer change; the cleaner external-agreement window is later in 2027. That timing helps forward compensation more than the full-year 2027 W-2. KP 8/12 links, Saturn's institutional filtering, and transition/vesting timing oppose an immediate doubling, while Jupiter's 2/11 ownership protects the longer-term rise.
+- A more defensible 2027 target is **$450,000–$550,000 W-2**, with upside toward approximately **$600,000–$700,000** only if a large sign-on/make-whole or strong Oracle-stock/vesting event occurs. Do not budget against $900,000.
+
+## 89. Technical Fellow Career Ceiling — October 7, 2026
+
+The chart supports a genuine **high technical-authority ceiling** and is better aligned with architecture, infrastructure, distributed systems, reliability, standards and complex-system judgment than with conventional people-management leadership. It does **not** guarantee the formal title Technical Fellow or anything above it.
+
+- **Strongest central formal outcome:** Principal/L8-equivalent, conditional on first establishing unmistakable Staff scope.
+- **Credible stretch:** Distinguished/L9-equivalent, especially during the high-variance 2035–38 Jupiter–Mars/Rahu phase if the earlier platform is already company-wide.
+- **Formal Technical Fellow/L10:** exceptional late-career possibility rather than the base forecast. The first plausible institutional crystallization window is approximately **2039–44**, particularly Saturn–Mercury around 2041–44, if Distinguished-level scope and external recognition already exist.
+- **Higher than Fellow:** no responsible central chart prediction; it remains an extreme tail outcome.
+
+**Cross-method promise:** the corrected D10 has Moon in its own Cancer ascendant, 10th lord Mars in H9, 9th lord Jupiter in H11 and 11th lord Venus in H10, creating a strong 9–10–11 circuit. Natal exalted yogakāraka Venus joins the 10th lord Mars. KP preserves the 2–6–10–11 recognition chain but adds 3/8/12 discontinuity. BNN favors rare expertise in failure-sensitive systems but stepwise delivery. Jaimini supplies the strongest Fellow-like signature through Moon Ātmakāraka in/with the Sagittarius Arudha framework, exalted Sun Amātyakāraka and Saturn in Cancer A10. D10 Rahu H8 and Saturn–Ketu H2, together with stronger gains/influence support than smooth title delivery in Aṣṭakavarga, explain why authority, pay and formal rank can diverge.
+
+**Working trajectory:**
+
+| Period | Required milestone |
+|---|---|
+| 2027–29 | Establish genuine Staff-equivalent ownership and repeated cross-team impact |
+| 2030–32 | Senior Staff/Principal preparation; obtain an organization-wide architecture mandate |
+| 2032–35 | Principal/L8 consolidation, executive sponsorship and development of other senior engineers |
+| 2035–38 | Conditional Distinguished/L9 breakout through company-wide or industry-visible impact |
+| 2039–44 | Possible Fellow-equivalent influence or formal Fellow consideration if every prior gate is met |
+
+Subjective planning ranges from the current real-world baseline—not statistical astrological probabilities—are approximately: **Staff by 2029, 45–60%; Principal/L8 by 2035, 20–35%; Distinguished/L9 by 2038–42, 7–15%; formal Technical Fellow during the career, 2–6%; higher than Fellow, below 1–2%.** If Staff is secured by 2028, Principal scope by 2034–35 and Distinguished scope plus external recognition by 2037, the conditional Fellow/Fellow-equivalent possibility around 2039–45 may improve to approximately **8–15%**.
+
+The essential evidence chain is company-wide platform ownership, quantified strategic impact, durable standards/patents/papers or open-source influence, creation of other Staff/Principal engineers, external professional recognition and VP/Fellow-level sponsorship. Without those artifacts, the same chart can manifest as highly paid Principal-level influence without the formal Fellow title.
