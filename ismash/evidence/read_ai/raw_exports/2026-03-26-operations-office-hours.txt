@@ -1,0 +1,711 @@
+Operations Office Hours
+Thu, Mar 26, 2026
+
+0:00 - Kevin Macmaster
+over how these are going to work and what the structure will be and kind of what the hope and purpose of them is. Hi, Scott.
+
+0:08 - Scott Laviano
+Hello, Mr.
+
+0:09 - Scott Laviano
+Kevin.
+
+0:11 - Kevin Macmaster
+I think Steven said he wanted to join and do the intro for this. So all right. Yeah, he just said he's joining now. So I think we'll have a pretty good turnout today. A lot of people responded yes to it.
+
+0:25 - Scott Laviano
+So I think that's pretty cool. Nice.
+
+0:35 - Kevin Macmaster
+Everybody's trickling in. And there's Steven. You're on mute, Steven.
+
+0:56 - Steven Shortino
+Yeah, probably give it like two to three minutes and we'll just jump into it.
+
+1:02 - Kevin Macmaster
+And that was my thought. Exactly. And people will probably join periodically throughout it. So if I have to repeat it later on, I can. The end of the world. It's the nice thing about office hours people can just pop in and out as they All right The amount of note takers almost rivals the oh, no, they actually consolidated all down No, the one they didn't one company otter.
+
+1:56 - Steven Shortino
+It has like a personal note taker for everybody at least once uh the Read ai notes consolidate For like yeah, seven people have only one of them joins.
+
+2:07 - Kevin Macmaster
+Yeah, I got rid of my thing.
+
+2:09 - Scott Laviano
+Oh, thank god Yeah, that was driving me insane I I don't know how it happened All I know is I was on a call with somebody and it came up and I must have pushed the button to Add it and yeah, that was bad.
+
+2:23 - Kevin Macmaster
+Yep.
+
+2:23 - Scott Laviano
+Yeah, that was that was all over the place for those couple days Actually, I was I had four of them I had Read Otter and something else popped up at one point.
+
+2:36 - Kevin Macmaster
+That's ridiculous All right For the new ones that just joined we're just giving it a couple minutes before we jump into things just in case anybody joins In the middle of it. I mean, I think You might be able to be good steve. Just get started on it and just do a little quick intro like like one more minute and then we'll uh okay so everyone can get the introduction yep fine by me went from uh 60 and sunny to like 35 and raining in one day you think it's crazy here look at the rest of the country experiencing on a whole other level.
+
+
+
+3:29 - Scott Laviano
+I know it's crazy how warm it is here.
+
+3:31 - Kevin Macmaster
+Have you seen how warm it is in South Dakota?
+
+3:34 - Rebecca Foss
+It's like 70 degrees here in Maryland, so we're happy because it's been in the 40s.
+
+3:40 - Kevin Macmaster
+Yeah, I think it's like 79 85 degrees in South Dakota right now. Their average at this time of year is like 40 something. Thought that was interesting.
+
+3:53 - Steven Shortino
+All right.
+
+3:54 - Steven Shortino
+Well, I think uh, I'm just gonna just gonna start and people will trickle in Uh as we go along so You guys are probably all wondering what this is what you're doing here We are making some changes slash improvements To the brand and one of those changes is doing some more of these I guess you kind of call them office hours masterminds open for whatever you want to call it, for different cohorts of franchisees.
+
+ So we have three different sections of franchisees right now, which is guys that are very early on, don't have a signed lease, guys that have signed lease, they're in construction, they're for permitting, something like that. That would be this group right here. And then for the folks that are open. And the whole purpose of this is just to try to provide some more proactive support instead of just just us answering questions via email as they come in from you guys, just having this discussion for you guys to hear from other owners, maybe people that are further along than you.
+
+ Maybe someone asks a question that you hadn't even thought about, but now you know about it because you're here and you were just in the discussion. And it's just, it's kind of just an open forum for, to allow you guys to ask any question that you want. And for us to provide that support. And kind of the goal for us is rather than doing all of these different check-ins or having these one-on-ones, answering these questions, try to answer them in a more open forum to try to expand the outreach.
+
+ This is not going to replace the one-on-one check-in calls. We're still gonna do that, but this is kind of more for people to expand their knowledge Even for the guys like I know some of you on here have not started construction. You're in for permit permitting You're probably gonna hear about a lot of things that are happening with people in construction. You're gonna be like, oh, I That's the person I order my smash wheel from and okay That's how you get stumps for the smash rooms and know the opening checklist.
+
+ So that that's really what this is all about You can ask any question that you want. It could be very specific to your project. It could be very general it could It doesn't really matter We we are going to try to moderate it though. So it's not We're not just spending 20 minutes on on one person. Uh, we'll try to get to everybody as we go along Uh, just like with any of these other forums you guys can use the chat function.
+
+ You guys can use the hand raising function but uh, I'm really gonna let Scott and Kevin run the most of this and then if there's something that they can't answer that I need to answer I I will. So Scott, Kevin, if you guys want to jump in, take from here, feel free.
+
+6:47 - Unidentified Speaker
+Yep.
+
+6:47 - Kevin Macmaster
+Yeah. So like Steven said, that's kind of how it'll work. It'll basically just be use the hand raising feature. And then, you know, you can unmute and ask the question or you can write the question in the chat, whatever you want to do. That's what I think will be the best way to do it. You can stay for the entire time. You can, you know, pop in, ask your question, leave if you want. Like it doesn't really matter to me.
+
+ But I don't necessarily have like a structure or an agenda for these. It's literally gonna be whatever your guys's questions are I'll answer them and then you know if you guys don't have anything else you can head out or whatever the case may be. I'll just pretty much be sitting in here so if anyone wants to go first with any specific question feel free.
+
+7:24 - iSmash Cypress
+Sweet go ahead I don't know which one of you that is oh it's probably uh that's not it's Clayton okay hey question okay so we are doing our build out and we have multiple AC units units in our large side of our building and two smaller units in our smaller section. How is everybody like doing HVAC for their smash rooms so they don't get bitterly hot or bitterly cold while the rest of their store does not?
+
+ So that's like kind of the challenge because obviously you get people in there. It's not gonna be ventilated very well when the door is shut. You're gonna have multiple people in obviously in their suits and everything like that, versus the lobby, which will just have people walking around, sitting on a couch, and so on and so forth. What's the best, most efficient way to take care of that?
+
+8:21 - Kevin Macmaster
+In Rochester, for example, like ours, we only have one diffuser in each of the smash rooms, which it does get a little hot in there. Some of the stores have had it where the smash rooms themselves are on a different thermostat through a different unit than the others. Control the temperature in there and you can keep it colder because it does get warmer in there. If you wanted, I wouldn't really focus on improving the like ventilations that will just get insanely expensive.
+
+ But what I would recommend is trying to if you really are worried about it, which like in Rochester, it really isn't that big of a deal. We just keep the store a little colder, and it kind of balances that out. And people when they're coming here, they kind of expect it to be a bit of a work out so they're not overly surprised by the fact that they get a little hot and sweaty while doing it because I mean you're swinging sledgehammers constantly throwing things it kind of comes with the territory.
+
+ But some stores have set it up where their smash rooms are on a different like thermostat and all coming from one unit than all the rest of it so you can control the temperature in those. I think I don't think many have done that but I think one or two have. So you can go that route if you want. But if you just put one diffuser in there and a return air, that should be good. I mean, it'll be hot in there no matter what you do.
+
+ I mean, if you really wanted the temperature control, you could, it's just going to be expensive to do so.
+
+9:41 - iSmash Cypress
+Yeah, absolutely. So our HVAC guy recommended that, like, and I just, I, it sounded kind of right, but I wanted to see if there was any other solution that anybody else had come up with or anything like that. But he recommended the smash rooms pretty much be on one AC and the rest of the building, rest of our other unit, that non-smash rooms to be on another AC. And pretty much the smash rooms will just be almost constantly running all But then we program it to like bump back up at the end of the night when we close Yeah, so that's kind of a similar situation that he recommended Yep.
+
+
+
+10:16 - Kevin Macmaster
+Yeah, that's that's the best way I would think to go about it We keep our air now.
+
+10:20 - Scott Laviano
+We keep our air conditioning on at 74 degrees all day long And then at night our ac guy told us only to raise it two degrees and that's all because it takes too long to come back down in florida, um But we don't have any, we don't have any separate ACs or anything like that. We have one unit that runs the entire building and, um, you know, you get hot in the rooms, but we just blame it on the jumpsuits that they're wearing.
+
+ Cause everybody in Florida has a jumpsuit on. Yeah.
+
+10:52 - Kevin Macmaster
+And there's a fan in the room too, that helps to cool them down a bit. I mean, that's 74 is criminal to me. I think our store stays like 66 or 67, but it's also just colder here. So, It doesn't take as much to get it there.
+
+11:05 - iSmash Cypress
+Yeah, we keep our HVAC 7274 typically around here. But thank you. That sounds good, Kevin. It kind of sounds like you're in alignment with our HVAC guy. Thank you.
+
+11:15 - Kevin Macmaster
+Yeah, no problem. Who's next? Don't all do it at once. You can ask as many questions as you want. All right, go ahead, Rebecca.
+
+11:26 - Rebecca Foss
+I have a question. So I'm much earlier in the phase than some of you all are. So we're finishing up our drawings and we're bidding out for contractors and all of that. So I'm curious if anyone has any thoughts on what is the gap between when we're budgeting for the build-out. We've got the contractor bid, then we've got the FF&E that we're going to need to purchase for all the startup stuff that we need.
+
+ And I'm just curious if there were any surprises or there's a gap between those that we're not accounting for you know what I mean so like is is typically the cash wrap is that included in the contractor bids like are there things that um you know we need to be aware of as we're budgeting these costs out if anyone wants to weigh in that would be really helpful.
+
+12:14 - Kevin Macmaster
+So I mean there's always going to be some unexpecteds when it comes to building out of space because you can only quote out so much based on what it looks like the then before you actually get into the nitty gritty of it, there may be things that come up that you can't account for that, you know, that's why they're called unexpected surprises. Cause even to us, they were surprises. Um, and it can be a myriad of different things.
+
+ Um, as far as the cash rep and like the FF and E, so the FF and E is never included in the contractor bids. That's all bought separately by you. Um, however you can have your contractor do the install, the owner furnished items. Um, some people opt to do it themselves. And save a little money, but you can also have your GC do it. What I mean, like the owner furnished items, I mean like putting together like the TV racks or the TV mounts, mounting those in the walls, mounting the shelving in the gear rooms, like the shell or the racks for the suits, you know, different things like that.
+
+ You can have them do that if you want, or you can do that yourself to save a little bit on the costs. That's up to you. The cash rep building is usually, you can have the GC build that for you, or you can get it built by someone else. Some franchisees have gone in both directions. We've had some franchisees who get it made from a third party, and they get it like delivered there, and they have it designed, and it all looks very nice.
+
+ And then you can also have your GC make it. So either one is fine. So it's up to you on which direction you want to go on that. Does that answer your question fully?
+
+13:46 - Rebecca Foss
+Yeah, a little bit. I mean, of course, I know there's always going to be some things we're not expecting, but, um, just trying to, as we get our bids out, make sure that we're comparing, you know, apples to apples with the different, um, contractors that we're looking at and what they're including and all of that. So, um, just wanted to make sure I'm kind of covering all my bases there.
+
+14:06 - Kevin Macmaster
+Yeah. Well, and when you get the contractor bids, they should be itemized so that you can see, like, they shouldn't just be giving you like one lump sum number and just saying like, here you go, you know, they should be itemizing it out so you can see like how much money, you know, doors and frames is going to cost you how much money framing is going to cost you like you should be able to compare it from that kind of a perspective instead of like a I'm just saying here's a number you know this is it you're not knowing what each item will cost okay perfect thank you that'll help yeah that'll help compare them a little more um I know Jason asked a question that Jason chen I think your question was next and I'll get to you Divya okay Yeah, so I was just curious about the delivery frequency.
+
+
+
+14:51 - Jason Chen
+Are those like generally once a week? And if it's once a week, are we able to select which day we get delivery? Or even like the delivery time? Yep.
+
+15:03 - Kevin Macmaster
+So as far as the supplies go, basically, I just asked for people to place the orders within five days advance notice for the glassware. For the electronics, I asked for seven days. So, I mean, a good rule of thumb is just try and give me at least a week heads up just gives me the most amount of time to get things coordinated. I can do it on shorter notice it's not that I can't it's just it makes my life a lot easier the more time you give me you know the more time I have to problem solve or figure things out.
+
+ As far as what day you wanted to show up on yeah we can have it show up on whatever day you want whatever time you want.
+
+15:35 - Unidentified Speaker
+Oh OK.
+
+15:36 - Kevin Macmaster
+Yeah. So it doesn't there's not like we can set it up so that it comes on a regular cadence where like you know every week this amount a supply shows up at the same time, same day every week, we can set it up so it doesn't, you know, every two weeks it shows up that day, however you want to do it. Or we can basically set it up as needed and we can change the basis as needed. As long as you give us proper notice, you know, we can do that whenever.
+
+ Okay, that's cool. Thank you. Yep. Yeah. And then as far as like, you know, how the supply will work, it works differently for different stores in different areas. Some work directly with their local Goodwill or like local electronics supplier, some come straight from us. We're in a bit of a hybrid model at the moment. So we really just do whatever is in your best interest and whatever saves you the most money and makes you, you know, the most profitable.
+
+ So it could be a hybrid of those two things. It could come from us. It could come straight from the suppliers. We'll just set it up in a way that makes the most sense for everybody.
+
+16:34 - Unidentified Speaker
+Gotcha.
+
+16:37 - Kevin Macmaster
+Divya, I think you were next and then I got Rocky. Oh, it even numbers order for you that's very convenient.
+
+16:44 - Divya Dee
+Hi Kevin my question is for putting the price on you know certain things like when the store opens so how do you decide the price on that like how much will be for the smash or the whole group's family smash how do you decide on the pricing?
+
+17:03 - Kevin Macmaster
+Scott do you want to take that one I feel like I've been talking a lot.
+
+17:06 - Scott Laviano
+Yeah yeah So we actually have kind of a low price point, a medium price point, and a high price point for the locations right now. What you definitely want to do is you want to search your entire area for competitors, but not just iSmash competitors, not just Axe competitors. What are people doing for entertainment in your area? At all of those prices as to what they're charging, that's kind of how you'll determine what your prices are going to be.
+
+ The more and more stores we open, what we are learning is that higher price stores are not really getting the return customers as some of the lower price stores. And that's something we are starting to look at very closely to determine, you know, Steven and had that whole, he'll tell you from the beginning, he had that whole thing of low price, people will keep coming and Rochester is still number one.
+
+ So that thought is working, but definitely just go out and do research around your area first.
+
+18:17 - Kevin Macmaster
+Okay, thank you.
+
+18:21 - Kevin Macmaster
+Yeah, we've also started, we just trialed this out with our store in West End in Minneapolis too, with like founder pricing where we're starting to do like lower discounted price Like for the grand opening and the first couple weeks after opening and that has already We only we haven't even they haven't even opened yet. They opened this saturday, but they've already got Like 50 something bookings on their opening day, which is a significant increase Compared to other grand openings we've done in the past.
+
+ So the founder pricing thing definitely seems to be a good a good move as well But we can talk more about that when you get closer.
+
+18:54 - Steven Shortino
+Yeah, I wanted to comment on that too.
+
+18:57 - Scott Laviano
+I had a feeling you would I did too Yeah, because it is important.
+
+19:02 - Steven Shortino
+I mean, I think that there's like a notion that you like, Oh my gosh, my rent is this and like, this market's different. I need to price it. If this like the issue that you're gonna have, this is a very new business. Most people have never heard of a smash room, never been here. So when they go to look at the website, look at all the offerings, if that price point is, is that an area where they're gonna say, you want to know what I don't really know if If I even want to try that because it's just so expensive, that's not good.
+
+ And you will see that in your numbers. You'll have a lot of web traffic, a lot of clicks on your ads, and you won't have any bookings. And It's very apparent why that is. Like Kevin talked about West End. They have the most bookings for grand opening weekends by like a mile of any store that we've opened because the owner said, how do I get more bookings the opening weekend? And I just said, run a big discount and you will get a ton of bookings.
+
+ And that's, that's what he did.
+
+19:55 - Kevin Macmaster
+So I think, I mean, he was so busy. We had to send a second person out there just to help with the grand opening. So you usually only send one person out from corporate. We had to send everyone out just to help them with it.
+
+20:05 - Steven Shortino
+But I think as far as competitive analysis, the thing that we hear from franchisees all the time is, oh, well, the other iSmash room is $60 a person. We're a lot cheaper. That is not your competition. I don't even consider other iSmash rooms competition. I legitimately don't. Your competition is escape rooms, trampoline parks, go karts, and arcades. And if you are priced significantly higher than all of those options, that is not good.
+
+ Because people are going to compare you to them and say, yeah, iSmash looks fun, but it's It's pretty expensive. We're going to go do go-karts. We're going to go to Dave and Buster's. You need to be right in line with those guys, if at all possible. Yeah, sorry for the... Rebecca asked, did Weston offer a discount off the regular pricing or just... So I advised him just 50% off everything for the first two days.
+
+ And like, insane.
+
+20:56 - Rebecca Foss
+Yeah, I love the idea of doing a discount as opposed to just like pricing low to begin with. And we've talked a little bit about the pricing for our location, but I think we do, we want to offer those discounts and be able to say, you're going to get 50% off opening weekend or something like that. So I do love that. I think that's great.
+
+21:15 - Steven Shortino
+Yeah, I agree. And one last final point, like if I personally was opening up a franchise in any of these cities where there was not an iSmash, my only goal would be to get to a hundred bookings a week and do that consistently, regardless of the cost, I would not care what it costs. I would get 200 bookings a week and then I'd figure out how to monetize those bookings. I would not try to just break everyone's bank on day one.
+
+ I would get the customers in the door and then I'd figure out how to monetize them. So I will, uh, I'll let the hands go and Calvin, Scott, you guys can take it back over, but this is important.
+
+21:50 - Kevin Macmaster
+You're good. Rocky, I think you were next up.
+
+21:59 - Rocky Slaughter
+So I had a follow-up question on the supply chain and then my own question. So my follow-up question to the supply chain is, is there like a West Coast thing or are we going to be specifically doing our own sourcing?
+
+22:15 - Kevin Macmaster
+So we actually have a lot more Goodwill partners out on the West Coast. So I don't think that'll be as much of an issue for you out there. Pleasanton's been working with the Goodwill in Sacramento. We also have one in Salinas, California now, and we're working on another one in like San Jose area. So we should be able to supply you sufficiently from those. We have a couple others out there that are interested too.
+
+ So I mean, we can always onboard more if we need to. But as far as the BRCA BRAC stuff goes, that's been working well in Pleasanton, like the miscellaneous items. And for those of you that don't know, California is in a unique position because they are not allowed to break electronics in their smash rooms. The government out there actually passed a law banning it. So we have to use other miscellaneous items for people to break in addition to the glassware.
+
+ Just in case you're all confused what bric-a-brac is, that's basically, it's just like miscellaneous wooden stools and other random items.
+
+23:12 - Unidentified Speaker
+Bicycle helmets.
+
+23:13 - Kevin Macmaster
+Yes, just like random stuff that just somewhat fun for people to break. And we have car parts in there too, like car doors and stuff. I don't think anyone else is following. I haven't seen anything like that anywhere else in the country. It's just California specifically. But yeah, I don't think the supply will be an issue. We're in with enough Goodwills at this point that if we need to bring on another one, we can.
+
+ And there is always other sourcing options if we need to go with them, but for now they've been sufficiently supplying everybody.
+
+23:43 - Steven Shortino
+Yeah, also just FYI on that front, we have talked to the Goodwill in and they are interested in working with us. The problem is they're just so big, we're just not going to be able to take their amount of glassware that they would want to give us for a little bit. So we have to kind of be strategic. We don't want to be in a situation where these Goodwills have so much more stuff than we can take, because we've already encountered that and it's very painful.
+
+
+
+24:07 - Kevin Macmaster
+Yeah, it was difficult to roll that back. So we've gotten a lot more methodical in how we bring Goodwills on boards that we don't cause that issue. So yeah, that's the only reason LA hasn't been brought in because they are just, that's a lot of quantity. Got it. Okay. Um, my second question.
+
+24:24 - Rocky Slaughter
+Yeah. Um, this is probably maybe just for anyone who's not started construction, but so my GC has this, um, uh, like ramp up period from the time that I get my permits and for people that don't know, I'm currently waiting for my billing permits, uh, from the city. Um, but from the time that my permits were approved, you see it said that they need a two week window to like mobilize. Is that common?
+
+
+
+24:49 - Kevin Macmaster
+Yeah.
+
+24:50 - Unidentified Speaker
+Okay.
+
+24:51 - Kevin Macmaster
+Yeah, that's not uncommon. It can take a little bit for to get the subs in line. Because I mean, if you think about it, obviously, they're not just like sitting waiting for your permit to drop so that they can do it like they still have other jobs they're working, you know, in the interim. So that makes sense. That doesn't overly surprise me. If it was longer than that, I would say two weeks is like the longest I would say it should take.
+
+ So if it takes longer than that, I would definitely start to question it. But yeah, that doesn't sound too uncommon to me. Yeah, and I mean, the more optics you have on the permitting process to like, if you know, you know, somehow, sometimes it's pretty much just like, Oh, here it is, it dropped, you can build, but sometimes you get a little bit of a heads up. And you're like, Oh, I know it'll drop next week, you can give him a heads up.
+
+ So maybe you can cut that down a little bit.
+
+25:36 - iSmash Cypress
+I have started going into the city hall once a week just to so we'll see what happens got it um let's see who has number two I think it is clayton again yeah you got number two this numbering thing is very useful okay I'm gonna ask both my questions at the same time they are not related to each other so all good go ahead okay margins what is the goal margin y'all have on pricing for all of the like lists of activities like obviously if you sell like a smash for 25 bucks and it costs five bucks your margins 80 so on and so forth throughout do you have a like a goal margin and then on inventory because you're talking about buying like getting things in how much back stock or stock inventory of the smashables and electronics should we have or does do most stores have or do they just kind of order And this like you get dwindled down to a very minimal amount because like my current businesses that I own I keep ten thousand dollars of Stock on hand at all times.
+
+ But again, I sell a lot of individual cogs Got it.
+
+26:55 - Kevin Macmaster
+Um as far as the margin, do you want to take the margin question Scott?
+
+26:58 - Scott Laviano
+Yeah, I can I actually have a I have a sheet that The good thing is that most of the margins for the company, for the stores are the same because we're all buying the same stuff. We're all getting it from the same people, so the prices are all the same. It just goes down to what you're charging for it. In Tampa, we're at around an 85% cost of goods margin. We're not including labor or any of But you're at about 85% is what we are for smash Paints gonna be a little lower But if you're looking at it, we we try to keep everything above 70 Above 75 except for parties parties are gonna drop a little but that it might actually go up because we're redoing them Okay, perfect.
+
+
+
+27:54 - iSmash Cypress
+That's kind of that's kind of in line with what I'm used to now so that that's an that's an easy sell to me.
+
+27:59 - Kevin Macmaster
+Yeah. And then the second question was just like how much stock to keep on hand, right?
+
+28:06 - iSmash Cypress
+Yes, sir.
+
+28:06 - iSmash Cypress
+That's correct. How much stock do most stores typically keep on hand? Wholesale wholesale cost.
+
+28:14 - Kevin Macmaster
+So typically in terms of like cost wise, I would say I try to have people keep at least 12 pallets of glass and 12 pallets electronics on hand at any given time.
+
+28:26 - Scott Laviano
+That would equate like I mean depending on where you're sourcing them from it can equate to let me just do the math quick on what that is off the top of my head and and just to jump in while he's looking at that I act like stewart just opened and pretty much what I told Scott right now is he doesn't want to go below 40 totes of made product um that's like kind of 40 smashes 40 bookings 100 it would be Yeah.
+
+ A hundred, a hundred forties. Yup. And that's really a lot for him, you know, cause he's just opening. So it'll give them some time. But in Tampa, we pretty much, if we're at a hundred, we're getting more. And then when you're down to like two pallets of electronics, you're ordering more.
+
+29:15 - Kevin Macmaster
+Yeah. I usually, I'd say keeping it around, like it probably around 4,000, $6,000 worth of material, like inventory in, in your space at one time. I mean, Obviously, if you can store more at your space, cause some stores are larger, some are smaller. So some stores have the advantage where they can store more at one time than others. And if I can send you more at once, I can give you a better deal on the stuff in general.
+
+ Cause if I can send you 26 pallets at a time instead of just 12, know, that'd be nice. But not every store is in a position to take that. So, okay.
+
+29:48 - iSmash Cypress
+Perfect. Yeah. We'll have a, we'll have a thousand square feet of storage. So we had pretty decent square foots. Yep.
+
+29:54 - Kevin Macmaster
+And then the electronics, those will come in. I mean, those way the weights on them varies, but what are you saying in the comments here, Steven glass with a hundred dollars.
+
+30:05 - Steven Shortino
+No, I'm asking about like the, his pricing's higher in LA and his, yeah. Oh, the margins will be higher because your pricing is higher.
+
+30:14 - Kevin Macmaster
+Yup. Yeah. And then like Steven said, there's usually around 700 pieces of glass on a pallet. Um, each one's a hundred bucks. Um, and then the electronics vary a little more in terms of piece count, just depending on what the items are. Cause like we try to give people a mix of some larger items, like, you know, VCRs and like speakers and stuff. And then we also have pallets of like keyboards and mouses.
+
+ So you'll have a mix of smaller and larger items. So you can kind of give people a bit of a spread in terms of what they're actually breaking. So it's not all just like giant or small items. And that helps with the margins too, because those pallets of keyboards and mice, you can fit a thousand plus pieces in one gateway. Whereas if it's all larger stuff, you can only fit, you know, 100 to 200, 250 pieces.
+
+ So it helps make margins make a little more sense.
+
+31:02 - iSmash Cypress
+Yeah, it sounds great.
+
+31:02 - Kevin Macmaster
+Awesome. Thank you.
+
+31:04 - Unidentified Speaker
+No problem.
+
+31:04 - Kevin Macmaster
+All right.
+
+31:06 - Kevin Macmaster
+Next one's Mavrick and Christy.
+
+31:10 - Mavrick and Kristy ISmash Toledo
+Hey, just kind of looking for more information on like the wall climb gridlock thing. If you guys know like how much it costs to purchase it, any ideas on how much it would cost to install it and how much space is needed.
+
+31:24 - Kevin Macmaster
+Got it. Steven, do you want to take the gridlock things?
+
+31:26 - Steven Shortino
+I know you're a little more.
+
+31:27 - Steven Shortino
+Yeah, I'm mostly immersed Yeah Yeah, if you go into the I smash share documents drive I'm just gonna I actually just redid all of the new concept stuff in here just to try to make it a little bit cleaner and uh, Kind of just discontinue some stuff that people weren't really using or interested in So it seems like there's kind of six main ones Which are the three digital concepts which are I actually have to change the names on here because we cannot I use these names, but if you go into these folders, there will be a lot of information on these activities.
+
+ Like I have quotes from vendors, I have the diagrams, the install stuff, I have pictures, I have videos. For the one client game, we don't have anybody that's doing that just yet, but I was able to update, there's a spec sheet right here that kind of, I just put down all the specs that I've sort of learned from the vendor and just things about building the rooms themselves, how much space you need, just some other construction related stuff.
+
+ And there is another sheet that I just updated that has the pricing on it. This is an all-inclusive pricing. So this also does include install. It's looking like from the contractors that I've talked to, it's about $5,000 for the labor for the install and the materials and the shipping is anywhere from 10 to 15,000, just depending on the size of the game. And then you can all see on the very right, I'm sort of keeping track of how many stores are adding each of these, just so you guys can see which locations are adding these.
+
+
+
+33:08 - Mavrick and Kristy ISmash Toledo
+Okay, can you customize the size of it and make it bigger? Or is it just one size?
+
+33:14 - Steven Shortino
+Yeah, you can completely customize it. There are some games where there's certain limitations, like for example, the Laser Matrix, that room needs to be longer. Want it to be a square? Whereas with the like the evil eye game like you need that game to be square The the floor frenzy game you can kind of have that be whatever Shape you want. Uh, you know, it just it just needs to be large enough. I would just use that.
+
+ Uh this the spec sheet again this has Everything that I was able to jot down from my mind about these games that i've learned I put onto this sheet as far as the sizes anything like construction related that has to be done of the rooms I put onto this sheet.
+
+33:55 - Mavrick and Kristy ISmash Toledo
+Okay. All right. And then on the franchise Facebook page, you said something about uploading videos. Have you done that or no? Maybe I missed it.
+
+34:04 - Steven Shortino
+Um, there are videos in the drive of each activity. I did put videos in each of those separate folders of the activities.
+
+34:12 - Mavrick and Kristy ISmash Toledo
+Okay, cool. Yeah, we'll go over there and check that out.
+
+34:14 - Steven Shortino
+And there is a very long lead time and the stuff takes usually over two months. To actually get to you. So just make sure you keep that in mind if you're looking to do it. Don't wait until you're a month out from opening.
+
+34:27 - Mavrick and Kristy ISmash Toledo
+Yeah, I'm not sure if we're going to do it before we open, but it might be something to add on later once we get open.
+
+34:33 - Steven Shortino
+Yeah, sounds good. I'll let Rebecca go next.
+
+34:37 - Kevin Macmaster
+Thank you. I saw you asked, are stores adding within their existing space, Rebecca? Do you mean like if a store is already open and operating, are they adding it within or like, like I saw like kids smash room on there.
+
+34:49 - Rebecca Foss
+Are they taking one of their smash rooms and trying to convert it? Or is this particularly for new spaces that are being built out?
+
+34:56 - Kevin Macmaster
+Um, no one has tried to convert anything just yet. Um, most of the people doing it are either expanding their store, like we're doing in Rochester, we're expanding to add these new concepts in. Um, and then other stores are either leaving space open when they initially open to then add them in later, kind of like what Mavrick was suggesting. Where he would do it later on after he opens. So that's what most of the stores are doing.
+
+ It's just leaving some space to do it later on if they want. Because as you've seen with the floor plans, we try to maximize everything. So usually, unless we know you want another concept, we don't make much room for it.
+
+35:30 - Rebecca Foss
+I'm going to fix that later. But I had another question actually. Well, two. One is about the sourcing conversation that you were having earlier. So when you're ordering supplies, It sounds like you're partnering with some, you know, Goodwill, Salvation Army, things like that. Are people also locally sourcing these things, like partnering with their, like, local branches of these, you know, as opposed to ordering them?
+
+ It's probably a lot of work, but I'm just curious if any of the stores are locally sourcing their smashables and breakables.
+
+36:06 - Kevin Macmaster
+Yeah, some are. I mean, I'd always recommend to people to try and source as much locally as you can because it all only make your margins go up. Basically, the supply chain is meant to be if you don't want to do any of that and you just want to get it delivered to your door and you're okay with, you know, the margins not being as great on that front, then you can do that. But if you want to make them better, you know, you can go to different thrift stores.
+
+ You can try and make deals with smaller ones that may have glass that they want to get rid of or electronics. You can go to other electronic vendors that are local and maybe get some from them. I don't stop anyone from trying to get stuff locally.
+
+36:39 - Scott Laviano
+never tell anyone not to um because it only helps you out um all the like beer bottles and that stuff is all sourced locally so like the the bottles for the confetti and the powder bombs you know you work with local bars to get those and usually you'll have an excess of those as well so you can use them in the actual glass packages themselves um so you can do that and go ahead Scott sorry I was just gonna no no I didn't want to cut you off um it's okay Just remember the good the good wills that are around you will not will not source you Because good wills all have to send everything to their outlets and then it gets from their outlets So like in tampa, I have five good wills near me, but I have to drive to saint petersburg to pick up our stuff um, we also part of the chamber we've you know, we have Totes and everything in these small little thrift stores and we just pick up they don't give us a lot we pick it up and they'll give it to us for free or we'll trade for it.
+
+ One thing that is depending on your area is Salvation Army. Certain Salvation Armies will send, again, everything to a hub, like an outlet, and then that outlet will either sell it or they'll do an auction to buy it. And that's just finding out from your local Salvation Army. But they're another great source.
+
+38:06 - Rebecca Foss
+Okay. Thank you. And then the other question I had has to do with, um, you said you mentioned you're restructuring the parties. Um, and also I saw, I don't think it's on the website yet, but there are going to be memberships available. Is that correct?
+
+38:20 - Kevin Macmaster
+Yes. Yep. So we're restructuring the parties because right now the way they are, it's covers up to 15 people. Um, we're lowering it to 10 so we can try and lower the prices on them a bit. Cause we, Did some surveys and got a bunch of customer feedback from different people, mainly the people that are booking these kinds of parties and saw that the price point scared some of them away. So we're trying to find a way to make it more approachable.
+
+ They'll still be able to add on additional participants if they want to. So if they want to add on another five people, they can do that for another fee. But yeah, we are restructuring them to be a little different so that we can make the costs go down a little bit for people. Um, which it doesn't really change anything in terms of like your margins or anything because we're lowering the number of people.
+
+ So you're not getting out as much stuff. So lowering the prices doesn't, you know, negatively impact you. It just makes it so the customer sees a better price point. Um, and then the memberships, right?
+
+39:18 - Rebecca Foss
+Yeah. We already have a question about memberships, but we're not even open yet.
+
+39:22 - Rebecca Foss
+So, um, but that'll happen, which is great.
+
+39:25 - Rebecca Foss
+So yeah, I was just curious when that's rolling out.
+
+39:28 - Kevin Macmaster
+Um, the memberships still, we're just trialing it out with a couple of stores right now. By the time you open, I'm sure that'll be finalized. Basically, we're just doing it because we want to have a recurring subscription model in some way just because you know a lot of people with subscriptions which like I've even done it myself countless times we're all subscribed to something and then forget about it and then I'll just be pinged for it like two or three times and like so the idea is there's like obviously we want people to use the memberships we want people to come in the doors but if they don't you're at least still getting that revenue and you don't even have to put any product out for it.
+
+ So we've had memberships in the past they just weren't this friendly because we couldn't do like a recurring model we had to do like a one-time fee type deal so they all had to be yearly and then we would give them access for yearly but now we can do them on a monthly basis we can do on a yearly basis and they can auto you know auto recharge that kind of thing um anything I'm missing on that front you think Scott or Steven on the memberships front no it's going to be great I mean we we still have them on the old thing which is you get one of month, and Glendale sold five of them already.
+
+
+
+40:38 - Scott Laviano
+The new booking software is going to help us sell more memberships.
+
+40:43 - Rebecca Foss
+Yeah.
+
+40:44 - Rebecca Foss
+That's awesome. I was surprised we had a question about it already on that Montgomery County MoCo show post. Someone is already asking about it. So it's good that people are interested. So that's awesome.
+
+40:55 - Kevin Macmaster
+That's awesome. Who's next? I think you're in the next in line.
+
+41:03 - Justin Mayo
+Hey, how's it going? Yeah, Clayton. Howdy, howdy. Well, I smashed iSmash Cypress. I'm just labeled Justin. Feels kind of awkward. So I had just two questions really fast. Number one was about the sports simulator room. I know we're doing that concept. I was curious if anyone was further along than us. And if you knew when one was going to be open, we'd love to to go in there, catch a fight, get our hands on it a little bit before we fully dive into that?
+
+
+
+41:36 - Kevin Macmaster
+I think the next one that's opening, so there are other stores doing it. I think the one that's opening the soonest with it is either going to be Rapid City in South Dakota or Macon, Georgia. Because Macon has it, right, Scott? I know you do their check-ins. Yeah. So one of them will be the ones that open next with it. They're probably going to be opening, I think. I think that we're planning opening Rapid City like in the middle or end of April and then similar time frame for Macon.
+
+ So you'll be able to go in and check it out at that point. I think I'm going to do and sorry, go ahead.
+
+42:11 - Justin Mayo
+I was just going to ask if they're both using the same vendor for that.
+
+42:15 - Scott Laviano
+I believe they are.
+
+42:16 - Scott Laviano
+Yes, yeah, it's only the only approved vendor for the sports simulator is they're actually called sports simulator. Is the name of the company, which is kind of cool. And it's a three, it's a three wall simulator, not just a one wall in front of you.
+
+42:37 - Kevin Macmaster
+Yeah, I mean, you can do the three wall, you can do the one wall, I think they have a couple different options. So it doesn't necessarily have to be that one. But yeah, and then with the pricing structure of it, I'm pretty much I'm looking at other ones that are doing sports simulators, see how they're priced. And then I think I'm going to try and do like some kind of peak hours pricing and like off peak hours pricing.
+
+ Cause I see a lot of them do that and it kind of makes more sense that way just because there's a limited number of bays. So it would make more sense to price it higher when the peak, you know, when the demand is higher. Um, and it seems like that's a pretty, yeah, it seems like that's a pretty common theme across all these places that do these like sports sims and golf sims.
+
+43:13 - Unidentified Speaker
+Okay.
+
+43:16 - Justin Mayo
+And then what, uh, they mentioned anything about what the monthly subscription He is like for that software.
+
+43:22 - Steven Shortino
+I'm sure there's some additional monthly costs in there Is there is there an additional monthly cost even on that or I thought it was like a one time I'm pretty sure it's a one-time buy but the system is quite expensive Like I'm pretty sure it's like 25 or 30 buy 000 that sport simulator But it is probably the most advanced and high-end one out there Which is kind of what we were going for because there's a lot of sports in places that just have golf and they're they're lower end.
+
+ We wanted to at least try to differentiate a little bit by by having a lot more than just golf.
+
+43:56 - Kevin Macmaster
+Yeah, and that's the differences in their packages to like you can get. I think the highest tier package has like a like it was something ridiculous. It was like 70 different sports you can play or something, but you can go with lower tiered ones that don't have as many options as well. So like you can kind of pick and choose what you think you want to. You know offer for sure.
+
+44:16 - Justin Mayo
+Other not completely related, maybe an easier one. It's just with internet and phone set up, how far out do you usually recommend from open date?
+
+44:27 - Kevin Macmaster
+So we used to recommend trying to do it like a week or two before, like finalizing it just to try and save yourself the money. But we have had some issues recently with doing that where some of the internet and phone providers have delayed us even opening the store because they just took too long to actually get in there and do the setup and everything. I would say the earlier the better. I would try and get it in there like a month before you're about to open which you know sure you might have to pay the bill for a month before you open but it is much better than potentially having your opening delayed by not having internet or a phone.
+
+ And once you get the phone number you know the earlier we can get that the better because once we have that we can put it in all your marketing materials and everything. So yeah I would try to get that done. I would try to have it done at least like a month in advance just so you don't have to worry about it when you're actually getting ready to open.
+
+45:15 - Unidentified Speaker
+Perfect, sounds good. Thanks guys.
+
+45:17 - Kevin Macmaster
+No problem. All right, next one on the docket is Rocky.
+
+45:25 - Rocky Slaughter
+All of this conversation has spawned two good questions for me. One, for parties, this is just kind of like an estimation thing for my estimates. How many parties is like average for a store in a year?
+
+45:39 - Steven Shortino
+And to uh about floor frenzy Steven said it was like I think he said 5k to install I was planning on doing that myself is it you think it's too complex for a solo person to do um I'm sorry to install the floor frenzy yeah I honestly would not try to attempt it yeah yeah it looks pretty complicated I mean even the guys like the construction guys that were doing it i've even had my guys look at it and they're like, dude, this looks so complicated.
+
+ Like I even look at like, go in there and look at the schematic and you'll be like, dang, like that is a lot of, uh, a lot of stuff.
+
+46:21 - Kevin Macmaster
+I mean, I'm not going to say that a lot of trades that go into it too.
+
+46:25 - Steven Shortino
+I'm not going to say it's impossible, but I would definitely not attempt it. Like, cause if it is, if it is messed up, it just feels like it's going to be way, way more of a headache to have to try to undo it. Because we're gonna be dealing with Chinese vendors for support and that's not exactly the easiest thing to navigate Yeah, I bet Go ahead.
+
+46:48 - Scott Laviano
+I'm gonna say the same thing you are Yeah, yeah the floor has to be exactly level 100% perfectly level for it to operate too. So it's just one of those.
+
+47:02 - Kevin Macmaster
+Yeah and then the buttons on the walls and Yeah, there's just a lot of electrical wiring that gets pretty... Thanks, Jason. He said I can help translate. That made me laugh. Yeah, there's just a lot of electrical wiring involved as well. I mean, from what I've heard about it, they do a pretty good job of marking the different connectors and everything. But there is a lot of electrical wiring involved with just the actual transformers and stuff itself that I wouldn't really just outside of like a normal like a licensed electrician to do like I would want to do that myself.
+
+ But yeah, it could it could definitely be a lot to lift. So I wouldn't recommend it. But I mean, I power to you if you want to give it a try. I won't tell you.
+
+47:52 - Scott Laviano
+For your second question.
+
+47:56 - Unidentified Speaker
+First year data man.
+
+47:58 - Scott Laviano
+Yeah, first year for all stores that have been open their first year of sales for parties is roughly around 100. And then their first full year is right around 110, parties. Yeah.
+
+48:13 - Scott Laviano
+The only reason I considered building the floor frenzy myself is because I built my own custom PCs.
+
+48:24 - Rocky Slaughter
+So I'm pretty good at running wires and cables and things.
+
+48:27 - Kevin Macmaster
+So I've got like the nerd stuff, I thought the same thing I thought the same thing I was like, oh I can probably help with that because I do that stuff too and then I was I looked at it and I was like nah, like I think it would just cause me more stress than I'd be that I would care to Deal with and plus you have to do like the you know The plywood on the walls the floor leveling like there's so much more to it even than just the technical side of it, too No problem, all right, who is Next Mavrick and Christie, I think yeah So we got Libby glass Here in Toledo.
+
+
+
+49:03 - Mavrick and Kristy ISmash Toledo
+Do you think that would be worth going to try to get some breakables from and if so? Would we go talk to them or would you guys try to talk to him is?
+
+49:13 - Kevin Macmaster
+Libby glass like a what are they like a windshield company? Are they like a glass company? They make glasses cups stuff like oh, I got you honestly, I mean I I don't think it would be something that we have to facilitate for you. Um, if you want to go and talk to them at a local level, I would recommend it. Um, they actually could be useful because they could have, yeah, exactly. That's what I was going to say.
+
+ Like the rejects and like stuff that they can't sell or use, you might be able to repurpose and use it your store. Um, so that actually might be a good avenue for you. Um, and then I guess if, you know, once you're talking to them, if you think it might be something that maybe we can work with them on a larger scale, you can always suggest it, um, to us and then we can take it from there. But I usually recommend for those smaller local things, you guys can just take it upon yourselves.
+
+ And then if you have questions about anything or need some assistance with the process, you know, we can help you out. Um, okay.
+
+50:04 - Mavrick and Kristy ISmash Toledo
+What are you guys? They would be a fair price to try to negotiate if they want to charge.
+
+50:10 - Scott Laviano
+Four cents an item. I would be under five cents an item. You could go to 11, but we used to be at 11 in Tampa. That's my suggestion. Okay.
+
+50:24 - Kevin Macmaster
+Yeah. I mean, obviously the lower you can get it, the better. So, I mean.
+
+50:27 - Mavrick and Kristy ISmash Toledo
+Yes, absolutely. Absolutely. Yeah.
+
+50:30 - Kevin Macmaster
+But like Scott said, I would try to stick around that number. Okay. All right Divya, I think you're next. Your hand raised.
+
+50:39 - Divya Dee
+Yeah, I wanted to check like what is the new concept that has been popular right now that the stores are using apart from a smash paint and axe.
+
+50:51 - Kevin Macmaster
+So the most popular one definitely seems to be the floor frenzy, which is that like what we used to call grid block. If you go in the like shared docs drive that Steven was mentioning earlier. Let me just pull it up really quick. There's a video, there's like videos of it and schematics for what the game actually is. Um, there's also this evil eye game. Um, Steven may be able to describe that a little bit better since he actually like played it.
+
+ Um, I'm not as sure exactly how that works. Um, but that one seems to be a popular one. And then there's the laser matrix. Those are all kind of in the top three.
+
+51:27 - Divya Dee
+And these are already used by the stores and there's evidence for showing these are the popular games and it's going good.
+
+51:35 - Kevin Macmaster
+So none of them have actually opened and are operating with these in them yet. We're pretty close to having so Phoenix will probably be the first one to open that has the floor frenzy game in it, which is in Pennsylvania. So they'll be the first ones to open with it already in their store ready to go. We're doing it in Rochester, which is Steven and myself store. So if that, you know, definitely pretty confident in it.
+
+ But as far as like any concrete data financial wise there we don't have any because we haven't done it yet. So we make everybody aware of that you know we've done some market research and we've seen it that you know the sentiment is good and a lot of people seem interested in it but we don't have any like concrete data to say this is how much you'll make on it like this is how many people you'll have do it you know stuff like that.
+
+
+
+52:21 - Divya Dee
+And is there any of these games in any other different places like any other games stores?
+
+52:29 - Kevin Macmaster
+So activate is a popular one that does a lot of these like digital concepts. There's some others that do it on like a one-off basis but they're probably the most popular one. I don't know if there's one like near you or not you would have to look into that but that would be the one that would probably be the best bet to find something like that.
+
+52:48 - Divya Dee
+Okay thank you.
+
+52:50 - Kevin Macmaster
+Yeah no problem. Um, let's see I think mav and Divya were the last ones that question anyone else have any questions If you mav and Divya if you could do the on hand raising thing, that'd be cool Oh jerry go ahead What's up, man, uh, I just wanted to wait till the end here a little bit.
+
+53:10 - iSmash Grand Rapids
+So yeah, you're good I know my you know my question already.
+
+53:13 - iSmash Grand Rapids
+Um, so looking at the at the plan for the graffiti artist um, can you sort I know you said in the in a call or um, a message that everything in there is mandatory. Okay, I'm good with that. However, is there things that can be switched around for other for other items? So I see like in my plan, there's I don't know, like, let's say like eight logos. Say the lobby, there's a lobby or my lobby has a logo on it.
+
+ Can I put the log, the logo on my desk and then create that wall space where the logo is going to go to be like a mural instead? Yeah.
+
+53:45 - Kevin Macmaster
+Yeah, that's fine. Yeah, I don't have an issue with that.
+
+53:48 - iSmash Grand Rapids
+Okay, because I have a logo muralist here that I'm going to be working with. So I just want to make sure I just want a lot more murals than probably the average store. I'm very big into my marketing. So I want them to be like customized to my location. Plus I saw a lot of cool ones that went up and I think Pleasantville and a couple other stores that looked very inspiring to me.
+
+54:08 - Kevin Macmaster
+So yeah, a lot of stores have started adding murals in which I definitely recommend because it is a good like a good picture point. I think Aaron's like Aaron's was the first one to really do like one of those murals and it honestly looked insane and I was like yeah we got to do these everywhere. And the thing with the murals too is most of the time the logo is incorporated into the murals so you know as long as you know if the logo is incorporated in it you're still satisfying putting the logo there so you didn't even have to put it on the front of the desk necessarily since the logo will still be in the mural.
+
+ And we give you more like creative freedom with those too like we don't necessarily, or should you use like only brand colors, like you can use more of a color scheme with the murals to be more of like a locally, you know, more locally aligned, if that makes sense. Right.
+
+54:56 - iSmash Grand Rapids
+Okay, perfect. I'll put a plan together. I'll send it to marketing and just go from there. I just wanted to see if we had that freedom, or if you guys would at least allow it.
+
+55:04 - Scott Laviano
+So okay.
+
+55:05 - Scott Laviano
+Yeah. On our next call, we can go through your diagram and see about moving things.
+
+55:11 - iSmash Grand Rapids
+Okay, perfect.
+
+55:12 - iSmash Grand Rapids
+Thanks, Scott.
+
+55:18 - Kevin Macmaster
+Yeah, so I think Cameron Cameron does most of the graffiti work. That's who we recommend to do it. It's just the easiest for everybody. He can do the murals for you. Some people have Cameron do like the normal I smash graffiti and then they have someone else do the murals who's actually local to the area who may be more accustomed and like, you know, know the area to know what to put in it. So sometimes that's kind of a direction a lot of people go in and still have Cameron do the I smash graffiti and and someone else local do the murals just cause they have more of a, you know, understanding of what would make sense to go in like a local mural than Cameron does.
+
+ Cause he doesn't live there and didn't go up there and stuff.
+
+55:53 - iSmash Grand Rapids
+Right. And are you guys okay using vinyl instead of like for the logos instead of having to, um, you know, like a muralist do the logo using vinyl on those? Is there a recommendation?
+
+56:05 - Kevin Macmaster
+Um, no one has in a while. Um, some of the stores I think do have vinyl, so I don't really see an issue with it. It just depends on where you want to put it like if you wanted to put it in the smash rooms I wouldn't recommend it because obviously it'll just get destroyed um right and then you'll have to keep replacing it and sometimes it can be more expensive than having the graffiti done um I also don't think it looks as good to be honest like the graffiti just kind of fits the aesthetic of the store a little bit more and like Kevin said having it in like the smash rooms is problematic.
+
+ We could see what it looks like and go from there.
+
+56:44 - Scott Laviano
+Yeah. And we had it, we have it in Tampa because it was before the graffiti. Um, and at first when I heard about graffiti, I was like, and now that we've gone into all these stores and opening them, I wish we don't, I wish we didn't have vinyl. I don't like the vinyl anymore.
+
+57:00 - iSmash Grand Rapids
+Okay. All right.
+
+57:01 - Kevin Macmaster
+And then, uh, Kevin, you said as far as size size doesn't really matter it's just up to us uh as far as uh how big we want the the logos the murals stuff like that but the projector yeah I mean yeah you can zoom the projector in and out with the image to make it as big as you want to fit on the wall obviously you know don't make it like insanely large that it looks weird and then you know I trust people's judgment to know like what good looks good on a wall and whether you know you don't want to make it super tiny so people can't even see what it is um but what I usually recommend to people is to just if they have questions and they're concerned about the size of it or anything you can just shoot me a picture in an email or something and I can tell you but most of the time I trust people's judgment on the size of things and then if you use Cameron for the graffiti you don't have to worry about it because he just knows you know how to like most of the artists are good at sizing the graffiti to make it fit the wall right and make it look good like that's you know that's their whole thing so I let them kind of take over for me on that front.
+
+ Is that a strong suit?
+
+58:01 - Scott Laviano
+A lot of them go are going in your smash rooms anyways. So there can only be the size of the, you know, the center of the wall and those rooms. That's where a lot of all your logos are. All the logos are in the smash rooms and then the POWs and the BAMs and the wows. Yep.
+
+58:20 - Kevin Macmaster
+Yeah. Okay.
+
+58:23 - Kevin Macmaster
+All right, so we got two minutes left. I think we can take the last question from maverick and christy and then I think we'll call it for this one and then Yeah, this was pretty productive.
+
+58:32 - Kevin Macmaster
+So yeah, go ahead maverick Um, so a couple questions.
+
+58:37 - Mavrick and Kristy ISmash Toledo
+Are we able to hang like old broken sledgehammers or crowbars or anything? Um, we kind of found some neat ideas of using I'm a drywaller So I'm using like drywall mud and I can send some pictures over if you guys want some examples. Um, to make it look like the hammer or the sledgehammer is like breaking into the wall. Use it for like art or maybe taking like broken items and making it look cool to kind of create art to make the walls not look so plain.
+
+ Also, what about like large posters of people actually, you know, in a rage room or a smash room or in a paint room or throwing axes and stuff like that just to kind of like the walls not look so plain like look at some of the stores to us some of the walls just kind of look plain and just to kind of like liven it up a little bit more.
+
+59:31 - Kevin Macmaster
+So we do have a signage package that you'll get that has like a whole bunch of exactly what you described like those posters of people smashing axe throwing that kind of deal so there will be a package that you get that has all that um and as far as like hanging the broken tools up on the wall I mean we have some hanging on our walls in Rochester um Um, I don't think it's a bad idea. You just need to make sure they're secured well.
+
+ And if they're, you know, if they're in an area where people are walking by, you don't want something falling off the wall and hitting someone, obviously. They just have to be secured very well. But yeah, I don't have an issue with it. If you just want to send us over what you're thinking of doing, and then we can kind of go from there and work with you on improving it. But yeah, I think that could look really cool.
+
+
+
+1:00:08 - Scott Laviano
+Okay.
+
+1:00:10 - Steven Shortino
+Yeah, definitely the name of the game. If you're unsure, ask us.
+
+1:00:13 - Kevin Macmaster
+Ask us. Yeah, absolutely.
+
+1:00:16 - Mavrick and Kristy ISmash Toledo
+Yeah, we're a ways out yet, so we haven't asked it, but we're here, so I figure I'd ask.
+
+1:00:20 - Steven Shortino
+The other thing I would honestly be worried about, and you might not think that this is a factor, but it is, is that people will actually try to take those tools off the wall, even if they know that they're not supposed to. People are just dumb, kids are dumb, they're gonna grab those tools and try to yank them out of the wall.
+
+1:00:36 - Kevin Macmaster
+Yeah, if you put them up high enough, you'll be alright.
+
+1:00:38 - Steven Shortino
+Yeah, if you put it up like above a door, like higher up on a wall, you'd probably be fine, but definitely not accessible.
+
+1:00:45 - Kevin Macmaster
+Yeah, like ours, I think, in Rochester are like eight or nine feet off the ground, so no one can get to them if they wanted to, like they can't just grab them.
+
+1:00:53 - Mavrick and Kristy ISmash Toledo
+Yeah, we were thinking more like kind of like in the lobby area, where they can be watched, obviously. Be washed 100% of the time, you know. But definitely secure them on the wall good enough so it's not getting ripped off the wall. Cool, sounds good. Yeah, I'll send you guys over some pictures of some ideas that we've kind of seen and thought of
+
+1:01:15 - Kevin Macmaster
+Yeah, sounds good. Yeah, I'd love to look at them. And then, Scott, if you want to jump to that call that we have at five, go ahead.
+
+1:01:22 - Scott Laviano
+Yeah, I've already, I've got it up on my laptop already.
+
+1:01:25 - Kevin Macmaster
+Yeah, you're good. You can go ahead. Yeah, Rocky, we sell the hats in the franchise shop. She can order them from there. But yeah, so I think this went really well. I'm probably going to call it here just because we're right at five o'clock. We're going to start doing these. I don't know if I'm going to do them on a weekly or bi-weekly cadence yet, but we'll be in here so you guys can join if you want to.
+
+ You don't have to if you don't want to. You can join in, ask a question, leave, like I said in the beginning. So I think these are pretty good, pretty for everybody. I'll send out the next one of when we're going to do it. And then, yeah, if anything comes up in the meantime, as always, feel free to email us, you know, reach out to us and we can answer any questions you got. Alrighty, I'll let you guys go.
+
+ I hope you guys have a great rest of your day. Thank you. No problem.

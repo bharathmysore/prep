@@ -11,6 +11,8 @@ Useful background:
 - Snowflake SIGMOD paper: https://www.snowflake.com/wp-content/uploads/2019/06/Snowflake_SIGMOD.pdf
 - Cortex Agents: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents
 - Cortex Agents platform context: https://www.snowflake.com/en/blog/enterprise-ai-agent-platform/
+- Cortex AI Gateway control plane context: https://www.snowflake.com/en/blog/cortex-ai-gateway-control-plane-enterprise-ai/
+- Cortex AI Gateway and agent security context: https://www.snowflake.com/en/blog/enterprise-ai-security-agentic-mcp-governance/
 - Snowflake Intelligence and Cortex Code update: https://www.snowflake.com/en/news/press-releases/snowflake-expands-snowflake-intelligence-and-cortex-code-to-power-the-control-plane-for-the-agentic-enterprise/
 - Snowflake CoCo / Cortex Code: https://www.snowflake.com/en/product/snowflake-coco/
 
@@ -1676,10 +1678,12 @@ Support agents that answer questions over structured and unstructured data, gene
 ** Functional Requirements
 
 - Create versioned agent objects with model, instructions, tools, budgets, and sharing policy.
+- Route first-party and third-party AI clients through a governed AI gateway that exposes one model and tool endpoint.
 - Ground answers in governed tables, semantic views, search indexes, notebooks, code repos, and data lineage.
 - Support structured SQL tools, unstructured search tools, code execution, charts, custom tools, packaged skills, and MCP connectors.
 - Maintain thread state, run events, tool traces, approvals, feedback, and evaluation results.
 - Enforce user role, object privileges, row access policies, network egress policy, and per-team usage budgets.
+- Choose approved models by capability, latency, cost, data residency, and policy while logging each routing decision.
 - Let builders use coding agents across CLI, desktop, IDE, Snowsight, and SDK/API surfaces while preserving the same governance semantics.
 
 ** Non Functional Requirements
@@ -1697,7 +1701,11 @@ Support agents that answer questions over structured and unstructured data, gene
 Business User / Builder / App
         |
         v
-Agent API / CoWork / CoCo / SDK
+Agent API / CoWork / CoCo / SDK / Third-party Clients
+        |
+        v
+AI Gateway
+Model Endpoint | Tool Endpoint | Guardrails | Trace Capture | Budgets
         |
         v
 Agent Control Plane
@@ -1721,6 +1729,7 @@ Orchestration Runtime
 *** Explain the blocks
 
 - Agent API, CoWork, CoCo, and SDK surfaces accept interactive, embedded, and developer workflow requests.
+- AI Gateway gives platform teams one controlled endpoint for model inference, MCP tools, policy checks, traces, guardrails, and usage attribution across native and third-party clients.
 - Agent Control Plane owns agent objects, versions, tool grants, rollout state, sharing, and resource budgets.
 - Orchestration Runtime runs the plan, tool-use, reflection loop and records structured run events.
 - Structured Tools generate governed SQL over semantic views and warehouse compute.
@@ -1733,12 +1742,18 @@ Orchestration Runtime
 
 - **Agent object store**
   Stores immutable versions of agent instructions, model policy, tool references, allowed roles, budget bindings, and rollout state. Updates create new versions, and production traffic is pinned to a version or a staged rollout rule.
+- **AI gateway control point**
+  Terminates model and tool traffic from Snowflake-native agents, coding agents, embedded apps, and approved third-party harnesses. It normalizes common model protocols, maps requests to approved models, hides disabled tools from clients, applies gateway guardrails, emits OpenTelemetry-style spans, and joins usage records back to agent runs by request id.
 - **Permission compiler**
   Resolves the caller's active role, agent grants, tool object grants, row access policies, and network policy into a short-lived execution capability. The runtime passes this capability to every tool call so a tool cannot read data the user could not read directly.
 - **Tool router**
   Maintains a registry of tool schemas, privilege requirements, side-effect level, expected cost, timeout, and approval policy. It admits read-only tools automatically, routes high-risk or write tools through approval, and rejects ambiguous or over-broad tool arguments before execution.
+- **Model router**
+  Scores approved models by required capability, data residency, latency SLO, token budget, reasoning depth, cacheability, and historical quality for the task type. The invariant is that routing may optimize cost and speed, but it cannot select an unapproved model, bypass residency policy, or drop the trace/audit record.
 - **Run event log**
   Appends every plan step, tool call, SQL query id, search result id, sandbox artifact, approval, token count, warehouse usage, and final answer reference. This powers replay, evaluation, debugging, cost attribution, and compliance review.
+- **Cost and quota ledger**
+  Aggregates gateway, model, warehouse, sandbox, and tool costs by account, team, user, agent, application, workload tag, and request id. It enforces daily or monthly per-user and per-team limits, then returns explicit block or backoff metadata instead of letting agents retry blindly.
 - **Sandbox manager**
   Starts isolated execution with scoped credentials, package allowlists, CPU/memory/time limits, result-size limits, and egress controls. Artifacts are written to governed stages and linked back to the run event log.
 - **Evaluation service**
@@ -1750,7 +1765,7 @@ An admin creates an agent object, attaches tools, grants roles, sets budgets, an
 
 *** Explain the data flow
 
-A user asks a business question. The runtime loads the agent version and thread context, compiles the user's execution capability, chooses tools, and emits run events. Structured subqueries run against semantic views and warehouse compute. Unstructured retrieval hits Cortex Search-style indexes. Code steps execute in the sandbox and write governed artifacts. External actions pass through MCP/custom-tool policy and optional approval. The final response returns with citations, generated artifacts, cost metadata, and feedback hooks.
+A user asks a business question or a developer starts a coding-agent workflow. The request enters the AI gateway, which authenticates the client, checks model and tool policy, assigns a request id, and starts trace capture. The runtime loads the agent version and thread context, compiles the user's execution capability, chooses tools, and emits run events. Structured subqueries run against semantic views and warehouse compute. Unstructured retrieval hits Cortex Search-style indexes. Code steps execute in the sandbox and write governed artifacts. External actions pass through MCP/custom-tool policy and optional approval. Model calls and tool calls flow back through the gateway for routing, guardrails, budget checks, trace spans, and usage records. The final response returns with citations, generated artifacts, cost metadata, and feedback hooks.
 
 ** Deep dive topics and questions -> Explain the problem and suggest solutions
 
@@ -1783,6 +1798,34 @@ Topic: centralized orchestration versus tool-local autonomy.
   - Cons: needs strict schemas, version compatibility, and failure contracts.
 
 L7 answer: use a central runtime for policy, planning, tracing, and budgets, but allow domain agents or skills behind typed tool contracts when they publish clear side-effect, cost, and data-access metadata.
+
+Topic: model and tool gateway as the policy boundary.
+
+- Put governance inside each agent client
+  - Pros: teams can customize quickly and avoid a central dependency.
+  - Cons: third-party clients drift, disabled tools may still be advertised, traces fragment, and cost attribution becomes a spreadsheet exercise.
+- Put governance only inside downstream APIs
+  - Pros: protects existing systems with familiar API authorization.
+  - Cons: misses agent-specific context such as user delegation, prompt intent, tool sequence, model choice, and cumulative cost.
+- Use a centralized AI gateway in front of model and MCP/tool traffic
+  - Pros: one endpoint for approved models and tools, unified traces, consistent guardrails, easier cost controls, and the ability to hide denied capabilities before the model sees them.
+  - Cons: must be highly available, low latency, protocol-compatible with common clients, and careful not to become a single policy bottleneck.
+
+L7 answer: put model and tool traffic through a central AI gateway for policy, observability, and cost control, while keeping per-tool authorization and data-plane checks as defense in depth.
+
+Topic: dynamic model routing versus fixed model selection.
+
+- Fixed frontier model
+  - Pros: simple quality story and fewer routing surprises.
+  - Cons: expensive for repetitive edits, lookups, formatting, and low-risk steps.
+- Application-owned routing
+  - Pros: teams can tune per workflow.
+  - Cons: duplicated policy logic and hard-to-audit model choice.
+- Gateway-owned routing
+  - Pros: centralizes approved model lists, residency rules, cost-quality tradeoffs, and per-request logging.
+  - Cons: needs task classification, confidence thresholds, fallback rules, and continuous evaluation as model prices and capabilities change.
+
+L7 answer: default to gateway-owned routing with strict allowlists, logged routing decisions, frontier-model fallback for uncertain or high-risk work, and offline/online evals that compare quality, latency, and cost per successful task.
 
 Topic: evaluation and rollout.
 

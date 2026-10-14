@@ -1,0 +1,342 @@
+Operations & Marketing Office Hours
+Tue, May 19, 2026
+
+0:33 - Kevin Macmaster
+Hello, everybody. Hello. I guess we'll see how the turnout is today. I've never done one of these on a Tuesday before. Usually, it's always Wednesdays or Thursdays, so curious to see it.
+
+0:51 - Unidentified Speaker
+Well, it's first time combining ops and marketing, so.
+
+0:54 - Kevin Macmaster
+Oh, that's true. That's true. We may get a higher turnout.
+
+0:57 - Unidentified Speaker
+Maybe people will like that more.
+
+1:04 - Kevin Macmaster
+Or they'll be scared. No, I'm just kidding.
+
+1:11 - Unidentified Speaker
+We're fine.
+
+1:26 - Kevin Macmaster
+My dog is very confused. To me being home at this hour. So yeah, if you hear scratching on a door, that's what it is.
+
+1:37 - Jacquie Shortino
+Kevin, you have to put the dog on camera.
+
+1:44 - Kevin Macmaster
+We're not going to do that. She's laying in her bed. My room's messy. We're not doing that. We're not doing all that. Oh, she's a menace.
+
+1:58 - Steven Shortino
+All right.
+
+2:05 - Steven Shortino
+Well, I guess if anyone wants to get into anything while we're waiting for people to join, feel free.
+
+2:12 - Kevin Macmaster
+If anyone has any questions, I mean, I think all of you have been here before, so you guys probably pretty good understanding of how this works and how we try to do this in terms of like the raising your hand when you have a question and going over stuff. I usually don't come with anything prepared for us to go over because they're literally just office hours so you can just kind of join ask any questions you want.
+
+ Yeah if you guys have any questions or want to go over anything in particular just let me know. Feel free to use the raise your hand thing but I mean there aren't that many of us in here so you can probably just go ahead if you want. Yeah I mean if no one has anything to I did want to ask you Rocky about I know you were one of the people I gave that support platform to and I looked at your notes and I made some of those changes.
+
+ Is there anything else you've noticed since the last time?
+
+3:10 - Rocky Slaughter
+Well I was going to say that my one told me I cheated by looking at source code. So if you put in more Easter eggs, I will find them legitimately.
+
+3:18 - Kevin Macmaster
+I actually had a feeling you were going to do that, which is why I tried to fix it. So it didn't show up like that. Cause I noticed it too. And I guess I never did. I fell off the wayside, but that's funny.
+
+3:29 - Rocky Slaughter
+Yeah. The hacker in me basically made me do that. So I apologize. I will, I will do it the normal way next time.
+
+3:35 - Kevin Macmaster
+Okay. I understand.
+
+3:38 - Rocky Slaughter
+So I didn't. Actually look to see what changes you have. I do have a question about it, though. Yes. So, well, two things. So the pricing and hours planner, what, like, it's neat to look at, but I'm like, what is this actually going to be something that gets used more than just like a single time? What is like the goal of that sheet?
+
+4:09 - Kevin Macmaster
+I mean it was just a way to consolidate things into one place. I mean honestly you're right it probably will only be filled out once and then just submitted and then maybe updated because I mean it creates a copy of it in their drive and they can update that spreadsheet in there. It just makes it a little bit easier for some people to use and see all in one place. That was just the thought behind it but I mean obviously people can still fill out the spreadsheets and do it that way if they want, but
+
+4:38 - Steven Shortino
+Well, like this platform, we're going to basically build it to be like the one-stop shop for everything.
+
+4:44 - Kevin Macmaster
+Yeah, that's the end goal.
+
+4:45 - Steven Shortino
+The training, the support tickets, the knowledge base, the pre-opening checklist, the reporting dashboard, the newsletter, it's all going to live in here.
+
+4:54 - Kevin Macmaster
+Yeah, the newsletter I got to integrate still. The reporting dashboard is going to be in here pretty soon. I figured out an easy way to do that. The checklist is already in there. A little bit of UI work, but that's already in there. And then, um, there's probably other things that I'm not thinking of that'll be implemented in there, but yeah.
+
+5:14 - Steven Shortino
+Yeah. We're not ready to launch it yet. You know, probably some more weeks.
+
+5:18 - Kevin Macmaster
+We want to just make sure that it's, yeah, I got to stress test it first and make sure it can actually handle a lot of people using it all at one time.
+
+5:26 - Steven Shortino
+So Rocky, what's the latest on your, uh, permitting situation?
+
+5:31 - Rocky Slaughter
+Um, It's funny that you ask. So just like five minutes ago, I logged back into Burbank and they want confirmation on our capacity numbers. Apparently, the architect that Carney is using, Roger, whatever, had a typo on like three different sheets where each one of them was a different thing. And then when they asked him for a file, he gave them the wrong file. So presuming he fixes those typos and then gives them the right file, which I have provided, which is the conditional use permit, we should be done.
+
+ And then just since we're talking, tomorrow I'm meeting with the bank and closing the funding for the loan finally, so I will have actual cash to spend on the store starting starting probably next week.
+
+6:32 - Kevin Macmaster
+Nice. Okay. Man, I mean you can start even ordering like some of the OI stuff and everything just to get the process rolling at least. That way you can start making some forward progress.
+
+6:42 - Rocky Slaughter
+I do have a question since we were talking about the support. A lot of times I'm really just trying to like break your AI.
+
+6:52 - Kevin Macmaster
+Yeah, that's what I wanted. That's why I gave it to you. I was kind of hoping you would do that.
+
+6:58 - Rocky Slaughter
+Yeah. A lot of times it'll tell me to check a sheet. And then if I reformat the question in a way where it should tell me to check the sheet, it doesn't believe that it has the access to that sheet. Interesting. So I don't know how I've successfully done this, because I haven't been able to repeat it. It just happens randomly. But specifically, I've asked multiple ways to what is answer to something that I know is on the OI sheet.
+
+ And it says, oh, I don't have access to the OI sheet. If I ask for the OI sheet, but if I ask a question for something that's in the OI sheet, it'll say, here's the answer. And here's the OI sheet. Interesting.
+
+7:37 - Kevin Macmaster
+Huh.
+
+7:39 - Rocky Slaughter
+Okay. Asking directly for a sheet. It was like, no, I can't give you that, but I don't know. I'll look into that.
+
+7:45 - Kevin Macmaster
+That's an interesting one. I actually think I know what's causing it too, which is kind of nice. I actually think I know what the cause might be, because there's some weird logic that has to be built in for that. So that's actually good feedback. That's good. I think I can fix that.
+
+7:59 - Rocky Slaughter
+OK. And I will continue to try to break it, but Rebecca has a question, so I'll shut up now. Fair enough.
+
+8:05 - Kevin Macmaster
+Go ahead, Rebecca.
+
+8:07 - Rebecca Foss
+I was actually just going to ask you, Rocky. I was curious. You were talking about your permitting process. So is this final permits for you, or is this permits before build-out, or Like, where are you at in the process? I'm just curious.
+
+8:22 - Rocky Slaughter
+So because of LA, I had to do a conditional use permit, which just allowed the use of the space for our work that is done. I'm getting my building permits now. And then there will be one final permit for the sign. But this is for everything except for the sign. So it's my bathrooms, all of the walls, et cetera.
+
+8:46 - Rebecca Foss
+And were you able to start demo before your building permits were approved? I know California might be different, so I just was curious.
+
+8:57 - Rocky Slaughter
+I probably could do demo myself, but my GC does not want to do that.
+
+9:03 - Rebecca Foss
+OK. So you haven't started it yet then?
+
+9:06 - Rocky Slaughter
+No, I have a big empty space that is just waiting for some luck.
+
+9:10 - Kevin Macmaster
+Gotcha. OK. Yeah, California is a touchy one. You don't want to mess around there. Because they have a lot of weird rules and things.
+
+9:18 - Unidentified Speaker
+OK.
+
+9:19 - Rocky Slaughter
+Every state's different. We have no parking available because we're on a main street. So there's just street parking. And I have also gotten permits to take three of those parking spots for three weeks. So the construction team can put stuff there, whether it be trash or cars or whatever. That was a fun one.
+
+9:40 - Rebecca Foss
+Gotcha. OK. We are also in the process of getting permits now. And we were working through the city of Rockville and the city is really quick on responding. We just had to take a little while for us to get squared away on what we submitted but so now it's in the Steven for in coming for your information it's pending approval now so like we're they're reviewing it everything's My bigger challenge right now is now the landlord is telling me that they're, they're not totally firm on our possession date of June 8th.
+
+ So I'm getting a little worried. We'll have the space when we get our permits approved. So a little bit opposite of what a lot of other people are experiencing. I'm sure.
+
+10:29 - Kevin Macmaster
+Interesting. Is it because of, well, I know you had that, um, like that weird thing where the wasn't like a science thing. Yeah.
+
+10:38 - Rebecca Foss
+Yeah, I know there, there were two spaces and there were two nonprofits and now the landlord is relocating one of them and into the same, you know, town square, but they just emailed me yesterday and said, Oh, we're still waiting on permit approvals for their space and to get their contract, you know, get their new space built out. So I'm like, um, You need to give me a, firm possession date at this point.
+
+ You were supposed to give it to me by February 27th. So we're a little running a little late on getting the space, but I'm going to keep on them so we can get a firm date.
+
+11:21 - Kevin Macmaster
+Understood. And was it outlined in your lease that that was the firm turnover date?
+
+11:27 - Rebecca Foss
+No, they were supposed to deliver within 30 days of signing the lease. So by February 27th, but we do have a clause in the lease that basically says they're going to owe us a day's rent for every day they're late. So right now we're going on three months free rent on top of the abatement period. So works out for us. But, um, I mean, that's a pretty generous cause to be in there.
+
+11:49 - Kevin Macmaster
+Yeah. I mean, okay.
+
+11:50 - Rebecca Foss
+But we just, you know, at this point we want to be ready to start the build out, um, when we get the permits approved. So, and the demo apparently would have been able to be started by June 8th. Um, even before the building permits from what my contractor was saying. We've been nice to start. Maybe we still will. I'm just trying to get the final confirmation from them.
+
+12:13 - Kevin Macmaster
+Yeah. Understood.
+
+12:15 - Rebecca Foss
+Hopefully by mid-June.
+
+12:16 - Kevin Macmaster
+Good to know. Go ahead, Rocky.
+
+12:21 - Rocky Slaughter
+You're the next hand up, I believe. Since we're talking construction, I don't tend to believe my GC see, but multiple times they said this is a six week build out for them. I just don't know that that seems realistic. I mean, obviously there's like things that we have to do after they're done with the build out, but like is that even in the realm of possibility?
+
+12:47 - Kevin Macmaster
+It's possible. It's not impossible. I mean, it likely won't end up only being that amount of time because usually there's little hang ups and things that cause small delays. Are they? Like all your owner furnished items and everything too? Or are you doing that?
+
+13:04 - Rocky Slaughter
+Uh you mean like the uh TV mounting stuff?
+
+13:08 - Kevin Macmaster
+Yeah like mounting the TVs like you know putting down the flooring in the paint rooms like the you know like different shelving hanging it up like that kind of stuff.
+
+13:16 - Rocky Slaughter
+I was planning on doing all that they are doing the smash walls though.
+
+13:20 - Kevin Macmaster
+Okay got it so they're okay so I mean that kind of makes a little more sense then if they're not doing all like the you know the owner furnished things, which I mean, that doesn't take a crazy amount of time, but that could also be it. I also think your space is a little smaller, isn't it?
+
+13:36 - Rocky Slaughter
+I mean, I have four smash rooms, two paint rooms, and one floor frenzy. I blanked on a name.
+
+13:46 - Kevin Macmaster
+Yeah, they probably aren't allocating enough time for what it'll take for them to do the floor frenzy thing and stuff. It'll probably end up being longer than that. It'll probably be closer to eight, I would imagine. Don't you have a lift that we have to install in there too?
+
+13:58 - Rocky Slaughter
+Yeah. Um, the, uh, so my GC is doing the, uh, electrical for it. And then the lift company does the lift separately. So they're a separate contract. The lift is actually, ironically, what was the scariest thing is probably going to be the easiest thing to install because this company just does that. That's all they do.
+
+14:19 - Kevin Macmaster
+Yeah. Yeah. So they won't have a problem with it. Okay. Yeah, I mean it's. It's aggressive, it's not impossible. But it'll probably end up being closer to 6 I feel like is that standard seeming you may be able to. I may be wrong, but that sounds. Doesn't sound too crazy to me.
+
+14:39 - Steven Shortino
+I don't even know what the quickest build timeline ever. I mean, probably Rochester quickest build timeline we ever had, but I don't even know if that really counts because that's that's us.
+
+14:51 - Kevin Macmaster
+Yeah, that was a bum rush.
+
+14:52 - Steven Shortino
+But I basically, I started my build, I think it was second, first or second week of December. And I was open the first week of February. So even with Christmas, basically two months, like eight weeks. So if you get it done in less than eight weeks is probably the fastest you could ever, ever get it done. I would say, but you never know. Do you have the frenzy thing ordered to Rocky? Is that like two months to get here.
+
+ I just want to make sure you're aware of that.
+
+15:23 - Rocky Slaughter
+Yeah, I'm aware of the time I'm waiting for the funding to go through.
+
+15:27 - Steven Shortino
+So, yeah, I'll just order on like the first possible day. Mine's actually arriving next week and I ordered it literally, I can't even remember when, March probably, sometime in March.
+
+15:39 - Rocky Slaughter
+Yeah, I just didn't want to pay for it out of pocket. So, as soon as the funding comes in, I'm going to order it.
+
+15:44 - Steven Shortino
+So, okay, awesome.
+
+15:47 - Rocky Slaughter
+That's my first like little my first thing to do.
+
+15:49 - Steven Shortino
+Yeah, I'm sure you're on top of it. I just wanted to make sure because yeah we don't want that to be deleted.
+
+15:55 - Rocky Slaughter
+For post-construction all of the like uh furnished owner furnished stuff and like the um the timeline from like whatever we get the the final whatever GC's done and then we come in and do graffiti and stuff what is like a typical timeline from that like construction done to to owner furnished stuff to grand opening? Because I have it on my calendar as three weeks, but I don't know if that's legit or not.
+
+
+
+16:26 - Kevin Macmaster
+You're saying how long it'll take you to do all the owner furnished items, you're saying?
+
+16:29 - Rocky Slaughter
+Yeah, and graffiti and post-construction training for staff and all that.
+
+16:37 - Kevin Macmaster
+No, I mean, I think that's pretty reasonable.
+
+16:40 - Steven Shortino
+It depends on, I mean, usually most guys are like opening in two weeks after getting their CO because everyone's just ready. Like there's usually some delays and they just have all this time to, to get everything else sorted. So they're basically ready to go. Uh, like if they get their CO on Tuesday, they're opening not that weekend, but the weekend after. Okay.
+
+17:02 - Rocky Slaughter
+That's kind of what I wanted to hear.
+
+17:04 - Kevin Macmaster
+Cause that's what I want, but I'm also planning on a bunch of failures because it's Yeah, I mean, that was kind of what I was trying to bake in was that expectation of like, they'll probably catch something small and be like, nope, can't pass it. I mean, we had issues in Pleasanton where they were yelling at them about paint stripes in parking lots. And we were like, what? So it might just be a California thing, but no, that sounds like more than enough time.
+
+ I mean, me and Alex have gotten it done in like a, like three days before, so it was But you can get it done. Thank you. Yeah, no problem. Go ahead, Rebecca.
+
+17:45 - Rebecca Foss
+I have another topic, a marketing question. For gift cards, do we have to wait to get our POS system set up before we can give out gift cards? Cards? How does that work?
+
+18:04 - Kevin Macmaster
+No, so you can make them on the platform before that. Okay. The only thing is, is I got to talk to Roller and see how they want to do, because I don't want you to have to start paying your, because there's a Roller subscription fee. I'm trying to figure out how that works, where if you start using...
+
+18:18 - Steven Shortino
+They'll make some doors pay before they're open, if you recall.
+
+18:22 - Kevin Macmaster
+Okay. But even if they're using the platform and making gift cards on it and selling things?
+
+18:27 - Steven Shortino
+Yeah, I mean, I don't think it'll be a big... I mean, I know that we're getting Rockville set up right now. Yes, you're in the next batch like next next like few weeks. If you wanted to have it set up to start start putting gift cards or memberships through there, you definitely can.
+
+18:43 - Rebecca Foss
+No, I mean, I know I'm I'm. I just want to try and get it done like by midsummer so no rush. So if I'm in the next batch, you don't have to like do anything. You know, go ahead and carry on. But I think you know, get closer to opening, I'd love to be able to like, you know, pre opening gift cards to, you know, some local businesses, companies that I'm hoping to, you know, come back for corporate events and things like that, just to get people in the door.
+
+ And, you know, even like smaller denomination gift cards, just to like, kind of get the word out, I would love to do in addition to some of the discount programs that we're going to try to do. Yep.
+
+19:21 - Kevin Macmaster
+Yeah, that makes sense. You'll have that option too. Yeah, you'll able to do that well before you open in most cases.
+
+19:29 - Rebecca Foss
+And then I did send an email to you guys, Jacquie and Kellie, about maybe customizing like an activity card, like a five by seven. I don't want to have something on the back that says book now before we're open, but I want to be able to pass those out to get people on the mailing list for when we open.
+
+19:47 - Jacquie Shortino
+If you've been on the portal, which I know you have been on the portal, when you click on the activity card and populate it for your store, there should be choices. One's book now and one is scan for more info, so you can just toggle it to the scan for more info. That's what, sorry I had you on the the reply backs here, but you can and customize the QR for it's specifically set up for, you know, pre-opening.
+
+ And then when you open it, it'll be book now and then you'll reorder those. So good, good question though.
+
+20:18 - Rebecca Foss
+Oh, okay. Great. I'll check that out. I did not see that option, but I'll, I probably missed it. So that's okay.
+
+20:24 - Jacquie Shortino
+It's like on the left and you can just toggle, you know, whichever scan code text you would like to say. Um, and on the, the gift card front, you will probably receive your, your physical gift cards for your store. Um, probably by the end of June, somewhere around there, you're in the next round of, um, stores to order gift cards for. So that'll coordinate with when your platform is set up and you can utilize those.
+
+
+
+20:48 - Rebecca Foss
+Great. I hope it coordinates with when the landlord gives us the store. So that would be nice.
+
+20:56 - Unidentified Speaker
+Exactly.
+
+20:57 - Rebecca Foss
+No, that's awesome. Thank you so much. You're welcome.
+
+21:05 - Kevin Macmaster
+Anyone else have any questions about anything? Feel free to raise a hand. There's no bad question. I know Rebecca and Rocky have done most of the question asking, but there's a couple others in here, so if you guys have questions about anything. Cool. Yeah, I mean I don't really have anything else to go over, so I mean if nobody else has any questions, I mean we can probably just cut it short and give everybody some time back.
+
+ As always, you know, if you guys need anything, or think of any questions after this, you know, you know how to reach us. But yeah, other than that, we'll kind of just keep plugging away. And if anything comes up, let us know. Oh, there we go. I got a question from Lovely. What's up? Go ahead whenever. You're still on mute, so you might just have to unmute, by the way.
+
+22:11 - Lovely George
+OK. There you go. Can you hear me now?
+
+22:12 - Kevin Macmaster
+All right.
+
+22:12 - Kevin Macmaster
+Yep. Yeah, I can.
+
+22:14 - Lovely George
+Yeah, I sent the email to Jacquie, and Jacquie sent it. Like she said, it's in the Google Drive. I cannot find it about the detail, like, you know, what it can put on the pickup truck. So there's graphics there for that?
+
+22:31 - Jacquie Shortino
+I sent you the the iSmash the link to the logo file. Your printer is asking for the vector files which they need for printing. I sent you just a couple of graphics of other franchisees that have decals on their cars but it's up to you if you're just putting the iSmash logo You know, you won't really need to design, but if you're looking to design it as kind of like the Glendale pickup truck that I sent you, then you can send a request through and our designer can put something together for you.
+
+ That's kind of what I was, you know, I was just waiting for a little bit more info from you and you can let me know if it's just, you should be set, but if you need a design, you can send through a form to us.
+
+23:18 - Lovely George
+Okay. All right. Thank you. Okay. You're welcome.
+
+23:28 - Jacquie Shortino
+Okay, so that'll be so last minute questions before, or as Kevin already said, if no one else has any more questions, we'll let you guys go and see you next time we reconvene on here. Alrighty, so thank you everybody for the questions. Appreciate it. And we will see you guys again soon. Okay.
+
+23:48 - Kevin Macmaster
+Sounds good.
+
+23:49 - Kellie Shortino
+Hi, everyone.

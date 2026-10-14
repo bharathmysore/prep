@@ -1,0 +1,1458 @@
+{
+  "schema_version": 1,
+  "observed_at_utc": "2026-10-14T16:01:10.130Z",
+  "request": "Preserve all earlier records; ensure every archived meeting has an unaltered raw_exports copy.",
+  "git_baseline_commit": "adbe53f1ed0241d9f1197da8f33e6ab3dd8071c8",
+  "preservation_policy": [
+    "Never delete, overwrite, rename or edit earlier transcript evidence, including duplicates.",
+    "Use separate versioned files for new downloads that differ.",
+    "Keep owner-supplied sources in place and identify preservation copies as owner-supplied.",
+    "Keep derived notes separate from original transcript content; preserve source speaker labels and timestamps.",
+    "Retain source gaps explicitly; do not recreate missing transcripts from summaries."
+  ],
+  "previous_snapshot": {
+    "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/download_reconciliation_2026-10-14.json",
+    "sha256": "d473f0743f8c348456fa5fa16b06330f9b13456a32a2d65615ca4e8e77c31f8d",
+    "unchanged": true
+  },
+  "summary": {
+    "distinct_meetings": 56,
+    "meetings_with_raw_export": 56,
+    "raw_txt_files": 60,
+    "owner_supplied_txt_files": 5,
+    "total_txt_files": 65,
+    "distinct_txt_hashes": 60,
+    "derived_markdown_copies": 4,
+    "prior_txt_files_verified_unchanged": 62,
+    "git_tracked_txt_verified_unchanged": 26,
+    "git_tracked_derived_md_verified_unchanged": 4,
+    "fresh_downloads_rechecked": 50,
+    "new_preservation_copies": 3
+  },
+  "copies_added": [
+    {
+      "meeting_date": "2026-09-22",
+      "title": "Water fountain",
+      "meeting_id": null,
+      "source_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/09222026_Water fountain Transcript.txt",
+      "archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-22-water-fountain__owner-supplied.txt",
+      "sha256": "7bc1560c7a1e6df2e8279b352351880e762df9cfebf51c56e3a43c884805ecde",
+      "bytes": 8125,
+      "byte_identical": true,
+      "provenance": "Unmodified copy of owner-supplied export, not a new live download."
+    },
+    {
+      "meeting_date": "2026-09-25",
+      "title": "Fw: Everett weekly calls",
+      "meeting_id": "01M3CWN1AYNVZY0DRM0D6ABYV8",
+      "source_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/09252026_Fw_ Everett weekly calls Transcript.txt",
+      "archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-25-fw-everett-weekly-calls__owner-supplied.txt",
+      "sha256": "c68a4c626292fc8bfef6a18ac3cf2a31826bf9096756d6f1371945253bd13fa4",
+      "bytes": 28894,
+      "byte_identical": true,
+      "provenance": "Unmodified copy of owner-supplied export, not a new live download."
+    },
+    {
+      "meeting_date": "2026-10-02",
+      "title": "Fw: Everett weekly calls",
+      "meeting_id": "01M3YXECPCC96B63XANZN69Y2M",
+      "source_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/10022026_Fw_ Everett weekly calls Transcript.txt",
+      "archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-10-02-fw-everett-weekly-calls__owner-supplied.txt",
+      "sha256": "72bece5fda2bbbbed4c8a49228038baa207b3c582f0d1e547299729afd7112d3",
+      "bytes": 27502,
+      "byte_identical": true,
+      "provenance": "Unmodified copy of owner-supplied export, not a new live download."
+    }
+  ],
+  "files": [
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-02-27-ismash-seattle-kick-off-call.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01JN4QYNJE35HCSZ1DV4C3P1N1",
+      "meeting_date": "2025-02-27",
+      "sha256": "54bfada15459dc5ee94950e4624ff6eacacdfe4518f7682822b94c35972c7117",
+      "bytes": 28529
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-03-04-divya-bharath-locate-intro-call.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01JNHM10JNQDS2748BY0NV2W02",
+      "meeting_date": "2025-03-04",
+      "sha256": "c310aa97b9f374fae8f2e864beed161a2336917d34b837a6faecfef50f83ff7b",
+      "bytes": 25516
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-03-14-carney-contracting-intro.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01JPB46602Z4A3P2P1CG94QJHC",
+      "meeting_date": "2025-03-14",
+      "sha256": "39ec69b097ddac8090ef942f09889d2a6d0652f8188a826c038b18baa73d9edc",
+      "bytes": 20919
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-03-27-ismash-site-discussion.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01JQCGXANQNN7DK60F6AM8PQGV",
+      "meeting_date": "2025-03-27",
+      "sha256": "c22cd6aea9c36a224af92a473e2b059fedca20423e74e17ceef09806b99283bd",
+      "bytes": 34408
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-03-28-financing-introduction.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01JQEYA1J313XVR0JRK8MB2AH4",
+      "meeting_date": "2025-03-28",
+      "sha256": "e9dac2ca0c4379201dc2c0e776330db19b9ba686d28a51cb639af2ffcf806a5a",
+      "bytes": 19913
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-04-11-ismash-seattle-budget-review-1221.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01JRK4SB8FMT1DEVRYH6A36GYG",
+      "meeting_date": "2025-04-11",
+      "sha256": "a86e8db6128298f4ea79f848ba810e2442e5c2949954623bdc5e2de2f09eb7fc",
+      "bytes": 3517
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-04-11-ismash-seattle-budget-review-1300.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01JRK6JNY9ZQZNCFYW049RB294",
+      "meeting_date": "2025-04-11",
+      "sha256": "821ded256060d6daca895ea154ef9b31b2c0ab59c869f0c8fcf8b92fc42f8196",
+      "bytes": 40060
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-04-17-pnl-discussion.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01JS2HCZPW4GV9K2G4GWB5PQPC",
+      "meeting_date": "2025-04-17",
+      "sha256": "82de565dcf0467fdd52e8bce46ddf361e1657f54181192ed814a5c73c0cc4164",
+      "bytes": 22608
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-06-19-smash-district-ismash-lease-review.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01JY4RPGSASNPHH8JKVW1NXM37",
+      "meeting_date": "2025-06-19",
+      "sha256": "5e62e33a7e4240e61a941ed7b6186ef13b886aad326aea8852afd3c2f71b43d1",
+      "bytes": 42488
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-08-15-divya-bharath-touchbase.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01K2QP90QYT5C4M942R5P9S37M",
+      "meeting_date": "2025-08-15",
+      "sha256": "a237b3e03c77beb80216f0d1fdfea616d6e1ba1dfba9858d98d795a0a6325848",
+      "bytes": 19168
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-09-05-ismash-everette-ops-kick-off.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01K4DRMPFWQTGEK0Y9G6D3TGNJ",
+      "meeting_date": "2025-09-05",
+      "sha256": "eb5fa8a1e3b92dc15a27fa3b3d92664e0ab16a6bbf2ed8b3a9879a70cf796f33",
+      "bytes": 27397
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-09-25-intro-to-marketing-webinar.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01K61703R97E1H21FYX9KT917N",
+      "meeting_date": "2025-09-25",
+      "sha256": "53bd2877544b2834cd25db55ba0aaa508bdf4ae0dc3121a4118f241f1d5b9e94",
+      "bytes": 32177
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-02-26-ismash-franchise-town-hall.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KJDX82S32ADZQSE5GDKX4XFZ",
+      "meeting_date": "2026-02-26",
+      "sha256": "74c0c405654e29d8d19db883ecd6323bacd4583c840b89493cc92d58b636562f",
+      "bytes": 72952
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-03-ismash-everett-marketing-kick-off-call.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KJTM2HQX4E9FF7C7CED2QCAD",
+      "meeting_date": "2026-03-03",
+      "sha256": "a727376fb74b7141a875f8f2cb374b57079df24fceae0bdddfeda60b054212ab",
+      "bytes": 27740
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-20-everett-bi-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KM69EYXGAM3K6B073XRJBRHC",
+      "meeting_date": "2026-03-20",
+      "sha256": "114989fa923181c711bebc9cb0b2f8e3cac8780cd93b87c9cd74c6808c7675bf",
+      "bytes": 34647
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-26-everett-weekly-meeting.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KMNQX3M7KC0N3VW5C0DM8RS1",
+      "meeting_date": "2026-03-26",
+      "sha256": "38c2c63d43bd05a5f1039cf979f32a6d055fe5feb29c1d47a67b9a50d1ddff61",
+      "bytes": 28638
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-26-operations-office-hours.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KMNVCAQ95GHHZ9SB6G81XWY2",
+      "meeting_date": "2026-03-26",
+      "sha256": "4fd8e885606e37d9e47cee8b43ccb1c3bf95a9ce4bc748ac1bb9ec4001359a46",
+      "bytes": 65772
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-30-marketing-office-hours.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KN01ARG6V7VXBSDZ98AQ31JN",
+      "meeting_date": "2026-03-30",
+      "sha256": "56ef814ed5594138271147a2aee6249d7f2857a51517781c35e374bae2700515",
+      "bytes": 36402
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-02-everett-weekly-meeting.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KN7RNJYGZXWV1GYTE59E4CRY",
+      "meeting_date": "2026-04-02",
+      "sha256": "2f7d6259df0c73c748541ec99e8654aeb9d571c863aa9f85372aab2f9014021b",
+      "bytes": 32659
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-08-operations-office-hours.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KNQAMB3291VTQQ6XC1T93NMD",
+      "meeting_date": "2026-04-08",
+      "sha256": "03d634baf57e5e64671161163a6fccdf20df2b986324a0b046b668223cb976a0",
+      "bytes": 47264
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-09-everett-weekly-meeting.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KNSSMGXMZNS1MDDV28QMDPZC",
+      "meeting_date": "2026-04-09",
+      "sha256": "77506009fe16fcb61481e0aa979bf3d348312df4eceadc2b02e3288ad38ce2ca",
+      "bytes": 26624
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-13-marketing-office-hours.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KP433JKRQWWNY827JH3V1N7S",
+      "meeting_date": "2026-04-13",
+      "sha256": "5b6e7131903bd3f1e3561daa64577f7a628c50f6d5d1768195afa2aff8a348e2",
+      "bytes": 20515
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-17-everett-bi-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KPECGM3HY3MBMB8NB2HXG25P",
+      "meeting_date": "2026-04-17",
+      "sha256": "a0c1b2783166cd2ed7c4d4277970ee95e633530817ce9cd7b5656f78e1b8fe60",
+      "bytes": 33093
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-21-operations-office-hours.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KPRQXZ7BMSE0BD3VHW8EGMWB",
+      "meeting_date": "2026-04-21",
+      "sha256": "aa7499ca45ac434e3755d6819a55923024e33853ab9a891ec8d8f5c69981194b",
+      "bytes": 6537
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-27-marketing-office-hours.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KQ84N62HKNPTQPDJRNFZ5J91",
+      "meeting_date": "2026-04-27",
+      "sha256": "6ee33335e1e32ced21a00ddec875eb12aa31fc273dbf18c50434fcf96dae7b3c",
+      "bytes": 32510
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-01-everett-bi-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KQJE4TE67S7EBQZ9P8MFJKVG",
+      "meeting_date": "2026-05-01",
+      "sha256": "24817b35621b1de54e6c0f149c43a6499454fdd5af630a49cdb0cd4c0021c4b6",
+      "bytes": 32342
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-01-everett-quick-call.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KQJK6XZ65RCA1M43ZF05M3VD",
+      "meeting_date": "2026-05-01",
+      "sha256": "60dee6a4e01b04d4d97dc2df70b95009a667d866344c39d5c1ba961db176bdc3",
+      "bytes": 87514
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-06-operations-office-hours.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KQZDQAM5W3X91MH53RAKNDW1",
+      "meeting_date": "2026-05-06",
+      "sha256": "c8af3f113081c5640b7d7032dd8bfc61e5dc842abdc599095bbb8b6dcc4a7ea5",
+      "bytes": 33724
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-07-ismash-franchise-town-hall.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KR21PVY4T3MSPF6FY021F8AW",
+      "meeting_date": "2026-05-07",
+      "sha256": "46b0e2f54737a7c2676b0d190af3214e23197e9b6eb983f3832f070dacfb62c0",
+      "bytes": 70513
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-11-marketing-office-hours.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KRC68C2HCZ0RRTEDXDMT0NDZ",
+      "meeting_date": "2026-05-11",
+      "sha256": "a35ddcb78e1afc103e47d7061d4d9f466a433ec465bc3426017ecca9352a5d41",
+      "bytes": 27352
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-15-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KRPDYZFZ030EV26GYEKDGJPR",
+      "meeting_date": "2026-05-15",
+      "sha256": "75d80cedf87442a5da0b0a8274c8022ffe11ddb350fcc13331c62b54af3d40fe",
+      "bytes": 24060
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-19-operations-and-marketing-office-hours.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KS0WSWWFAVTTA6KC7ZQ7091S",
+      "meeting_date": "2026-05-19",
+      "sha256": "06c0c6c376c165f01195a517a3a176b8eab2f497f5c12f72370325c0ef069b4f",
+      "bytes": 22946
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-22-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KS8EPN8A5BFSCXKK054YG8SC",
+      "meeting_date": "2026-05-22",
+      "sha256": "7da129478935344161b6365b4c8be22d4ec5c911134943c9364a86af41538906",
+      "bytes": 61497
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-29-everett-weekly-calls__retrieved-2026-10-14.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KSTFE20VC1PJKPF3H8SZ7TQC",
+      "meeting_date": "2026-05-29",
+      "sha256": "05bd354eb5306ddd5b1ac98f23f205403b2911bb0990c3610230052c760f777a",
+      "bytes": 42886
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-29-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KSTFE20VC1PJKPF3H8SZ7TQC",
+      "meeting_date": "2026-05-29",
+      "sha256": "0a931acfe21b64f8e4926d37033411e3775ac07af12863e1f64dfa6e5d4f6f02",
+      "bytes": 42887
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-05-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KTCG7F5M19F4FYQKQD1DP55V",
+      "meeting_date": "2026-06-05",
+      "sha256": "0df87a660b1ea8a32edcc1f66833417a7fbb89c99032eb79b7a45de20ec21522",
+      "bytes": 46950
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-09-operations-and-marketing-office-hours.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KTPZ4DWP8BPBWF0JVDA6YWSF",
+      "meeting_date": "2026-06-09",
+      "sha256": "7885ee7cd8fa5b36dd9ef6085e1013b2edbbc8c0597edf466223ec502bb4b11c",
+      "bytes": 38152
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-12-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KTYGX6P22P6XMPWC4S44KDG1",
+      "meeting_date": "2026-06-12",
+      "sha256": "6c7d7b537f1823f65891d5d98588f3d245a8bb35b800bece6896736749ffdd6c",
+      "bytes": 40768
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-19-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KVGN5J3KDM0S8BF8YGX3X4S8",
+      "meeting_date": "2026-06-19",
+      "sha256": "478c0421805b722091fda99977ad090008e46d0bf151cdb5f24c570ff02fed35",
+      "bytes": 35528
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-25-operations-and-marketing-office-hours.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KW059EGQ88HHYX3P0D3TEFD4",
+      "meeting_date": "2026-06-25",
+      "sha256": "599527f10dce2b3fd44dd12ce039f9d8dfc694ab8f6327e54889ebae60e59d2e",
+      "bytes": 36312
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-03-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KWMKAWM0A2N6RH9M0939KA51",
+      "meeting_date": "2026-07-03",
+      "sha256": "ffa2f50aad375381ee63015f04a8ff1e64a097144f149629efcfc708bf8d7c66",
+      "bytes": 139
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-15-ismash-franchise-town-hall.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KXKPYM75Q2QB4W9S1HTPWVXZ",
+      "meeting_date": "2026-07-15",
+      "sha256": "d6fa273db6971dae4945fc4170e99e9bde6c49868b2f630b02651b542e9a02e7",
+      "bytes": 4883
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-16-operations-and-marketing-office-hours.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KXP7PZ7JM96QMYV54PRHSPZS",
+      "meeting_date": "2026-07-16",
+      "sha256": "eb0ad3223c9634d2e2cbeee744f9c64c521d7e8f250cd37d779bc738ff6b1dd3",
+      "bytes": 14439
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-17-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KXRMWW707JSQP9ZAXVHT0RNT",
+      "meeting_date": "2026-07-17",
+      "sha256": "fd2beb3001086ad75e3b8fe571a6489821674970fe530214c8da4650ab936566",
+      "bytes": 49018
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-24-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KYANNF5GEYZPJNKZRBKEVZ3V",
+      "meeting_date": "2026-07-24",
+      "sha256": "6412a7463f2ba4e3e630f001dfa0861e5b0200b008b22e8db27d7ef233f35e4e",
+      "bytes": 37200
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-31-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01KYWPGDGPWWV3D44GW3EZE6YM",
+      "meeting_date": "2026-07-31",
+      "sha256": "5754fc9159646011a37b537a3985f94c379b0a58e1e19c59b17e78267367f5e5",
+      "bytes": 36032
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-14-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M00QYS6GPTVY1YBQFVA6WM7N",
+      "meeting_date": "2026-08-14",
+      "sha256": "5cbd0efff0e7076c750a8e41157adc44385bc1561826287f4cd700cb342f80f6",
+      "bytes": 52998
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-20-everett-tote-discussion.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M0GBPWKH4ZZV3JFCVY0WC3KJ",
+      "meeting_date": "2026-08-20",
+      "sha256": "c761b164e1289be4811d23e411a147a4666738a4c2fdb7cd2415dd260c733e87",
+      "bytes": 17048
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-21-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M0JTPHHNQFK69H5D2X1K97S7",
+      "meeting_date": "2026-08-21",
+      "sha256": "432387b537a8cae4c2389c30506f58ccc803c3e30343f7b487490eaf6d566c4e",
+      "bytes": 20608
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-28-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M14SKNM9ADTZNYX1030QDH2M",
+      "meeting_date": "2026-08-28",
+      "sha256": "1f5c76bea27eadf213376761a68b57f8460351cab7fd2574fa139512c6f01658",
+      "bytes": 31476
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-11-everett-weekly-calls__retrieved-2026-10-14.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M28V8M6BFW4JSWRWPJ1J07T4",
+      "meeting_date": "2026-09-11",
+      "sha256": "13d7ae9d00e185168d070680f90698a6aaf1a18791961ee9bdca48db75a7e138",
+      "bytes": 22608
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-11-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M28V8M6BFW4JSWRWPJ1J07T4",
+      "meeting_date": "2026-09-11",
+      "sha256": "39df677732237c1766d160d785c0a01ed23c3cc5b98f6100d575f954dddd4aac",
+      "bytes": 22609
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-14-everett-catch-up__retrieved-2026-10-14.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M2G6F5KFW234PWJMCP05S3EF",
+      "meeting_date": "2026-09-14",
+      "sha256": "3915f47b6569d39966c894460d63c1938bc9653c65fd7c24f0173ade0bcb67d8",
+      "bytes": 17175
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-14-everett-catch-up.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M2G6F5KFW234PWJMCP05S3EF",
+      "meeting_date": "2026-09-14",
+      "sha256": "8393f214bb59aafe5dc4e65d228a5e8bb20ad86abc4b588752beb3339a07ea14",
+      "bytes": 17176
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-18-everett-weekly-calls__retrieved-2026-10-14.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M2TVYWM5WDFWYK006TEMRT6V",
+      "meeting_date": "2026-09-18",
+      "sha256": "686eb28cdf41680d5a5a687b568af7d174ed6aa3cc7263e1f2df1b63ba2a0965",
+      "bytes": 44928
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-18-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M2TVYWM5WDFWYK006TEMRT6V",
+      "meeting_date": "2026-09-18",
+      "sha256": "e13302664d24bad7bf30568ca0d6fb817a9f366ec56c20a7ba6f7e743087ccc4",
+      "bytes": 44929
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-22-water-fountain__owner-supplied.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": null,
+      "meeting_date": "2026-09-22",
+      "sha256": "7bc1560c7a1e6df2e8279b352351880e762df9cfebf51c56e3a43c884805ecde",
+      "bytes": 8125
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-25-fw-everett-weekly-calls__owner-supplied.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M3CWN1AYNVZY0DRM0D6ABYV8",
+      "meeting_date": "2026-09-25",
+      "sha256": "c68a4c626292fc8bfef6a18ac3cf2a31826bf9096756d6f1371945253bd13fa4",
+      "bytes": 28894
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-10-02-fw-everett-weekly-calls__owner-supplied.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M3YXECPCC96B63XANZN69Y2M",
+      "meeting_date": "2026-10-02",
+      "sha256": "72bece5fda2bbbbed4c8a49228038baa207b3c582f0d1e547299729afd7112d3",
+      "bytes": 27502
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-10-09-everett-weekly-calls.txt",
+      "type": "unaltered_raw_text_export",
+      "meeting_id": "01M4GY97Z3ZRQKCFK2BNQ4EZWX",
+      "meeting_date": "2026-10-09",
+      "sha256": "25e94810183d57205557e75dc70379d5830c2659f253631348ff8494461fdbac",
+      "bytes": 19031
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/02272025_iSmash Seattle Kick Off Call Transcript.txt",
+      "type": "owner_supplied_text_export",
+      "meeting_id": "01JN4QYNJE35HCSZ1DV4C3P1N1",
+      "meeting_date": "2025-02-27",
+      "sha256": "54bfada15459dc5ee94950e4624ff6eacacdfe4518f7682822b94c35972c7117",
+      "bytes": 28529
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/09222026_Water fountain Transcript.txt",
+      "type": "owner_supplied_text_export",
+      "meeting_id": null,
+      "meeting_date": "2026-09-22",
+      "sha256": "7bc1560c7a1e6df2e8279b352351880e762df9cfebf51c56e3a43c884805ecde",
+      "bytes": 8125
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/09252026_Fw_ Everett weekly calls Transcript.txt",
+      "type": "owner_supplied_text_export",
+      "meeting_id": "01M3CWN1AYNVZY0DRM0D6ABYV8",
+      "meeting_date": "2026-09-25",
+      "sha256": "c68a4c626292fc8bfef6a18ac3cf2a31826bf9096756d6f1371945253bd13fa4",
+      "bytes": 28894
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/10022026_Fw_ Everett weekly calls Transcript.txt",
+      "type": "owner_supplied_text_export",
+      "meeting_id": "01M3YXECPCC96B63XANZN69Y2M",
+      "meeting_date": "2026-10-02",
+      "sha256": "72bece5fda2bbbbed4c8a49228038baa207b3c582f0d1e547299729afd7112d3",
+      "bytes": 27502
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/2026-05-29-everett-weekly-calls.md",
+      "type": "derived_readable_copy",
+      "meeting_id": null,
+      "meeting_date": null,
+      "sha256": "71e4e086ab0fdb7013d1bd5312a4dc400ebd82bed51f4b456c3c8864b225b913",
+      "bytes": 43394
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/2026-09-11-everett-weekly-calls.md",
+      "type": "derived_readable_copy",
+      "meeting_id": null,
+      "meeting_date": null,
+      "sha256": "1446bac6b104d7cea2910c7800844bee55f917c423014f07fdd8fd367fcea22c",
+      "bytes": 23122
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/2026-09-14-everett-catch-up.md",
+      "type": "derived_readable_copy",
+      "meeting_id": null,
+      "meeting_date": null,
+      "sha256": "42deb3988bf25d829d5fa5a229708da0418c3cb48030ec16cfaa952569e9d958",
+      "bytes": 17685
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/2026-09-18-everett-weekly-calls.md",
+      "type": "derived_readable_copy",
+      "meeting_id": null,
+      "meeting_date": null,
+      "sha256": "a4ab08f204de0ea008f8786bf23a86179f922c95c722e3e2dd33ee9b10daab42",
+      "bytes": 45442
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/Fin_Intro_Transcript.txt",
+      "type": "owner_supplied_text_export",
+      "meeting_id": "01JQEYA1J313XVR0JRK8MB2AH4",
+      "meeting_date": "2025-03-28",
+      "sha256": "e9dac2ca0c4379201dc2c0e776330db19b9ba686d28a51cb639af2ffcf806a5a",
+      "bytes": 19913
+    }
+  ],
+  "meeting_groups": [
+    {
+      "meeting_id": "01JN4QYNJE35HCSZ1DV4C3P1N1",
+      "meeting_date": "2025-02-27",
+      "title": "iSmash Seattle Kick Off Call",
+      "listed_in_current_inventory": false,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-02-27-ismash-seattle-kick-off-call.txt",
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/02272025_iSmash Seattle Kick Off Call Transcript.txt"
+      ],
+      "sha256_values": [
+        "54bfada15459dc5ee94950e4624ff6eacacdfe4518f7682822b94c35972c7117"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01JN4QYNJE35HCSZ1DV4C3P1N1/transcript"
+    },
+    {
+      "meeting_id": "01JNHM10JNQDS2748BY0NV2W02",
+      "meeting_date": "2025-03-04",
+      "title": "Divya/Bharath <> Locate, intro call",
+      "listed_in_current_inventory": false,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-03-04-divya-bharath-locate-intro-call.txt"
+      ],
+      "sha256_values": [
+        "c310aa97b9f374fae8f2e864beed161a2336917d34b837a6faecfef50f83ff7b"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01JNHM10JNQDS2748BY0NV2W02/transcript"
+    },
+    {
+      "meeting_id": "01JPB46602Z4A3P2P1CG94QJHC",
+      "meeting_date": "2025-03-14",
+      "title": "Carney Contracting Intro",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-03-14-carney-contracting-intro.txt"
+      ],
+      "sha256_values": [
+        "39ec69b097ddac8090ef942f09889d2a6d0652f8188a826c038b18baa73d9edc"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01JPB46602Z4A3P2P1CG94QJHC/transcript"
+    },
+    {
+      "meeting_id": "01JQCGXANQNN7DK60F6AM8PQGV",
+      "meeting_date": "2025-03-27",
+      "title": "iSMASH - Site Discussion",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-03-27-ismash-site-discussion.txt"
+      ],
+      "sha256_values": [
+        "c22cd6aea9c36a224af92a473e2b059fedca20423e74e17ceef09806b99283bd"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01JQCGXANQNN7DK60F6AM8PQGV/transcript"
+    },
+    {
+      "meeting_id": "01JQEYA1J313XVR0JRK8MB2AH4",
+      "meeting_date": "2025-03-28",
+      "title": "Financing Introduction",
+      "listed_in_current_inventory": false,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-03-28-financing-introduction.txt",
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/Fin_Intro_Transcript.txt"
+      ],
+      "sha256_values": [
+        "e9dac2ca0c4379201dc2c0e776330db19b9ba686d28a51cb639af2ffcf806a5a"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01JQEYA1J313XVR0JRK8MB2AH4/transcript"
+    },
+    {
+      "meeting_id": "01JRK4SB8FMT1DEVRYH6A36GYG",
+      "meeting_date": "2025-04-11",
+      "title": "iSmash Seattle Budget Review",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-04-11-ismash-seattle-budget-review-1221.txt"
+      ],
+      "sha256_values": [
+        "a86e8db6128298f4ea79f848ba810e2442e5c2949954623bdc5e2de2f09eb7fc"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01JRK4SB8FMT1DEVRYH6A36GYG/transcript"
+    },
+    {
+      "meeting_id": "01JRK6JNY9ZQZNCFYW049RB294",
+      "meeting_date": "2025-04-11",
+      "title": "iSmash Seattle Budget Review",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-04-11-ismash-seattle-budget-review-1300.txt"
+      ],
+      "sha256_values": [
+        "821ded256060d6daca895ea154ef9b31b2c0ab59c869f0c8fcf8b92fc42f8196"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01JRK6JNY9ZQZNCFYW049RB294/transcript"
+    },
+    {
+      "meeting_id": "01JS2HCZPW4GV9K2G4GWB5PQPC",
+      "meeting_date": "2025-04-17",
+      "title": "PNL Discussion",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-04-17-pnl-discussion.txt"
+      ],
+      "sha256_values": [
+        "82de565dcf0467fdd52e8bce46ddf361e1657f54181192ed814a5c73c0cc4164"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01JS2HCZPW4GV9K2G4GWB5PQPC/transcript"
+    },
+    {
+      "meeting_id": "01JY4RPGSASNPHH8JKVW1NXM37",
+      "meeting_date": "2025-06-19",
+      "title": "Smash District LLC - iSmash Lease Review",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-06-19-smash-district-ismash-lease-review.txt"
+      ],
+      "sha256_values": [
+        "5e62e33a7e4240e61a941ed7b6186ef13b886aad326aea8852afd3c2f71b43d1"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01JY4RPGSASNPHH8JKVW1NXM37/transcript"
+    },
+    {
+      "meeting_id": "01K2QP90QYT5C4M942R5P9S37M",
+      "meeting_date": "2025-08-15",
+      "title": "Divya & Bharath Touchbase",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-08-15-divya-bharath-touchbase.txt"
+      ],
+      "sha256_values": [
+        "a237b3e03c77beb80216f0d1fdfea616d6e1ba1dfba9858d98d795a0a6325848"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01K2QP90QYT5C4M942R5P9S37M/transcript"
+    },
+    {
+      "meeting_id": "01K4DRMPFWQTGEK0Y9G6D3TGNJ",
+      "meeting_date": "2025-09-05",
+      "title": "iSmash Everette Ops Kick Off ",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-09-05-ismash-everette-ops-kick-off.txt"
+      ],
+      "sha256_values": [
+        "eb5fa8a1e3b92dc15a27fa3b3d92664e0ab16a6bbf2ed8b3a9879a70cf796f33"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01K4DRMPFWQTGEK0Y9G6D3TGNJ/transcript"
+    },
+    {
+      "meeting_id": "01K61703R97E1H21FYX9KT917N",
+      "meeting_date": "2025-09-25",
+      "title": "Intro to Marketing Webinar",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-09-25-intro-to-marketing-webinar.txt"
+      ],
+      "sha256_values": [
+        "53bd2877544b2834cd25db55ba0aaa508bdf4ae0dc3121a4118f241f1d5b9e94"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01K61703R97E1H21FYX9KT917N/transcript"
+    },
+    {
+      "meeting_id": "01KJDX82S32ADZQSE5GDKX4XFZ",
+      "meeting_date": "2026-02-26",
+      "title": "iSmash Franchise Town Hall",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-02-26-ismash-franchise-town-hall.txt"
+      ],
+      "sha256_values": [
+        "74c0c405654e29d8d19db883ecd6323bacd4583c840b89493cc92d58b636562f"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KJDX82S32ADZQSE5GDKX4XFZ/transcript"
+    },
+    {
+      "meeting_id": "01KJTM2HQX4E9FF7C7CED2QCAD",
+      "meeting_date": "2026-03-03",
+      "title": "iSmash Everett Marketing Kick-Off Call",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-03-ismash-everett-marketing-kick-off-call.txt"
+      ],
+      "sha256_values": [
+        "a727376fb74b7141a875f8f2cb374b57079df24fceae0bdddfeda60b054212ab"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KJTM2HQX4E9FF7C7CED2QCAD/transcript"
+    },
+    {
+      "meeting_id": "01KM69EYXGAM3K6B073XRJBRHC",
+      "meeting_date": "2026-03-20",
+      "title": "Everett Bi-weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-20-everett-bi-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "114989fa923181c711bebc9cb0b2f8e3cac8780cd93b87c9cd74c6808c7675bf"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KM69EYXGAM3K6B073XRJBRHC/transcript"
+    },
+    {
+      "meeting_id": "01KMNQX3M7KC0N3VW5C0DM8RS1",
+      "meeting_date": "2026-03-26",
+      "title": "Everett Weekly Meeting",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-26-everett-weekly-meeting.txt"
+      ],
+      "sha256_values": [
+        "38c2c63d43bd05a5f1039cf979f32a6d055fe5feb29c1d47a67b9a50d1ddff61"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KMNQX3M7KC0N3VW5C0DM8RS1/transcript"
+    },
+    {
+      "meeting_id": "01KMNVCAQ95GHHZ9SB6G81XWY2",
+      "meeting_date": "2026-03-26",
+      "title": "Operations Office Hours",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-26-operations-office-hours.txt"
+      ],
+      "sha256_values": [
+        "4fd8e885606e37d9e47cee8b43ccb1c3bf95a9ce4bc748ac1bb9ec4001359a46"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KMNVCAQ95GHHZ9SB6G81XWY2/transcript"
+    },
+    {
+      "meeting_id": "01KN01ARG6V7VXBSDZ98AQ31JN",
+      "meeting_date": "2026-03-30",
+      "title": "Marketing Office Hours",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-30-marketing-office-hours.txt"
+      ],
+      "sha256_values": [
+        "56ef814ed5594138271147a2aee6249d7f2857a51517781c35e374bae2700515"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KN01ARG6V7VXBSDZ98AQ31JN/transcript"
+    },
+    {
+      "meeting_id": "01KN7RNJYGZXWV1GYTE59E4CRY",
+      "meeting_date": "2026-04-02",
+      "title": "Everett Weekly Meeting",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-02-everett-weekly-meeting.txt"
+      ],
+      "sha256_values": [
+        "2f7d6259df0c73c748541ec99e8654aeb9d571c863aa9f85372aab2f9014021b"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KN7RNJYGZXWV1GYTE59E4CRY/transcript"
+    },
+    {
+      "meeting_id": "01KNQAMB3291VTQQ6XC1T93NMD",
+      "meeting_date": "2026-04-08",
+      "title": "Operations Office Hours",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-08-operations-office-hours.txt"
+      ],
+      "sha256_values": [
+        "03d634baf57e5e64671161163a6fccdf20df2b986324a0b046b668223cb976a0"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KNQAMB3291VTQQ6XC1T93NMD/transcript"
+    },
+    {
+      "meeting_id": "01KNSSMGXMZNS1MDDV28QMDPZC",
+      "meeting_date": "2026-04-09",
+      "title": "Everett Weekly Meeting",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-09-everett-weekly-meeting.txt"
+      ],
+      "sha256_values": [
+        "77506009fe16fcb61481e0aa979bf3d348312df4eceadc2b02e3288ad38ce2ca"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KNSSMGXMZNS1MDDV28QMDPZC/transcript"
+    },
+    {
+      "meeting_id": "01KP433JKRQWWNY827JH3V1N7S",
+      "meeting_date": "2026-04-13",
+      "title": "Marketing Office Hours",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-13-marketing-office-hours.txt"
+      ],
+      "sha256_values": [
+        "5b6e7131903bd3f1e3561daa64577f7a628c50f6d5d1768195afa2aff8a348e2"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KP433JKRQWWNY827JH3V1N7S/transcript"
+    },
+    {
+      "meeting_id": "01KPECGM3HY3MBMB8NB2HXG25P",
+      "meeting_date": "2026-04-17",
+      "title": "Everett Bi-weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-17-everett-bi-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "a0c1b2783166cd2ed7c4d4277970ee95e633530817ce9cd7b5656f78e1b8fe60"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KPECGM3HY3MBMB8NB2HXG25P/transcript"
+    },
+    {
+      "meeting_id": "01KPRQXZ7BMSE0BD3VHW8EGMWB",
+      "meeting_date": "2026-04-21",
+      "title": "Operations Office Hours",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-21-operations-office-hours.txt"
+      ],
+      "sha256_values": [
+        "aa7499ca45ac434e3755d6819a55923024e33853ab9a891ec8d8f5c69981194b"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KPRQXZ7BMSE0BD3VHW8EGMWB/transcript"
+    },
+    {
+      "meeting_id": "01KQ84N62HKNPTQPDJRNFZ5J91",
+      "meeting_date": "2026-04-27",
+      "title": "Marketing Office Hours",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-27-marketing-office-hours.txt"
+      ],
+      "sha256_values": [
+        "6ee33335e1e32ced21a00ddec875eb12aa31fc273dbf18c50434fcf96dae7b3c"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KQ84N62HKNPTQPDJRNFZ5J91/transcript"
+    },
+    {
+      "meeting_id": "01KQJE4TE67S7EBQZ9P8MFJKVG",
+      "meeting_date": "2026-05-01",
+      "title": "Everett Bi-weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-01-everett-bi-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "24817b35621b1de54e6c0f149c43a6499454fdd5af630a49cdb0cd4c0021c4b6"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KQJE4TE67S7EBQZ9P8MFJKVG/transcript"
+    },
+    {
+      "meeting_id": "01KQJK6XZ65RCA1M43ZF05M3VD",
+      "meeting_date": "2026-05-01",
+      "title": "Everett quick call",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-01-everett-quick-call.txt"
+      ],
+      "sha256_values": [
+        "60dee6a4e01b04d4d97dc2df70b95009a667d866344c39d5c1ba961db176bdc3"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KQJK6XZ65RCA1M43ZF05M3VD/transcript"
+    },
+    {
+      "meeting_id": "01KQZDQAM5W3X91MH53RAKNDW1",
+      "meeting_date": "2026-05-06",
+      "title": "Operations Office Hours",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-06-operations-office-hours.txt"
+      ],
+      "sha256_values": [
+        "c8af3f113081c5640b7d7032dd8bfc61e5dc842abdc599095bbb8b6dcc4a7ea5"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KQZDQAM5W3X91MH53RAKNDW1/transcript"
+    },
+    {
+      "meeting_id": "01KR21PVY4T3MSPF6FY021F8AW",
+      "meeting_date": "2026-05-07",
+      "title": "iSmash Franchise Town Hall",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-07-ismash-franchise-town-hall.txt"
+      ],
+      "sha256_values": [
+        "46b0e2f54737a7c2676b0d190af3214e23197e9b6eb983f3832f070dacfb62c0"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KR21PVY4T3MSPF6FY021F8AW/transcript"
+    },
+    {
+      "meeting_id": "01KRC68C2HCZ0RRTEDXDMT0NDZ",
+      "meeting_date": "2026-05-11",
+      "title": "Marketing Office Hours",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-11-marketing-office-hours.txt"
+      ],
+      "sha256_values": [
+        "a35ddcb78e1afc103e47d7061d4d9f466a433ec465bc3426017ecca9352a5d41"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KRC68C2HCZ0RRTEDXDMT0NDZ/transcript"
+    },
+    {
+      "meeting_id": "01KRPDYZFZ030EV26GYEKDGJPR",
+      "meeting_date": "2026-05-15",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-15-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "75d80cedf87442a5da0b0a8274c8022ffe11ddb350fcc13331c62b54af3d40fe"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KRPDYZFZ030EV26GYEKDGJPR/transcript"
+    },
+    {
+      "meeting_id": "01KS0WSWWFAVTTA6KC7ZQ7091S",
+      "meeting_date": "2026-05-19",
+      "title": "Operations & Marketing Office Hours",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-19-operations-and-marketing-office-hours.txt"
+      ],
+      "sha256_values": [
+        "06c0c6c376c165f01195a517a3a176b8eab2f497f5c12f72370325c0ef069b4f"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KS0WSWWFAVTTA6KC7ZQ7091S/transcript"
+    },
+    {
+      "meeting_id": "01KS8EPN8A5BFSCXKK054YG8SC",
+      "meeting_date": "2026-05-22",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-22-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "7da129478935344161b6365b4c8be22d4ec5c911134943c9364a86af41538906"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KS8EPN8A5BFSCXKK054YG8SC/transcript"
+    },
+    {
+      "meeting_id": "01KSTFE20VC1PJKPF3H8SZ7TQC",
+      "meeting_date": "2026-05-29",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-29-everett-weekly-calls.txt",
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-29-everett-weekly-calls__retrieved-2026-10-14.txt"
+      ],
+      "sha256_values": [
+        "0a931acfe21b64f8e4926d37033411e3775ac07af12863e1f64dfa6e5d4f6f02",
+        "05bd354eb5306ddd5b1ac98f23f205403b2911bb0990c3610230052c760f777a"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KSTFE20VC1PJKPF3H8SZ7TQC/transcript"
+    },
+    {
+      "meeting_id": "01KTCG7F5M19F4FYQKQD1DP55V",
+      "meeting_date": "2026-06-05",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-05-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "0df87a660b1ea8a32edcc1f66833417a7fbb89c99032eb79b7a45de20ec21522"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KTCG7F5M19F4FYQKQD1DP55V/transcript"
+    },
+    {
+      "meeting_id": "01KTPZ4DWP8BPBWF0JVDA6YWSF",
+      "meeting_date": "2026-06-09",
+      "title": "Operations & Marketing Office Hours",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-09-operations-and-marketing-office-hours.txt"
+      ],
+      "sha256_values": [
+        "7885ee7cd8fa5b36dd9ef6085e1013b2edbbc8c0597edf466223ec502bb4b11c"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KTPZ4DWP8BPBWF0JVDA6YWSF/transcript"
+    },
+    {
+      "meeting_id": "01KTYGX6P22P6XMPWC4S44KDG1",
+      "meeting_date": "2026-06-12",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-12-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "6c7d7b537f1823f65891d5d98588f3d245a8bb35b800bece6896736749ffdd6c"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KTYGX6P22P6XMPWC4S44KDG1/transcript"
+    },
+    {
+      "meeting_id": "01KVGN5J3KDM0S8BF8YGX3X4S8",
+      "meeting_date": "2026-06-19",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-19-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "478c0421805b722091fda99977ad090008e46d0bf151cdb5f24c570ff02fed35"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KVGN5J3KDM0S8BF8YGX3X4S8/transcript"
+    },
+    {
+      "meeting_id": "01KW059EGQ88HHYX3P0D3TEFD4",
+      "meeting_date": "2026-06-25",
+      "title": "Operations & Marketing Office Hours",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-25-operations-and-marketing-office-hours.txt"
+      ],
+      "sha256_values": [
+        "599527f10dce2b3fd44dd12ce039f9d8dfc694ab8f6327e54889ebae60e59d2e"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KW059EGQ88HHYX3P0D3TEFD4/transcript"
+    },
+    {
+      "meeting_id": "01KWMKAWM0A2N6RH9M0939KA51",
+      "meeting_date": "2026-07-03",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-03-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "ffa2f50aad375381ee63015f04a8ff1e64a097144f149629efcfc708bf8d7c66"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KWMKAWM0A2N6RH9M0939KA51/transcript"
+    },
+    {
+      "meeting_id": "01KXKPYM75Q2QB4W9S1HTPWVXZ",
+      "meeting_date": "2026-07-15",
+      "title": "iSmash Franchise Town Hall",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-15-ismash-franchise-town-hall.txt"
+      ],
+      "sha256_values": [
+        "d6fa273db6971dae4945fc4170e99e9bde6c49868b2f630b02651b542e9a02e7"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KXKPYM75Q2QB4W9S1HTPWVXZ/transcript"
+    },
+    {
+      "meeting_id": "01KXP7PZ7JM96QMYV54PRHSPZS",
+      "meeting_date": "2026-07-16",
+      "title": "Operations & Marketing Office Hours",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-16-operations-and-marketing-office-hours.txt"
+      ],
+      "sha256_values": [
+        "eb0ad3223c9634d2e2cbeee744f9c64c521d7e8f250cd37d779bc738ff6b1dd3"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KXP7PZ7JM96QMYV54PRHSPZS/transcript"
+    },
+    {
+      "meeting_id": "01KXRMWW707JSQP9ZAXVHT0RNT",
+      "meeting_date": "2026-07-17",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-17-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "fd2beb3001086ad75e3b8fe571a6489821674970fe530214c8da4650ab936566"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KXRMWW707JSQP9ZAXVHT0RNT/transcript"
+    },
+    {
+      "meeting_id": "01KYANNF5GEYZPJNKZRBKEVZ3V",
+      "meeting_date": "2026-07-24",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-24-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "6412a7463f2ba4e3e630f001dfa0861e5b0200b008b22e8db27d7ef233f35e4e"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KYANNF5GEYZPJNKZRBKEVZ3V/transcript"
+    },
+    {
+      "meeting_id": "01KYWPGDGPWWV3D44GW3EZE6YM",
+      "meeting_date": "2026-07-31",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-31-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "5754fc9159646011a37b537a3985f94c379b0a58e1e19c59b17e78267367f5e5"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01KYWPGDGPWWV3D44GW3EZE6YM/transcript"
+    },
+    {
+      "meeting_id": "01M00QYS6GPTVY1YBQFVA6WM7N",
+      "meeting_date": "2026-08-14",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-14-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "5cbd0efff0e7076c750a8e41157adc44385bc1561826287f4cd700cb342f80f6"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01M00QYS6GPTVY1YBQFVA6WM7N/transcript"
+    },
+    {
+      "meeting_id": "01M0GBPWKH4ZZV3JFCVY0WC3KJ",
+      "meeting_date": "2026-08-20",
+      "title": "Everett Tote Discussion",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-20-everett-tote-discussion.txt"
+      ],
+      "sha256_values": [
+        "c761b164e1289be4811d23e411a147a4666738a4c2fdb7cd2415dd260c733e87"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01M0GBPWKH4ZZV3JFCVY0WC3KJ/transcript"
+    },
+    {
+      "meeting_id": "01M0JTPHHNQFK69H5D2X1K97S7",
+      "meeting_date": "2026-08-21",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-21-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "432387b537a8cae4c2389c30506f58ccc803c3e30343f7b487490eaf6d566c4e"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01M0JTPHHNQFK69H5D2X1K97S7/transcript"
+    },
+    {
+      "meeting_id": "01M14SKNM9ADTZNYX1030QDH2M",
+      "meeting_date": "2026-08-28",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-28-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "1f5c76bea27eadf213376761a68b57f8460351cab7fd2574fa139512c6f01658"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01M14SKNM9ADTZNYX1030QDH2M/transcript"
+    },
+    {
+      "meeting_id": "01M28V8M6BFW4JSWRWPJ1J07T4",
+      "meeting_date": "2026-09-11",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-11-everett-weekly-calls.txt",
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-11-everett-weekly-calls__retrieved-2026-10-14.txt"
+      ],
+      "sha256_values": [
+        "39df677732237c1766d160d785c0a01ed23c3cc5b98f6100d575f954dddd4aac",
+        "13d7ae9d00e185168d070680f90698a6aaf1a18791961ee9bdca48db75a7e138"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01M28V8M6BFW4JSWRWPJ1J07T4/transcript"
+    },
+    {
+      "meeting_id": "01M2G6F5KFW234PWJMCP05S3EF",
+      "meeting_date": "2026-09-14",
+      "title": "Everett catch up",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-14-everett-catch-up.txt",
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-14-everett-catch-up__retrieved-2026-10-14.txt"
+      ],
+      "sha256_values": [
+        "8393f214bb59aafe5dc4e65d228a5e8bb20ad86abc4b588752beb3339a07ea14",
+        "3915f47b6569d39966c894460d63c1938bc9653c65fd7c24f0173ade0bcb67d8"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01M2G6F5KFW234PWJMCP05S3EF/transcript"
+    },
+    {
+      "meeting_id": "01M2TVYWM5WDFWYK006TEMRT6V",
+      "meeting_date": "2026-09-18",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-18-everett-weekly-calls.txt",
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-18-everett-weekly-calls__retrieved-2026-10-14.txt"
+      ],
+      "sha256_values": [
+        "e13302664d24bad7bf30568ca0d6fb817a9f366ec56c20a7ba6f7e743087ccc4",
+        "686eb28cdf41680d5a5a687b568af7d174ed6aa3cc7263e1f2df1b63ba2a0965"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01M2TVYWM5WDFWYK006TEMRT6V/transcript"
+    },
+    {
+      "meeting_id": null,
+      "meeting_date": "2026-09-22",
+      "title": "Water fountain",
+      "listed_in_current_inventory": false,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/09222026_Water fountain Transcript.txt",
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-22-water-fountain__owner-supplied.txt"
+      ],
+      "sha256_values": [
+        "7bc1560c7a1e6df2e8279b352351880e762df9cfebf51c56e3a43c884805ecde"
+      ],
+      "report_url": null
+    },
+    {
+      "meeting_id": "01M3CWN1AYNVZY0DRM0D6ABYV8",
+      "meeting_date": "2026-09-25",
+      "title": "Fw: Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/09252026_Fw_ Everett weekly calls Transcript.txt",
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-25-fw-everett-weekly-calls__owner-supplied.txt"
+      ],
+      "sha256_values": [
+        "c68a4c626292fc8bfef6a18ac3cf2a31826bf9096756d6f1371945253bd13fa4"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01M3CWN1AYNVZY0DRM0D6ABYV8/transcript"
+    },
+    {
+      "meeting_id": "01M3YXECPCC96B63XANZN69Y2M",
+      "meeting_date": "2026-10-02",
+      "title": "Fw: Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/10022026_Fw_ Everett weekly calls Transcript.txt",
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-10-02-fw-everett-weekly-calls__owner-supplied.txt"
+      ],
+      "sha256_values": [
+        "72bece5fda2bbbbed4c8a49228038baa207b3c582f0d1e547299729afd7112d3"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01M3YXECPCC96B63XANZN69Y2M/transcript"
+    },
+    {
+      "meeting_id": "01M4GY97Z3ZRQKCFK2BNQ4EZWX",
+      "meeting_date": "2026-10-09",
+      "title": "Everett weekly calls",
+      "listed_in_current_inventory": true,
+      "archive_paths": [
+        "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-10-09-everett-weekly-calls.txt"
+      ],
+      "sha256_values": [
+        "25e94810183d57205557e75dc70379d5830c2659f253631348ff8494461fdbac"
+      ],
+      "report_url": "https://app.read.ai/analytics/meetings/01M4GY97Z3ZRQKCFK2BNQ4EZWX/transcript"
+    }
+  ],
+  "source_limitations": {
+    "evidence_source": "Authenticated Read.ai browser observations supplied by the parent collecting agent on 2026-10-14; filesystem and hash checks performed independently during reconciliation.",
+    "unavailable_listed_transcripts": [
+      {
+        "meeting_id": "01KJX7A3N4WTTC1R6WZ0N974GH",
+        "meeting_date": "2026-03-04",
+        "title": "Everett Weekly OAC Call",
+        "observed_message": "Transcription was not enabled or there was no speech detected.",
+        "local_export_preserved": false
+      },
+      {
+        "meeting_id": "01KJZRY9KEPXVERWE4S8CZ8PDB",
+        "meeting_date": "2026-03-05",
+        "title": "Everett Check in",
+        "observed_message": "Meeting data has been deleted Unprocessed meeting data is retained for 30 days, then automatically deleted.",
+        "local_export_preserved": false
+      },
+      {
+        "meeting_id": "01KK2BEBXG3XJZTR39BTY5H7A6",
+        "meeting_date": "2026-03-06",
+        "title": "Everett Bi-weekly calls",
+        "observed_message": "Transcription was not enabled or there was no speech detected.",
+        "local_export_preserved": false
+      }
+    ],
+    "quota_disabled_current_reports": [
+      {
+        "meeting_id": "01M3YXECPCC96B63XANZN69Y2M",
+        "meeting_date": "2026-10-02",
+        "title": "Fw: Everett weekly calls",
+        "observed_status": "Transcript download disabled by quota; existing owner-supplied export preserved.",
+        "archive_paths": [
+          "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/10022026_Fw_ Everett weekly calls Transcript.txt"
+        ]
+      },
+      {
+        "meeting_id": "01M3CWN1AYNVZY0DRM0D6ABYV8",
+        "meeting_date": "2026-09-25",
+        "title": "Fw: Everett weekly calls",
+        "observed_status": "Transcript download disabled by quota; existing owner-supplied export preserved.",
+        "archive_paths": [
+          "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/09252026_Fw_ Everett weekly calls Transcript.txt"
+        ]
+      }
+    ],
+    "prior_reports_now_requiring_access": [
+      {
+        "meeting_id": "01JN4QYNJE35HCSZ1DV4C3P1N1",
+        "meeting_date": "2025-02-27",
+        "title": "iSmash Seattle Kick Off Call",
+        "observed_message": "You need access",
+        "access_request_sent": false,
+        "archive_paths": [
+          "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-02-27-ismash-seattle-kick-off-call.txt",
+          "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/02272025_iSmash Seattle Kick Off Call Transcript.txt"
+        ]
+      },
+      {
+        "meeting_id": "01JNHM10JNQDS2748BY0NV2W02",
+        "meeting_date": "2025-03-04",
+        "title": "Divya/Bharath <> Locate, intro call",
+        "observed_message": "You need access",
+        "access_request_sent": false,
+        "archive_paths": [
+          "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-03-04-divya-bharath-locate-intro-call.txt"
+        ]
+      },
+      {
+        "meeting_id": "01JQEYA1J313XVR0JRK8MB2AH4",
+        "meeting_date": "2025-03-28",
+        "title": "Financing Introduction",
+        "observed_message": "You need access",
+        "access_request_sent": false,
+        "archive_paths": [
+          "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-03-28-financing-introduction.txt",
+          "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/Fin_Intro_Transcript.txt"
+        ]
+      }
+    ],
+    "other_prior_preserved_meetings_absent_current_list": [
+      {
+        "meeting_id": null,
+        "meeting_date": "2026-09-22",
+        "title": "Water fountain",
+        "archive_paths": [
+          "/Users/bmysoren/prep/ismash/evidence/read_ai/transcripts/09222026_Water fountain Transcript.txt"
+        ],
+        "note": "Owner-supplied Water fountain export retained; no current report-list match or independently verified report URL."
+      }
+    ],
+    "incomplete_tab_observed_message": "All clear",
+    "incomplete_tab_additional_reports": 0
+  },
+  "evidence_boundary": "These are text-export preservation checks, not proof of complete recording, speaker identity or transcript accuracy. Audio/video has not been downloaded. No record has been deleted or overwritten. The source manifest and older index sections remain historical snapshots."
+}

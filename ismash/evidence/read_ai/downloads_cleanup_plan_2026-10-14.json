@@ -1,0 +1,514 @@
+{
+  "schema_version": 1,
+  "prepared_at_utc": "2026-10-14T16:04:46.965Z",
+  "status": "awaiting_user_confirmation",
+  "target_directory": "/Users/bmysoren/Downloads",
+  "scope": "Only the 50 exact Read.ai transcript paths listed below; no directories, images, PDFs, other downloads, or preserved archive files.",
+  "action": "Move these duplicate download files to recoverable macOS Trash. Do not permanently delete or empty Trash.",
+  "count": 50,
+  "total_bytes": 1676222,
+  "preserved_directory": "/Users/bmysoren/prep/ismash/evidence/read_ai/",
+  "verification": "Every candidate is a regular non-symlink direct child of Downloads, has the expected SHA-256 and byte count, and is byte-identical to its existing retained archive copy. Recheck immediately before any move.",
+  "entries": [
+    {
+      "source_path": "/Users/bmysoren/Downloads/Carney Contracting Intro Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-03-14-carney-contracting-intro.txt",
+      "sha256": "39ec69b097ddac8090ef942f09889d2a6d0652f8188a826c038b18baa73d9edc",
+      "bytes": 20919,
+      "meeting_id": "01JPB46602Z4A3P2P1CG94QJHC",
+      "meeting_date": "2025-03-14",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Divya & Bharath Touchbase Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-08-15-divya-bharath-touchbase.txt",
+      "sha256": "a237b3e03c77beb80216f0d1fdfea616d6e1ba1dfba9858d98d795a0a6325848",
+      "bytes": 19168,
+      "meeting_id": "01K2QP90QYT5C4M942R5P9S37M",
+      "meeting_date": "2025-08-15",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett Bi-weekly calls Transcript (1).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-17-everett-bi-weekly-calls.txt",
+      "sha256": "a0c1b2783166cd2ed7c4d4277970ee95e633530817ce9cd7b5656f78e1b8fe60",
+      "bytes": 33093,
+      "meeting_id": "01KPECGM3HY3MBMB8NB2HXG25P",
+      "meeting_date": "2026-04-17",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett Bi-weekly calls Transcript (2).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-20-everett-bi-weekly-calls.txt",
+      "sha256": "114989fa923181c711bebc9cb0b2f8e3cac8780cd93b87c9cd74c6808c7675bf",
+      "bytes": 34647,
+      "meeting_id": "01KM69EYXGAM3K6B073XRJBRHC",
+      "meeting_date": "2026-03-20",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett Bi-weekly calls Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-01-everett-bi-weekly-calls.txt",
+      "sha256": "24817b35621b1de54e6c0f149c43a6499454fdd5af630a49cdb0cd4c0021c4b6",
+      "bytes": 32342,
+      "meeting_id": "01KQJE4TE67S7EBQZ9P8MFJKVG",
+      "meeting_date": "2026-05-01",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett catch up Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-14-everett-catch-up__retrieved-2026-10-14.txt",
+      "sha256": "3915f47b6569d39966c894460d63c1938bc9653c65fd7c24f0173ade0bcb67d8",
+      "bytes": 17175,
+      "meeting_id": "01M2G6F5KFW234PWJMCP05S3EF",
+      "meeting_date": "2026-09-14",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett quick call Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-01-everett-quick-call.txt",
+      "sha256": "60dee6a4e01b04d4d97dc2df70b95009a667d866344c39d5c1ba961db176bdc3",
+      "bytes": 87514,
+      "meeting_id": "01KQJK6XZ65RCA1M43ZF05M3VD",
+      "meeting_date": "2026-05-01",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett Tote Discussion Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-20-everett-tote-discussion.txt",
+      "sha256": "c761b164e1289be4811d23e411a147a4666738a4c2fdb7cd2415dd260c733e87",
+      "bytes": 17048,
+      "meeting_id": "01M0GBPWKH4ZZV3JFCVY0WC3KJ",
+      "meeting_date": "2026-08-20",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (1).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-14-everett-weekly-calls.txt",
+      "sha256": "5cbd0efff0e7076c750a8e41157adc44385bc1561826287f4cd700cb342f80f6",
+      "bytes": 52998,
+      "meeting_id": "01M00QYS6GPTVY1YBQFVA6WM7N",
+      "meeting_date": "2026-08-14",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (10).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-28-everett-weekly-calls.txt",
+      "sha256": "1f5c76bea27eadf213376761a68b57f8460351cab7fd2574fa139512c6f01658",
+      "bytes": 31476,
+      "meeting_id": "01M14SKNM9ADTZNYX1030QDH2M",
+      "meeting_date": "2026-08-28",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (11).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-21-everett-weekly-calls.txt",
+      "sha256": "432387b537a8cae4c2389c30506f58ccc803c3e30343f7b487490eaf6d566c4e",
+      "bytes": 20608,
+      "meeting_id": "01M0JTPHHNQFK69H5D2X1K97S7",
+      "meeting_date": "2026-08-21",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (12).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-31-everett-weekly-calls.txt",
+      "sha256": "5754fc9159646011a37b537a3985f94c379b0a58e1e19c59b17e78267367f5e5",
+      "bytes": 36032,
+      "meeting_id": "01KYWPGDGPWWV3D44GW3EZE6YM",
+      "meeting_date": "2026-07-31",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (13).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-24-everett-weekly-calls.txt",
+      "sha256": "6412a7463f2ba4e3e630f001dfa0861e5b0200b008b22e8db27d7ef233f35e4e",
+      "bytes": 37200,
+      "meeting_id": "01KYANNF5GEYZPJNKZRBKEVZ3V",
+      "meeting_date": "2026-07-24",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (14).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-17-everett-weekly-calls.txt",
+      "sha256": "fd2beb3001086ad75e3b8fe571a6489821674970fe530214c8da4650ab936566",
+      "bytes": 49018,
+      "meeting_id": "01KXRMWW707JSQP9ZAXVHT0RNT",
+      "meeting_date": "2026-07-17",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (15).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-29-everett-weekly-calls__retrieved-2026-10-14.txt",
+      "sha256": "05bd354eb5306ddd5b1ac98f23f205403b2911bb0990c3610230052c760f777a",
+      "bytes": 42886,
+      "meeting_id": "01KSTFE20VC1PJKPF3H8SZ7TQC",
+      "meeting_date": "2026-05-29",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (2).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-03-everett-weekly-calls.txt",
+      "sha256": "ffa2f50aad375381ee63015f04a8ff1e64a097144f149629efcfc708bf8d7c66",
+      "bytes": 139,
+      "meeting_id": "01KWMKAWM0A2N6RH9M0939KA51",
+      "meeting_date": "2026-07-03",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (3).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-19-everett-weekly-calls.txt",
+      "sha256": "478c0421805b722091fda99977ad090008e46d0bf151cdb5f24c570ff02fed35",
+      "bytes": 35528,
+      "meeting_id": "01KVGN5J3KDM0S8BF8YGX3X4S8",
+      "meeting_date": "2026-06-19",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (4).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-12-everett-weekly-calls.txt",
+      "sha256": "6c7d7b537f1823f65891d5d98588f3d245a8bb35b800bece6896736749ffdd6c",
+      "bytes": 40768,
+      "meeting_id": "01KTYGX6P22P6XMPWC4S44KDG1",
+      "meeting_date": "2026-06-12",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (5).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-05-everett-weekly-calls.txt",
+      "sha256": "0df87a660b1ea8a32edcc1f66833417a7fbb89c99032eb79b7a45de20ec21522",
+      "bytes": 46950,
+      "meeting_id": "01KTCG7F5M19F4FYQKQD1DP55V",
+      "meeting_date": "2026-06-05",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (6).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-22-everett-weekly-calls.txt",
+      "sha256": "7da129478935344161b6365b4c8be22d4ec5c911134943c9364a86af41538906",
+      "bytes": 61497,
+      "meeting_id": "01KS8EPN8A5BFSCXKK054YG8SC",
+      "meeting_date": "2026-05-22",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (7).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-15-everett-weekly-calls.txt",
+      "sha256": "75d80cedf87442a5da0b0a8274c8022ffe11ddb350fcc13331c62b54af3d40fe",
+      "bytes": 24060,
+      "meeting_id": "01KRPDYZFZ030EV26GYEKDGJPR",
+      "meeting_date": "2026-05-15",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (8).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-18-everett-weekly-calls__retrieved-2026-10-14.txt",
+      "sha256": "686eb28cdf41680d5a5a687b568af7d174ed6aa3cc7263e1f2df1b63ba2a0965",
+      "bytes": 44928,
+      "meeting_id": "01M2TVYWM5WDFWYK006TEMRT6V",
+      "meeting_date": "2026-09-18",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript (9).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-09-11-everett-weekly-calls__retrieved-2026-10-14.txt",
+      "sha256": "13d7ae9d00e185168d070680f90698a6aaf1a18791961ee9bdca48db75a7e138",
+      "bytes": 22608,
+      "meeting_id": "01M28V8M6BFW4JSWRWPJ1J07T4",
+      "meeting_date": "2026-09-11",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett weekly calls Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-10-09-everett-weekly-calls.txt",
+      "sha256": "25e94810183d57205557e75dc70379d5830c2659f253631348ff8494461fdbac",
+      "bytes": 19031,
+      "meeting_id": "01M4GY97Z3ZRQKCFK2BNQ4EZWX",
+      "meeting_date": "2026-10-09",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett Weekly Meeting Transcript (1).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-02-everett-weekly-meeting.txt",
+      "sha256": "2f7d6259df0c73c748541ec99e8654aeb9d571c863aa9f85372aab2f9014021b",
+      "bytes": 32659,
+      "meeting_id": "01KN7RNJYGZXWV1GYTE59E4CRY",
+      "meeting_date": "2026-04-02",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett Weekly Meeting Transcript (2).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-26-everett-weekly-meeting.txt",
+      "sha256": "38c2c63d43bd05a5f1039cf979f32a6d055fe5feb29c1d47a67b9a50d1ddff61",
+      "bytes": 28638,
+      "meeting_id": "01KMNQX3M7KC0N3VW5C0DM8RS1",
+      "meeting_date": "2026-03-26",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Everett Weekly Meeting Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-09-everett-weekly-meeting.txt",
+      "sha256": "77506009fe16fcb61481e0aa979bf3d348312df4eceadc2b02e3288ad38ce2ca",
+      "bytes": 26624,
+      "meeting_id": "01KNSSMGXMZNS1MDDV28QMDPZC",
+      "meeting_date": "2026-04-09",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Intro to Marketing Webinar Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-09-25-intro-to-marketing-webinar.txt",
+      "sha256": "53bd2877544b2834cd25db55ba0aaa508bdf4ae0dc3121a4118f241f1d5b9e94",
+      "bytes": 32177,
+      "meeting_id": "01K61703R97E1H21FYX9KT917N",
+      "meeting_date": "2025-09-25",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/iSMASH - Site Discussion Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-03-27-ismash-site-discussion.txt",
+      "sha256": "c22cd6aea9c36a224af92a473e2b059fedca20423e74e17ceef09806b99283bd",
+      "bytes": 34408,
+      "meeting_id": "01JQCGXANQNN7DK60F6AM8PQGV",
+      "meeting_date": "2025-03-27",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/iSmash Everett Marketing Kick-Off Call Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-03-ismash-everett-marketing-kick-off-call.txt",
+      "sha256": "a727376fb74b7141a875f8f2cb374b57079df24fceae0bdddfeda60b054212ab",
+      "bytes": 27740,
+      "meeting_id": "01KJTM2HQX4E9FF7C7CED2QCAD",
+      "meeting_date": "2026-03-03",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/iSmash Everette Ops Kick Off  Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-09-05-ismash-everette-ops-kick-off.txt",
+      "sha256": "eb5fa8a1e3b92dc15a27fa3b3d92664e0ab16a6bbf2ed8b3a9879a70cf796f33",
+      "bytes": 27397,
+      "meeting_id": "01K4DRMPFWQTGEK0Y9G6D3TGNJ",
+      "meeting_date": "2025-09-05",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/iSmash Franchise Town Hall Transcript (1).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-07-ismash-franchise-town-hall.txt",
+      "sha256": "46b0e2f54737a7c2676b0d190af3214e23197e9b6eb983f3832f070dacfb62c0",
+      "bytes": 70513,
+      "meeting_id": "01KR21PVY4T3MSPF6FY021F8AW",
+      "meeting_date": "2026-05-07",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/iSmash Franchise Town Hall Transcript (2).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-02-26-ismash-franchise-town-hall.txt",
+      "sha256": "74c0c405654e29d8d19db883ecd6323bacd4583c840b89493cc92d58b636562f",
+      "bytes": 72952,
+      "meeting_id": "01KJDX82S32ADZQSE5GDKX4XFZ",
+      "meeting_date": "2026-02-26",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/iSmash Franchise Town Hall Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-15-ismash-franchise-town-hall.txt",
+      "sha256": "d6fa273db6971dae4945fc4170e99e9bde6c49868b2f630b02651b542e9a02e7",
+      "bytes": 4883,
+      "meeting_id": "01KXKPYM75Q2QB4W9S1HTPWVXZ",
+      "meeting_date": "2026-07-15",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/iSmash Seattle Budget Review Transcript (1).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-04-11-ismash-seattle-budget-review-1221.txt",
+      "sha256": "a86e8db6128298f4ea79f848ba810e2442e5c2949954623bdc5e2de2f09eb7fc",
+      "bytes": 3517,
+      "meeting_id": "01JRK4SB8FMT1DEVRYH6A36GYG",
+      "meeting_date": "2025-04-11",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/iSmash Seattle Budget Review Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-04-11-ismash-seattle-budget-review-1300.txt",
+      "sha256": "821ded256060d6daca895ea154ef9b31b2c0ab59c869f0c8fcf8b92fc42f8196",
+      "bytes": 40060,
+      "meeting_id": "01JRK6JNY9ZQZNCFYW049RB294",
+      "meeting_date": "2025-04-11",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Marketing Office Hours Transcript (1).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-27-marketing-office-hours.txt",
+      "sha256": "6ee33335e1e32ced21a00ddec875eb12aa31fc273dbf18c50434fcf96dae7b3c",
+      "bytes": 32510,
+      "meeting_id": "01KQ84N62HKNPTQPDJRNFZ5J91",
+      "meeting_date": "2026-04-27",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Marketing Office Hours Transcript (2).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-13-marketing-office-hours.txt",
+      "sha256": "5b6e7131903bd3f1e3561daa64577f7a628c50f6d5d1768195afa2aff8a348e2",
+      "bytes": 20515,
+      "meeting_id": "01KP433JKRQWWNY827JH3V1N7S",
+      "meeting_date": "2026-04-13",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Marketing Office Hours Transcript (3).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-30-marketing-office-hours.txt",
+      "sha256": "56ef814ed5594138271147a2aee6249d7f2857a51517781c35e374bae2700515",
+      "bytes": 36402,
+      "meeting_id": "01KN01ARG6V7VXBSDZ98AQ31JN",
+      "meeting_date": "2026-03-30",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Marketing Office Hours Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-11-marketing-office-hours.txt",
+      "sha256": "a35ddcb78e1afc103e47d7061d4d9f466a433ec465bc3426017ecca9352a5d41",
+      "bytes": 27352,
+      "meeting_id": "01KRC68C2HCZ0RRTEDXDMT0NDZ",
+      "meeting_date": "2026-05-11",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Operations & Marketing Office Hours Transcript (1).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-25-operations-and-marketing-office-hours.txt",
+      "sha256": "599527f10dce2b3fd44dd12ce039f9d8dfc694ab8f6327e54889ebae60e59d2e",
+      "bytes": 36312,
+      "meeting_id": "01KW059EGQ88HHYX3P0D3TEFD4",
+      "meeting_date": "2026-06-25",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Operations & Marketing Office Hours Transcript (2).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-09-operations-and-marketing-office-hours.txt",
+      "sha256": "7885ee7cd8fa5b36dd9ef6085e1013b2edbbc8c0597edf466223ec502bb4b11c",
+      "bytes": 38152,
+      "meeting_id": "01KTPZ4DWP8BPBWF0JVDA6YWSF",
+      "meeting_date": "2026-06-09",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Operations & Marketing Office Hours Transcript (3).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-19-operations-and-marketing-office-hours.txt",
+      "sha256": "06c0c6c376c165f01195a517a3a176b8eab2f497f5c12f72370325c0ef069b4f",
+      "bytes": 22946,
+      "meeting_id": "01KS0WSWWFAVTTA6KC7ZQ7091S",
+      "meeting_date": "2026-05-19",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Operations & Marketing Office Hours Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-07-16-operations-and-marketing-office-hours.txt",
+      "sha256": "eb0ad3223c9634d2e2cbeee744f9c64c521d7e8f250cd37d779bc738ff6b1dd3",
+      "bytes": 14439,
+      "meeting_id": "01KXP7PZ7JM96QMYV54PRHSPZS",
+      "meeting_date": "2026-07-16",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Operations Office Hours Transcript (1).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-21-operations-office-hours.txt",
+      "sha256": "aa7499ca45ac434e3755d6819a55923024e33853ab9a891ec8d8f5c69981194b",
+      "bytes": 6537,
+      "meeting_id": "01KPRQXZ7BMSE0BD3VHW8EGMWB",
+      "meeting_date": "2026-04-21",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Operations Office Hours Transcript (2).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-08-operations-office-hours.txt",
+      "sha256": "03d634baf57e5e64671161163a6fccdf20df2b986324a0b046b668223cb976a0",
+      "bytes": 47264,
+      "meeting_id": "01KNQAMB3291VTQQ6XC1T93NMD",
+      "meeting_date": "2026-04-08",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Operations Office Hours Transcript (3).txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-03-26-operations-office-hours.txt",
+      "sha256": "4fd8e885606e37d9e47cee8b43ccb1c3bf95a9ce4bc748ac1bb9ec4001359a46",
+      "bytes": 65772,
+      "meeting_id": "01KMNVCAQ95GHHZ9SB6G81XWY2",
+      "meeting_date": "2026-03-26",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Operations Office Hours Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-06-operations-office-hours.txt",
+      "sha256": "c8af3f113081c5640b7d7032dd8bfc61e5dc842abdc599095bbb8b6dcc4a7ea5",
+      "bytes": 33724,
+      "meeting_id": "01KQZDQAM5W3X91MH53RAKNDW1",
+      "meeting_date": "2026-05-06",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/PNL Discussion Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-04-17-pnl-discussion.txt",
+      "sha256": "82de565dcf0467fdd52e8bce46ddf361e1657f54181192ed814a5c73c0cc4164",
+      "bytes": 22608,
+      "meeting_id": "01JS2HCZPW4GV9K2G4GWB5PQPC",
+      "meeting_date": "2025-04-17",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    },
+    {
+      "source_path": "/Users/bmysoren/Downloads/Smash District LLC - iSmash Lease Review Transcript.txt",
+      "retained_archive_path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-06-19-smash-district-ismash-lease-review.txt",
+      "sha256": "5e62e33a7e4240e61a941ed7b6186ef13b886aad326aea8852afd3c2f71b43d1",
+      "bytes": 42488,
+      "meeting_id": "01JY4RPGSASNPHH8JKVW1NXM37",
+      "meeting_date": "2025-06-19",
+      "proposed_action": "move_to_macos_Trash",
+      "status": "not_moved"
+    }
+  ]
+}
