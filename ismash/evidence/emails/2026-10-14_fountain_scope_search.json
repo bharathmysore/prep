@@ -1,0 +1,383 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-10-14",
+  "purpose": "Focused evidence review of Carney statements about plan coverage and high-low fountain price; not a full email refresh.",
+  "source": "Outlook search_messages connector; returned full message objects retained below unchanged.",
+  "query_audit": [
+    {
+      "query": "fountain from:ron@carneycontracting.com",
+      "from_index": 0,
+      "result_count": 17,
+      "has_more": false,
+      "next_from_index": null,
+      "result_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJZlMpBAAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJY8gk7wAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJY8gk4AAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJYq7xWQAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJYq7w9AAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJYq7w8AAAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJYJRvJQAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNMAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNQAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzOMAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzOQAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACQQK6JQAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACIKq32IAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACIJiF4UAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACH5Ra5wAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACH5Ra6YAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACHVfQQwAAAA="
+      ]
+    },
+    {
+      "query": "fountain from:troy@carneycontracting.com",
+      "from_index": 0,
+      "result_count": 4,
+      "has_more": false,
+      "next_from_index": null,
+      "result_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNYAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNgAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNkAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNoAAAA="
+      ]
+    },
+    {
+      "query": "\"included\" \"drawings\" from:carneycontracting.com",
+      "from_index": 0,
+      "result_count": 10,
+      "has_more": false,
+      "next_from_index": null,
+      "result_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJY8gk4AAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJYq7w8AAAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNUAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACVfuTH8AAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACVfuTIAAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACRZlIhsAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACRZlIiMAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACQQK6JQAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACGgxOPUAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACF04YhQAAAA="
+      ]
+    },
+    {
+      "query": "\"everything\" \"plans\" from:carneycontracting.com",
+      "from_index": 0,
+      "result_count": 11,
+      "has_more": false,
+      "next_from_index": null,
+      "result_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACQQK6JMAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACM4Dz2AAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACMiHb-EAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACMhbcBIAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACMhbcBMAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACMhbcBQAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACLyeC4gAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACLyeC4cAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACKAzlOkAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACKAzlOwAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACCtxki4AAAA="
+      ]
+    },
+    {
+      "query": "\"fountain\" \"cost\" from:carneycontracting.com",
+      "from_index": 0,
+      "result_count": 16,
+      "has_more": false,
+      "next_from_index": null,
+      "result_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJZlMpBAAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJY8gk7wAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJY8gk4AAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJYq7xWQAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJYq7w9AAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJYq7w8AAAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJYJRvJQAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNMAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNQAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNUAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNYAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNcAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNgAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNkAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzNoAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACQQK6JQAAAA="
+      ]
+    },
+    {
+      "query": "\"fountain\" from:bharathkumarmn@hotmail.com",
+      "from_index": 0,
+      "result_count": 20,
+      "has_more": true,
+      "next_from_index": 20,
+      "result_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJa0YtjQAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc6IAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJZvd9kAAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc6MAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc6QAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc6UAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc6YAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc6cAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc6gAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc6kAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc6oAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc6sAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJYq8kOQAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc6wAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc60AAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJYcq2NQAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJYJTapwAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc64AAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc68AAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc7AAAAA="
+      ]
+    },
+    {
+      "query": "\"bottle\" from:ron@carneycontracting.com",
+      "from_index": 0,
+      "result_count": 2,
+      "has_more": false,
+      "next_from_index": null,
+      "result_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzOMAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzOQAAAA="
+      ]
+    },
+    {
+      "query": "\"fountain\" from:bharathkumarmn@hotmail.com",
+      "from_index": 20,
+      "result_count": 20,
+      "has_more": true,
+      "next_from_index": 40,
+      "result_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc7EAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc7IAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc7MAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc7QAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc7UAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc7YAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc7cAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc7gAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc7kAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc7oAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJXSX7CgAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACWoPc7sAAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJXIckGwAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJW0LJtAAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJW0LJswAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJW0LJsgAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJWbSn0wAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJWScKyQAAAA==",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACVfuTC0AAAA=",
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACVfuTC4AAAA="
+      ]
+    }
+  ],
+  "scope_limit": "Carney keyword queries reported no further results. Owner fountain query examined pages 0 and 20 only; has_more remained true at cursor 40. Earlier messages may remain; no exhaustive mailbox claim. Key owner September 21 email was retrieved as its own message.",
+  "selected_messages": [
+    {
+      "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACMhbcBIAAAA=",
+      "subject": "Re: Update on the permit for TI in suite 1 at this time",
+      "body": {
+        "contentType": "html",
+        "content": "All,\n\n  \n\nDuring our recent construction planning discussions, we unveiled an issue with\nthe existing contracted scope of work. It is regarding the flooring; the\nconstruction plans call out for a polished concrete finish. The existing\nflooring areas (approximately 5,300 SF of LVT and rubber flooring) were noted\nin our proposal as existing to remain and were therefore not included in the\nconstruction pricing.\n\n  \n\nThis is something that should have flagged earlier during the planning phase.\nI take full responsibility for that.\n\n  \n\nWith that said we want to give options to achieve the polished concrete floor.\nHere's what we'd need to do: the existing flooring would need to be fully\ndemoed, the slab ground, sealed, and concrete polished.\n\n  \n\nWe anticipate this additional scope to be approximately $25,000, subject to\nfinal verification once we demo the existing floor.\n\n  \n\nImportantly, no billing has occurred for this work to date. it was simply\noutside the agreed scope as written.\n\n  \n\nOur goal here is alignment and transparency. If everyone is comfortable\nproceeding, we can issue this as an added scope item and integrate it cleanly\ninto the project plan without impacting any of the project scheduling or\nmomentum.\n\n  \n\nHappy to walk through this together on a quick call if helpful. Please let me\nknow how you’d like to proceed.\n\n  \n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n**From:**  Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:**  Wednesday, January 28, 2026 6:50:26 PM  \n**To:**  Ron Tobiasz <ron@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time  \n\n  \n\nThank you Ron\n\n* * *\n\n**From:**  Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:**  Wednesday, January 28, 2026 3:30 PM  \n**To:**  Bharath Mysore <bharathkumarmn@hotmail.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nBharath,\n\n We finally got a hold of someone in the permit office. They said they have a\n10 to 12week lead time on the review. We should get comments back in 1 to 2\nweeks\n\n  \n\nRon Tobiasz\n\nSenior Project Manager\n\n856.676.2730\n\nCarney Contracting Services\n\nSent from my Verizon, Samsung Galaxy smartphone  \nGet [Outlook for\nAndroid](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7Cbf7a872c11f240442d6f08de68178298%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639062647366642740%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=QlirPW0B9swQbNnUJ5abU1xdahqYqeOj%2BsRGNx6fJLQ%3D&reserved=0)\n\n* * *\n\n**From:**  Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:**  Tuesday, January 27, 2026 9:19:55 AM  \n**To:**  Bharath Mysore <bharathkumarmn@hotmail.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nBharath,\n\n When we look in the portal and call, we still get the same answer. Still in\nreview. I'm going to call again today. If I get the same response, I think it\nmight be helpful to have you call has the owner to get a more detail answer.\nIll keep you posted\n\n  \n\n  \n\n\n\n![](cid:ad80afd7-f382-4c80-93d3-91e0a7832984)\n\n* * *\n\n**From:**  Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:**  Monday, January 26, 2026 8:52 PM  \n**To:**  Ron Tobiasz <ron@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\n[@Ron Tobiasz](mailto:ron@carneycontracting.com) [@Troy\nFink](mailto:troy@carneycontracting.com),\n\nAny update on the permit approval.\n\n  \n\nRegards\n\nBharath\n\n* * *\n\n**From:**  Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:**  Friday, January 16, 2026 4:46 AM  \n**To:**  Bharath Mysore <bharathkumarmn@hotmail.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nBharath,\n\n Looks like what we are told permitting is in the final stages. If there are\nany plan corrections, they should be released very shortly. I'm gathering the\nrest of the items that I can for the bank. One item we don't do is the build\nrisk. That's done by the client. Have you got that yet. If so, please forward\nto the bank. Ill keep you post on when we have everything.\n\n  \n\n\n\n![](cid:4840fc4e-b7f9-4881-b54b-f1a71221497d)\n\n* * *\n\n**From:**  Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:**  Thursday, January 15, 2026 11:08 AM  \n**To:**  Ron Tobiasz <ron@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nThanks [@Ron Tobiasz](mailto:ron@carneycontracting.com)\n\n  \n\nRegards\n\nBharath\n\n  \n\n* * *\n\n**From:**  Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:**  Thursday, January 15, 2026 6:12 AM  \n**To:**  Bharath Mysore <bharathkumarmn@hotmail.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nHi Bharath,\n\n Working with Steve P. to see what the Bank still needs. I should have all\nremaining docs over to them by tomorrow. We are trying to call down to the\npermitting office. Portal says its still in review\n\n  \n\n\n\n![](cid:ac5a93c8-1ca0-4100-8a49-c245ac61f739)\n\n* * *\n\n**From:**  Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:**  Wednesday, January 14, 2026 4:27 PM  \n**To:**  Ron Tobiasz <ron@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\n[@Ron Tobiasz](mailto:ron@carneycontracting.com),\n\nWanted to followup on permitting process and SBA paper work. Are our permits\napproved ?\n\n  \n\nLet me know if you need any assistance\n\n  \n\nThanks\n\nBharath\n\n  \n\n* * *\n\n**From:**  Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:**  Wednesday, January 7, 2026 4:58 AM  \n**To:**  Bharath Mysore <bharathkumarmn@hotmail.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\n  \n\nHi Bharath,\n\n Paperwork is coming along great. The biggest outstanding item is the permit.\nI'm going to see if I can get some on the phone today for a update. I'll keep\nyou posted\n\n\n\n![](cid:fe756a3d-c311-48a1-bd95-d759cf3438df)\n\n* * *\n\n**From:**  Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:**  Wednesday, January 7, 2026 1:47 AM  \n**To:**  Ron Tobiasz <ron@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nHappy new year to all.\n\n  \n\n  \n\nRon, Want to check if the paperwork needed for SBA loan ? Let me know how i\ncan help you.\n\n  \n\nRegards\n\nBharath\n\n* * *\n\n**From:**  Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:**  Sunday, December 28, 2025 10:48 PM  \n**To:**  Ron Tobiasz <ron@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\n[@Ron Tobiasz](mailto:ron@carneycontracting.com),\n\nWanted to follow up on the paper work related to SBA loan. Is there anything\nneeded from our end ?\n\n  \n\nRegards\n\nBharath\n\n  \n\n* * *\n\n**From:**  Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:**  Thursday, December 11, 2025 8:59 AM  \n**To:**  Bharath Mysore <bharathkumarmn@hotmail.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nNo problem,\n\n Looking forward to get this one going\n\n  \n\n\n\n![](cid:f97bf621-37b7-48f6-8181-0ccd67fcd0d5)\n\n* * *\n\n**From:**  Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:**  Thursday, December 11, 2025 11:44 AM  \n**To:**  Ron Tobiasz <ron@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\n[@Ron Tobiasz](mailto:ron@carneycontracting.com)\n\nThank you for the update.\n\n  \n\nCan we also get the paper work with the SBA loan started ?\n\n  \n\nThanks\n\nBharath\n\n* * *\n\n**From:**  Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:**  Thursday, December 11, 2025 6:43 AM  \n**To:**  Bharath Mysore <bharathkumarmn@hotmail.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nBharath,\n\n The city accepted the permit packet. The typical review time is about 3 week.\nIt may change due to the hoildays.\n\nI will keep you posted\n\n  \n\n\n\n![](cid:defeadf4-0c45-483c-91f4-a0f316cba8c5)\n\n* * *\n\n**From:**  Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:**  Monday, December 8, 2025 8:07 AM  \n**To:**  Bharath Mysore <bharathkumarmn@hotmail.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nHi Bharath,\n\n Paperwork has been filled out. I should have a building review time early\nthis week\n\n  \n\nRon Tobiasz\n\nSenior Project Manager\n\n856.676.2730\n\nCarney Contracting Services\n\nSent from my Verizon, Samsung Galaxy smartphone  \nGet [Outlook for\nAndroid](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7Cbf7a872c11f240442d6f08de68178298%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639062647366661143%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rNBACNi1PM1nASC%2BposSCuwKMz2CvofMAZgKM%2BcwCbI%3D&reserved=0)\n\n* * *\n\n**From:**  Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:**  Friday, December 5, 2025 6:22:48 PM  \n**To:**  Ron Tobiasz <ron@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nCan you share the timeline on when the paper work for permit will be filed\nwith the city ?\n\n  \n\nRegards\n\nBharath\n\n  \n\n* * *\n\n**From:**  Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:**  Tuesday, December 2, 2025 5:51:52 PM  \n**To:**  Bharath Mysore <bharathkumarmn@hotmail.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nHi Bharath,\n\n Plans are complete. I will follow up and get the review time for the building\npermit. Me and Jeff can get you the bank info you needed\n\n  \n\n\n\n![](cid:c8f46f27-1852-4d6d-9a1c-3b61e65f0a1b)\n\n* * *\n\n**From:**  Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:**  Tuesday, December 2, 2025 12:54 PM  \n**To:**  Ron Tobiasz <ron@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nHope you guys had good break.\n\n  \n\n[@Ron Tobiasz](mailto:ron@carneycontracting.com),\n\nWanted to follow up about the plan completion and permitting process. Any\nupdate ?\n\n  \n\nWho will be helping with the paperwork for the bank ?\n\n  \n\nRegards\n\nBharath\n\n  \n\n  \n\n* * *\n\n**From:**  Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:**  Thursday, November 20, 2025 3:48 AM  \n**To:**  Bharath Mysore <bharathkumarmn@hotmail.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nBharath,\n\n Your plans are due to be complete Dec 2nd.  I will have the team begin to\ngather paperwork for the bank\n\n  \n\nRon Tobiasz\n\nSenior Project Manager\n\n856.676.2730\n\nCarney Contracting Services\n\nSent from my Verizon, Samsung Galaxy smartphone  \nGet [Outlook for\nAndroid](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7Cbf7a872c11f240442d6f08de68178298%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639062647366673515%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=QqQciL1x%2FmcnaGKlOrkUx9i9UAEvill3d22RBAjU%2F4E%3D&reserved=0)\n\n* * *\n\n**From:**  Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:**  Wednesday, November 19, 2025 11:34:53 PM  \n**To:**  Ron Tobiasz <ron@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>; Michael Carney <mcarney@carneycontracting.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nHi Ron and Troy,\n\nJust checking in to confirm if we’re still on track to have the plans\ncompleted by the end of November and submit for the permit in the first week\nof December. With the holiday season approaching, lets ensure the permitting\npaperwork is submitted promptly to avoid scheduling setbacks.\n\nI was talk to bank today, they need some paperwork for loan closing. Can we\nget this started too.\n\nThanks,  \nBharath\n\n  \n\n  \n\n  \n\n  \n\n\n\n* * *\n\n**From:**  Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:**  Wednesday, November 5, 2025 3:54 PM  \n**To:**  Bharath Mysore <bharathkumarmn@hotmail.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nBharath,\n\n Plans will be complete by end of the month. Then we will go in for permitting\n\n  \n\n\n\n![](cid:e0d934a2-ba4c-46c9-94c1-4d87d1bbd74b)\n\n* * *\n\n**From:**  Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:**  Wednesday, November 5, 2025 3:07 PM  \n**To:**  Ron Tobiasz <ron@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\n[@Ron Tobiasz](mailto:ron@carneycontracting.com)\n\nLandlord is asking for the below updates. What can we share with them ?\n\n*   * Please provide an update on the permit for TI in suite 1 at this time\n\n*   * Please send plans once these are available.\n\n  \n\nRegards\n\nBharath\n\n* * *\n\n**From:**  Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:**  Monday, October 27, 2025 9:49 AM  \n**To:**  Bharath Mysore <bharathkumarmn@hotmail.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>  \n**Subject:**  Re: Update on the permit for TI in suite 1 at this time\n\n\n\nBharath,\n\nWe are still a little bit away from the permit. We will have the final floor\nplan completed by mid week. The it will be about 4 to 5 weeks for full set.\nThen we will submit for permit\n\n  \n\n\n\n![](cid:29a5bbf8-9fe7-4423-9611-2e0a7a0dd818)\n\n* * *\n\n**From:**  Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:**  Monday, October 27, 2025 12:44 PM  \n**To:**  Ron Tobiasz <ron@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:**  Steven Shortino <sshortino@ismashfranchise.com>; Divya Mahalingaiah\n<divya83bkmn@outlook.com>  \n**Subject:**  Update on the permit for TI in suite 1 at this time\n\n\n\n[@Ron Tobiasz](mailto:ron@carneycontracting.com) [@Troy\nFink](mailto:troy@carneycontracting.com),\n\nLandlord is asking for update on the permitting status at this time.\n\nCan you provide the latest update ?\n\n  \n\nRegards\n\nBharath\n\n  \n\n"
+      },
+      "bodyPreview": "All,\r\n\r\nDuring our recent construction planning discussions, we unveiled an issue with the existing contracted scope of work. It is regarding the flooring; the construction plans call out for a polished concrete finish. The existing flooring areas (approx",
+      "sender": {
+        "emailAddress": {
+          "address": "troy@carneycontracting.com",
+          "name": "Troy Fink"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "ron@carneycontracting.com",
+            "name": "Ron Tobiasz"
+          }
+        }
+      ],
+      "ccRecipients": [
+        {
+          "emailAddress": {
+            "address": "sshortino@ismashfranchise.com",
+            "name": "Steven Shortino"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "divya83bkmn@outlook.com",
+            "name": "Divya Mahalingaiah"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "mcarney@carneycontracting.com",
+            "name": "Michael Carney"
+          }
+        }
+      ],
+      "bccRecipients": [],
+      "receivedDateTime": "2026-02-09T20:12:16Z",
+      "isRead": true,
+      "categories": [],
+      "has_attachments": false,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAH2GX1PQAAAET5v7O%2BNv5KtRtOYaCds0gACMhbcBIAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAH2GX1PQAAAET5v7O%2BNv5KtRtOYaCds0gACMhbcBIAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_title": "Re: Update on the permit for TI in suite 1 at this time"
+    },
+    {
+      "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJW0LJtAAAAA==",
+      "subject": "Re: 25-124 Everette WA changes",
+      "body": {
+        "contentType": "html",
+        "content": "Ron, In the plan we are using High-low water fountain. This should only be a\nBottle filling station.\n\n* * *\n\n**From:** Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:** Friday, September 11, 2026 11:30 AM  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Subject:** Fw: 25-124 Everette WA changes\n\n\n\nHere's the floorplan\n\n  \n\nSent from my Verizon, Samsung Galaxy smartphone  \nGet [Outlook for\nAndroid](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7C06b9318255244140cd5608df1032ca4d%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639247483317579591%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=NwRI8eLUJ2WcXDFbPS5UPOh73mcEG8JUk5ksHjKge1k%3D&reserved=0)\n\n* * *\n\n**From:** Roger Bush <roger@GPNArchitecture.com>  \n**Sent:** Friday, 11 September 2026 14:23:07  \n**To:** Ron Tobiasz <ron@carneycontracting.com>  \n**Subject:** 25-124 Everette WA changes\n\n\n\nRon, here are the revised floor plan and reflected ceiling plan.\n\n  \n\n  \n\n**_John Roger Bush_**\n\n** _ _**\n\nProject Manager\n\n**GPN Architecture, Inc.**\n\n399 Lucerne Drive\n\nSpartanburg, SC 29302\n\n\n\nOffice:_864.583.2215_\n\nDirect:_864.814.7481_\n\nEmail: [_RBush@gpnarcht.com_](mailto:RBush@gpnarcht.com)\n\n  \n\nUpdated Office Hours (eastern)\n\nMonday - Thursday: 8:00 AM - 5:00 PM\n\nFriday: 8:00 AM - 12:00 PM  \n\n  \n  \n\n\n\n\n\n"
+      },
+      "bodyPreview": "Ron, In the plan we are using High-low water fountain. This should only be a Bottle filling station.\r\n________________________________\r\nFrom: Ron Tobiasz <ron@carneycontracting.com>\r\nSent: Friday, September 11, 2026 11:30 AM\r\nTo: Bharath Mysore <bharathku",
+      "sender": {
+        "emailAddress": {
+          "address": "bharathkumarmn@hotmail.com",
+          "name": "Bharath Mysore"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "address": "ron@carneycontracting.com",
+            "name": "Ron Tobiasz"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "receivedDateTime": "2026-09-22T01:26:30Z",
+      "isRead": true,
+      "categories": [],
+      "has_attachments": false,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJW0LJtAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJW0LJtAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_title": "Re: 25-124 Everette WA changes"
+    },
+    {
+      "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzOMAAAA=",
+      "subject": "Re: 25-124 Everette WA changes",
+      "body": {
+        "contentType": "html",
+        "content": "They might require it\n\n  \n\nSent from my Verizon, Samsung Galaxy smartphone  \nGet [Outlook for\nAndroid](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7Cb561dc04520644286e7b08df18ad6262%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639256805093366316%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=AMHIIyS4AahHwSNtRd27dMsBgUSDeLNr4LhWGmD%2Ffq8%3D&reserved=0)\n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Tuesday, 22 September 2026 09:27:23  \n**To:** Ron Tobiasz <ron@carneycontracting.com>  \n**Subject:** Re: 25-124 Everette WA changes\n\n\n\nIn the building final there is note to include for high low water station. Why\n\n  \n\n> On Sep 22, 2026, at 3:13 AM, Ron Tobiasz <ron@carneycontracting.com> wrote:  \n>  \n>\n\n> ﻿\n>\n> A free standing one\n>\n>  \n>\n>\n> Sent from my Verizon, Samsung Galaxy smartphone  \n> Get [Outlook for\n> Android](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7Cb561dc04520644286e7b08df18ad6262%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639256805093383123%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=X3ANb43CRVQU6TiVTl9tECzYml3UyKhh8JEs1DgM8%2Bo%3D&reserved=0)\n>\n> * * *\n>\n> **From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n> **Sent:** Monday, 21 September 2026 21:26:30  \n> **To:** Ron Tobiasz <ron@carneycontracting.com>  \n> **Subject:** Re: 25-124 Everette WA changes\n>\n>  \n>\n> Ron, In the plan we are using High-low water fountain. This should only be a\n> Bottle filling station.\n>\n> * * *\n>\n> **From:** Ron Tobiasz <ron@carneycontracting.com>  \n> **Sent:** Friday, September 11, 2026 11:30 AM  \n> **To:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n> **Subject:** Fw: 25-124 Everette WA changes\n>\n>  \n>\n> Here's the floorplan\n>\n>  \n>\n>\n> Sent from my Verizon, Samsung Galaxy smartphone  \n> Get [Outlook for\n> Android](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7Cb561dc04520644286e7b08df18ad6262%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639256805093392886%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=L1CJUZ%2BHVvPjdUZc8YPnO2meRLCsorXzIN7nHZ3csq4%3D&reserved=0)\n>\n> * * *\n>\n> **From:** Roger Bush <roger@GPNArchitecture.com>  \n> **Sent:** Friday, 11 September 2026 14:23:07  \n> **To:** Ron Tobiasz <ron@carneycontracting.com>  \n> **Subject:** 25-124 Everette WA changes\n>\n>  \n>\n> Ron, here are the revised floor plan and reflected ceiling plan.\n>\n>  \n>\n>\n>  \n>\n>\n> **_John Roger Bush_**\n>\n> ** _ _**\n>\n> Project Manager\n>\n> **GPN Architecture, Inc.**\n>\n> 399 Lucerne Drive\n>\n> Spartanburg, SC 29302\n>\n>  \n>\n> Office:_864.583.2215_\n>\n> Direct:_864.814.7481_\n>\n> Email: [_RBush@gpnarcht.com_](mailto:RBush@gpnarcht.com)\n>\n>  \n>\n>\n> Updated Office Hours (eastern)\n>\n> Monday - Thursday: 8:00 AM - 5:00 PM\n>\n> Friday: 8:00 AM - 12:00 PM  \n>\n>  \n>  \n>\n>\n>  \n>\n>  \n\n"
+      },
+      "bodyPreview": "They might require it\r\n\r\nSent from my Verizon, Samsung Galaxy smartphone\r\nGet Outlook for Android\r\n________________________________\r\nFrom: Bharath Mysore <bharathkumarmn@hotmail.com>\r\nSent: Tuesday, 22 September 2026 09:27:23\r\nTo: Ron Tobiasz <ron@carneyc",
+      "sender": {
+        "emailAddress": {
+          "address": "ron@carneycontracting.com",
+          "name": "Ron Tobiasz"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "receivedDateTime": "2026-09-22T13:28:29Z",
+      "isRead": true,
+      "categories": [],
+      "has_attachments": false,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAH2GX1PQAAAET5v7O%2BNv5KtRtOYaCds0gACV2gzOMAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAH2GX1PQAAAET5v7O%2BNv5KtRtOYaCds0gACV2gzOMAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_title": "Re: 25-124 Everette WA changes"
+    },
+    {
+      "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACV2gzOQAAAA=",
+      "subject": "Re: 25-124 Everette WA changes",
+      "body": {
+        "contentType": "html",
+        "content": "A free standing one\n\n  \n\nSent from my Verizon, Samsung Galaxy smartphone  \nGet [Outlook for\nAndroid](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7C3f8be2270f8b457e6ff408df189236d4%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639256688393385355%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=u1tapYl5KnRgEcQu3YdwTeWdF9gEhAJroNUEaYPjgk4%3D&reserved=0)\n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Monday, 21 September 2026 21:26:30  \n**To:** Ron Tobiasz <ron@carneycontracting.com>  \n**Subject:** Re: 25-124 Everette WA changes\n\n\n\nRon, In the plan we are using High-low water fountain. This should only be a\nBottle filling station.\n\n* * *\n\n**From:** Ron Tobiasz <ron@carneycontracting.com>  \n**Sent:** Friday, September 11, 2026 11:30 AM  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Subject:** Fw: 25-124 Everette WA changes\n\n\n\nHere's the floorplan\n\n  \n\nSent from my Verizon, Samsung Galaxy smartphone  \nGet [Outlook for\nAndroid](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7C3f8be2270f8b457e6ff408df189236d4%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639256688393402255%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=e60TqzSPW%2BFUhRWtX3HQCPYB6glI3wa0MI6VizpkRqo%3D&reserved=0)\n\n* * *\n\n**From:** Roger Bush <roger@GPNArchitecture.com>  \n**Sent:** Friday, 11 September 2026 14:23:07  \n**To:** Ron Tobiasz <ron@carneycontracting.com>  \n**Subject:** 25-124 Everette WA changes\n\n\n\nRon, here are the revised floor plan and reflected ceiling plan.\n\n  \n\n  \n\n**_John Roger Bush_**\n\n** _ _**\n\nProject Manager\n\n**GPN Architecture, Inc.**\n\n399 Lucerne Drive\n\nSpartanburg, SC 29302\n\n\n\nOffice:_864.583.2215_\n\nDirect:_864.814.7481_\n\nEmail: [_RBush@gpnarcht.com_](mailto:RBush@gpnarcht.com)\n\n  \n\nUpdated Office Hours (eastern)\n\nMonday - Thursday: 8:00 AM - 5:00 PM\n\nFriday: 8:00 AM - 12:00 PM  \n\n  \n  \n\n\n\n\n\n"
+      },
+      "bodyPreview": "A free standing one\r\n\r\nSent from my Verizon, Samsung Galaxy smartphone\r\nGet Outlook for Android\r\n________________________________\r\nFrom: Bharath Mysore <bharathkumarmn@hotmail.com>\r\nSent: Monday, 21 September 2026 21:26:30\r\nTo: Ron Tobiasz <ron@carneycont",
+      "sender": {
+        "emailAddress": {
+          "address": "ron@carneycontracting.com",
+          "name": "Ron Tobiasz"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "receivedDateTime": "2026-09-22T10:13:59Z",
+      "isRead": true,
+      "categories": [],
+      "has_attachments": false,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAH2GX1PQAAAET5v7O%2BNv5KtRtOYaCds0gACV2gzOQAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAH2GX1PQAAAET5v7O%2BNv5KtRtOYaCds0gACV2gzOQAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_title": "Re: 25-124 Everette WA changes"
+    }
+  ],
+  "notes": [
+    {
+      "subject": "Owner request",
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJW0LJtAAAAA==",
+      "local_date_time": "2026-09-21 18:26:30 America/Los_Angeles",
+      "interpretation": "Owner wrote that the plan used a high-low fountain and requested only a bottle-filling station. This corroborates the existence of the email Ron referred to on October 2; it does not by itself establish a signed scope deletion or an agreed change in price."
+    },
+    {
+      "subject": "Blanket plan coverage limitation",
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACMhbcBIAAAA=",
+      "local_date_time": "2026-02-09 12:12:16 America/Los_Angeles",
+      "interpretation": "Troy said the plans called for polished concrete, but the proposal marked existing flooring to remain, so that flooring work was outside construction pricing. This is Carney's position on a different scope item, not a ruling about fountain responsibility."
+    }
+  ],
+  "transcript_evidence": [
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-10-02-fw-everett-weekly-calls__owner-supplied.txt",
+      "lines": [
+        105,
+        112
+      ],
+      "timestamps": [
+        "4:40",
+        "5:00"
+      ],
+      "speaker": "Ronald Tobiasz",
+      "significance": "Fountain-specific conditional commitment: if on drawings, no cost to Bharath; discuss ordering and scheduling the high-low unit."
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-10-09-everett-weekly-calls.txt",
+      "lines": [
+        53,
+        65
+      ],
+      "timestamps": [
+        "4:00",
+        "4:11",
+        "4:39",
+        "4:52"
+      ],
+      "speakers": [
+        "Troy Fink",
+        "Ronald Tobiasz"
+      ],
+      "significance": "High-low listed in remaining work, followed by Troy no-change-order question and Ron 'None of that'; separate potential exit-sign electrical exception. Later plan-correction charges need separate confirmation."
+    }
+  ]
+}
