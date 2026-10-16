@@ -52,7 +52,7 @@ Pattern tags use kebab-case backtick labels and are mirrored in [patterns](./pat
 8. Implement a producer-consumer pipeline with cancellation and backpressure.
    - Expected pattern: bounded queues plus shutdown propagation.
    - Pattern tags: `producer-consumer`, `backpressure`, `cancellation`.
-   - Solution: _Pending implementation in [solutions](./solutions.md)._
+   - Solution: [Producer-Consumer Pipeline](./solutions.md#8-producer-consumer-pipeline).
    - Complexity target: time `O(items + coordination)`, space bounded by queue capacities.
 
 9. Implement a writer-preference reader-writer lock without using `std::shared_mutex` internally.

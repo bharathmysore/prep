@@ -14,6 +14,8 @@ The newly solved [Two Sum](./hashing/solutions.md#7-two-sum), [Valid Anagram](./
 
 ## Top 20 Across Categories
 
+The 17 samples completed on 2026-10-16 have editorial domain-fit tags for two companies and no assessed public scores. Public-score ranks stay unchanged; two-company coverage is below the cross-company top-20 breadth cutoff of six, and the Amazon/AWS and Google lists are already filled by public signals. For these additional L7 drills, use the [pipeline](./concurrency/solutions.md#8-producer-consumer-pipeline), [parallel samples](./parallel_algorithms/solutions.md#5-parallel-merge-sort-with-cutoff), [distributed samples](./distributed_systems_algorithms/solutions.md#7-gossip-membership-simulator), and [systems-style samples](./systems_style/solutions.md#6-sharded-key-value-store-simulator).
+
 | Rank | Question | Category | Best signal | Why practice it |
 | --- | --- | --- | --- | --- |
 | 1 | [Minimum Window Substring](./arrays_strings/solutions.md#3-minimum-window-substring) | arrays strings | 6m max 100.0 (Snowflake 100.0) | Broad cross-company pattern |

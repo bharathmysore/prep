@@ -299,6 +299,152 @@ Snippets assume C++17 standard headers and `using namespace std;`.
 * **Edge Cases To Consider**: Same account, insufficient funds, concurrent opposite transfers, negative amount policy.
 * **L7 Follow-ups**: Real transfers need idempotency, ledger records, audit, and transactional durability.
 
+## 8. Producer-Consumer Pipeline
+
+* **Pattern / Idea**: Three stages connected by bounded channels. A producer feeds input, a transformer computes each result, and a consumer handles results. Closing drains accepted work; cancellation discards queued work and wakes blocked stages.
+* **Company Frequency Tags**: Public signal: not assessed; Domain fit: `Amazon/AWS: High`, `Google: High`.
+* **Question**: Implement a producer-consumer pipeline with cancellation and backpressure.
+* **Pattern Tags**: `producer-consumer`, `backpressure`, `cancellation`.
+* **Test Cases**: [Test cases](./test_cases.md#8-producer-consumer-pipeline).
+* **Requirements / API**: A `run` call processes an immutable input vector using one thread per stage; each callback is invoked serially by its own stage. The object is single-use, including after cancellation or failure. `cancel()` may run concurrently with `run()` and before it starts. Callbacks must return eventually, poll the supplied cancellation flag during long work, and synchronize any state shared with other stages. Cancellation cannot undo consumer side effects or interrupt an already running callback. Keep the object, input, and callback captures alive until `run()` returns; destruction during a call is unsupported.
+* **C++ Code**
+  ```cpp
+  #include <atomic>
+  #include <condition_variable>
+  #include <deque>
+  #include <exception>
+  #include <functional>
+  #include <mutex>
+  #include <optional>
+  #include <stdexcept>
+  #include <thread>
+  #include <utility>
+  #include <vector>
+
+  class IntPipeline {
+      // Each channel owns its queue; the mutex also protects its close state.
+      class Channel {
+          mutex mu;
+          condition_variable readable, writable;
+          deque<int> queue;
+          const size_t capacity;
+          bool closed = false;
+      public:
+          explicit Channel(size_t cap) : capacity(cap) {
+              if (cap == 0) throw invalid_argument("zero channel capacity");
+          }
+
+          bool push(int value) {
+              unique_lock<mutex> lock(mu);
+              // Release the mutex while full; closing must also wake producers.
+              writable.wait(lock, [&] {
+                  return closed || queue.size() < capacity;
+              });
+              if (closed) return false;
+              queue.push_back(value);
+              readable.notify_one();
+              return true;
+          }
+
+          optional<int> pop() {
+              unique_lock<mutex> lock(mu);
+              readable.wait(lock, [&] { return closed || !queue.empty(); });
+              // Normal close drains buffered items before reporting end-of-stream.
+              if (queue.empty()) return nullopt;
+              int value = queue.front();
+              queue.pop_front();
+              writable.notify_one();
+              return value;
+          }
+
+          void close(bool discard = false) {
+              lock_guard<mutex> lock(mu);
+              closed = true;
+              // Cancellation discards work; ordinary completion preserves it.
+              if (discard) queue.clear();
+              readable.notify_all();
+              writable.notify_all();
+          }
+      };
+
+      Channel input, output;
+      atomic<bool> cancelled{false}, started{false};
+  public:
+      explicit IntPipeline(size_t capacity) : input(capacity), output(capacity) {}
+
+      void cancel() {
+          cancelled.store(true);
+          // Wake either stage even if it is blocked on a different channel.
+          input.close(true);
+          output.close(true);
+      }
+
+      void run(const vector<int>& values,
+               function<int(int, const atomic<bool>&)> transform,
+               function<void(int, const atomic<bool>&)> consume) {
+          if (started.exchange(true)) throw logic_error("pipeline already used");
+          if (!transform || !consume) throw invalid_argument("empty callback");
+
+          mutex errorMu;
+          exception_ptr error;
+          auto fail = [&](exception_ptr failure) {
+              {
+                  lock_guard<mutex> lock(errorMu);
+                  // Concurrent failures retain the first recorded exception.
+                  if (!error) error = failure;
+              }
+              cancel();
+          };
+          vector<thread> workers;
+          workers.reserve(3);
+          auto launch = [&](auto stage) {
+              workers.emplace_back([&, stage] {
+                  try { stage(); }
+                  catch (...) { fail(current_exception()); }
+              });
+          };
+          try {
+              // Sink: callbacks run after pop releases the channel mutex.
+              launch([&] {
+                  while (auto value = output.pop()) {
+                      if (cancelled.load()) break;
+                      consume(*value, cancelled);
+                  }
+              });
+              // Transform: one worker preserves order between the two channels.
+              launch([&] {
+                  while (auto value = input.pop()) {
+                      if (cancelled.load()) break;
+                      int result = transform(*value, cancelled);
+                      if (cancelled.load() || !output.push(result)) break;
+                  }
+                  // Pass end-of-stream downstream after all input is drained.
+                  output.close();
+              });
+              // Source: a full input channel slows production automatically.
+              launch([&] {
+                  for (int value : values) {
+                      if (cancelled.load() || !input.push(value)) break;
+                  }
+                  input.close();
+              });
+          } catch (...) {
+              // A later thread launch can fail after earlier workers started.
+              fail(current_exception());
+          }
+          // Join before locals/callbacks die and before reading the saved error.
+          for (thread& worker : workers) worker.join();
+          if (error) rethrow_exception(error);
+      }
+  };
+  ```
+* **Code Explanation**: Predicate waits coordinate bounded capacity and availability under the same mutex. Normal producer completion closes the input channel; the transformer drains it and closes the output channel. Errors in any stage record the first exception and cancel both channels. Partial thread creation follows the same cleanup path, so every successfully started thread is joined before return or rethrow. Callbacks run outside channel locks.
+* **Invariants**: Each channel has at most `capacity` queued items. One transformer and one consumer preserve input order. On successful uncancelled completion every input reaches the consumer once. Once closed, a channel accepts no further pushes; cancellation clears buffered items and wakes all waiters. A callback already admitted can still finish after cancellation.
+* **Complexity**: With constant-cost callbacks, total work is `O(n)` and queue storage is `O(capacity)` across the two channels, plus three worker stacks and constant state. Input and callback-owned storage are external. General work is `O(n + sum(transform costs) + sum(consume costs))`; elapsed time is limited by the slowest stage, synchronization, and scheduler delays. Cancellation clearing costs `O(capacity)`; waiting for callbacks has no fixed bound.
+* **Optimizations**: Runtime: batch channel transfers or partition independent keys only when the ordering contract permits it. Memory: fixed ring buffers avoid deque allocation; retain bounded capacities and account for callback-owned buffers separately.
+* **Edge Cases To Consider**: Empty input, invalid capacity, slow consumer, cancellation while either queue is full or empty, callback failure, partial thread creation, and attempted reuse. This is an in-process pipeline with partial results on failure, not durable delivery or rollback.
+* **L7 Follow-ups**: Add deadlines and cancellation-aware I/O; measure queue depth, stage latency, blocked time, and cancelled item counts. Multiple workers require sequence numbers/reordering if global order matters. A distributed version needs durable offsets, replay, and idempotent consumer effects.
+
 ## 9. Writer-Preference Reader-Writer Lock
 
 * **Pattern / Idea**: A monitor: one mutex protects admission state; separate condition variables park readers and writers. Recognize this when many readers may overlap, writers need exclusive access, and the preference policy must be explicit. A plain mutex is the simpler baseline but serializes readers too.

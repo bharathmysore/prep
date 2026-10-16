@@ -8,6 +8,7 @@ Use this index to bias final-stage practice toward a target company while still 
 - The six-month CSV is preferred. The all-time CSV is used only when a solution-equivalent or close pattern-equivalent problem was not present in the six-month data.
 - Public frequency buckets: `High >= 60`, `Medium 30-59.9`, `Low < 30`. The number shown is the public source frequency score, not a probability of being asked.
 - Domain-fit tags cover L7 systems, concurrency, parallel, and distributed-systems coding questions where public LeetCode-style company data is sparse. Treat these as company-relevance signals, not frequency measurements.
+- The 17 samples completed on 2026-10-16 carry editorial Amazon/AWS and Google domain-fit tags only. Their public frequencies have not been assessed; existing public scores are unchanged.
 - Company-tag reliability is best used for pattern focus, not memorization; public prep guidance commonly notes that exact company tags are less reliable than repeated patterns, especially for smaller or less-tagged companies.
 
 ## Source Context
@@ -46,6 +47,23 @@ These solved LeetCode prompts have verified problem statements but no verified c
 | High | Domain | [Delayed Job Scheduler](./systems_style/solutions.md#1-delayed-job-scheduler) | systems style | L7 domain fit; no exact public frequency in reviewed CSVs |
 | High | Domain | [Message Broker With Visibility Timeout](./systems_style/solutions.md#3-message-broker-with-visibility-timeout) | systems style | L7 domain fit; no exact public frequency in reviewed CSVs |
 | High | Domain | [Retry Queue With Backoff](./systems_style/solutions.md#2-retry-queue-with-backoff) | systems style | L7 domain fit; no exact public frequency in reviewed CSVs |
+| High | Domain | [Producer-Consumer Pipeline](./concurrency/solutions.md#8-producer-consumer-pipeline) | concurrency | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Parallel Merge Sort With Cutoff](./parallel_algorithms/solutions.md#5-parallel-merge-sort-with-cutoff) | parallel algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Parallel Histogram](./parallel_algorithms/solutions.md#6-parallel-histogram) | parallel algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Bounded Fanout/Fanin With Cooperative Cancellation](./parallel_algorithms/solutions.md#7-bounded-fanoutfanin-with-cooperative-cancellation) | parallel algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Parallel BFS](./parallel_algorithms/solutions.md#8-parallel-bfs) | parallel algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Gossip Membership Simulator](./distributed_systems_algorithms/solutions.md#7-gossip-membership-simulator) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Lamport Timestamps](./distributed_systems_algorithms/solutions.md#8-lamport-timestamps) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Idempotency Key Store](./distributed_systems_algorithms/solutions.md#9-idempotency-key-store) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Grow-Only CRDT Counter](./distributed_systems_algorithms/solutions.md#10-grow-only-crdt-counter) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Merkle Tree Comparison](./distributed_systems_algorithms/solutions.md#11-merkle-tree-comparison) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Bounded Exponential Retry With Jitter](./distributed_systems_algorithms/solutions.md#12-bounded-exponential-retry-with-jitter) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Circuit Breaker With Rolling Failure Window](./distributed_systems_algorithms/solutions.md#13-circuit-breaker-with-rolling-failure-window) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Sharded Key-Value Store Simulator](./systems_style/solutions.md#6-sharded-key-value-store-simulator) | systems style | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Rolling-Window Top-K Log Aggregator](./systems_style/solutions.md#7-rolling-window-top-k-log-aggregator) | systems style | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Load Balancer With Three Policies](./systems_style/solutions.md#8-load-balancer-with-three-policies) | systems style | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Backpressure Controller With Hysteresis](./systems_style/solutions.md#9-backpressure-controller-with-hysteresis) | systems style | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Per-Customer Ordered Scheduler](./systems_style/solutions.md#10-per-customer-ordered-scheduler) | systems style | Editorial L7 domain fit; public frequency not assessed |
 | Medium | Public | [Minimum Window Substring](./arrays_strings/solutions.md#3-minimum-window-substring) | arrays strings | 6m 56.1; source title: Minimum Window Substring |
 | Medium | Public | [Generate Subsets](./backtracking/solutions.md#1-generate-subsets) | backtracking | 6m 56.1; source title: Subsets |
 | Medium | Public | [Sort Colors](./arrays_strings/solutions.md#9-sort-colors) | arrays strings | 6m 55.1; source title: Sort Colors |
@@ -83,6 +101,23 @@ These solved LeetCode prompts have verified problem statements but no verified c
 | High | Domain | [Quorum Read/Write Simulator](./distributed_systems_algorithms/solutions.md#3-quorum-readwrite-simulator) | distributed systems algorithms | L7 domain fit; no exact public frequency in reviewed CSVs |
 | High | Domain | [Rendezvous Hashing](./distributed_systems_algorithms/solutions.md#2-rendezvous-hashing) | distributed systems algorithms | L7 domain fit; no exact public frequency in reviewed CSVs |
 | High | Domain | [Vector Clock Comparison](./distributed_systems_algorithms/solutions.md#5-vector-clock-comparison) | distributed systems algorithms | L7 domain fit; no exact public frequency in reviewed CSVs |
+| High | Domain | [Producer-Consumer Pipeline](./concurrency/solutions.md#8-producer-consumer-pipeline) | concurrency | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Parallel Merge Sort With Cutoff](./parallel_algorithms/solutions.md#5-parallel-merge-sort-with-cutoff) | parallel algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Parallel Histogram](./parallel_algorithms/solutions.md#6-parallel-histogram) | parallel algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Bounded Fanout/Fanin With Cooperative Cancellation](./parallel_algorithms/solutions.md#7-bounded-fanoutfanin-with-cooperative-cancellation) | parallel algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Parallel BFS](./parallel_algorithms/solutions.md#8-parallel-bfs) | parallel algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Gossip Membership Simulator](./distributed_systems_algorithms/solutions.md#7-gossip-membership-simulator) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Lamport Timestamps](./distributed_systems_algorithms/solutions.md#8-lamport-timestamps) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Idempotency Key Store](./distributed_systems_algorithms/solutions.md#9-idempotency-key-store) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Grow-Only CRDT Counter](./distributed_systems_algorithms/solutions.md#10-grow-only-crdt-counter) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Merkle Tree Comparison](./distributed_systems_algorithms/solutions.md#11-merkle-tree-comparison) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Bounded Exponential Retry With Jitter](./distributed_systems_algorithms/solutions.md#12-bounded-exponential-retry-with-jitter) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Circuit Breaker With Rolling Failure Window](./distributed_systems_algorithms/solutions.md#13-circuit-breaker-with-rolling-failure-window) | distributed systems algorithms | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Sharded Key-Value Store Simulator](./systems_style/solutions.md#6-sharded-key-value-store-simulator) | systems style | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Rolling-Window Top-K Log Aggregator](./systems_style/solutions.md#7-rolling-window-top-k-log-aggregator) | systems style | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Load Balancer With Three Policies](./systems_style/solutions.md#8-load-balancer-with-three-policies) | systems style | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Backpressure Controller With Hysteresis](./systems_style/solutions.md#9-backpressure-controller-with-hysteresis) | systems style | Editorial L7 domain fit; public frequency not assessed |
+| High | Domain | [Per-Customer Ordered Scheduler](./systems_style/solutions.md#10-per-customer-ordered-scheduler) | systems style | Editorial L7 domain fit; public frequency not assessed |
 | Medium | Public | [Longest Consecutive Sequence](./hashing/solutions.md#3-longest-consecutive-sequence) | hashing | 6m 58.6; source title: Longest Consecutive Sequence |
 | Medium | Public | [Merge Two Sorted Lists](./linked_lists/solutions.md#3-merge-two-sorted-lists) | linked lists | 6m 58.6; source title: Merge Two Sorted Lists |
 | Medium | Public | [Count Subarrays With Sum K](./arrays_strings/solutions.md#4-count-subarrays-with-sum-k) | arrays strings | 6m 58.2; source title: Subarray Sum Equals K |

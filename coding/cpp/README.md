@@ -14,7 +14,7 @@ Company frequency tags are also maintained on each solved entry. Public scores c
 
 ## Reference Context
 
-This set is a curated representative top-100 list, not an official question bank. It is informed by common public prep lists and pattern roadmaps, including [NeetCode 150](https://neetcode.io/practice/practice/neetcode150), [Grind 75 / Blind 75](https://www.techinterviewhandbook.org/grind75/faq), and [LeetCode Top Interview 150](https://leetcode-top-interview-150.github.io/), plus L7-focused additions for concurrency, parallel algorithms, distributed-systems algorithms, and systems-style coding. Company focus tags use public sources such as the [company-wise LeetCode CSV repository](https://github.com/liquidslr/interview-company-wise-problems), [Interview Browser's company page](https://interviewbrowser.com/leetcode-questions), and public guidance on using company tags for targeted practice.
+This set is a living representative question catalog, not an official question bank. It is informed by common public prep lists and pattern roadmaps, including [NeetCode 150](https://neetcode.io/practice/practice/neetcode150), [Grind 75 / Blind 75](https://www.techinterviewhandbook.org/grind75/faq), and [LeetCode Top Interview 150](https://leetcode-top-interview-150.github.io/), plus L7-focused additions for concurrency, parallel algorithms, distributed-systems algorithms, and systems-style coding. Company focus tags use public sources such as the [company-wise LeetCode CSV repository](https://github.com/liquidslr/interview-company-wise-problems), [Interview Browser's company page](https://interviewbrowser.com/leetcode-questions), and public guidance on using company tags for targeted practice.
 
 ## Company Focus
 

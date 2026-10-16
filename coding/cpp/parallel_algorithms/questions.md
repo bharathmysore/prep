@@ -27,7 +27,7 @@ Pattern tags use kebab-case backtick labels and are mirrored in [patterns](./pat
 4. Implement parallel merge sort with a cutoff to sequential sort.
    - Expected pattern: fork/join divide and conquer.
    - Pattern tags: `parallel-sort`, `fork-join`.
-   - Solution: _Pending implementation in [solutions](./solutions.md)._
+   - Solution: [Parallel Merge Sort With Cutoff](./solutions.md#5-parallel-merge-sort-with-cutoff).
    - Complexity target: work `O(n log n)`, space `O(n)` scratch, span depends on merge strategy.
 
 <a id="4-parallel-top-k"></a>
@@ -40,17 +40,17 @@ Pattern tags use kebab-case backtick labels and are mirrored in [patterns](./pat
 6. Implement a parallel histogram for integer keys.
    - Expected pattern: per-worker histograms plus reduction.
    - Pattern tags: `parallel-histogram`, `local-aggregation`.
-   - Solution: _Pending implementation in [solutions](./solutions.md)._
+   - Solution: [Parallel Histogram](./solutions.md#6-parallel-histogram).
    - Complexity target: work `O(n + p*buckets)`, space `O(p*buckets)`.
 
 7. Implement fanout/fanin execution with bounded concurrency and early cancellation on first failure.
    - Expected pattern: task queue, futures, cancellation flag.
    - Pattern tags: `fanout-fanin`, `bounded-concurrency`.
-   - Solution: _Pending implementation in [solutions](./solutions.md)._
+   - Solution: [Bounded Fanout/Fanin With Cooperative Cancellation](./solutions.md#7-bounded-fanoutfanin-with-cooperative-cancellation).
    - Complexity target: work sum of tasks, span bounded by slowest active tasks and scheduling overhead.
 
 8. Implement parallel BFS for an unweighted graph level by level.
    - Expected pattern: frontier expansion plus atomic or synchronized visited marking.
    - Pattern tags: `parallel-bfs`, `frontier`.
-   - Solution: _Pending implementation in [solutions](./solutions.md)._
+   - Solution: [Parallel BFS](./solutions.md#8-parallel-bfs).
    - Complexity target: work `O(V + E)`, space `O(V)`, synchronization once per level.

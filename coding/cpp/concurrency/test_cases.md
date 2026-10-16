@@ -79,6 +79,26 @@ Concrete test cases live here so solution explanations stay focused on approach,
 | Insufficient funds | transfer more than balance | No balances change or failure returned. |
 | Self transfer | from and to same account | No deadlock and balance unchanged. |
 
+## 8. Producer-Consumer Pipeline
+
+* **Question**: Implement a producer-consumer pipeline with cancellation and backpressure.
+* **Solution**: [Producer-Consumer Pipeline](./solutions.md#8-producer-consumer-pipeline).
+
+| Case | Input / Scenario | Expected |
+| --- | --- | --- |
+| Ordered completion | capacity 1, input `[1,2,3,4]`, transform doubles values | Consumer observes `[2,4,6,8]` in order; all stages join. |
+| Empty input | capacity 1 and no values | No callback runs; both channels close and run returns. |
+| Invalid API | capacity 0, empty transform/consumer, or a second run | `invalid_argument` for capacity/callbacks; `logic_error` for reuse. |
+| Backpressure | capacity 1, large input, first consume waits on a test promise | Producer/transformer cannot run arbitrarily far ahead; run finishes after releasing the consumer. |
+| External cancellation | first transform signals entry and polls cancellation; another thread calls cancel | Queued items are discarded, callbacks cooperate, and run returns after joining all stages. |
+| Cancel before run | cancel first, then run on nonempty input | No callbacks run and no worker remains blocked. |
+| Transform failure | transform throws for input 2 while producer has more work | Caller receives the exception after joins; no blocked producer remains. |
+| Consumer failure | consumer throws on first value with capacity 1 and a large input | Both upstream stages wake and exit; caller receives the exception. |
+| Partial effects | consumer performs a side effect before cancellation/failure | Completed side effects remain; the API does not promise rollback. |
+| Thread creation failure | Verification substitutes a thread wrapper that throws at each of the three launch positions | Every started worker is cancelled and joined before propagating the error. |
+
+Local validation on 2026-10-16 extracted the C++ sample and passed normal, ASan/UBSan, and separate TSan builds, including 40 ordered-processing stress rounds per build. A thread-construction wrapper additionally exercised failure at all three launch positions under ASan/UBSan. These checks cover local execution and selected interleavings, not arbitrary callbacks or scheduler fairness.
+
 ## 9. Writer-Preference Reader-Writer Lock
 
 * **Question**: Implement writer-preference shared/exclusive locking with a mutex and condition variables.

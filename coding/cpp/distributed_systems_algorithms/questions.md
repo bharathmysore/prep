@@ -36,7 +36,7 @@ Pattern tags use kebab-case backtick labels and are mirrored in [patterns](./pat
 5. Implement a gossip membership simulator.
    - Expected pattern: membership records with incarnation numbers and tombstones.
    - Pattern tags: `gossip`, `membership`.
-   - Solution: _Pending implementation in [solutions](./solutions.md)._
+   - Solution: [Gossip Membership Simulator](./solutions.md#7-gossip-membership-simulator).
    - Complexity target: each round messages `O(N * fanout)` if all nodes gossip, space `O(N)` per node in full simulation.
 
 6. Implement leader election in a simplified term-based cluster model.
@@ -48,7 +48,7 @@ Pattern tags use kebab-case backtick labels and are mirrored in [patterns](./pat
 7. Implement Lamport timestamps for a set of send and receive events.
    - Expected pattern: scalar logical clocks.
    - Pattern tags: `lamport-clock`, `logical-clock`.
-   - Solution: _Pending implementation in [solutions](./solutions.md)._
+   - Solution: [Lamport Timestamps](./solutions.md#8-lamport-timestamps).
    - Complexity target: time `O(events)`, space `O(nodes)`.
 
 8. Implement vector clocks and compare two events as before, after, equal, or concurrent.
@@ -60,29 +60,29 @@ Pattern tags use kebab-case backtick labels and are mirrored in [patterns](./pat
 9. Implement an idempotency key store for retry-safe request handling.
    - Expected pattern: check-and-record with final result caching.
    - Pattern tags: `idempotency`, `deduplication`.
-   - Solution: _Pending implementation in [solutions](./solutions.md)._
+   - Solution: [Idempotency Key Store](./solutions.md#9-idempotency-key-store).
    - Complexity target: average `O(1)` per request, space `O(retention window)`.
 
 10. Implement a CRDT grow-only counter and merge operation.
     - Expected pattern: per-node counters and max merge.
     - Pattern tags: `crdt`, `g-counter`.
-    - Solution: _Pending implementation in [solutions](./solutions.md)._
+    - Solution: [Grow-Only CRDT Counter](./solutions.md#10-grow-only-crdt-counter).
     - Complexity target: increment `O(1)`, merge `O(nodes)`, space `O(nodes)`.
 
 11. Implement a Merkle tree comparison to find differing chunks between two replicas.
     - Expected pattern: hash tree and recursive compare.
     - Pattern tags: `merkle-tree`, `anti-entropy`.
-    - Solution: _Pending implementation in [solutions](./solutions.md)._
+    - Solution: [Merkle Tree Comparison](./solutions.md#11-merkle-tree-comparison).
     - Complexity target: build `O(n)`, compare `O(changed * log n)` typical, space `O(n)`.
 
 12. Implement retry with exponential backoff, jitter, and max attempts.
     - Expected pattern: bounded retry policy.
     - Pattern tags: `retry`, `backoff`.
-    - Solution: _Pending implementation in [solutions](./solutions.md)._
+    - Solution: [Bounded Exponential Retry With Jitter](./solutions.md#12-bounded-exponential-retry-with-jitter).
     - Complexity target: time `O(attempts)`, space `O(1)`.
 
 13. Implement a circuit breaker with closed, open, and half-open states.
     - Expected pattern: state machine plus rolling failure window.
     - Pattern tags: `circuit-breaker`, `state-machine`.
-    - Solution: _Pending implementation in [solutions](./solutions.md)._
+    - Solution: [Circuit Breaker With Rolling Failure Window](./solutions.md#13-circuit-breaker-with-rolling-failure-window).
     - Complexity target: time `O(1)` per request, space `O(window buckets)` or `O(1)` counters.
