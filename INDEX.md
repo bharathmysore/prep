@@ -15,6 +15,10 @@ This index links all maintained Markdown docs in this workspace.
 - [Nihaal Comprehensive Sidereal Astrology Profile](./vac/nm/nihaal_sidereal_astrology_profile.md)
 - [Tanush Vedic Sidereal (Lahiri) Astrology Working Profile](./vac/tm/tanush_sidereal_astrology_profile.md)
 
+## TLE Franchise Records
+
+- [TLE Franchise Refund Context and Email Draft](./tle/context.txt)
+
 ## iSmash Franchise Records
 
 - [iSmash Everett Chat Handoff — September 19, 2026](./ismash/CHAT_HANDOFF_2026-09-19.md)

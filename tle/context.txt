@@ -1,0 +1,172 @@
+TLE franchise refund context
+Checkpoint: October 18, 2026 (America/Los_Angeles)
+
+USER OBJECTIVE AND STATUS
+Recover the remaining franchise fee / Site Development Service Charge (SDSC)
+amounts held by The Learning Experience (TLE). User requested email review,
+review of the signed FDD, and a refund-request email draft. Nothing was sent.
+No Outlook draft, termination notice, complaint, or remote mutation was made.
+
+MONEY: VERIFIED VS UNVERIFIED
+- User reports receiving a partial refund: "i believe around 55k-60k".
+  This is recollection, not a verified amount or transaction date.
+- March 19, 2024 completed DocuSign email requests remittance of $150,000.
+  It does not independently prove the amount or date actually wired.
+- IF $150,000 was paid and $55,000-$60,000 refunded, arithmetic leaves
+  $90,000-$95,000. Do not treat that balance as established evidence.
+- Searches of refund emails, including the March-July 2024 WA State thread
+  and its quoted messages, found no exact cash-refund amount.
+- $10,000 mentioned in correspondence is a marketing credit, separate from
+  the cash refund. Do not confuse the two.
+- Bank outgoing-wire receipt and incoming-refund transaction are still needed.
+
+EMAIL EVIDENCE REVIEWED
+Mailbox: bharathkumarmn@hotmail.com; user: Bharath Mysore.
+Business name in refund instructions: Mysore Enterprises, Inc.
+Do not copy bank account numbers, credentials, or DocuSign access codes.
+
+- June 8, 2023: FDD receipt signed. Two confirmation emails received June 9
+  UTC state receipt was signed June 8; both attach CopyOfFDDReceipt.pdf.
+- June 16, 2023: Phillip Goldman apologizes for Bonney Lake lease termination.
+- March 19, 2024: completed Graham, WA franchise-document email; requests
+  $150,000; attachments include franchise agreement, SDSC agreement,
+  Washington rider, wire instructions and DocuSign summary.
+- March 27, 2024: David Slavny refers to the Graham issue, new agreements,
+  $10,000 marketing credit and help finding a replacement location.
+- April 2, 2024: David clarifies the $10,000 is a marketing credit.
+- April 11, 2024: completed target-area addendum, referring to King and
+  Snohomish Counties, WA, with site TBD. Its actual signed terms remain unread.
+- May 3, 2024: Phillip introduces Jacob as handling refund and site assistance.
+- May 14, 2024: Jacob says processed internally; finance should cut check June 10.
+- June 19, 2024: Jacob says check should already have been cut; awaiting accounting.
+- June 24, 2024: Jacob acknowledges internal mix-up delayed payment; David follows up.
+- July 1 and July 11, 2024: user provides refund wire instructions.
+- July 12, 2024: Sabrina Chamberlain confirms wire instructions verbally verified.
+  This is NOT proof of payment execution, credit date, or amount.
+- October 2024-May 2025: user submits sites, follows up, and exchanges evaluations.
+- March 18, 2025: Jacob presents Seattle 1425 Broadway opportunity but explicitly
+  says another franchisee is ahead of user. Do not assume it qualifies under contract.
+- May 7/13, 2025: Spanaway opportunity at 20104 Mountain Hwy E; May 15 user raises
+  concerns about nearby Graham center and proximity to military base.
+- June 8, 2026: David's unmatched-franchisee incentive email says search continues.
+  This supports ongoing-search context but is not conclusive legal proof of breach.
+
+KEY EMAIL LINKS
+May 14 refund scheduling:
+https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAGRg%2FnVgAAAET5v7O%2BNv5KtRtOYaCds0gAB0LkpcIAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+July 12 wire verification:
+https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAGRg%2FnVgAAAET5v7O%2BNv5KtRtOYaCds0gAB0pJCFEAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+Signed FDD receipt confirmation:
+https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAGRg%2FnVgAAAET5v7O%2BNv5KtRtOYaCds0gABkYQNDUAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+
+FDD REVIEW COMPLETED
+Local source: /Users/bmysoren/prep/tle/TLE_CopyOfFDDReceipt.pdf
+283 PDF pages, 2023 disclosure, issuance date April 28, 2023.
+Receipt pages 282-283 identify Bharath Mysore and June 8, 2023 signature.
+The receipt is signed; included agreement exhibits are sample forms with blanks.
+Do not treat those samples as the separately executed 2024 agreements.
+Attachment retrieval through email tools returned file references but downloading
+failed. User then supplied this local PDF, which was successfully extracted and
+reviewed. No need to repeat failed downloads. Temporary extraction/render files
+under /private/tmp are disposable and may no longer exist.
+
+Relevant provisions (PDF page numbers, not exhibit's internal page numbering):
+- p17 Item 5: standard franchise fee $60,000. Conditional refund if SDSC signed,
+  site-location obligation unmet, notice requirements met, and release executed.
+  Describes franchise fee and SDSC monies repaid in 12 monthly installments.
+- pp18-19: standard SDSC minimum $230,000, initial deposit $30,000, further
+  milestone payments. These are disclosure amounts, not user's verified payments.
+- pp42-43 Item 11: 24 months to present two Suitable Sites; written termination
+  and release if obligation unmet; 1/12 refunded every 30 days, starting within 30
+  days of notice receipt and release execution. Two qualifying sites presented
+  before termination notice may satisfy obligation even after 24 months.
+- p120 sample franchise agreement 11.3: corresponding termination/refund terms.
+- p125 12.8: notices to TLE Systems LLC, 210 Hillsboro Technology Drive,
+  Deerfield Beach FL 33441, Attn Legal Department; Legal@tlecorp.com.
+  TERMINATION notice specifically requires overnight courier or Certified Mail,
+  return receipt requested. Email alone may not satisfy formal termination notice.
+  Confirm current address and actual signed notice clause before use.
+- p161 Washington addendum: lawful termination grounds preserved; Washington
+  Franchise Investment Protection Act prevails in conflict; limits waivers/releases
+  of statutory rights except qualifying negotiated settlement with independent counsel.
+- p165 SDSC 1(e): matched site's site-plan approval may restrict cancellation until
+  assignment to approved replacement franchisee. Assess against actual circumstances.
+- p166 SDSC 6: milestone charges earned at specified stages; payment default can
+  trigger forfeiture under sample terms. No proof of user default established.
+- p167 SDSC 10: site obligation satisfied by written acceptance of ONE Suitable
+  Site OR presentation of TWO Suitable Sites. Suitable Site requires all of:
+  (a) lease or LOI imposing landlord obligation to build/retrofit at landlord expense;
+  (b) demographics, size, location and real-estate terms materially meeting site criteria;
+  (c) within contractual territory. Outside-territory site does not itself count,
+  unless accepted in writing. Voluntary cancellation of accepted site can bar refund.
+  10.2 says sign acceptance within 10 days after all qualifying requirements supplied;
+  Item 11 uses ten business days. Check signed terms rather than choosing a deadline.
+- p168 SDSC 10.4: after 24 months with obligation unmet, terminate in writing and
+  sign release; franchise fee plus initial SDSC deposit repaid dollar for dollar,
+  in 12 equal monthly installments; first within 30 days after notice and release.
+  10.5: rejecting/failing timely acceptance of two qualifying sites before receipt
+  of termination notice can make fees nonrefundable.
+  11: failed matched site may never develop; TLE must present replacement Suitable
+  Sites as described. Distinguish landlord/TLE failure from user's voluntary withdrawal.
+- p169 SDSC 21: SDSC terms control inconsistencies with franchise agreement.
+- pp242-246 Exhibit O SAMPLE release: p243 3.1 instead specifies refund within
+  TEN BUSINESS DAYS of release effective date, inconsistent with installment terms.
+  Contains broad releases and surviving obligations. Actual negotiated/executed
+  release must resolve amount, timing and scope; sample alone is not enforceable proof.
+
+24-MONTH ASSESSMENT AS OF OCTOBER 18, 2026
+- If start March 19, 2024, 24 months elapsed March 19, 2026.
+- If April 11, 2024 addendum restarted clock, elapsed April 11, 2026.
+- Both dates passed, but execution/effective dates, extensions and reset provisions
+  need signed-document verification. June 2023 FDD receipt does NOT start the clock.
+- Expiry alone does not prove refund entitlement: determine qualifying sites,
+  written acceptances, Graham cancellation circumstances and notice status.
+
+PUBLIC LEGAL REFERENCES CHECKED (not a finding TLE violated law)
+https://app.leg.wa.gov/RCW/default.aspx?cite=19.100.220
+https://app.leg.wa.gov/RCW/default.aspx?cite=19.100.180
+https://dfi.wa.gov/complaint
+Washington DFI accepts franchise-seller complaints; does not act as user's lawyer.
+
+REFUND EMAIL DRAFT PRESENTED TO USER — NOT SENT
+Subject: Request for Refund of Remaining Franchise Fees
+
+Hi David and Jacob,
+
+Following the Graham location falling through in March 2024, we agreed to
+continue working with TLE to find a replacement location. We appreciate the
+partial refund previously issued.
+
+Despite our continued participation, site submissions, and follow-ups, we have
+not secured a suitable replacement location. More than 24 months have now passed
+since the March 2024 franchise agreement and April 2024 addendum.
+
+We are requesting termination of our franchise arrangements and a refund of the
+remaining franchise fee and Site Development Service Charge amounts held by TLE.
+
+Please provide:
+- An accounting of all payments received, the partial refund issued, and the remaining balance.
+- Written confirmation of the amount TLE will refund and the proposed payment schedule.
+- The documents needed to complete the termination and refund.
+
+If TLE believes it has satisfied its Site Location Obligation, please identify
+the qualifying sites, presentation dates, and supporting lease or LOI documents.
+
+Please respond within 10 business days so we can resolve this promptly and amicably.
+
+Regards,
+Bharath Mysore
+Mysore Enterprises, Inc.
+
+DRAFT QUALIFICATIONS AND NEXT STEPS
+1. Confirm no replacement site has since been secured; user has not explicitly
+   confirmed this after the May 2025 correspondence. Draft assumes it.
+2. Obtain/read signed March 2024 franchise and SDSC agreements, Washington rider,
+   April 2024 addendum, and any partial-refund agreement or release.
+3. Verify exact original payment, refund amount/date, fee allocation and remaining balance.
+4. Evaluate each proposed site's contractual qualifications and written acceptances.
+5. Confirm whether any formal termination notice was already served; none known.
+6. Email draft alone may not constitute formal notice. Verify signed notice terms
+   and consider counsel review before serving termination or signing broad release.
+7. User has authorized drafting and saving context, not sending the email or notice.
+   Obtain required explicit authorization before any external communication.
