@@ -1,7 +1,7 @@
 # Bharath — Sidereal Astrology Working Profile
 
 **Compiled:** July 8, 2026  
-**Last event update:** October 6, 2026  
+**Last event update:** October 26, 2026  
 **Last analysis update:** October 5, 2026  
 **Primary methods:** Parāśara, Krishnamurti Paddhati (KP), Bhrigu Nandi Nadi (BNN), Jaimini, Aṣṭakavarga
 **Zodiac:** Sidereal only  
@@ -4522,3 +4522,175 @@ The essential evidence chain is company-wide platform ownership, quantified stra
 - **October 16, 2:25 PM PDT:** Alex approved temporary use of a 16-foot POD storage unit in the parking lot. He stated that the exterior-stair work requires a separate permit and landlord-controlled inspection, that the landlord will conduct that inspection rather than relying on Carney, and that inspection can be scheduled after the landlord's work is complete. He said he would expedite production but supplied no completion or inspection date.
 - **October 16 construction-thread status:** Troy reported an unresolved problem with the high-low fountain, no return date from the plumber, and a scheduled—but undated—electrician visit to relocate exit signs. He reported that the floor was fixed, the reception desk moved and plywood installed over the rear door. iSmash asked for the electrician date, plumbing details and completion of securing the cash wrap, and stated that the exterior stairs were being fabricated and remained on target.
 - **Negotiation implication:** an immediate repeat request has weak leverage while tenant/Carney work remains incomplete. The cleaner factual trigger is written proof that every tenant-controlled item is complete and the landlord-controlled stair work, permit or inspection is the sole remaining barrier to final occupancy/opening approval. Any accommodation must be documented in a signed lease amendment; until then, planning assumes performance under the existing lease.
+
+## 92. Bharath Tithi Pravesha 2027–28 — Calculated October 18, 2026
+
+This annual chart uses the Lahiri sidereal zodiac, mean node and the standard birthplace-location convention at Mysore. Bharath's natal Moon–Sun elongation is approximately **240°21′**, corresponding to early Krishna Shashthi, with about **97.08% of the tithi remaining**. The matching return occurs at approximately **April 26, 2027, 2:52:56.5 UTC**, or **8:22:56 AM IST** (**April 25, 7:52:56 PM PDT**). The next matching return in the proper soli-lunar month occurs around **April 14, 2028, 2:25:27 UTC**, so this annual chart applies until then. A relocation chart for Bothell would retain the return instant and planetary longitudes but change the ascendant and houses.
+
+### 92.1 Annual D1 and Bhava Chalit
+
+| Factor | Sidereal longitude | Nakshatra/pada | Whole-sign house from Taurus |
+|---|---:|---|---:|
+| Ascendant | Taurus 16°11′ | Rohini 2 | H1 |
+| Sun | Aries 11°26′ | Ashwini 4 | H12 |
+| Moon | Sagittarius 11°47′ | Mula 4 | H8 |
+| Mars | Cancer 29°58′ | Ashlesha 4 | H3 |
+| Mercury | Aries 8°15′ | Ashwini 3 | H12 |
+| Jupiter | Cancer 23°01′ | Ashlesha 2 | H3 |
+| Venus | Pisces 12°59′ | Uttara Bhadrapada 3 | H11 |
+| Saturn | Pisces 25°44′ | Revati 3 | H11 |
+| Rahu / Ketu | Capricorn / Cancer 22°30′ | Shravana 4 / Ashlesha 2 | H9 / H3 |
+
+KP/Placidus cusps are approximately H1 Taurus16°11′, H2 Gemini12°31′, H3 Cancer8°43′, H4 Leo7°31′, H5 Virgo10°00′, H6 Libra14°01′, H7 Scorpio16°11′, H8 Sagittarius12°31′, H9 Capricorn8°43′, H10 Aquarius7°31′, H11 Pisces10°00′ and H12 Aries14°01′. In Bhava Chalit, the Sun and Mercury move from whole-sign H12 to H11, and the Moon moves from whole-sign H8 to H7. The Moon is only about 0°44′ from the H8 cusp, so it should be read as a strong H7/H8 blend. The rounded natal inputs create approximately ±2–3 minutes of return/cusp sensitivity; the Taurus ascendant and principal D10 pattern remain robust.
+
+### 92.2 Annual Cabinet, Vargas and Cross-Method Reading
+
+- Panchanga: Monday; Krishna Shashthi; Mula 4; Shiva yoga; Gara karana. **Jupiter is the annual hora/year lord**, Venus the tithi lord, Moon the weekday lord, Ketu the nakshatra lord, Mercury the yoga lord and Jupiter the karana lord.
+- Parashara: exalted ascendant lord Venus and yogakaraka Saturn, the 9th/10th lord, share H11; exalted Jupiter aspects H11. This is a strong career-to-gains and network-fulfilment pattern. Jupiter is also Taurus's 8th/11th lord and is tightly joined Ketu, while debilitated gandanta Mars shares Cancer, so results can arrive through a disruptive exit, relocation, changed team or rewritten terms rather than a smooth continuation.
+- KP/Bhava Chalit: the H10 cusp is Rahu/Rahu; Rahu's dispositor Saturn is in H11 and Rahu's star lord Moon is in Chalit H7. H11 is Saturn/Venus, with both significators in H11. H2, H6, H10 and H11 therefore connect income, employment, career, employer agreement and gains strongly. This favors an external/global employer or formal contract, but requires exact written treatment of level, vesting, location and start date.
+- BNN: annual Venus/Saturn in Pisces activates Bharath's natal Mars–Venus–Ketu wealth/career cluster; annual Jupiter/Mars/Ketu in Cancer activates natal Saturn and the natal A10 area. This repeats the technical-career circuit but makes delivery nonlinear and effort-driven.
+- Jaimini: annual Arudha Lagna is Capricorn with Rahu, amplifying a global/technology-oriented public reset. Annual A10 is Aries with Sun/Mercury, favoring visible technical authority. This supports Staff/Principal-equivalent scope more clearly than it guarantees any named employer or title.
+- Aṣṭakavarga: Jupiter has five natal BAV points in both Cancer and Leo, supporting its 2027 movement, but the corresponding SAV is only 23. Saturn has two BAV points in Pisces and three in Aries. Opportunity is present, while institutional approval, timing and documentation remain the bottleneck.
+- D2: Leo ascendant with its lord Sun in its own sign supports earning capacity; Venus in Cancer warns that comfort, property or business spending can absorb gains.
+- D4: Scorpio ascendant gives a mixed property/vehicle result—relocation and financing are more likely than an effortless luxury purchase.
+- D9: Taurus ascendant repeats the annual D1 ascendant; Mercury, Venus and Saturn occupy own signs, supporting durability and professional skill.
+- D10: Gemini ascendant with Mercury in own-sign H1; exalted Venus with Moon in H10; Jupiter as 10th lord in H5; Rahu in H11. This is materially stronger for career conversion, recognition and compensation than the 2026–27 annual D10.
+
+### 92.3 Dasha and Transit Timing
+
+The complete annual chart falls under natal **Jupiter–Mercury antardasha** (approximately January 15, 2027–April 21, 2029). Approximate pratyantardashas within this annual year are Mercury to May 12; Ketu May 12–June 29; Venus June 29–November 14; Sun November 14–December 25; Moon December 25–March 3, 2028; and Mars March 3–April 21.
+
+Approximate Tithi-Ashtottari annual periods are Venus from the return to July 1; Sun July 1–21; Moon July 21–September 8; Mars September 8–October 4; Mercury October 4–November 29; Saturn November 29–January 1, 2028; Jupiter January 1–March 3; Rahu March 3–April 11; and a brief final Venus period to the next return.
+
+Transit anchors: Jupiter leaves Cancer for Leo around June 25, 2027 and crosses Bharath's natal Chalit H7 cusp around September 17; the mean nodes cross from natal Chalit H12/H6 into H11/H5 around September 7; Saturn enters Aries around June 2, returns to Pisces around October 19 and conjoins natal Ketu around late May 2027, late October 2027 and February 2028.
+
+**Integrated timing:** April–June builds or separates the new path; June 29–September 7 favors valuation, team fit and negotiation; **September 17–November 14, 2027** is the cleanest convergence for a written employer agreement, level/pay reset, joining or relocation, with October 4–November 14 strongest for paperwork and compensation. November–December favors authority/formalization but is slower; January–March 2028 is better for stabilization. These are symbolic timing windows, not event probabilities or guarantees.
+
+### 92.4 Practical Reading
+
+- **Career and income:** 2027–28 is materially stronger than 2026–27 for converting interviews, referrals and technical reputation into a real role and recurring compensation. External re-leveling is more strongly shown than an effortless internal promotion. A transition-year W-2 can still be reduced by a midyear start, forfeited Oracle vesting, relocation, taxes or a delayed vesting schedule.
+- **Franchise/business:** H11 Venus/Saturn supports customer and revenue stabilization, especially July–November, but Mars/Ketu/Jupiter and the Moon's H7/H8 cusp keep vendor, compliance, contract and liquidity surprises active. Preserve reserves and written documentation.
+- **Property/vehicle:** possible after income and business cash flow stabilize, but the D4 does not support treating a luxury purchase as automatic. The October 2027 window is cleaner than spring/summer only if the employer, franchise and debt facts already justify it.
+- **Health/family:** exalted Venus supports resilience, while Saturn's influence on the ascendant, gandanta Mars and the Moon's H7/H8 blend make workload, sleep/stress and partner communication the main watch points. This is not a medical diagnosis.
+
+**Bottom line:** the 2027–28 Tithi Pravesha is a stronger **conversion and gains** chart than Bharath's 2026–27 chart. Its best expression is a technically senior employer agreement and compensation reset after a discontinuous transition, especially in **September 17–November 14, 2027**. It does not by itself guarantee Google L6, NVIDIA, a precise pay increase or a second property. Practical decisions should remain contingent on written offer level, guaranteed compensation, vesting, location, debt service and business cash flow.
+
+Method references: [P. V. R. Narasimha Rao, Tithi Pravesha](https://www.vedicastrologer.org/articles/pp_tp.pdf); [Parasara annual Tithi Pravesha summary](https://www.parasara.net/learn/tithi-pravesha-annual-chart).
+
+### 92.5 Bothell Relocation Variant for Local Annual-House Delivery
+
+The return instant and planetary longitudes do not change with location, but the annual ascendant, houses, local weekday/hora and varga ascendants do. If Bharath is physically in the Bothell area at the exact return on **April 25, 2027 at 7:52:56 PM PDT**, a local-location Tithi Pravesha variant should be considered alongside the Mysore birthplace-reference chart.
+
+- Approximate Bothell sidereal ascendant: **Libra 8°45′**; MC: **Cancer 18°13′**.
+- Local return occurs Sunday in **Saturn hora**, making Saturn the local annual hora/year lord under this convention.
+- Whole-sign placements: Moon H3; Rahu H4; Venus/Saturn H6; Sun/Mercury H7; Mars/exalted Jupiter/Ketu H10.
+- Bhava Chalit: Venus moves to H5; Mercury lies approximately 0°30′ before the H7 cusp and should be read as H6/H7-sensitive; Sun stays H7; Rahu stays H4; Mars/Jupiter/Ketu stay H10.
+- Relocated annual D4 has Capricorn rising, with Mars/Jupiter/Ketu in H4, Rahu in H10 and Saturn in H12. This directly activates the home–career–separation axis and favors a work-driven move, dual residence or major premises decision more than an effortless luxury-property acquisition.
+- The relocated annual D10 ascendant is nominally Sagittarius but lies close to a division boundary; a roughly 1½-minute return-time shift can move it into Capricorn. Exact annual D10 house claims therefore remain provisional until unrounded natal Sun and Moon longitudes are available.
+
+This Bothell variant materially changes the house emphasis from the Mysore gains-heavy chart: it remains career-active, but the clearer local delivery is **employment competition, employer agreement, career restructuring and residence disruption**. If Bharath is elsewhere at the return instant, recast the local annual houses for that actual location.
+
+## 93. Company-Switch Outlook Through April 2027 — October 18, 2026
+
+This update distinguishes a substantive interview process, a written target-level offer and an actual new-employer start. The ranges below are symbolic planning judgments rather than statistical probabilities.
+
+### 93.1 Current recruiting evidence
+
+- NVIDIA confirmed a **60–90 minute technical interview with Roman Yakovenko for October 21, 2026 at 8:00 AM Pacific**, using both Teams and HackerRank, for **JR2024421 Principal Block and File Storage Software Engineer, Linux — DGX Cloud**. This is a substantive early technical screen, not yet a full loop, debrief, level approval or offer.
+- On **October 21, 2026**, Bharath reported that he completed the scheduled NVIDIA screening for JR2024421. He later clarified that the screen contained **no Linux questions** and instead focused on implementing coding problems, with communication appearing to be an important evaluation dimension. No interviewer decision, recruiter feedback, full-loop invitation or next step has yet been reported, so the event is recorded as a completed coding/communication screen rather than a pass or rejection.
+- At approximately **12:50 AM PDT on October 19**, NVIDIA sent an automated decline for the separate **JR2017185 Principal AI and ML Infra Software Engineer, GPU Clusters** application. This closes JR2017185 only. No later cancellation or adverse update was found for JR2024421, whose October 21 interview remains the active NVIDIA process as of the October 19 evening refresh.
+- Microsoft sent a scheduling confirmation on October 14 for a **Phone Screen | PSDE** for **Principal Software Engineer — Azure Storage, job 200047514**. The calendar invitation schedules it for **Monday, October 26, 2026, 10:30–11:30 AM Pacific**, with **Venkates Paramasivam Balakrishnan**, using Teams and a live-coding/HackerRank link. Bharath describes this as a manager screen, although the invitation itself does not state the interviewer's role. This remains an early-stage screen, not a full loop or offer.
+
+### 93.2 Calibrated possibility through April 30, 2027
+
+| Outcome by April 30, 2027 | Working planning range |
+|---|---:|
+| At least one substantive interview/process | **65–80%** |
+| Acceptable written target-level offer | **35–50%** |
+| Actual start with a new employer | **25–40%** |
+
+If NVIDIA, Microsoft or another target-level process reaches a genuine full loop by approximately mid-November 2026, the start-by-April scenario can rise toward **40–55%**. If no process reaches a full loop by year-end, a completed switch by April falls toward approximately **15–25%**. These conditional ranges incorporate the real recruiting stage; astrology itself does not calculate probabilities.
+
+### 93.3 Timing and method synthesis
+
+- **October 19–November 6:** Jupiter–Saturn–Jupiter–Mercury supports technical screens, recruiter communication and revised scheduling. Mercury's retrograde portion favors evaluation and correction more than immediate closure.
+- **November 6–13:** Ketu lower period; weakest clean-conversion interval, with pruning, silence or changed scope possible.
+- **November 13–December 10; strongest November 22–December 10:** Venus followed by Sun supports team fit, value, compensation and authority approval. This is the earliest credible written-offer interval, but only for a process that has already matured.
+- **January 15, 2027:** Jupiter–Mercury antardasha begins, materially improving interviewing, technical narrative, negotiation and employer-transformation potential.
+- **February 7–March 4:** strongest early-2027 fit, valuation, compensation and authority sequence, although Mercury retrograde February 9–March 3 requires exact review of level, vesting, taxes, location and start date.
+- **March 4–21:** HR logistics followed by the cleanest early action/resignation trigger, provided written terms and contingencies already exist.
+- **April 13–24:** cleanest overall completion interval before the cutoff, after transit Jupiter turns direct. April 25–30 begins the stronger 2027–28 annual chart but can still involve Saturn-style administration, notice or background-clearance delay.
+
+**Parashara/Vimshottari:** Jupiter mahadasha protects opportunity and earnings, but Saturn antardasha through January 15 filters results through institutions, evidence and delay. Jupiter–Mercury is more change-capable but also restructures compensation and shared obligations because Mercury rules natal H5/H8.
+
+**KP/Bhava Chalit:** the 2–6–10–11 employment/income chain is active, but transit Jupiter remains in the working Chalit H6 through this horizon and does not cross the H7 employer/agreement cusp. This favors screening and processing more strongly than effortless contract completion. The node axis remains Chalit H12/H6, supporting exit/relocation and employment competition but not yet the cleaner H11 gains delivery seen later in 2027.
+
+**BNN/Jaimini:** transit Saturn continues auditing the natal Mars–Venus–Ketu career/value group while Jupiter protects and activates it. Jupiter returns to Cancer A10 in January, supporting career visibility and reassessment; Saturn keeps recognition evidence-driven. This favors a staged voluntary redirection more than career collapse.
+
+**Ashtakavarga:** Jupiter has five BAV points in both Cancer and Leo, supporting Bharath personally, but their SAV totals are only 23 and Saturn has only two Pisces bindus. Personal capability is stronger than the ease of the employer process.
+
+**Integrated conclusion:** a company switch by April 30 is a meaningful accelerated scenario, but not yet the central forecast. The most likely positive outcome by then is a mature target-level process, written offer or transition being finalized. The chart supports continued Oracle employment more strongly than an involuntary jobless gap. If the switch does not complete by April, the stronger base-case transition corridor begins in May, with the clearest agreement and compensation convergence around **September 17–November 14, 2027**. Do not resign until level, compensation, location, reporting line, start date and material contingencies are confirmed in writing.
+
+### 93.4 January–February 2027 switch window
+
+January–February is an **accelerated carryover window**, not the base case for starting a brand-new search and joining within the same two months. As of October 18, 2026, the subjective planning ranges are:
+
+| Outcome by February 28, 2027 | Working planning range |
+|---|---:|
+| At least one process reaches a genuine full loop or equivalent final stage | **45–60%** |
+| Acceptable written target-level offer | **25–40%** |
+| Actual first day with a new employer during January or February | **15–25%** |
+
+If a current or new process reaches a genuine full loop by late November or early December 2026, the written-offer possibility by February rises toward approximately **40–55%**, and an actual January/February start toward **30–40%**. If no process has reached a full loop by December 31, an actual switch by February falls toward approximately **5–15%**; a fresh senior-level process normally needs more calendar time even without astrological delay.
+
+- **January 1–14:** Jupiter–Saturn–Jupiter–Rahu can reopen a role, location or scope unexpectedly, but terms are unstable and Saturn still controls the result. This is mainly a carryover/decision interval.
+- **January 15–31:** Jupiter–Mercury begins, with the Mercury lower period supporting technical interviews, documents, recruiter communication and renewed negotiation. Retrograde Jupiter and Mars make revision more likely than a frictionless first day.
+- **January 31–February 7:** Ketu prunes a mismatch or redirects the route; it is not the cleanest commitment interval.
+- **February 7–27:** Venus is the best fit, valuation and compensation portion of the two months. However, Saturn returns to Bharath's natal Venus around February 8, Mercury is retrograde from approximately February 9 to March 3, and the February eclipse season increases revision risk. This can produce a serious package or revised terms, but every level, equity, vesting, location and start-date clause needs written verification.
+- **February 27–March 4:** the Sun lower period is more suitable for manager, level or authority approval; a February negotiation can therefore spill into early March.
+
+Across methods, Parashara/Vimshottari favors employer transformation after January 15; KP still emphasizes the 2–6–10–11 screening/employment chain more strongly than an effortless H7 agreement; BNN reads Saturn's January Mars and February Venus contacts as a career/value audit; Jaimini shows career reassessment when retrograde Jupiter returns to Cancer A10; and Ashtakavarga supports Bharath's personal capability more strongly than institutional ease. The most likely positive manifestation by the end of February is therefore **a final round, verbal intent, written offer or compensation negotiation**. A completed payroll start is possible chiefly when the process is already mature before year-end. The cleaner practical resignation/joining windows are approximately **March 4–21** and **April 13–24, 2027**.
+
+## 94. Job-Led Relocation Outside Greater Seattle — October 18, 2026
+
+The chart contains a genuine career-led relocation promise, but it does not make leaving Greater Seattle compulsory. It shows an out-of-region role or relocation clause more strongly than it shows an immediate permanent move of the entire household.
+
+| Scenario, conditional on accepting a suitable external switch | Through April 2027 | May–November 2027 |
+|---|---:|---:|
+| Role is based outside Greater Seattle | **35–50%** | **45–60%** |
+| Bharath begins by commuting, traveling or renting temporarily | **20–30%** | **30–40%** |
+| Whole household relocates promptly | **8–15%** | **15–25%** |
+| Seattle remains the operating base through local/remote work | **50–65%** | **35–50%** |
+
+These are overlapping, subjective scenario ranges rather than statistical probabilities. Through April, the unconditional chance of a completed household move is lower because a completed employer switch itself is not yet the base case.
+
+- **Natal/D4:** exalted 4th/9th lord Venus is linked with 10th lord Mars and Ketu, tying home, fortune, career and separation. D4 Jupiter in the ascendant protects housing security; D4 4th lord Mars with Rahu in H11 supports an unusual or gain-driven move; D4 Mercury in H12 favors relocation expense, multiple residences or a staged base.
+- **Vimshottari:** Jupiter–Saturn through January 15, 2027 emphasizes obligations, employer control and delay. Jupiter–Mercury thereafter activates contracts and relocation paperwork. The sharper early location-term interval is approximately March 21–April 23. Jupiter–Mercury–Ketu from May 12–June 29 is the clearer detachment/setup phase; Jupiter–Mercury–Venus from June 29–November 14 supports compensation, residence and relocation-package negotiation.
+- **KP/Bhava Chalit:** the employment/change chain includes H3/H6/H10/H11/H12, but Jupiter remains in working Chalit H6 through April. This supports interviews, travel, location discussion and processing more than an immediate completed move. The H4 factors remain protective, so the move is more likely voluntary and benefit-driven than forced.
+- **BNN/Jaimini:** the mean-node Capricorn/Cancer transit from December 2026 places Rahu over A4 and Ketu over A10, directly linking residence and career. This repeats the subject matter of the 2008 relocation axis, but the current dasha and Aṣṭakavarga support are weaker than the 2008 Rahu–Jupiter–Venus combination, so it should not be treated as an automatic replay.
+- **2027 local annual chart:** if Bharath is in Bothell at the April 25 return, Rahu occupies annual H4 while Mars/Jupiter/Ketu occupy H10 and the annual 4th lord Saturn occupies H6. This is a clear job-versus-residence activation, but Saturn makes logistics, documentation, family obligations and cost decisive.
+- **Aṣṭakavarga:** Jupiter has five BAV points in Cancer and Leo, but both signs have only 23 SAV points; Saturn has two points in Pisces and three in Aries. Opportunity is better supported than the ease of relocation.
+
+**Timing:** now through April 2027 favors an out-of-area offer, travel, relocation clause or planning. May 12–June 29 favors separation/setup; June 29–September 17 favors negotiating compensation and relocation support; **September 17–November 14, 2027** is the clearest combined employer-contract and move-initiation interval. November–December can implement the move, while January–March 2028 favors settling.
+
+**Most likely practical form:** if a California or other nonlocal Staff/Principal role is compelling, Bharath starts through temporary housing, commuting or frequent travel while Divya, the Everett franchise, children and Seattle properties remain anchored locally. Preserve the Seattle home initially rather than selling immediately. A full family move becomes sensible only after the role proves durable, the franchise can operate without daily presence, and written compensation covers dual-housing, travel, forfeited equity, taxes and relocation costs. Astrology cannot identify California or any specific city.
+
+## 95. Recruiting Mailbox Update — October 23, 2026
+
+* At approximately **9:02 AM PDT**, Anthropic sent an automated acknowledgment confirming Bharath's application for **Staff+ Software Engineer, Storage + Transfer**. The acknowledgment is not recruiter interest, an interview invitation or a selection decision.
+* No new recruiter or hiring-process response was found from NVIDIA, Microsoft, Google, CoreWeave or Oracle/internal recruiting. In particular, no NVIDIA screening result or full-loop invitation had arrived by this refresh.
+* Other job-related messages located were automated job alerts or marketing, not recruiter outreach. The October 22 NVIDIA message was marketing/news and not an interview-process update.
+
+## 96. Recruiting and iSmash Mailbox Update — October 26, 2026
+
+* **NVIDIA JR2024421 closed:** At approximately **12:32 AM PDT**, NVIDIA sent a formal decline for **Principal Block and File Storage Software Engineer, Linux — DGX Cloud (JR2024421)** after Bharath's October 21 coding/communication screen. The message states that the team decided not to move forward. This closes JR2024421 only and does not determine the status of any separate NVIDIA application.
+* **Separate Microsoft Principal process opened and scheduled:** At approximately **7:46–7:47 AM PDT**, Microsoft recruiter Astha Gupta sent two messages for **Principal Software Engineer (200052038)**: a request to select a screening slot and a questionnaire covering contact information, prior/current Microsoft recruiting contacts, location and relocation, offer priorities, compensation expectations, competing processes and timing constraints. Bharath selected and accepted **Wednesday, November 4, 2026, 9:30–10:30 AM Pacific Standard Time** (**12:30–1:30 PM EST**) with **Jesus Aguilar**; the confirmation includes Teams and live-coding links. At approximately **5:18 PM PDT on October 26**, Bharath returned the requested questionnaire. This is distinct from the **October 26, 10:30–11:30 AM PDT** screen for **Azure Storage Principal Software Engineer (200047514)**. Requisition 200052038 remains an early-stage screen, not a full loop or offer.
+* **Carney/Onesta closeout response:** At approximately **3:13 AM PDT**, Ron Tobiasz said Carney would provide an update, asked to be kept informed about whether the landlord's work was completed that evening, and stated that the landlord should have someone onsite for the stair inspection to handle and answer inspection questions. The response did not yet identify the Carney/Onesta crew, give item-by-item completion dates or confirm the requested October 27 completion deadline.
+* **Thomas Sign payment transaction:** At approximately **3:10 AM PDT**, a Quaint Oak Bank alert reported a **$7,081.75** transaction from the Smash District account with the description “Thomas sig.” The alert establishes a posted transaction, not by itself Thomas Sign's written acknowledgment that the account is paid in full or that all contract/invoice disputes are released.
+* No newer substantive recruiter response was found in this refresh from Google, CoreWeave, Anthropic, Apple or Oracle/internal recruiting. Automated job alerts and marketing messages were not treated as pipeline movement.
+
+## 97. Microsoft Azure Storage Principal Screen Completed — October 26, 2026
+
+* Bharath completed the **Principal Software Engineer — Azure Storage** screen for **requisition 200047514** on **Monday, October 26, 2026, 10:30–11:30 AM PDT** with **Venkates Paramasivam Balakrishnan**. The invitation included Teams and a live-coding/HackerRank link. As of October 27, no post-screen decision, recruiter feedback or invitation to the four-round loop has been received.
+* The scheduling contact is **Jerilyn Samuel**. This completed screen is distinct from the separately scheduled **November 4** screen for requisition **200052038** with Jesus Aguilar.
+* Practical follow-up sequence: send a brief thank-you/continued-interest message on October 27 without asking for a decision; if there is no response, request a status update on **Friday, October 30 around 9:30–10:30 AM PDT**, with a further concise follow-up around **November 5–6** only if needed.

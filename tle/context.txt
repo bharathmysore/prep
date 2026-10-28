@@ -4,8 +4,28 @@ Checkpoint: October 18, 2026 (America/Los_Angeles)
 USER OBJECTIVE AND STATUS
 Recover the remaining franchise fee / Site Development Service Charge (SDSC)
 amounts held by The Learning Experience (TLE). User requested email review,
-review of the signed FDD, and a refund-request email draft. Nothing was sent.
-No Outlook draft, termination notice, complaint, or remote mutation was made.
+review of the signed FDD, and a refund-request email draft. As of the October
+18 refresh, the refund request remains in Outlook Drafts and is scheduled for
+later delivery; it has not been sent. No email or formal courier/certified-mail
+termination notice, complaint, or release is known to have been delivered or
+executed.
+
+LATEST DRAFT STATUS
+- October 18, 2026, 11:41 AM PDT is the Outlook draft's saved-message
+  timestamp, not a verified send time. The scheduled draft is addressed to
+  Jacob Lefkowitz and David Slavny, copying J. Stahl and C. Weissman, with
+  subject "Request for Refund of Franchise Fees."
+- The draft requests termination of the franchise arrangements; refund of the
+  franchise fee and SDSC amounts held by TLE; an accounting of payments and
+  remaining balance; written confirmation of the proposed refund and payment
+  schedule; and the required termination and refund documents. It requests a
+  response within seven business days.
+- The draft does not state the approximate partial refund previously received.
+  No incoming TLE response was found in the October 18 refresh, which is
+  expected because the request has not yet been delivered.
+- When sent, the email will open the refund discussion but should not by
+  itself be treated as proof that any contractually prescribed
+  termination-notice method was met.
 
 MONEY: VERIFIED VS UNVERIFIED
 - User reports receiving a partial refund: "i believe around 55k-60k".

@@ -1,0 +1,249 @@
+{
+  "title": "iSmash Everett email refresh — October 27, 2026, 4:00 PM PDT",
+  "source": "Microsoft Outlook Email connector; read-only list and search operations",
+  "captured_at_utc": "2026-10-27T23:00:55Z",
+  "display_timezone": "America/Los_Angeles",
+  "previous_refresh_cutoff_utc": "2026-10-27T21:35:27Z",
+  "previous_snapshot": "/Users/bmysoren/prep/ismash/evidence/emails/2026-10-27_refresh.json",
+  "preserved_baseline_sha256": "cc6e3794bbb9a90a19c0978a92132f7b173b6684bab53cb054b3a4d86721d68b",
+  "scope": "New project correspondence since October 27 2:35:27 PM PDT; Carney, Onesta LLC, NW Prime/Alex, corporate, City, lender and related vendors screened through exact-interval mailbox listing plus targeted and recent-mail search cross-checks.",
+  "message_count": 2,
+  "human_message_count": 2,
+  "automated_message_count": 0,
+  "query_count": 8,
+  "query_audit": [
+    {
+      "query": "to:everettwa.gov received>=2026-10-27",
+      "count": 1,
+      "has_more": false,
+      "next_from_index": null,
+      "candidate_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJcnl07AAAAA=="
+      ]
+    },
+    {
+      "query": "from:nwprime.com received>=2026-10-27",
+      "count": 1,
+      "has_more": false,
+      "next_from_index": null,
+      "candidate_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJcnjocQAAAA=="
+      ]
+    },
+    {
+      "query": "to:nwprime.com received>=2026-10-27",
+      "count": 1,
+      "has_more": false,
+      "next_from_index": null,
+      "candidate_ids": []
+    },
+    {
+      "query": "from:onestallc.com received>=2026-10-27",
+      "count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "candidate_ids": []
+    },
+    {
+      "query": "from:everettwa.gov received>=2026-10-27",
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null,
+      "candidate_ids": []
+    },
+    {
+      "query": "from:ismashfranchise.com received>=2026-10-27",
+      "count": 1,
+      "has_more": false,
+      "next_from_index": null,
+      "candidate_ids": []
+    },
+    {
+      "query": "from:carneycontracting.com received>=2026-10-27",
+      "count": 4,
+      "has_more": false,
+      "next_from_index": null,
+      "candidate_ids": []
+    },
+    {
+      "query": "to:carneycontracting.com received>=2026-10-27",
+      "count": 8,
+      "has_more": false,
+      "next_from_index": null,
+      "candidate_ids": []
+    }
+  ],
+  "recent_mail_audit": {
+    "filter": "receivedDateTime gt 2026-10-27T21:35:27Z",
+    "order_by": "receivedDateTime desc",
+    "pages": [
+      {
+        "offset": 0,
+        "count": 10,
+        "newest": "2026-10-27T22:59:05Z",
+        "oldest": "2026-10-27T21:36:46Z",
+        "has_more": false,
+        "next_from_index": null,
+        "candidate_ids": [
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJcnjocQAAAA==",
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJcnl07AAAAA=="
+        ]
+      }
+    ],
+    "complete": true
+  },
+  "recent_mail_search_crosscheck": {
+    "query": "received>=2026-10-27",
+    "count": 25,
+    "has_more": true,
+    "next_from_index": 25,
+    "newest": "2026-10-27T22:59:05Z",
+    "oldest": "2026-10-27T19:56:59Z",
+    "candidate_ids": [
+      "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJcnjocQAAAA==",
+      "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJcnl07AAAAA=="
+    ],
+    "new_ids": []
+  },
+  "draft_status_check": {
+    "filter": "isDraft eq true and receivedDateTime ge 2026-10-27T00:00:00Z",
+    "has_more": false,
+    "project_drafts": [
+      {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEKAAAARPm-s742-kq1G05hoJ2zSAAJcnkfCwAAAA==",
+        "subject": "Re: Next Steps — Revised Egress Plans and City CO for iSmash Everett [WAS Re: CO]",
+        "receivedDateTime": "2026-10-27T15:37:00Z"
+      }
+    ]
+  },
+  "messages": [
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJcnjocQAAAA==",
+        "subject": "Re: Revised Plan",
+        "body": {
+          "contentType": "html",
+          "content": "Hi Bharath  \n  \nWe are still waiting on one item for the installation. The vendor indicated it\nshould arrive this week. I will follow up for an update and let you know as\nsoon as I hear back.  \n  \nBest regards,  \n  \nAlex Jo  \nNW Prime Properties, Inc\n\n  \n\n  \n\n  \n\nOn Tue, Oct 27, 2026 at 8:42 AM Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)> wrote:  \n\n> Hi Alex,\n>\n> Wanted to check if we can call in our final inspection Oct-28/29 ?\n>\n>  \n>\n>\n> Thanks\n>\n> Bharath\n>\n> * * *\n>\n> **From:** Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Sent:** Friday, October 23, 2026 11:32 AM  \n> **To:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Subject:** Re: Revised Plan\n>\n>  \n>\n> Hi Alex,\n>\n> Can the work be completed by Tuesday ? We are ready to call in inspection.\n>\n>  \n>\n>\n> Regards\n>\n> Bharath\n>\n> * * *\n>\n> **From:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Sent:** Wednesday, October 21, 2026 4:24 PM  \n> **To:** Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Subject:** Re: Revised Plan\n>\n>  \n>\n> Hi Bharath,  \n>  \n> The team plans to move to production soon, with installation scheduled for\n> next week. I will keep you updated as things progress.  \n>  \n> Best regards,  \n>  \n> Alex Jo  \n> NW Prime Properties, Inc.\n>\n>  \n>\n>\n>  \n>\n>\n>  \n>\n>\n> On Thu, Oct 22, 2026 at 2:18 AM Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)> wrote:  \n>\n>\n\n>> Hi Alex,\n\n>>\n\n>> Following up on the exterior stair work. Our final Certificate of Occupancy\ninspection depends on completion and City inspection of the stair work.\n\n>>\n\n>> Could you please let us know the expected work completion date and when the\nstair inspection will be scheduled?\n\n>>\n\n>> Once the stair inspection passes and the remaining tenant work is complete,\nwe plan to request the next available final CO inspection.\n\n>>\n\n>> Thanks,  \n> Bharath\n>>\n\n>> * * *\n\n>>\n\n>> **From:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Sent:** Thursday, October 15, 2026 1:22 PM  \n> **To:** Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Subject:** Re: Revised Plan\n>>\n\n>>  \n>>\n\n>> Hi Bharath  \n>  \n> Yes, they are starting production right now. Our general contractor will\n> also be working on this project soon.  \n>  \n> Best regards,  \n>  \n> Alex Jo  \n> NW Prime Properties, Inc.\n>>\n\n>>  \n>\n>>\n\n>>  \n>\n>>\n\n>> On Fri, Oct 16, 2026 at 5:19 AM Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)> wrote:  \n>\n>>\n\n>>> Hi Alex,\n\n>>>\n\n>>> I see that you guys have the approved permit. Wanted to check on when the\nwork will be completed. So that we can call in final inspection.\n\n>>>\n\n>>>  \n>\n>>>\n\n>>> Thanks\n\n>>>\n\n>>> Bharath\n\n>>>\n\n>>> * * *\n\n>>>\n\n>>> **From:** Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Sent:** Friday, October 9, 2026 1:31 PM  \n> **To:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Subject:** Re: Revised Plan\n>>>\n\n>>>  \n>>>\n\n>>> Currently the contractor details is TBD\n\n>>>\n\n>>> ![](cid:ii_1a17f7adda6ea654a7f1)\n\n>>>\n\n>>> * * *\n\n>>>\n\n>>> **From:** Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Sent:** Friday, October 9, 2026 1:22 PM  \n> **To:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Subject:** Re: Revised Plan\n>>>\n\n>>>  \n>>>\n\n>>> Hi Alex,\n\n>>>\n\n>>> I talked to the city they are waiting on information related to\ncontractor(their license, ..) who will be working on this.\n\n>>>\n\n>>>  \n>\n>>>\n\n>>> Or if you are looking into this then need to submit an affidavit -\n[https://www.everettwa.gov/DocumentCenter/View/33276](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.everettwa.gov%2FDocumentCenter%2FView%2F33276&data=05%7C02%7C%7C7b33dcf6af58433fbb1808df3479e779%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639287370314749452%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=lyYRtsylx%2FDY2WsHDrWsgGFnCKUxDAeAxGERympFKEo%3D&reserved=0)\n\n>>>\n\n>>>  \n>\n>>>\n\n>>> These should be sent to them via email\n[PermitServices@everettwa.gov](mailto:PermitServices@everettwa.gov) with the\npermit number.\n\n>>>\n\n>>>  \n>\n>>>\n\n>>> Thanks\n\n>>>\n\n>>> Bharath\n\n>>>\n\n>>>  \n>\n>>>\n\n>>>  \n>\n>>>\n\n>>> * * *\n\n>>>\n\n>>> **From:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Sent:** Friday, October 9, 2026 12:52 PM  \n> **To:** Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Subject:** Re: Revised Plan\n>>>\n\n>>>  \n>>>\n\n>>> Hi Bharath  \n>  \n> We are still waiting for our permit approval. I am currently out of the\n> country, but I remain available and reachable by email.  \n>  \n> Best regards,  \n>  \n> Alex Jo  \n> NW Prime Properties, Inc\n>>>\n\n>>>  \n>\n>>>\n\n>>>  \n>\n>>>\n\n>>>  \n>\n>>>\n\n>>> On Sat, Oct 10, 2026 at 3:51 AM Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)> wrote:  \n>\n>>>\n\n>>>> Hi Alex,\n\n>>>>\n\n>>>> Wanted to check if the construction started on Monday. We will start our\nwork on Monday and should be ready for final by Friday.\n\n>>>>\n\n>>>>  \n>\n>>>>\n\n>>>> Thanks\n\n>>>>\n\n>>>> Bharath\n\n>>>>\n\n>>>> * * *\n\n>>>>\n\n>>>> **From:** Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Sent:** Tuesday, October 6, 2026 10:55 AM  \n> **To:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Subject:** Re: Revised Plan\n>>>>\n\n>>>>  \n>>>>\n\n>>>> Hi Alex,\n\n>>>>\n\n>>>> We have been talking to the city about this permit. City has finalized\nall the things and will be approved. Adam should get updated in next 48 hr.\nLet me know if there is any issue(B2609-071)\n\n>>>>\n\n>>>>  \n>\n>>>>\n\n>>>> Thanks\n\n>>>>\n\n>>>> Bharath\n\n>>>>\n\n>>>> * * *\n\n>>>>\n\n>>>> **From:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Sent:** Wednesday, September 30, 2026 6:20 PM  \n> **To:** Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Subject:** Re: Revised Plan\n>>>>\n\n>>>>  \n>>>>\n\n>>>> Hi Bharath,  \n>  \n> As mentioned previously, our new permit timeline is longer than yours.  \n>  \n> Our architect, Adam, noted that it could take a month or more to get city\n> approval due to a backlog:  \n>  \n> \"It could be a month or more before we hear from the city. I do not have a\n> means to move them any quicker. \\- Adam\"  \n>  \n> Could you please check with your city inspector to see if there is any way\n> to combine the new permit with yours? Since all of this work is tied\n> together for the city inspection, combining them may allow us to proceed\n> without treating it as a separate project.  \n>  \n> Please note that we are providing this assistance as a courtesy to help you\n> open your store. While we cannot guarantee a specific timeline due to city\n> processing times, we are doing what we can to help move things along.  \n>  \n> Best regards,  \n>  \n> Alex Jo  \n>  \n>\n>>>>\n\n>>>>  \n>\n>>>>\n\n>>>> On Wed, Sep 30, 2026 at 4:03 PM Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)> wrote:  \n>\n>>>>\n\n>>>>> Hi Alex, wanted to check if you have any update on when the stairs will\nbe addressed\n\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>> Thanks\n\n>>>>>\n\n>>>>> Bharath\n\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>> * * *\n\n>>>>>\n\n>>>>> **From:** Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Sent:** Friday, 25 September 2026 11:08:07  \n> **To:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Subject:** Re: Revised Plan\n>>>>>\n\n>>>>>  \n>>>>>\n\n>>>>> Thanks Alex, we will update our drawing ie no stair dimensions and file\nwith the city. We will wait on your changes(city approval and construction)\nbefore we call our inspection\n\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>> Regards\n\n>>>>>\n\n>>>>> Bharath\n\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>> * * *\n\n>>>>>\n\n>>>>> **From:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Sent:** Friday, 25 September 2026 10:44:36  \n> **To:** Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Subject:** Re: Revised Plan\n>>>>>\n\n>>>>>  \n>>>>>\n\n>>>>> Hi  \n>  \n> Yes, our architect is currently working on this project. We will keep you\n> updated on our progress.  \n>  \n> Best regards,  \n>  \n> Alex Jo  \n> NW Prime Properties, Inc.\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>> On Fri, Sep 25, 2026 at 10:37 AM Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)> wrote:  \n>\n>>>>>\n\n>>>>>> Hi Alex,\n\n>>>>>>\n\n>>>>>> I found the permit number B2609-071. This is a proposal submitted\nyesterday. So we will remove the stair changes on our end and reference this\npermit number ?\n\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>> Does this sound good ? I am at the site, if you are available we can\ntalk about this now ?\n\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>> Thanks\n\n>>>>>>\n\n>>>>>> Bharath\n\n>>>>>>\n\n>>>>>> * * *\n\n>>>>>>\n\n>>>>>> **From:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Sent:** Friday, September 25, 2026 10:34 AM  \n> **To:** Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Subject:** Re: Revised Plan\n>>>>>>\n\n>>>>>>  \n>>>>>>\n\n>>>>>> Hi  \n>  \n> We do not have the permit number yet, but I will keep you updated as soon as\n> we receive it.  \n>  \n> Best regards,  \n>  \n> Alex Jo  \n> NW Prime Properties, Inc\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>> On Fri, Sep 25, 2026 at 10:31 AM Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)> wrote:  \n>\n>>>>>>\n\n>>>>>>> Thanks,\n\n>>>>>>>\n\n>>>>>>> Do you have the pemit number for this change ? I can have my engineer\nto reference that instead of us providing any meansurements.\n\n>>>>>>>\n\n>>>>>>>  \n>\n>>>>>>>\n\n>>>>>>> Regards\n\n>>>>>>>\n\n>>>>>>> Bharath\n\n>>>>>>>\n\n>>>>>>> * * *\n\n>>>>>>>\n\n>>>>>>> **From:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Sent:** Friday, September 25, 2026 10:06 AM  \n> **To:** Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Subject:** Re: Revised Plan\n>>>>>>>\n\n>>>>>>>  \n>>>>>>>\n\n>>>>>>> Hi Bharath,  \n>  \n> We submitted the plan yesterday. Could you please clarify what is needed\n> from us regarding hiring an architect and submitting plans for the stair\n> modification? Although this is outside my primary scope, I am stepping in to\n> help ensure the store opens on schedule.  \n>  \n> For context, we have already hired an architect and are moving forward with\n> the changes from the egress update to the exit stair modification.  \n>  \n> I have attached the plan we submitted to the city for your reference.  \n>  \n> Best regards,  \n> Alex Jo  \n>  \n>\n>>>>>>>\n\n>>>>>>>  \n>\n>>>>>>>\n\n>>>>>>> On Fri, Sep 25, 2026 at 9:53 AM Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)> wrote:  \n>\n>>>>>>>\n\n>>>>>>>> Don’t want the inspector/city to get confused about the difference in\nstair dimensions\n\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> Regards\n\n>>>>>>>>\n\n>>>>>>>> Bharath\n\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> * * *\n\n>>>>>>>>\n\n>>>>>>>> **From:** Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Sent:** Friday, 25 September 2026 09:51:49  \n> **To:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Subject:** Re: Revised Plan\n>>>>>>>>\n\n>>>>>>>>  \n>>>>>>>>\n\n>>>>>>>> Hi Alex, can I go with our changes and stair will be fixed right ?\n\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> Regards\n\n>>>>>>>>\n\n>>>>>>>> Bharath\n\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> * * *\n\n>>>>>>>>\n\n>>>>>>>> **From:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Sent:** Friday, 25 September 2026 09:44:22  \n> **To:** Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Subject:** Re: Revised Plan\n>>>>>>>>\n\n>>>>>>>>  \n>>>>>>>>\n\n>>>>>>>> Hi Bharath,  \n>  \n> We submitted the architectural plans for the stair modifications to the city\n> for approval yesterday.  \n>  \n> I will keep you updated on our progress.  \n>  \n> Best regards,  \n> Alex Jo  \n>  \n>\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> On Thu, Sep 24, 2026 at 4:06 PM Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)> wrote:  \n>\n>>>>>>>>\n\n>>>>>>>>> Alex,\n\n>>>>>>>>>\n\n>>>>>>>>> In the safety plan we will remove ![](cid:ii_1a17f7adda6ea654a7f2)\n\n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>> * * *\n\n>>>>>>>>>\n\n>>>>>>>>> **From:** Bharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Sent:** Thursday, September 24, 2026 3:56 PM  \n> **To:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Subject:** Re: Revised Plan\n>>>>>>>>>\n\n>>>>>>>>>  \n>>>>>>>>>\n\n>>>>>>>>> Hi Alex,\n\n>>>>>>>>>\n\n>>>>>>>>> I have the plans ready and was discussed with inspector. Appreciate\nif you can review it and get back ASAP.\n\n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>> We will be filing this tomorrow morning.\n\n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>> Thanks\n\n>>>>>>>>>\n\n>>>>>>>>> Bharath\n\n>>>>>>>>>\n\n>>>>>>>>> * * *\n\n>>>>>>>>>\n\n>>>>>>>>> **From:** ALEX JO <[ALEX@nwprime.com](mailto:ALEX@nwprime.com)>  \n> **Sent:** Tuesday, September 22, 2026 12:21 PM  \n> **To:** Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Subject:** Revised Plan\n>>>>>>>>>\n\n>>>>>>>>>  \n>>>>>>>>>\n\n>>>>>>>>> Hi Bharath,  \n>  \n> Could you please share your revised plan for the City Summit project?\n>>>>>>>>>\n\n>>>>>>>>>  \n> Best regards,  \n>  \n>  \n>\n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>> Alex Jo  \n> NW Prime Properties, Inc\n\n"
+        },
+        "bodyPreview": "Hi Bharath\r\n\r\nWe are still waiting on one item for the installation. The vendor indicated it should arrive this week. I will follow up for an update and let you know as soon as I hear back.\r\n\r\nBest regards,\r\n\r\nAlex Jo\r\nNW Prime Properties, Inc\r\n\r\n\r\n\r\nOn T",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJcnjocQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "ALEX@nwprime.com",
+            "name": "ALEX JO"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "bharathkumarmn@hotmail.com",
+              "name": "Bharath Mysore"
+            }
+          }
+        ],
+        "ccRecipients": [],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-10-27T22:30:31Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": false,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJcnjocQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Re: Revised Plan"
+      },
+      "queries": [
+        "list exact interval",
+        "from:nwprime.com received>=2026-10-27",
+        "recent-mail search cross-check"
+      ],
+      "record_id": "E001",
+      "classification": "human_email"
+    },
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJcnl07AAAAA==",
+        "subject": "Re: [EXTERNAL] City of Everett eTRAKiT Contact Form",
+        "body": {
+          "contentType": "html",
+          "content": "Hi Rakeeb,\n\nThank you for your response.\n\nIf not final, can the changes be inspected to ensure that its all compliant.\nSo that there will only be paperwork to stamp the TI permit as final left.\n\nWhile waiting on the final, we want to setup the store. We will be using the\nstorage area too for setup\n\nOnce we have B2609-071 finalled, city can final the TI permit(paper work only)\nand issue CO after both the permits are finalled.\n\n  \n\nRegards\n\nBharath\n\n* * *\n\n**From:** Rakeeb Khan <RKhan@everettwa.gov>  \n**Sent:** Tuesday, October 27, 2026 1:13 PM  \n**To:** bharathkumarmn@hotmail.com <bharathkumarmn@hotmail.com>  \n**Cc:** E Trakit (PW) <ETrakit@everettwa.gov>  \n**Subject:** Re: [EXTERNAL] City of Everett eTRAKiT Contact Form\n\n\n\nCategory 2: Sensitive information\n\n  \n\nHello Bharath,\n\n  \n\nPermit B2609-071 would require a final approval in order to final approve the\nTI permit B2512-031. This is part of the egress path.\n\n  \n\nThank you,\n\n\n\n![](cid:1ec66061-e77f-4187-ad57-6b653e6d9810)**Rakeeb Khan, P.E.**\n\nBuilding Inspector | Public Works\n\nP: 425.257.8810  | 2930 Wetmore Ave. 2nd Floor, Everett, WA 98201\n\n[ _everettwa.gov_](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Feverettwa.gov%2F&data=05%7C02%7C%7C48da60f73ac546c466aa08df3466bd35%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639287288002441732%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=CXGQLZ1EAGdTEG4zZjUaKSSFFYI%2BL3krnxd3esv6%2BIU%3D&reserved=0) _/pw_   | [_Facebook_](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2FEverettCity&data=05%7C02%7C%7C48da60f73ac546c466aa08df3466bd35%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639287288002469279%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=i5i1s%2FPzJuupdZxiXMiPWH5zBf9DX%2FzQxPT6dxeelIw%3D&reserved=0)   | [_Twitter_](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Feverettcity&data=05%7C02%7C%7C48da60f73ac546c466aa08df3466bd35%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639287288002489284%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=0b6m7mQjhJP6zJ2Vlk0DAFFayzPfDo395vFKwtXeALA%3D&reserved=0)\n\n\n\nNote: Emails and attachments sent to and from the City of Everett are public\nrecords and may be subject to disclosure pursuant to the Public Records Act.\n\n\n\n  \n\n  \n\n* * *\n\n**From:** E Trakit (PW) <ETrakit@everettwa.gov>  \n**Sent:** Tuesday, October 27, 2026 11:09 AM  \n**To:** bharathkumarmn@hotmail.com <bharathkumarmn@hotmail.com>  \n**Cc:** Rakeeb Khan <RKhan@everettwa.gov>  \n**Subject:** RE: [EXTERNAL] City of Everett eTRAKiT Contact Form\n\n  \n\nCategory 2: Sensitive information\n\n  \n\nGood morning, Bharath.  \n  \nI am including the building inspector on this response to see if he is able to\nassist.\n\n\n\nRakeeb, can B2512-031 (TI) be finalled without B2609-071 (EXT STAIR\nREPAIR/HAND/GUARD RAIL, Landlord) being finalled first? I believe B2609-071 is\na repair to a means of egress but wanted to check in and see if you could\nprovide some insight.\n\n\n\n![](cid:image001.jpg@01DD6603.A1F5ABB0)\n\n\n\n![](cid:image002.jpg@01DD6603.A1F5ABB0)\n\n\n\nThank you,  \n\n\n\nSheyenne Morton | Permit Technician\n\n425.257.8810 | 2930 Wetmore Ave, 2nd Floor, Everett, WA 98201\n\nPhone Hours: M – F: 8:30 a.m. – 12 p.m & 1 p.m. – 3 p.m.\n\nPermit Counter Hours: M, W, Th 8:30 a.m. – 12:00 p.m. & 1:00 p.m. – 3:00 p.m.\n\neverettwa.gov/permits  | onlinepermits.everettwa.gov | schedule a permit counter appointment \n\nNote: Emails and attachments sent to and from the City of Everett are public\nrecords and may be subject to disclosure pursuant to the Public Records Act.\n\n\n\n  \n\nCategory 2: For official use only / disclosure permissible by law.\n\n\\-----Original Message-----  \nFrom: bharathkumarmn@hotmail.com <bharathkumarmn@hotmail.com>  \nSent: Thursday, October 22, 2026 12:07 PM  \nTo: E Trakit (PW) <ETrakit@everettwa.gov>  \nSubject: [EXTERNAL] City of Everett eTRAKiT Contact Form\n\n\n\nCAUTION: This email originated from outside of the organization. Do not click\nlinks or open attachments unless you recognize the sender and know the content\nis safe.\n\n\n\n\n\nName: Bharath Mysore\n\nAddress: 1411 233rd Pl SE\n\nCity, State, Zip: Bothell, WA 98021\n\nPhone: 4255036839\n\n\n\nComments: We currently have two permits B2512-031(TI) and B2609-071(Landlord)\npermits. I want to check if we complete our work for B2512-031(TI) and call in\nfor inspection to verify the changes and ensure things okay to be finalled.\nInstead of waiting on B2609-071(Landlord) final.\n\nI am asking this because, if we can get a sign-off on B2512-031(TI) permit we\ncan setup our store while waiting for the building exterior\nB2609-071(Landlord) to be approved. I am okay with getting CO once all these\npermits are final.\n\n\n\nThanks\n\nBharath\n\n\n\n  \n\nCategory 2: For official use only / disclosure permissible by law.\n\n"
+        },
+        "bodyPreview": "Hi Rakeeb,\r\nThank you for your response.\r\nIf not final, can the changes be inspected to ensure that its all compliant. So that there will only be paperwork to stamp the TI permit as final left.\r\nWhile waiting on the final, we want to setup the store. We w",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJcnl07AAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "RKhan@everettwa.gov",
+              "name": "Rakeeb Khan"
+            }
+          }
+        ],
+        "ccRecipients": [
+          {
+            "emailAddress": {
+              "address": "ETrakit@everettwa.gov",
+              "name": "E Trakit (PW)"
+            }
+          }
+        ],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-10-27T21:39:22Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": false,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJcnl07AAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Re: [EXTERNAL] City of Everett eTRAKiT Contact Form"
+      },
+      "queries": [
+        "list exact interval",
+        "to:everettwa.gov received>=2026-10-27",
+        "recent-mail search cross-check"
+      ],
+      "record_id": "E002",
+      "classification": "human_email"
+    }
+  ],
+  "key_updates": [
+    {
+      "records": [
+        "E001"
+      ],
+      "status": "landlord_remaining_item",
+      "summary": "October 27 3:30 PM PDT: Alex says they are still waiting on one installation item, which the vendor indicated should arrive this week; he will follow up and report back. He does not identify the item, a firm delivery/installation-completion date, or an inspection booking. His reply does not confirm readiness for the requested October 28/29 final inspection. Earlier owner report that stairs were installed should not be treated as confirmation all landlord work is complete."
+    },
+    {
+      "records": [
+        "E002"
+      ],
+      "status": "city_followup_now_sent",
+      "summary": "October 27 2:39 PM PDT: Bharath's follow-up to Rakeeb was sent. He asks for inspection of the tenant changes while final approval is pending so only TI final paperwork would remain, says he wants to set up the store and use storage, and proposes CO after both permits are finalized. This is an owner request/proposed sequence, not City authorization or confirmation that no further site inspection will be required. No later City response found."
+    },
+    {
+      "status": "unchanged",
+      "summary": "No newer Carney, Onesta or corporate update found. Ron's most recent written target remains Wednesday October 28 EOD for Tyson's remaining work. City's prerequisite remains B2609-071 final approval before B2512-031 TI final approval. No passed stair inspection or issued CO found."
+    }
+  ],
+  "prior_draft_transition": {
+    "prior_snapshot": "/Users/bmysoren/prep/ismash/evidence/emails/2026-10-27_refresh.json",
+    "prior_draft_record": "D001",
+    "prior_draft_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJcnlxAAAB",
+    "new_sent_record": "E002",
+    "new_sent_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJcnl07AAAAA==",
+    "verification": "New sent-message ID and timestamp returned by listing and search; current server-side isDraft filter returns only the other, older Carney draft. The prior snapshot remains unchanged as a correct point-in-time draft observation."
+  },
+  "attachment_summary": {
+    "messages_with_has_attachments_true": [],
+    "status": "Neither new message reports a non-inline attachment. Quoted historical inline images and logos were not downloaded. Previous attachment retrieval gaps, including the cash-wrap markup, remain unchanged."
+  },
+  "limitations": [
+    "Bodies are the complete connector-returned transformed content and quoted chains, not original MIME/EML exports.",
+    "No City permission for setup, interim inspection, paper-only finalization, or occupancy is inferred from the owner's request.",
+    "Mail search findings are bounded to the recorded interval and checks. No external permit-portal or onsite verification performed.",
+    "No emails sent or drafts edited by the assistant; no mailbox, payment, booking, signing or agreement state changed. No earlier records deleted or overwritten."
+  ]
+}
+

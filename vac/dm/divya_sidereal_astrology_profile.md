@@ -20,6 +20,7 @@ Astrology is a cultural and spiritual interpretive system, not a scientifically 
 | Local birth time | 2:20 PM IST (UTC+05:30) |
 | UT | 4 June 1983, 08:50 UTC |
 | Birthplace | Mysore (Mysuru), Karnataka, India |
+| User reconfirmation | 18 October 2026: birth time reconfirmed as 2:20 PM IST in Mysore |
 | Coordinates used | 12.2958° N, 76.6394° E |
 | Zodiac | Sidereal |
 | Ayanamsha | Standard Lahiri (`SIDM_LAHIRI`) |
@@ -371,6 +372,43 @@ Dates are approximate and can differ by a day or more across software because of
 | Mars | 26 May 2072 | 27 May 2079 |
 | Rahu | 27 May 2079 | 26 May 2097 |
 
+### Saturn mahadasha — historical period, 27 May 1993–27 May 2012
+
+Saturn mahadasha covered approximately ages 10–29. It was **mixed but structurally constructive**: strong for disciplined education, technical mastery, resource habits, institutional responsibility, and career foundations, but demanding in workload, family/resource duty, competition, and personal ease. Natal Saturn's exaltation improves its capacity to organize and endure; it does not erase its 6th-house lordship, retrograde revision, or Bhava Chalit burden.
+
+Dates use the profile's 365.2425-day Vimshottari convention and are approximate by about one day because the saved lunar longitude is rounded and software boundary rules differ.
+
+| Antardasha | Approximate interval | Main natal activation; themes to compare with actual history |
+|---|---|---|
+| Saturn/Saturn | 27 May 1993–30 May 1996 | Maximum discipline and duty; education, family/resource formation, identity and self-management. The Aquarius/Pisces Sade-sati overlap concentrated the pressure but does not prove a particular event. |
+| Saturn/Mercury | 30 May 1996–7 Feb 1999 | Mercury rules the 1st/10th from the 8th: analytical or technical study, research, skill formation, adaptation and consequential change; guard overanalysis. |
+| Saturn/Ketu | 7 Feb 1999–18 Mar 2000 | Ketu shifts D1 `4 → Chalit 3`: pruning or redirection in home, education, communication, peers and independent skill development; do not assume relocation without evidence. |
+| Saturn/Venus | 18 Mar 2000–18 May 2003 | A standout constructive integration. Saturn's dispositor Venus rules the 2nd/9th and shifts `11 → 10`, supporting mentors, higher learning, networks, professional goodwill and gains through sustained work. |
+| Saturn/Sun | 18 May 2003–29 Apr 2004 | The 12th lord Sun in the 9th with Mars emphasizes authority, mentors, higher study, worldview, travel/foreign or expenditure themes; Sun–Mars intensity can bring impatience or authority friction. |
+| Saturn/Moon | 29 Apr 2004–29 Nov 2005 | The 11th lord Moon in the 6th: employment, service, competition, routines and gains through effort, accompanied by greater emotional or workload fluctuation. |
+| Saturn/Mars | 29 Nov 2005–7 Jan 2007 | Saturn's star lord Mars is the 3rd/8th lord in the 9th with Sun: initiative, technical/higher study, travel, legal or career redirection, with haste, conflict and abrupt-change risk. |
+| Saturn/Rahu | 7 Jan 2007–13 Nov 2009 | Rahu is D1 10th/Chalit 9th and D10 9th: ambitious, technical, foreign or unconventional education/career exposure, visibility and high variance; verification and ethical boundaries matter. |
+| Saturn/Jupiter | 13 Nov 2009–27 May 2012 | Jupiter rules the 4th/7th and shifts `3 → 2`: family/resources, home, partnership, counsel and career consolidation. This closing period contained the opening passes of Divya's Saturn return. |
+
+#### Why Saturn mahadasha delivered this way
+
+- **Parashara/D1:** For Virgo Lagna, Saturn owns the 5th and 6th, making it functionally mixed: learning, merit and strategy join service, competition, debt, disputes and routines. Retrograde exalted Saturn occupies the 2nd and aspects the 4th/Ketu, 8th/Mercury and 11th/Venus. Its 10th aspect from Libra 4°41′ falls almost exactly on Venus at Cancer 4°26′, tightly linking discipline with education, fortune, profession, networks and resources.
+- **Bhava Chalit:** Saturn shifts `2 → 1`. Family, speech and resource themes remain the D1 field, but identity, stamina, self-management and personally carried responsibility become the delivery field. Venus `11 → 10` and Jupiter `3 → 2` preserve professional and financial potential.
+- **KP:** Saturn is in Mars's star and Venus's sub, occupies Chalit 1 and owns 5/6. Mars occupies 9 and owns 3/8; Venus occupies Chalit 10, D1 11 and owns 2/9. The broad Saturn set is therefore `1/2/3/5/6/8/9/10/11`: constructive for study, skill, career and earned gains, while also carrying workload and transformation. A specific event still requires the relevant AD/PD, cusp and transit.
+- **BNN:** `Saturn → Venus → Moon → Saturn` is a closed dispositor loop. Disciplined resources and knowledge feed career, networks and goodwill; Moon in the 6th adds service and emotional workload; results become durable only through renewed Saturnian structure.
+- **Vargas:** In D10 Libra, Saturn is the 4th/5th lord and occupies the 2nd, a strong career-foundation and accumulated-expertise placement. In D24 Virgo, Saturn in the 3rd supports mastery through repetition and self-effort. In D9 Gemini, Saturn rules the 8th/9th and joins Mercury in the 6th, so mature relationships and values require role clarity, shared duty and repair of disagreement rather than implying automatic denial.
+
+#### Major Saturn-transit overlays during the mahadasha
+
+| Historical phase | Saturn's Lahiri-sidereal transit | Reference-frame meaning |
+|---|---|---|
+| 1993–17 Apr 1998 | Aquarius/Pisces, with a brief Capricorn revisit in Oct–Nov 1993 | The MD began during middle/final Sade-sati: Aquarius/Pisces are `6/7` from Virgo Lagna, `1/2` from Aquarius Moon and `4/5` from Scorpio AL. This made the opening years especially formative in work, family resources, emotional maturity, education and responsibility. Saturn crossed the natal Moon approximately 7 Apr, 20 Oct and 22 Dec 1995, ±1 day. |
+| 17 Apr 1998–5 Sep 2004 | Aries→Taurus→Gemini, with short retrograde revisits | These are `8→9→10` from Virgo, `3→4→5` from Moon and `6→7→8` from AL: transformation and self-effort lead toward higher learning and career formation, while public-image results can remain uneven. |
+| 5 Sep 2004–9 Sep 2009 | Cancer→Leo, with retrograde revisits | These are `11→12` from Virgo, `6→7` from Moon and `9→10` from AL: gains and networks alternate with expenditure/backstage work, while career visibility and partnership demands increase. |
+| 9 Sep 2009–MD end | Virgo→Libra | These are `1→2` from Virgo, `8→9` from Moon and `11→12` from AL: identity and resource consolidation dominate. Saturn entered Libra around 15 Nov 2011 and crossed natal Saturn near 9 Jan and 9 Mar 2012, ±1 day; the final direct return around 25 Sep 2012 occurred after Mercury mahadasha began. |
+
+These are retrospective timing themes, not claims that an education, marriage, relocation, health, financial or career event occurred. Dated life events from 1993–2012 are needed to validate which promise actually manifested.
+
 ### Mercury mahadasha subperiods
 
 | Antardasha | Approximate start | Approximate end |
@@ -614,28 +652,510 @@ Ranges after 2030 are deliberately wide and lower-confidence. Recalculate them a
 
 For real planning, construct monthly revenue, fixed-cost, variable-cost, debt-service, cash-flow, and owner-distribution scenarios. The [U.S. Small Business Administration's planning guidance](https://www.sba.gov/counseling/plan-your-business/) recommends financial projections and break-even analysis based on actual costs, pricing, and unit volume; these measurements—not astrology—determine whether income can be distributed safely.
 
+## 15C. Tithi Pravesha annual chart — 8 June 2026 to 28 May 2027
+
+**Question recorded 18 October 2026:** “What does Divya's Tithi Pravesha chart say?”
+
+### Calculation convention and annual scope
+
+The return was calculated by matching Divya's exact natal Sun–Moon elongation with the Sun in the natal sidereal solar sign. The natal elongation is **275°27′22″**, or Krishna Ashtami, 95.467% elapsed. The resulting return occurred at **8 June 2026, 20:49:59 UTC**, equivalent to **8 June, 1:49:59 PM PDT** in Everett and **9 June, 2:19:59 AM IST** in Mysore. The next return occurs at approximately **29 May 2027, 01:41:04 UTC**, or **28 May, 6:41:04 PM PDT / 29 May, 7:11:04 AM IST**. This is therefore the active annual chart on the analysis date.
+
+The canonical chart below is cast for **Mysore**, Divya's birthplace. This follows the birthplace convention taught in the Sanjay Rath/P.V.R. Narasimha Rao Tithi Pravesha tradition. Some practitioners relocate an annual chart to the current residence; an Everett relocation overlay is noted separately and is not mixed into the canonical houses. The return instant and planetary longitudes are global; only the ascendant, houses, cusps, and hora depend on location.
+
+The return fell before local sunrise, so the Vedic weekday remained Monday and the vara lord was the Moon. Using standard apparent sunrise/sunset, the Mercury night hora ran approximately 2:14:20–3:10:14 AM IST; the 2:19:59 AM return was therefore in **Mercury hora**. Mercury is treated as the annual Hora/Year Lord, with the caution that exact birth and return times remain important because the return was only about six minutes after the hora boundary.
+
+Tithi Pravesha is an annual overlay, not a replacement for the natal chart. Parashara natal promise, natal KP, Vimshottari dasha, and verified transits remain primary. The annual Bhava Chalit and KP layers below are requested cross-method consistency checks rather than classical components accepted by every Tithi Pravesha school. Muntha is also school-dependent and is kept supplementary.
+
+References for the method and its variants:
+
+- [Sanjay Rath — Tithi Pravesha](https://srath.com/jyoti%E1%B9%A3a/tithi-pravesa/tithi-pravesha/)
+- [P.V.R. Narasimha Rao — Tithi Pravesha paper](https://www.vedicastrologer.org/articles/pp_tp.pdf)
+- [Parasara Jyotish — annual-chart explanation](https://www.parasara.net/learn/tithi-pravesha-annual-chart)
+
+### Canonical Mysore annual chart
+
+The annual ascendant is **Pisces 25°20′14″** and the MC is Sagittarius 20°51′57″. Pisces is the natal 7th sign, 2nd from the natal Aquarius Moon, and 5th from the natal Scorpio Arudha Lagna. Partners, vendors, customers, contracts, money/security, entrepreneurship, and creative visibility therefore define the annual frame. The annual Arudha Lagna also calculates to Scorpio, repeating the natal Arudha.
+
+| Body | Lahiri-sidereal longitude | Whole-sign house | Annual Bhava Chalit house | KP star / sub |
+|---|---:|---:|---:|---|
+| Ascendant | Pisces 25°20′14″ | 1 | 1 cusp | Mercury / Rahu |
+| Sun | Taurus 23°50′34″ | 3 | **2** | Mars / Mars |
+| Moon | Aquarius 29°17′56″ | 12 | 12 | Jupiter / Sun |
+| Mars | Aries 21°20′04″ | 2 | **1** | Venus / Jupiter |
+| Mercury | Gemini 16°57′52″ | 4 | **3** | Rahu / Venus |
+| Jupiter | Cancer 01°21′32″ | 5 | **4** | Jupiter / Rahu |
+| Venus | Cancer 00°25′14″ | 5 | **4** | Jupiter / Moon |
+| Saturn | Pisces 18°38′36″ | 1 | **12** | Mercury / Ketu |
+| Rahu, true | Aquarius 08°41′38″ | 12 | **11** | Rahu / Jupiter |
+| Ketu, true | Leo 08°41′38″ | 6 | **5** | Ketu / Jupiter |
+
+Annual Placidus cusps used for the Bhava Chalit/KP consistency check:
+
+| Cusp | Longitude | KP star / sub |
+|---:|---:|---|
+| 1 | Pisces 25°20′14″ | Mercury / Rahu |
+| 2 | Aries 27°18′28″ | Sun / Sun |
+| 3 | Taurus 24°52′31″ | Mars / Rahu |
+| 4 | Gemini 20°51′57″ | Jupiter / Jupiter |
+| 5 | Cancer 18°24′51″ | Mercury / Mercury |
+| 6 | Leo 20°00′16″ | Venus / Rahu |
+| 7 | Virgo 25°20′14″ | Mars / Rahu |
+| 8 | Libra 27°18′28″ | Jupiter / Venus |
+| 9 | Scorpio 24°52′31″ | Mercury / Rahu |
+| 10 | Sagittarius 20°51′57″ | Venus / Jupiter |
+| 11 | Capricorn 18°24′51″ | Moon / Mercury |
+| 12 | Aquarius 20°00′16″ | Jupiter / Jupiter |
+
+### Integrated reading
+
+**Parashara and varga cross-check:** Pisces annual Lagna is occupied by Saturn, while Lagna and 10th lord Jupiter is exalted in Cancer in the 5th and closely conjunct Venus. Jupiter aspects the annual Lagna, 9th, and 11th, protecting the chart and connecting leadership, enterprise, advisers, customers, learning, and gains. The 5th-house placement is especially apt for an entertainment/customer-experience business. Mercury, the annual 4th/7th lord and Year Lord, occupies its own Gemini in the 4th; premises, documents, inspections, contracts, partners, and the operating base are the year's practical lever. Mars, annual 2nd/9th lord, occupies its own Aries in the 2nd, supporting resource mobilization but also warning against cash burn or sharp decisions. Saturn as 11th/12th lord in the annual 1st aspects the 7th and 10th, making responsibility, vendors, compliance, and delayed conversion of effort into gains central. Moon with Rahu in the 12th describes backstage work, expense, uncertainty, or disturbed recovery; they are about 20° apart and are not treated as a tight eclipse conjunction. Ketu in the 6th can help cut through obstacles but can fragment routines or staffing.
+
+The natal D10 remains supportive through Moon–Jupiter in its ascendant, Sun–Mars in its 10th, and Saturn in its 2nd. As a secondary annual-varga check, the TP D10 has Rahu in the 10th, Saturn in the 11th, Sun in its own Leo in the 2nd, and Jupiter–Venus in Pisces in the 9th; this supports public reach and enterprise but does not remove volatility or execution pressure. The TP D4 places Mercury in the ascendant and Jupiter–Venus in the 8th, fitting a premises year that advances through redesign, correction, financing, or shared resources rather than effortless completion.
+
+**Bhava Chalit:** The shifts make the franchise theme unusually literal. Jupiter and Venus move `5 → 4`, so the creative/customer promise operates through the building, premises, occupancy, and operating base. Mercury moves `4 → 3`, making filings, technical communication, vendor coordination, and repeated follow-up the delivery mechanism. Mars moves `2 → 1`, placing financial action personally on Divya. Sun moves `3 → 2`, tying authorities and effort to cash/resource decisions. Saturn moves `1 → 12`, showing hidden labor, delay, overhead, and depletion behind the visible project. Rahu moves `12 → 11`, permitting unconventional assistance or network gains, while Ketu moves `6 → 5`, making promotion, judgment, and the entertainment offering selective or uneven. The Moon remains in the 12th.
+
+**KP consistency check:** For business and income, the operative houses are `2/6/10/11`; premises and agreements additionally require `4/7`. The annual 2nd cusp sub-lord Sun occupies Chalit 2, owns the 6th, and works through Mars, which owns 2/9 and occupies Chalit 1. The 4th and 10th cusp sub-lord Jupiter owns annual 1/10 and occupies Chalit 4. The 11th cusp sub-lord Mercury occupies Chalit 3, owns 4/7, and is in Rahu's star; Rahu occupies Chalit 11 but represents Saturn's 11/12 cost structure. The 6th and 7th cusp sub-lord Rahu again connects work and partners with `10/11`, but also `12`. The required outcome houses therefore connect clearly: the chart promises business establishment, customers, work, and revenue opportunity. The repeated 12th-house link says gross activity or revenue can precede retained cash and owner distribution.
+
+**BNN:** The annual chain is `Jupiter + Venus in Cancer → Moon/Rahu in Aquarius → Saturn in Pisces → Jupiter`. Opportunity, customers, creativity, and money flow through emotional/service load, backstage expense, and patient structure before becoming durable. Mercury in its own Gemini is self-disposited and acts as a practical circuit-breaker: accurate documents, direct communication, and controlled agreements can shorten the loop. Mars in its own Aries similarly gives action capacity, but needs cash and conflict discipline. The annual Jupiter–Venus conjunction in Cancer reactivates natal Venus in Cancer, while the annual Saturn–Moon/Rahu pattern repeats Divya's natal Saturn–Venus–Moon work/resource loop. This supports eventual structure, not effortless speed.
+
+### Annual and natal timing on 18 October 2026
+
+At the return, the natal Vimshottari period was approximately **Mercury/Jupiter/Rahu**, consistent with expansion, advisers, alliances, visibility, and high variance. On the analysis date the natal period is **Mercury/Saturn/Saturn**, with the fourth level **Mercury** approximately 11 October–2 November. Mercury emphasizes filings and coordination; Saturn makes correction, compliance, vendors, cash discipline, and durability the price of progress.
+
+For the TP-specific Tithi-Ashtottari sequence, Krishna Ashtami is treated as tithi 23 and therefore Rahu-ruled. This avoids confusing it with paksha-only tithi-lord tables. Approximate annual periods are:
+
+| Tithi-Ashtottari annual period | Approximate interval |
+|---|---|
+| Rahu balance | 9–10 Jun 2026 |
+| Venus | 10 Jun–18 Aug 2026 |
+| Sun | 18 Aug–7 Sep 2026 |
+| **Moon** | **7 Sep–26 Oct 2026** |
+| Mars | 26 Oct–21 Nov 2026 |
+| Mercury | 21 Nov 2026–16 Jan 2027 |
+| Saturn | 16 Jan–18 Feb 2027 |
+| Jupiter | 18 Feb–21 Apr 2027 |
+| Rahu | 21 Apr–29 May 2027 |
+
+On 18 October the annual fine period is approximately **Moon/Sun**. The Moon is annual 5th lord in the 12th with Rahu; its Jupiter star supplies protection, while the Sun as 6th lord in Chalit 2 links the immediate period to authorities, corrections, cash, and forceful follow-up through Mars. This is a narrow secondary timer, not a substitute for natal Vimshottari.
+
+Verified standard-Lahiri transits at **18 October 2026, 12:00 PM PDT** are Sun Libra 01°11′, Moon Capricorn 02°27′, Mars Cancer 17°29′, Mercury Libra 25°00′, Jupiter Cancer 28°18′, Venus retrograde Libra 09°41′, Saturn retrograde Pisces 15°58′, Rahu Aquarius 03°48′, and Ketu Leo 03°48′. The main slow-transit picture is:
+
+- From natal Virgo / Aquarius Moon / Scorpio AL, Jupiter is `11/6/9`, Saturn is `7/2/5`, Rahu is `6/1/4`, and Ketu is `12/7/10`.
+- From the annual Pisces Lagna, Jupiter is in the 5th, Saturn in the 1st, Rahu in the 12th, and Ketu in the 6th—repeating the annual chart's own signs and making its themes unusually active.
+- Jupiter in Cancer continues to support allies, enterprise, and gross opportunity. Saturn on the annual Lagna and natal partner axis makes contractors, vendors, authorities, agreements, and personal stamina the gatekeepers. The node axis reinforces the work/expense and worry/rest pattern until it changes signs around 25 November.
+- Mercury retrograde 24 October–13 November favors review, correction, and resubmission rather than assumptions. The annual Mars period from about 26 October–21 November supports decisive action but raises conflict and cash-burn risk. The annual Mercury period from about 21 November–16 January is the clearest TP phase for documents, premises, permits, agreements, and operating systems. The annual Jupiter period from about 18 February–21 April is the broadest opportunity phase, although natal dasha and real permit, cash-flow, and operational evidence still control outcomes.
+
+### Graded conclusion for the active TP year
+
+| Area | Grade | Annual message |
+|---|---|---|
+| Well-being | Mixed/demanding | Protect sleep, recovery, and emotional support; Saturn and Moon/Rahu show load, while exalted Jupiter supports resilience. This is not a diagnosis. |
+| Career | Strong promise; moderate delivery | Exalted 10th lord Jupiter and strong Mercury favor leadership, enterprise, advisers, and public contribution, with Saturnian delay and accountability. |
+| Franchise/premises | Moderate-strong | The chart strongly supports establishment through documents, correction, contractors, and the physical site; it does not promise an effortless or exact opening date. |
+| Revenue | Moderate-strong potential | Customer and gross-revenue signatures are favorable, especially once operations begin. |
+| Retained profit / owner income | Mixed in this TP year | Setup cost, reinvestment, overhead, and delayed distributions can absorb gains. Revenue, accounting profit, cash flow, and owner pay must be measured separately. |
+| Partnerships/clients | Strong but responsibility-heavy | Agreements and outside parties are central enablers and bottlenecks; role clarity and written evidence matter. |
+| Growth | Strong for foundation; moderate for aggressive scaling | Build one repeatable operating model and verify unit economics before committing to a second site or rapid expansion. |
+
+**Overall:** This is a **constructive but demanding enterprise year**. It supports completing a real operating foundation, attracting customers, and turning expertise and partnerships into a business. It is less supportive of assuming quick ease, quick retained profit, or aggressive scaling before permits, staffing, safety, and unit economics are proven.
+
+### Everett relocation overlay — secondary only
+
+Casting the same instant for 607 SE Everett Mall Way produces Virgo 03°56′ rising, with Mercury in its own Gemini 10th, Jupiter–Venus in the 11th and Chalit 10th, Moon–Rahu in the 6th, Saturn in the 7th, Mars in the 8th, and Ketu in the 12th. This relocation overlay strengthens career, operations, visibility, and eventual gains, while repeating vendor, compliance, shared-capital, and backstage-cost pressure. It agrees with the canonical Mysore conclusion but is not used to replace it.
+
+## 15D. Tithi Pravesha annual chart — 28 May 2027 to 16 May 2028 Pacific
+
+**Question recorded 18 October 2026:** Divya now lives in Bothell, Washington; interpret her 2027–28 Tithi Pravesha year.
+
+### Return, locations, and critical sensitivity warning
+
+The exact return occurs at **29 May 2027, 01:41:03.982 UTC**, equivalent to **28 May, 6:41:03.982 PM PDT** in Bothell and **29 May, 7:11:03.982 AM IST** in Mysore. The next return is **16 May 2028, 22:45:41.700 UTC**, or **16 May, 3:45:41.700 PM PDT / 17 May, 4:15:41.700 AM IST**. This defines the TP year; it is not identical to calendar 2027.
+
+The traditional birthplace chart remains canonical and is cast for Mysore. Bothell is used as a relocated annual overlay for lived circumstances. Because no exact Bothell street address was supplied, the overlay uses approximate city coordinates **47.76157° N, 122.205887° W**, drawn from a [Washington State Department of Ecology Bothell City record](https://apps.ecology.wa.gov/paris/FacilityDetails.aspx?FacilityId=19529783). Ordinary variation within Bothell does not threaten the Libra rising sign, but exact cusp degrees remain approximate.
+
+At the recorded birth minute treated as `2:20:00 PM IST`, the canonical Mysore annual ascendant is **Taurus 29°56′26″**, only 03′34″ short of Gemini. Recalculation shows that a birth instant about 15 seconds later would produce early Gemini. The birth record is precise only to the minute and the exact Mysore birth-site coordinate is unknown. Therefore Taurus-only lordship and whole-sign conclusions are provisional; stable planet signs, the exact cusp/Bhava Chalit pattern, natal promise, and the stable Bothell overlay receive greater weight. This chart should not be used for second-level timing or deterministic claims without birth-time rectification.
+
+The canonical Mysore return is after sunrise on Saturday: the vara lord is Saturn and the return falls in the second daytime hora, making **Jupiter the canonical Hora/Year Lord**. In Bothell it occurs on Friday before sunset and falls in a Saturn hora. Saturn is noted only as the relocated local hora; it is not substituted for the canonical Jupiter Year Lord. The canonical annual Arudha Lagna is Pisces. If the supplementary Tajika-style Muntha overlay is used, it is Taurus; its house changes if the annual ascendant flips, so it is not a primary judgment factor.
+
+### Canonical Mysore chart at the recorded minute
+
+| Body | Lahiri-sidereal longitude | Whole-sign house at late-Taurus Asc | Bhava Chalit house | KP star / sub |
+|---|---:|---:|---:|---|
+| Ascendant | Taurus 29°56′26″ | 1 | 1 cusp | Mars / Saturn |
+| Sun | Taurus 13°15′27″ | 1 | **12** | Moon / Rahu |
+| Moon | Aquarius 18°42′49″ | 10 | **9** | Rahu / Moon |
+| Mars | Leo 11°36′57″ | 4 | **3** | Ketu / Mercury |
+| Mercury | Gemini 06°05′31″ | 2 | **1** | Mars / Moon |
+| Jupiter | Cancer 25°47′54″ | 3 | 3 | Mercury / Rahu |
+| Venus | Aries 23°01′19″ | 12 | **11** | Venus / Saturn |
+| Saturn | Pisces 29°30′15″ | 11 | 11 | Mercury / Saturn |
+| Rahu, true | Capricorn 19°39′21″ | 9 | **8** | Moon / Mercury |
+| Ketu, true | Cancer 19°39′21″ | 3 | **2** | Mercury / Venus |
+
+Canonical Placidus cusps used for the requested Bhava Chalit/KP cross-check:
+
+| Cusp | Longitude | KP star / sub |
+|---:|---:|---|
+| 1 | Taurus 29°56′26″ | Mars / Saturn |
+| 2 | Gemini 25°45′15″ | Jupiter / Mercury |
+| 3 | Cancer 22°45′23″ | Mercury / Moon |
+| 4 | Leo 23°00′42″ | Venus / Saturn |
+| 5 | Virgo 26°10′38″ | Mars / Jupiter |
+| 6 | Libra 29°13′50″ | Jupiter / Sun |
+| 7 | Scorpio 29°56′26″ | Mercury / Saturn |
+| 8 | Sagittarius 25°45′15″ | Venus / Mercury |
+| 9 | Capricorn 22°45′23″ | Moon / Sun |
+| 10 | Aquarius 23°00′42″ | Jupiter / Saturn |
+| 11 | Pisces 26°10′38″ | Mercury / Jupiter |
+| 12 | Aries 29°13′50″ | Sun / Rahu |
+
+The robust canonical delivery pattern is Mercury in Chalit 1; Venus and Saturn in 11; Mars and Jupiter in 3; Moon in 9; Sun in 12; Rahu in 8; and Ketu in 2. This remains more stable and useful than relying heavily on the late-Taurus whole-sign ascendant.
+
+### Bothell relocation overlay
+
+The Bothell city-level relocation chart is **Libra 19°20′ rising** with Leo 02°59′ MC. This rising sign is stable under ordinary coordinate variation within Bothell.
+
+| Body | Whole-sign house | Bothell Bhava Chalit house | Principal relocated emphasis |
+|---|---:|---:|---|
+| Sun | 8 | **7** | Gains and authority depend on partners, customers, contracts, taxes, and shared capital. |
+| Moon | 5 | **4** | The entertainment/customer offering connects directly to the premises and operating base. |
+| Mars | 11 | **10** | Revenue effort, sales, and partnerships turn into visible execution and career activity. |
+| Mercury | 9 | **8** | Strategy, advisers, legal terms, data, insurance, financing, and risk control. |
+| Jupiter, exalted | 10 | **9** | Career visibility and counsel are strong; delivery depends on strategy, training, and trusted guidance. |
+| Venus | 7 | 7 | Customers, partnerships, agreements, and public appeal define the year. |
+| Saturn | 6 | **5** | Operations, staffing, compliance, and routines support a disciplined customer experience. |
+| Rahu | 4 | **3** | Site experimentation, promotion, technology, and persistent coordination. |
+| Ketu | 10 | **9** | Public direction can change or remain selectively visible; advisers and principles matter. |
+
+The relocation overlay is unusually literal for the franchise: 10th lord Moon connects the creative offering to the premises; exalted Jupiter begins in the 10th; Mars moves `11 → 10`; Venus occupies the 7th; and Saturn begins in the 6th. It supports customers, visibility, revenue-building, and operational maturity. Ketu with Jupiter by sign in the 10th, Sun in the 8th, and Mercury shifting to the 8th keep profitability, debt, insurance, tax, partner dependence, and reinvestment non-linear.
+
+### Required four-method synthesis
+
+**Parashara and natal vargas:** At the exact recorded minute, Taurus makes Saturn the 9th/10th lord in the 11th, Moon occupies the 10th, and 2nd/5th lord Mercury is strong in its own Gemini. If the annual ascendant flips to Gemini, Mercury instead becomes a strong Lagna/4th lord in the 1st, Saturn occupies the 10th, Jupiter–Ketu occupy the 2nd, and Venus occupies the 11th. Both cases preserve a constructive career, skill, customer, and gains message; the route changes. Exalted Jupiter is the canonical Year Lord but shares Cancer with Ketu, making opportunity strong yet selective or non-linear. The natal D10—Moon–Jupiter rising, Sun–Mars in the 10th, Saturn in the 2nd, and Venus in the 7th—continues to support ownership, public responsibility, and client work. Natal D2 and the D1 Venus/Saturn wealth pattern support long-run accumulation, but annual Sun Chalit 12, Rahu Chalit 8, and Ketu Chalit 2 warn that gross receipts can exceed retained profit. Natal D4 and the Bothell Moon `5 → 4` support premises value after planning and corrective work rather than effortless property results.
+
+**Bhava Chalit:** The canonical shifts concentrate the reliable story in self-directed Mercury, communication/marketing through Mars–Jupiter in the 3rd, and long-range gains through Venus–Saturn in the 11th. Sun in the 12th and Rahu in the 8th show hidden cost, shared-capital complexity, insurance/tax exposure, and the need for reserves. In Bothell, Mars `11 → 10` makes sales and execution public; Moon `5 → 4` makes the customer experience dependent on the site; Jupiter/Ketu `10 → 9` shift success toward advisers, training, policy, and strategy; and Mercury `9 → 8` makes contracts, finance, and risk review indispensable.
+
+**KP consistency check:** In the canonical cusp chart, the 10th cusp sub-lord Saturn occupies Chalit 11, owns 9/10 under the nominal Taurus frame, and works through Mercury in Chalit 1. This strongly joins `1/2/5/9/10/11`. The 11th cusp sub-lord Jupiter occupies Chalit 3 and owns 8/11, linking gains to outreach while retaining an 8th-house capital/reinvestment condition. The 2nd cusp sub-lord Mercury is strong, but its Mars/Moon chain makes receipts depend on customers, contracts, promotion, and coordination. The 6th cusp sub-lord Sun is in Chalit 12, so operations and compliance remain the weak-ease and expenditure channel. In Bothell, the 10th cusp sub-lord Venus ties public outcomes to customers/partners and Saturnian systems; the 11th cusp sub-lord Mercury works through Mars Chalit 10 and Moon Chalit 4, connecting gains with `2/4/7/10` but also `8/12` capital risk. KP therefore supports business and revenue more strongly than clean, immediate profit. Annual KP is secondary to the natal KP promise and is especially sensitive to exact coordinates.
+
+**BNN:** Two annual circuits dominate. `Jupiter in Cancer → Moon in Aquarius → Saturn in Pisces → Jupiter` links outreach, customers, career, operations, and eventual gains; Ketu in Cancer makes the results selective or discontinuous. `Sun in Taurus → Venus in Aries → Mars in Leo → Sun` links authority, pricing, partners, premises, capital expenditure, and action. Mercury in its own Gemini is self-disposited and must bridge the circuits through data, pricing, contracts, bookkeeping, and communication. Without that bridge, activity and revenue can grow while expense remains a separate uncontrolled loop.
+
+### Natal Vimshottari, annual dasha, and transits
+
+Natal Vimshottari remains in **Mercury/Saturn** throughout this TP year:
+
+| Natal Vimshottari level | Approximate interval | Main activation |
+|---|---|---|
+| Mercury/Saturn/Mercury | To 8 Jul 2027 | Documents, systems, decisions, technical coordination, and consequential restructuring. |
+| Mercury/Saturn/Ketu | 8 Jul–4 Sep 2027 | Pruning, leakage control, incomplete information, and selective redirection. |
+| Mercury/Saturn/Venus | 4 Sep 2027–15 Feb 2028 | Strongest broad customer, career, income, diplomacy, and professional-stabilization period. |
+| Mercury/Saturn/Sun | 15 Feb–4 Apr 2028 | Authorities, leadership, recognition, legal/permit decisions, and expenditure. |
+| Mercury/Saturn/Moon | From 4 Apr 2028 | Customers, staffing, routines, service delivery, emotional fluctuation, and gains through work. |
+
+The TP-specific Tithi-Ashtottari sequence, converted to Pacific dates, is approximately:
+
+| Annual period | Approximate Pacific interval |
+|---|---|
+| Rahu balance | 28–30 May 2027 |
+| Venus | 30 May–7 Aug 2027 |
+| Sun | 7–27 Aug 2027 |
+| Moon | 27 Aug–15 Oct 2027 |
+| Mars | 15 Oct–10 Nov 2027 |
+| Mercury | 10 Nov 2027–5 Jan 2028 |
+| Saturn | 5 Jan–6 Feb 2028 |
+| Jupiter | 6 Feb–9 Apr 2028 |
+| Rahu | 9 Apr–16 May 2028 |
+
+Verified slow-transit phases using standard Lahiri and true nodes:
+
+- Saturn enters Aries on **2 June 2027**, returns retrograde to Pisces on **19 October PDT**, and finally enters Aries on **23 February 2028**. Divya's sign-based Sade-sati therefore has a temporary break from 2 June–19 October PDT, returns for the final Pisces phase, and ends on 23 February 2028.
+- Jupiter remains in Cancer until **25 June 2027**, enters Leo until **26 November**, enters Virgo until its retrograde return to Leo on **28 February 2028**, and remains there through this TP year.
+- Rahu remains in Capricorn and Ketu in Cancer throughout the TP year; their next sign change occurs after this annual chart ends.
+- Mercury is retrograde approximately **10 June–4 July**, **7–28 October**, and **24 January–14 February**. Treat these as review, correction, and resubmission phases rather than automatic failure.
+
+From natal Virgo / Aquarius Moon / Scorpio AL, Jupiter moves `11/6/9 → 12/7/10 → 1/8/11 → 12/7/10`; Saturn alternates `7/2/5 ↔ 8/3/6`; and Rahu/Ketu remain `5/11`, `12/6`, and `3/9`. From the Bothell Libra annual ascendant, Jupiter moves `10 → 11 → 12 → 11`, Saturn alternates `6 ↔ 7`, and the nodes remain on the `4/10` premises–career axis.
+
+### Practical timing within the 2027–28 TP year
+
+- **29 May–9 June 2027:** Supportive for administrative closeout, agreements, customer systems, and a measured start. Jupiter is still in Cancer and Saturn leaves the Sade-sati sign on 2 June. Mercury turns retrograde on 10 June.
+- **10 June–4 July:** Recheck contracts, pricing, POS/accounting, marketing claims, schedules, and technical systems. Favor testing and correction over assuming data are final.
+- **8 July–4 September:** Mercury/Saturn/Ketu favors simplification, leakage control, and removing weak processes. It is not the cleanest aggressive-scaling phase.
+- **4 September–6 October:** One of the cleanest customer-acquisition, promotion, visibility, and demand-building windows: natal Venus PD, annual Moon period, Jupiter in the 11th from the Bothell annual ascendant, and the temporary Sade-sati break. Costs still require a budget.
+- **7–28 October:** Mercury retrograde, annual Mars beginning 15 October, and Saturn's 19 October PDT return to Pisces raise rework, vendor, conflict, and cash-burn risk. Use written escalation and avoid impulsive expansion.
+- **10 November 2027–5 January 2028:** Strongest commercial-optimization phase. Annual Mercury plus natal Venus favors pricing, packages, repeat visits, digital funnels, bookkeeping, cost attribution, contracts, and unit-economics work. Jupiter's 26 November move to Virgo increases personal responsibility and transformation; it is not a reason to ignore risk.
+- **5 January–14 February:** Consolidate SOPs, manager accountability, cash controls, and staffing. Jupiter stations retrograde 12 January and Mercury is retrograde 24 January–14 February, so review is more supported than forceful expansion.
+- **15 February–4 April:** Broadest leadership and opportunity phase. The annual Jupiter period is active, Saturn finally leaves Pisces on 23 February, and Jupiter returns to the 11th from the Bothell annual ascendant on 28 February. This favors visibility, advisers, business development, and strategic growth, while natal Sun PD and 8th/12th factors can bring authority, tax, insurance, debt, or capital expenditure alongside it.
+- **9 April–16 May:** Annual Rahu with natal Moon PD produces a higher-variance customer, staffing, promotion, and premises phase. Experiment only with measured budgets and actual conversion/margin data.
+
+### Graded conclusion
+
+| Area | Grade for 2027–28 | Reconciled reading |
+|---|---|---|
+| Well-being | Mixed, improving after Feb 2028 | Workload and financial responsibility remain high; the final Sade-sati exit reduces one layer of pressure. Protect sleep, recovery, and qualified care where needed. |
+| Career and public role | Strong | Saturn/Mercury/Jupiter patterns support responsibility, strategy, visibility, and durable professional standing. |
+| Franchise activity | Strong-moderate | Bothell strongly activates customers, entertainment, premises, sales, and operations; execution remains contract- and system-dependent. |
+| Gross revenue | Moderate-strong | Customer and sales indicators are constructive, especially under Venus and Mercury timing. |
+| Retained profit / owner distribution | Moderate | Improvement is possible, but debt service, tax, insurance, reinvestment, staffing, and capex can keep owner cash below gross-sales growth. |
+| Partnerships/vendors | Strong but demanding | Partners and customers are central; written roles, escalation paths, and financial terms remain essential. |
+| Scaling | Moderate-strong only after proof | Stabilize the first location and require verified unit economics and consecutive positive free-cash-flow periods before a second-site commitment. |
+
+**Overall:** The 2027–28 TP year is stronger than 2026–27 for visibility, customer traction, operating maturity, and revenue-building. Its best use is to convert the first store into a disciplined, measurable operating model. The chart does not support equating higher sales with immediate profit or committing to rapid expansion without evidence.
+
+## 15E. Focused income and finance outlook — 18 October 2026 through 31 May 2027
+
+**Question recorded 18 October 2026:** “Between now and May 2027, how will income and finances be?”
+
+### Scope and bottom line
+
+This reading separates five different things that must not be conflated: Divya's salary or recurring professional income, franchise gross receipts, accounting operating profit, free cash flow after debt service and capital expenditure, and cash actually distributed to Divya. The official iSMASH Everett contact page still showed **“Coming Soon”** on 18 October 2026, with hours and a grand-opening date unannounced. Public marketing status does not prove the City's permit or occupancy position, but there is no confirmed opening or first-revenue event in the saved record. Franchise operating revenue is therefore treated as **zero until legal opening and actual sales are confirmed**.
+
+The reconciled astrological outlook is **mixed and cash-tight through most of January; more constructive for customers, collections, and gross-income opportunity from late January through about 21 April; and more volatile and expense-sensitive from 21/25 April through most of May**. This is a revenue-building pattern, not a guarantee of profitability. Earned or salary income looks steadier than franchise cash. There is no clear signature of unavoidable financial ruin; the main vulnerability is a timing mismatch in which contractor, rent, payroll, tax, insurance, debt, marketing, and operating obligations arrive before cash becomes repeatable.
+
+| Financial layer | Outlook through May 2027 | Graded judgment |
+|---|---|---:|
+| Salary / recurring professional income | More stable than the franchise; responsibility and workload remain high, but the chart does not justify predicting a job loss or sudden windfall. | **6/10, moderate-stable** |
+| Franchise gross receipts | Can build after opening, with the strongest comparative customer/revenue support from late January through 21 April. If the store remains unopened, this is setup and permit activity rather than revenue. | **Moderate-improving, conditional** |
+| Accounting operating profit | Likely to trail visible sales because fixed costs, staffing, marketing, repairs, insurance, taxes, and startup amortization must first be absorbed. | **4.5–5.5/10, mixed** |
+| Free cash flow and owner distributions | Weakest early; could begin stabilizing in March–April only if actual margins and cost controls support it. No distribution should be inferred merely from bookings or gross sales. | **Pending actual results** |
+| Liquidity / reserves | Most pressured through January, comparatively better from late January into early April, and higher-variance again after 21 April. | **Mixed; protect reserves** |
+
+### Integrated chart judgment
+
+- **Parashara and divisional charts:** Natal 2nd/9th lord Venus in the 11th, exalted Saturn in the 2nd, and Jupiter's aspect support long-run accumulation through work, expertise, networks, and patient structure. Mercury mahadasha advances career through the natal 8th, so debt, tax, insurance, contracts, shared capital, and risk management are part of the path rather than side issues. D10 supports continuity in professional earning; D2 calls for reserves and gradual accumulation; D4 repeats that premises gains come through careful planning, corrections, and expenditure.
+- **Bhava Chalit:** Natal Venus moves `11 → 10` and Jupiter `3 → 2`, preserving career-linked income and resource potential. Saturn moves `2 → 1`, making the financial responsibility personally felt, while Mercury remains in the 8th. In the active annual chart, Jupiter–Venus move `5 → 4` and Saturn `1 → 12`: the location and customer concept are the opportunity, while the premises, delay, and hidden operating work are also the cash drain.
+- **KP:** Natal and annual `2/6/10/11` significators connect income, work, operations, customers, and gains. Repeated `8/12` links add financing, tax, insurance, overhead, reinvestment, and delayed conversion of revenue into usable cash. The promise supports earning activity but does not equate receipts with distributable profit.
+- **BNN:** The natal chains `Mercury → Mars/Sun → Venus → Moon → Saturn` and `Jupiter → Mars/Sun → Venus → Moon → Saturn`, together with the annual loop `Jupiter/Venus → Moon/Rahu → Saturn → Jupiter`, say that money becomes durable only after execution, customers and service, expense control, and Saturnian systems.
+- **Tithi Pravesha:** The 2026–27 chart supports enterprise and resource mobilization through own-sign Mercury and Mars and exalted Jupiter with Venus. Its annual Bhava Chalit Saturn in the 12th and Moon in the 12th explain why gross activity may rise before retained cash. The next TP year starts on **28 May 2027 at 6:41 PM PDT**; its more constructive revenue symbolism cannot produce an instant change in May's final days.
+
+### Dasha and transit timing
+
+Natal Vimshottari is **Mercury/Saturn/Saturn** until approximately 19 February 2027, followed by **Mercury/Saturn/Mercury**. The first favors compliance, durability, cost control, and slow consolidation; the second increases transactions, documentation, pricing, bookkeeping, and commercial decisions, but Mercury's natal 8th-house position keeps finance and risk controls central. Boundaries may vary by about a day between software settings.
+
+The active TP sequence is Moon to about 26 October, Mars to 21 November, Mercury to 16 January, Saturn to 18 February, Jupiter to 21 April, and Rahu to 29 May. Key Lahiri transit shifts are Jupiter's move from Cancer to Leo late on 30 October and retrograde return to Cancer on 24 January; Mercury retrograde 24 October–13 November and 9 February–3 March; Saturn direct on 10 December while remaining in Pisces throughout this forecast; Mars retrograde from 10 January, returning to Cancer on 9 March and directing on 1 April, then re-entering Leo late on 25 April; and Jupiter direct on 12 April.
+
+From Virgo Lagna / Aquarius Moon / Scorpio Arudha Lagna, Jupiter in Cancer is `11/6/9`, supporting allies and gains through work; Jupiter in Leo is `12/7/10`, supporting public or partner activity while expenditure remains high. Saturn in Pisces is `7/2/5`, keeping vendors, contracts, customers, family security, and money discipline central. Mars in Cancer activates the 11th from Lagna, while Mars in Leo reactivates 12th-house cost and backstage work.
+
+### Month-by-month financial weather
+
+| Period | Grade | Most likely expression |
+|---|---:|---|
+| **18–31 Oct 2026** | **4/10** | Preserve liquidity. Mercury turns retrograde on 24 October and Jupiter enters the 12th from Virgo late on 30 October. Revisions, vendor bills, and setup costs are more likely than clean profit. |
+| **Nov 2026** | **5/10** | The first half is revision-prone. **14 Nov–7 Dec** is the first comparatively constructive window; from 21 November, the TP Mercury period helps documents, payment systems, pricing, contracts, and launch procedures. Startup outflow can still exceed retained profit. |
+| **Dec 2026** | **6/10** | Better for formal operating progress and resolving authority matters, especially before mid-month. If open, gross receipts can begin or improve; overhead and reinvestment remain substantial. |
+| **1–24 Jan 2027** | **4.5/10** | Mars retrograde and the natal Rahu fine period make costs and timing more erratic. Avoid treating publicity, bookings, or projected sales as free cash. Conditions improve after Jupiter returns to Cancer on 24 January. |
+| **29 Jan–8 Feb** | **7/10** | The cleanest combined near-term window for advisers, networks, collections, customer support, and constructive financial decisions—still not a profit guarantee. |
+| **9 Feb–3 Mar** | **5.5/10** | Mercury retrograde favors reconciling bills, correcting POS/accounting or pricing, collecting old receivables, and revisiting contracts. The 18–19 February dasha/TP transition can bring a consequential vendor or partner checkpoint with obligations attached. |
+| **4–18 Mar** | **5.5/10** | Activity rises, but so can labor, repair, customer-service, and operating costs. Measure margin rather than traffic alone. |
+| **19 Mar–11 Apr** | **7/10** | Second strong stabilization window for customer response, negotiated terms, pricing, and collections; **1–11 April** is especially coherent after Mars turns direct. |
+| **12–21 Apr** | **7/10** | Jupiter's direct motion and the closing TP Jupiter period support momentum and opportunity. This is the strongest broad late-year segment, though authority and cost decisions remain present. |
+| **21 Apr–28/29 May** | **5/10, high variance** | TP Rahu begins; Mars reaches the 12th from Virgo late on 25 April, and the natal Rahu fine period runs roughly 8–29 May. Marketing and customer activity may be visible while spending, collections, and liquidity become less predictable. Use capped experiments and avoid premature expansion. |
+| **29–31 May** | **6/10, transitional** | A new TP year and natal Jupiter fine period begin, but two or three days are too short to infer a material financial turnaround. |
+
+### Practical financial thresholds
+
+Do not replace dependable salary with anticipated franchise income simply because the store opens. Treat owner income as available only after occupancy and operating authorization are complete; payroll and sales/payroll taxes are reserved; vendors and debt service are current; a rolling 13-week cash forecast has no deficit; several consecutive months show positive operating cash flow after all recurring costs; and a working-capital reserve remains after the proposed distribution.
+
+Track gross sales, cash collected, contribution margin, labor percentage, fixed-cost break-even, refunds and downtime, debt service, operating cash flow, and owner distributions separately. The [U.S. Small Business Administration's planning guidance](https://www.sba.gov/counseling/plan-your-business/) recommends monthly first-year financial projections and explains that break-even depends on actual fixed costs, pricing, unit volume, and contribution margin. Those measurements—not astrology—determine whether the business is profitable and whether money can safely be distributed.
+
+**Overall judgment:** income continuity is more supported than a sudden windfall. If the store opens, gross traction is more likely to precede retained profit. The most useful finance windows are **14 November–7 December, 29 January–8 February, and 19 March–21 April**; the strongest reserve caution applies **24 October–13 November, 6–24 January, 9 February–3 March, and 21 April–29 May**. This is a symbolic planning forecast, not a scientifically validated or guaranteed financial prediction.
+
+## 15F. KP public-opening timeline for iSMASH Everett — 25 October 2026
+
+**Question and role clarification recorded 25 October 2026:** According to KP, when is iSMASH Everett likely to open to the public? The franchise is in Divya's name; Bharath supplies investment capital and manages permits and construction.
+
+### Definition, scope, and practical status
+
+“Public opening” means that the premises may legally admit paying customers—not merely a favorable publicity date, a contractor handoff, a passed individual inspection, or a private preview. The core KP event houses are `4` usable premises, `6` compliance and operating readiness, `10` public business and authority outcome, and `11` realization. House `7` covers Bharath as partner/project counterparty, contractors, and customers; `2` covers receipts; `8` covers Bharath's shared capital and construction risk; and `9` adds plans, law, and higher authority.
+
+Divya's natal chart remains primary because the franchise is reportedly in her name. Bharath's role is represented through Divya's partner/shared-capital and execution houses; his own dasha cannot be inferred without his birth data. The investment amount, legal ownership percentage, financing structure, and exact division of responsibilities remain unspecified.
+
+As rechecked on 25 October, the official iSMASH Everett page still said **“Coming Soon”**, and the locations page said **“Opening Soon”**; neither published hours nor a grand-opening date. The City permit portal requires login, so no address-specific permit final or Certificate of Occupancy could be independently verified. Everett's official inspection guidance says applicable inspections and administrative conditions must be completed before permit final; where a CO is required, it is prepared after an approved building-permit final and can take a few additional days. These real gates override every astrological window.
+
+**Later 25 October user update:** The City permit/authorization to proceed with revision work is now reported obtained; this is not the CO. The remaining physical blockers are landlord work expected to take a couple of days and pending Carney work that Carney says requires about half a day. After that work, applicable finals, permit final, and written CO still precede public opening. The permit identifier and exact scope, committed work dates, actual completion, final-inspection dates/results, and CO timing remain unconfirmed. This moves the project from waiting for revision authorization toward physical closeout and materially advances the practical opening forecast.
+
+### Natal KP promise
+
+The chart supports eventual establishment; it does not show a clean denial. The strongest promise comes from the 4th- and 11th-cusp sub-lords, which join the premises, operations, partners/customers, and realization houses.
+
+| Event cusp | KP chain from the saved Lahiri/Placidus chart | Opening implication |
+|---:|---|---|
+| 4 premises | Sub-lord Moon in Jupiter's star: Jupiter gives `2/4/7`; Moon itself gives `6/11`; Mercury sub adds `1/8/10` and its Venus-star `2/9/10` | Strong premises–partner–operations–fulfillment promise, but with shared-capital/correction dependence. |
+| 6 operations | Sub-lord Venus in Saturn's star and Saturn sub: Saturn gives `1/5/6`; Venus gives `2/9/10` | Compliance can convert into operating business through sustained correction and accountability. |
+| 7 partner/public | Sub-lord Mercury in Venus's star: `2/9/10`; Mercury itself gives `1/8/10`; Ketu sub routes indirectly to Jupiter's `2/4/7` | Bharath's execution, documents, funding, and public/customer readiness are interdependent. |
+| 8 shared capital | Sub-lord Mars in Moon's star: Moon gives `6/11`; Mars gives `3/8/9`; Mercury sub adds `1/8/10` | Investment and construction action can produce realization, but rework and financial exposure remain part of delivery. |
+| 9 plans/authority | Sub-lord Saturn in Mars's star and Venus sub: `3/8/9`, `1/5/6`, and `2/9/10` | Higher approval follows technical action, correction, funding, and persistence rather than ease. |
+| 10 public business | Sub-lord Venus, as for the 6th cusp | The same Venus/Saturn chain links regulatory work to actual business operation. |
+| 11 realization | Sub-lord Jupiter in Saturn's star and Moon sub: `1/5/6`, `2/4/7`, and `6/11` | The clearest completion signature: premises, partner/customer, correction, receipts, and fulfillment join. |
+
+Strict KP caution: natal Mercury and Saturn do not carry a direct 11th-house connection in their principal star/self sets. Moon, planets in Moon's star, and Jupiter through Moon's sub supply the clearer realization triggers. Venus is in the D1 11th but shifts to the **10th in Bhava Chalit**, so she must not be counted as a direct KP 11th occupant. A genuine KP ruling-planet confirmation also requires an exact judgment time and place or a properly posed horary number; none was supplied, so this forecast uses natal KP plus dasha and verified transits rather than pretending to have a horary ruling-planet result.
+
+### Ranked opening timeline
+
+| Rank | Pacific-date window | Most defensible use and trigger | Judgment |
+|---:|---|---|---|
+| Immediate work phase | **28 October–13 November 2026** | Current Mercury/Ketu fine periods and the TP Mars period support coordination, physical correction, documentation, and removal of remaining defects. Mercury/Venus retrograde conditions increase recheck and schedule risk. | **Use for landlord/Carney completion, evidence, final-inspection scheduling, and CO follow-through—not as the lead public-opening forecast.** The City permit to perform revision work is not the CO. |
+| 1 | **14–30 November 2026**, strongest **22–30 November** | Mercury/Saturn/Saturn/**Venus** is active from about 11 November–7 December; Venus supplies `2/6/9/10`. Mercury and Venus are direct after 13 November, and the annual Mercury period begins about 21 November, supporting premises documents, systems, partners, and launch execution. | **Leading practical public-opening forecast, moderate confidence**, after the new readiness update. Exact date confidence remains low. |
+| 2 | **1–15 December 2026**; extended operational possibility **15–28 December** | Venus continues to 7 December; the Sun period about 7–15 December supports formal authority/document closure, and the Moon period about 15–28 December directly strengthens `4/6/7/11` operations and public admission. | **Short-delay contingency, moderate confidence.** More likely than January if landlord/Carney work is the only genuine remaining blocker. |
+| 3 | **30 January–8 February 2027** | Mercury/Saturn/Saturn/**Jupiter** supplies decisive `2/4/7` plus Moon-sub `6/11`; Jupiter has returned to the 11th from Virgo and the interval ends before Mercury retrograde. | **Substantial-delay fallback, not the lead forecast after revision-work authorization.** |
+| 4 | **13–20 April 2027**, strongest **18–20 April** | Mars and Jupiter are direct; Mercury/Saturn/Mercury/**Moon** begins around 18 April and links `6/11` through Jupiter's `2/4/7`. | **Long-delay fallback** if a new construction, inspection, occupancy, insurance, staffing, or financing problem appears. |
+
+**Preparation and launch sequencing:** The later 25 October clarification is that the City issued the permit/authorization to proceed with revision work; it did **not** yet issue the CO. Use 25 October–13 November to obtain dated written completion commitments, finish the landlord and Carney punch-list work, photograph/document completion, satisfy every remaining permit condition, request applicable finals, follow through to permit final and written CO, and complete POS, insurance, staffing, safety, and operating checks. A soft/test opening can follow legal and operational readiness; **22–30 November** is the cleanest core within the newly elevated November window. The **19 March–11 April** Venus period remains constructive for later customer-facing stabilization but is no longer a leading opening forecast unless major new delay occurs.
+
+**Less reliable periods:** 25 October–13 November is a correction/resubmission phase under Mercury retrograde. The Ketu fine period around 2–11 November can remove an unworkable path but is not clean for a public launch. The Rahu fine period 6–29 January and Mars retrograde from 10 January increase surprise and rework. Mercury's 9 February–3 March retrograde is better for correcting than inaugurating. After about 21 April, the annual Rahu phase raises schedule and cost variance even if publicity increases.
+
+### Required reconciliation
+
+- **Vimshottari:** Mercury/Saturn/Saturn lasts to approximately 19 February 2027. Mercury supplies business, documents, 8th-house shared capital, and indirect premises/partner links; Saturn supplies construction, correction, compliance, authorities, and professional delivery. Their combination advances the project slowly. Jupiter at the fourth level from 29 January supplies the clearest missing `4/7/11` realization link. Mercury/Saturn/Mercury follows; its Moon fine period around 18–29 April is the next strong completion trigger. Boundaries carry about ±1 day uncertainty.
+- **Parashara and vargas:** Mercury as 1st/10th lord in the natal 8th makes restructuring and Bharath's shared capital central. Venus as 2nd/9th lord in the D1 11th supports eventual gains. D4 supports premises completion through plans and repeated correction; D10 supports clients, leadership, and public enterprise. These are establishment promises, not a City approval date.
+- **Bhava Chalit:** Jupiter `3 → 2` joins partner/premises matters to funds; Venus `11 → 10` converts opportunity into operating profession; Saturn `2 → 1` makes Divya personally carry the burden; Rahu `10 → 9` emphasizes nonstandard advisers and approval pathways; Ketu `4 → 3` makes documentation and coordination the delivery field.
+- **BNN:** `Mercury → Mars/Sun → Venus → Moon → Saturn` describes the actual sequence: plans and documents must become technical action and authority response, then funded agreements, customer-ready operations, and accountable structure. Bharath's investment and construction role makes the Mars/8th-house portion literal, but does not bypass Moon/Saturn operating and compliance requirements.
+- **Tithi Pravesha:** Under the profile's declared annual-chart convention, Mercury is Year Lord, Jupiter–Venus deliver through the annual 4th in Chalit, and Saturn/Moon emphasize the 12th. It supports establishment through documents and expenditure more strongly than an effortless opening. Annual timing is secondary to natal KP and actual City authorization.
+- **Transits from Virgo / Aquarius Moon / Scorpio Arudha:** Jupiter moves to Leo on 30 October (`12/7/10`), allowing public/partner progress with continuing cost, and returns to Cancer on 24 January (`11/6/9`), materially improving fulfillment support. Saturn stays Pisces (`7/2/5`) throughout these principal windows, keeping Bharath, contractors, authorities, contracts, and money discipline as the gatekeepers. Saturn directs 10 December; Mars directs 1 April; Jupiter directs 12 April.
+
+### Forecast conclusion and invalidation conditions
+
+**Updated best forecast after the later 25 October status:** the leading public-opening band is now **14–30 November 2026**, with **22–30 November** the cleanest core, provided the remaining work is completed, finals pass, and the written CO is issued. If contractor delivery or City closeout slips, use **1–15 December**, with a further operational possibility through 28 December. **30 January–8 February 2027** is retained only as a substantial-delay fallback. Astrology should never be used to postpone an earlier lawful and operationally ready opening.
+
+This timeline is invalidated or pushed later if landlord/Carney work is not actually completed, an applicable final inspection fails or remains unscheduled, the permit cannot be finaled, written CO is not issued, insurance/staffing/franchisor clearance is incomplete, or working capital is insufficient. Astrology cannot authorize occupancy or scientifically guarantee an opening date.
+
 ## Current business context and dated event anchor
 
-**Status date:** 27 September 2026 for the latest user-supplied business update; public listing rechecked 7 October 2026
+**Status date:** 25 October 2026 for the ownership/investment/execution-role clarification and the latest user-supplied approval/construction-closeout status; public listing rechecked 25 October 2026
 
-**Source distinction:** The project phase, contractor issues, and permitting status below are user-supplied. The iSMASH business model, Everett location, and address were corroborated from the company's public pages on 8 July 2026; the “Coming Soon” public-listing status was rechecked on 7 October 2026. Public marketing status does not establish permit or occupancy status.
+**Residence context:** As of 18 October 2026, Divya currently lives in Bothell, Washington. The move date and exact residence coordinates were not supplied. Bothell changes only the optional relocated annual-chart overlay; it does not change Divya's natal chart, exact Tithi Pravesha instant, or canonical birthplace chart.
+
+**Source distinction:** The project phase, contractor issues, ownership/investment roles, and permitting status below are user-supplied. The iSMASH business model, Everett location, and address were corroborated from the company's public pages on 8 July 2026; the “Coming Soon/Opening Soon” public-listing status was rechecked on 25 October 2026. Public marketing status does not establish permit or occupancy status.
 
 | Field | Saved context |
 |---|---|
-| Venture | Divya is setting up an iSMASH franchise. |
+| Venture | The iSMASH Everett franchise is reportedly in Divya's name. |
+| Ownership, funding, and execution roles | Divya is the named franchise holder. Bharath supplies investment capital and manages permits and construction. The investment amount, legal ownership percentage, financing structure, and exact division of responsibilities have not been supplied. |
 | Public business context | iSMASH describes its venues as experiential entertainment businesses offering rage/smash rooms, splatter painting, axe throwing, parties, and corporate events. |
-| Project phase | Permit and inspection closeout after the 1 Sep inspection required corrections; the location has not been reported open. |
-| Current operational issue | A temporary Certificate of Occupancy will not be issued. City acceptance of the exit changes and updated tenant-improvement plan, completion of the drinking-fountain and loading-gate items, final inspections, and occupancy authorization remain unconfirmed. |
-| Coordination | Contractor Change Orders are reportedly cleared. The landlord filed exit changes with the City; Carney planned to file the updated tenant-improvement plan during 28 Sep–2 Oct; Bharath is working to close the high/low drinking-fountain and loading-gate items. |
+| Project phase | The City has reportedly issued the permit/authorization needed to proceed with revision work. This is not the CO. The project is in physical correction/closeout, with remaining landlord and Carney work, applicable finals, permit final, and written CO still preceding public opening. The location has not been reported open. |
+| Current operational issue | The landlord reportedly has a couple of days of work remaining. Carney has pending work that Carney claims requires about half a day. Scope, committed start/finish dates, actual completion, evidence of completion, final-inspection dates/results, permit final, and CO issuance remain unconfirmed. |
+| Coordination | Bharath manages the permit/construction process and is dependent on the landlord and Carney completing their remaining work. Earlier contractor Change Orders were reported cleared. |
 | Exact location | 607 SE Everett Mall Way, Everett, WA 98208. |
-| Public listing | The official iSMASH Everett and locations pages still listed the location as “Coming Soon” when rechecked on 7 Oct 2026; hours and a grand-opening date were not announced. |
-| Planned opening date | No current public-opening date is confirmed. The Aug 28/29, Sep 4/5, and Sep 11/12 candidate schedules are past and did not become confirmed openings in the supplied record; any new date remains contingent on plan acceptance, correction completion, passed inspections, and occupancy authorization. |
+| Public listing | The official iSMASH Everett contact page said “Coming Soon” and the locations page said “Opening Soon” when rechecked on 25 Oct 2026; hours and a grand-opening date were not announced. |
+| Planned opening date | No current public-opening date is confirmed. The working forecast is 14–30 Nov 2026, strongest 22–30 Nov, but actual opening depends on completed landlord/Carney work, passed applicable finals, permit final, written CO, and operating readiness. If closeout slips, 1–15 Dec is the next planning band. |
 
 For future questions about this venture, treat it as a real operating-business and premises/permit matter rather than a generic career question. The primary Parashara/KP topics are capital and cash flow (`2/8/11/12`), premises and build-out (`4/11/12`), vendors/contracts (`3/7`), permits/compliance and obstacles (`6/9/10/11`), operations (`6/10`), customers/revenue (`7/10/11`), and business success (`2/6/10/11`). Review D2, D4, and D10; the Bhava Chalit shifts; KP cusp significators; the BNN chain; and the event-date MD/AD/PD and transits before drawing any timing conclusion.
 
 Useful missing anchors for later rectification or launch analysis are the franchise-agreement date, lease-signing date, construction start, contractor-delay dates, permit-application and correction dates, final inspection date, confirmed opening date, and actual first-revenue date. Do not invent these dates.
 
-Official context: [iSMASH USA](https://ismashusa.com/) and the [official locations page](https://ismashusa.com/locations/).
+Official context: [iSMASH Everett](https://ismashusa.com/wa-everett/contact-us/), the [official locations page](https://ismashusa.com/locations/), and [City of Everett construction and inspection guidance](https://www.everettwa.gov/2693/STEP-5-Construction-inspections).
+
+## 15G. Raw Ashtakavarga strength audit — calculated 25 October 2026
+
+This is a mechanically cross-checked **raw/unshodhana Parashari** calculation from Divya's sidereal D1 signs. It uses the same seven-planet contribution rules and convention already validated against Bharath's saved table. Rahu and Ketu are excluded; retrograde status and Bhava Chalit shifts are not used. No Trikona Shodhana, Ekadhipatya Shodhana, Shodhya Pinda, or kakshya reduction has been applied. The rows pass the fixed totals `48/49/39/54/56/52/39`, and SAV totals `337`; independent comparison with a second astrology engine remains pending.
+
+| Target BAV | Ari | Tau | Gem | Can | Leo | Vir | Lib | Sco | Sag | Cap | Aqu | Pis | Total |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Sun | 3 | 3 | 6 | 4 | 5 | 2 | 1 | 5 | 6 | 5 | 4 | 4 | 48 |
+| Moon | 3 | 2 | 4 | 5 | 4 | 3 | 4 | 6 | 5 | 3 | 7 | 3 | 49 |
+| Mars | 3 | 3 | 5 | 4 | 4 | 4 | 3 | 2 | 3 | 1 | 5 | 2 | 39 |
+| Mercury | 5 | 4 | 5 | 4 | 4 | 6 | 5 | 4 | 4 | 4 | 4 | 5 | 54 |
+| Jupiter | 2 | 6 | 5 | 3 | 6 | 4 | 2 | 4 | 8 | 4 | 6 | 6 | 56 |
+| Venus | 5 | 4 | 4 | 5 | 5 | 5 | 4 | 2 | 5 | 4 | 4 | 5 | 52 |
+| Saturn | 3 | 2 | 3 | 3 | 2 | 4 | 2 | 3 | 6 | 1 | 5 | 5 | 39 |
+| **Raw SAV** | **24** | **24** | **32** | **28** | **30** | **28** | **21** | **26** | **37** | **22** | **35** | **30** | **337** |
+
+For Virgo whole-sign Lagna, the SAV sequence by house 1–12 is **28, 21, 26, 37, 22, 35, 30, 24, 24, 32, 28, 30**. For the iSMASH investment, H4/premises `37`, H6/operations and debt service `35`, H7/customers and contracts `30`, and H10/business/public work `32` support establishment and operational activity. H11/gains is average at `28`, while H2/retained cash and accumulated resources is low at `21`. This reinforces the existing conclusion that the venue can build customers and revenue, but disciplined pricing, labor, vendor control, debt service, reserves, and delayed owner distributions determine whether activity becomes durable household wealth. A raw SAV score is a supporting strength measure, not a profit forecast and not a substitute for actual unit economics.
+
+## 15H. Joint investment assessment and conditional opening election — 25 October 2026
+
+Divya's chart is primary because the franchise is reportedly in her name; Bharath's chart is used for the capital, permit, construction, contract, and joint-finance overlay. The combined reading is **constructive for establishment and customer activity, but mixed for rapid capital recovery or early owner distributions**. Divya's D1, Bhava Chalit, D10 and KP `2/4/6/7/10/11` links favor ownership, premises, operations, customers and public business. Repeated `8/12` links, together with low H2 Aṣṭakavarga support, make debt service, overhead, rework and retained cash the central risks. Bharath's money/gains and service/contract chains can fund and stabilize the venture, but his premises/shared-capital links similarly warn against open-ended cash support.
+
+The best division of responsibility is for Divya to control customer experience, staffing, pricing/POS, bookkeeping and daily operating standards, while Bharath controls capital allocation, permits, contractor evidence, contract escalation, systems and reserve protection. Written decision rights and dual approval for material unbudgeted spending protect both the venture and the marriage. Do not fund a second location or take owner distributions until the first store has legal occupancy, a rolling 13-week cash forecast, current payroll/tax/insurance/debt obligations, and several consecutive months of positive operating cash flow after debt service.
+
+**Primary joint opening election:** **Friday, 4 December 2026 at 10:34 AM PST in Everett**, using **10:33–10:40 AM** as the practical initiation window. The event should be the first genuine lawful customer admission or paid transaction/receipt, not merely a social-media post or a reversible test charge. The Seattle panchanga changes from Ekadashi/Balava to Dwadashi/Kaulava at about 10:15 AM; Chitra and Saubhagya continue, Amrit Choghadiya lasts until about 10:54 AM, Rahu Kalam begins about 10:54 AM, and Jupiter hora begins near 10:32 AM. By the chosen minute the Moon is in Libra. Chitra gives favorable Tara Bala to both Bharath's Purva Ashadha and Divya's Purva Bhadrapada; Libra is 11th from Bharath's Moon and 9th from Divya's Moon. The approximate Lahiri election has late Sagittarius rising, lagna lord Jupiter direct in Leo, and Moon with own-sign Venus in Libra. Bharath is in Jupiter–Saturn–Jupiter–Sun and Divya in Mercury–Saturn–Saturn–Venus, linking authority, commerce, customers and formal commencement.
+
+This election is usable **only after written CO/TCO or other explicit City authorization permits public occupancy**, all required life-safety and inspection items have passed, and insurance, staffing, POS and franchisor readiness are complete. Everett states that required administrative items precede permit final and that a required CO follows an approved permit final; the election cannot replace those conditions. If authorization is not safely in hand before 4 December, skip the date rather than rush. **Monday, 14 December 2026 around 10:20 AM PST** is the next calculated operational fallback; if December is missed, the broader KP fallback is **30 January–8 February 2027**, with a fresh exact muhurta to be calculated after the real CO date is known.
+
+This is a traditional symbolic planning judgment, not a guarantee of profitability or timing. The primary references for the local calendar and occupancy gate are the [Seattle panchanga for 4 December 2026](https://panchangtime.com/panchang/seattle?date=2026-12-04) and the [City of Everett construction and inspection guidance](https://www.everettwa.gov/2693/STEP-5-Construction-inspections).
+
+## 15I. Sudden-wealth, lottery, and litigation outlook — 25 October 2026
+
+**Question and horizon:** Does Divya have a realistic indication of sudden wealth through a lottery or litigation during the 15 years from 25 October 2026 through 25 October 2041?
+
+**Bottom line:** Divya's chart has a **strong long-run wealth-building promise**, but only a **mixed promise for one large sudden receipt**. A life-changing lottery jackpot is **weakly supported and cannot be responsibly predicted**. A negotiated recovery, insurance/shared-asset receipt, property or contract settlement, business-related claim, or collection is **moderately supported if a genuine underlying entitlement exists**. Even in the stronger periods, repeated 8th/12th-house links warn that legal fees, tax, delay, debt, reinvestment, or an uncollectible counterparty can make a gross award very different from net wealth.
+
+### Event definitions and graded natal promise
+
+- Lottery/speculation is tested through `2/5/8/11`, with `6` for competition and `12` for loss or leakage.
+- Litigation or negotiated recovery is tested through `2/6/7/8/11`, with `9/10` for law and authority and `12` for fees, tax, delay, or loss.
+- An 8th-house activation by itself means shared capital, insurance, tax, inheritance, debt, restructuring, or vulnerability; it does **not** mean a windfall.
+
+| Potential manifestation | Traditional symbolic grade | Main qualification |
+|---|---|---|
+| Durable wealth from career, enterprise, clients, and disciplined investing | **Strong** | This is the chart's clearest wealth route. |
+| Contract, collection, insurance, property, or business-related recovery | **Moderate** | Requires an actual valid entitlement, evidence, and a solvent payor. |
+| Large net litigation award | **Moderate-to-weak** | Dispute and recovery houses connect, but expense/delay houses connect too. A settlement is more coherent than effortless courtroom riches. |
+| Occasional small speculative win | **Possible but not predictable** | The chart contains a real 2/5/8/11 linkage, but it is mixed with 6/10 work and 12 loss. |
+| Life-changing lottery jackpot | **Weak** | There is no clean, repeated KP jackpot promise, and astrology cannot improve the mathematical odds. |
+
+### Parashara, relevant vargas, and Bhava Chalit
+
+- **Parashara D1:** Venus, lord of the 2nd and 9th, occupies the 11th and receives Jupiter's aspect; exalted 5th/6th lord Saturn occupies the 2nd. This is a genuine wealth and merit combination. Saturn also aspects Mercury in the 8th and Venus in the 11th, so 2nd, 5th, 8th, and 11th themes do connect. The counterweight is equally important: Saturn also rules the 6th, the 11th lord Moon occupies the 6th, and 8th lord Mars is within about 0°14′ of 12th lord Sun. The same architecture can therefore produce income through work, competition, claims, shared finance, and problem-solving, with substantial cost or conflict. It is stronger for compounding than for random fortune.
+- **D2 Hora:** Moon, Mercury, Jupiter, and Venus fall in the Cancer/12th-side grouping. This does not cancel wealth, but it warns that family needs, generosity, security spending, tax, reinvestment, or shared obligations can absorb a headline gain.
+- **D4:** Mercury in the 11th and Venus in the 5th support planned property or asset gains. Saturn in the 8th and Jupiter in the 12th retain financing, legal-diligence, and expenditure complexity.
+- **D10:** Moon–Jupiter rising, Sun–Mars in the 10th, Saturn in the 2nd, and Venus in the 7th strongly favor enterprise, clients, responsibility, and earned public value. This corroborates business/career wealth more clearly than gambling wealth.
+- **Bhava Chalit:** Venus shifts `11 → 10`, Saturn `2 → 1`, and Jupiter `3 → 2`, while Mercury remains in the 8th. The 11th-house Venus promise therefore delivers mainly through profession and business; Saturn makes Divya personally carry the discipline; Jupiter supports resources through advice/partnership; and Mercury keeps contracts, tax, insurance, debt, and shared capital central. The Chalit chart redirects the promise toward earned or negotiated realization rather than anonymous luck.
+
+### Strict KP promise
+
+The significator tiers are kept explicit; they are not recursively merged until every planet appears to signify every house.
+
+- **5th cusp sub-lord Saturn:** Mars's star supplies `3/8/9`; Saturn itself supplies Chalit `1` and ownership `5/6`; Venus sub adds Chalit `10` and ownership `2/9`. This contains speculation, sudden money, competition, and receipts, but it lacks a clean direct 11th connection in the principal star/self set. It is not an unqualified jackpot signature.
+- **11th cusp sub-lord Jupiter:** Saturn's star supplies `1/5/6`; Jupiter occupies Chalit `2` and owns `4/7`; Moon sub adds `6/11`. This is the clearest realization bridge and favors gains through effort, a counterparty, property/family resources, or settlement.
+- **8th and 12th cusp sub-lord Mars:** Moon's star supplies `6/11`; Mars occupies `9` and owns `3/8`; Mercury sub adds `1/8/10`. The `6/8/11` bridge is more coherent for disputed, insured, contractual, or shared money than for a lottery. Because Mars is the saved sub-lord of both cusps and is conjoined 12th lord Sun in D1, deductions and leakage must be judged with the receipt.
+- **7th cusp sub-lord Mercury:** Venus's star supplies `2/9/10`; Mercury occupies `8` and owns `1/10`. This links counterparties and contracts to money, shared capital, and business but does not guarantee that a court will find liability.
+- **2nd cusp sub-lord Sun:** Moon's star supplies `6/11`, but Sun owns the 12th. Money received can be paired with cost, tax, professional fees, or an obligation.
+
+KP therefore grades **litigation/contract recovery as stronger than lottery**, while still making any net recovery conditional and mixed.
+
+### BNN reconciliation
+
+The principal flows are `Jupiter → Mars/Sun → Venus → Moon → Saturn → Venus` and `Mercury → Mars/Sun → Venus → Moon → Saturn`. A sudden or contested matter can enter through Mercury/Mars and authority through Sun, but it must pass through Venusian money/agreements, Moon's 6th-house service or dispute load, and Saturnian documentation and endurance before it becomes durable. The chain describes business, claims, contracts, insurance, and disciplined realization more naturally than a random jackpot.
+
+### Vimshottari and ranked timing windows
+
+On 25 October 2026 the natal period is approximately **Mercury/Saturn/Saturn**, with Mercury at the fourth level until about 2 November. Mercury/Saturn continues to 27 May 2029; Ketu mahadasha then runs to 27 May 2036; Venus mahadasha follows. Boundaries are approximate by about one day, and the distant dates should be treated at month-level precision.
+
+| Window and active period | Relative fit | Most defensible reading |
+|---|---|---|
+| **4 Apr–25 Jun 2028 — Mercury/Saturn/Moon** | Lottery **weak-to-mixed**; recovery **moderate** | Mercury activates shared capital/contracts, Saturn competition and process, and Moon `6/11` realization. A receivable, negotiated correction, insurance/contract matter, or business recovery is more plausible than a jackpot. |
+| **16 Jan–27 May 2029 — Mercury/Saturn/Jupiter** | Lottery **weak-to-mixed**; recovery **moderate-to-strong** | Jupiter is the 11th cusp sub-lord and connects resources, counterparties, property, effort, and gain. This is the clearest near-term closure/consolidation period, not a promise of litigation or winnings. |
+| **23 Jan–27 Feb and 27 May–23 Jul 2030 — Ketu/Venus/Moon and Jupiter** | Lottery **weak**; contractual/business receipt **moderate** | Venus activates the natal wealth promise, while Moon/Jupiter add fulfillment. Ketu makes delivery selective or irregular; use this more for monetization, partnership, or renegotiation than speculation. |
+| **29 Oct–25 Dec 2033 and 11 Jan–8 Feb 2034 — Ketu/Jupiter/Venus and Moon** | Lottery **weak-to-mixed**; property/settlement recovery **moderate** | Jupiter AD supplies the strongest KP realization chain; Venus/Moon add money and receipt. Ketu prevents treating a gross result as secure or continuous. |
+| **9 Dec 2034–12 Jan 2035 and 6 Apr–30 May 2035 — Ketu/Saturn/Moon and Jupiter** | Lottery **weak**; structured or litigated recovery **moderate** | Saturn connects contest, delay, and durable resources; Moon/Jupiter can realize a claim or agreement. This can be slow and fee-sensitive rather than a windfall. |
+| **4 Feb–17 Jul 2038 — Venus/Venus/Jupiter**, strongest transit overlap approximately **11 May–17 Jul** | Lottery **weak-to-mixed**; business/asset realization **moderate-to-strong** | Repetition of the wealth lord with Jupiter favors clients, enterprise value, property/partnership proceeds, or monetization. Jupiter's Cancer passage from May supplies 11th-from-Lagna support, while Saturn still warns about overhead. |
+| **22 Mar–15 Sep 2041 — Venus/Moon/Jupiter then Saturn** | Lottery **weak-to-mixed**; recovery/consolidation **moderate-to-strong** | This is the strongest broad receipt and consolidation band inside the 15-year horizon. Venus and Moon supply wealth/realization; Jupiter and Saturn can convert an established claim, asset, contract, or business value into structured resources. Concurrent 8th/12th themes still require a net-after-fees-and-tax calculation. |
+
+The more volatile **Ketu/Mars and Ketu/Rahu interval from late November 2031 to mid-May 2033** is not labeled favorable merely because it can be sudden. It can signify capital shocks, escalation, leverage, or loss. **Venus/Sun from September 2039 to September 2040** can bring authority or payment decisions, but Sun's 12th-house ownership makes net cost and tax especially important.
+
+### Published Lahiri transit cross-check
+
+The response-date slow-transit frame is Jupiter in Cancer (`11/6/9` from Virgo Lagna/Aquarius Moon/Scorpio Arudha), Saturn in Pisces (`7/2/5`), true Rahu in Aquarius (`6/1/4`), and Ketu in Leo (`12/7/10`). This supports gains or assistance through work and counterparties while keeping expense, emotional load, and contractual responsibility active.
+
+The 15-year transit clusters are used only to confirm the dasha windows:
+
+- **Late 2028–31:** Jupiter's Libra→Scorpio→Sagittarius sequence activates `2→3→4` from Lagna, `9→10→11` from Moon, and `12→1→2` from Arudha; Saturn settles into Taurus. This supports savings, enterprise, public identity, partners, and negotiated financial outcomes, but not a lottery prediction.
+- **Mid-2034–mid-2036:** Saturn in Cancer is 11th from Lagna while Jupiter moves Pisces→Aries, activating counterparties and then the 8th-house shared-money field. This is the clearest broad litigation/shared-resource transit cluster, but it can manifest as fees or a protracted dispute just as readily as recovery.
+- **Late 2037–mid-2039:** Jupiter makes Cancer passages, 11th from Lagna and on natal Venus by sign, during early Venus mahadasha; Saturn moves Leo→Virgo. This supports monetization and business/asset gains while preserving expenditure and personal-burden warnings.
+- **Late 2039–25 Oct 2041:** Jupiter moves through Virgo/Libra and Saturn through Virgo toward Libra, activating identity and accumulated resources; true nodes shift the `8/2` axis around late 2040. This is compatible with settlement accounting, shared-asset distribution, and consolidation, not inherently a windfall.
+
+Jupiter and Saturn sign eras were cross-checked against published Swiss-Ephemeris/Lahiri datasets. True-node tables were checked separately and are used only at broad sign level; no far-future day was treated as an exact event date.
+
+### Practical conclusion and guardrails
+
+The most likely order of manifestation is: **(1)** career or enterprise wealth, **(2)** negotiated contract/collection/refund or business recovery, **(3)** property, insurance, inheritance, or shared-asset proceeds if a real entitlement arises, **(4)** a large net litigation award, and **(5)** a life-changing lottery jackpot.
+
+The official Powerball jackpot odds are **1 in 292,201,338 per $2 play**. Astrology has no scientifically validated way to improve those odds or identify a winning date or number. If Divya plays at all, it should be from a small fixed entertainment budget—never borrowed money, operating capital, or money needed for the household/franchise, and never by chasing losses.
+
+Litigation should never be started because a symbolic period looks favorable. No lawsuit, demand, insurance claim, judgment, or collectible amount has been supplied; the iSMASH contractor history by itself does not establish liability or damages. A real recovery needs a legally supportable claim, evidence, timely filing, suitable counsel, a recoverable measure of loss, and a collectible defendant or applicable insurance. A judgment is not the same as cash collected, and settlement taxation depends on what the payment replaces. Judge every option by **expected net recovery after legal/expert costs, time, tax, stress, and collection risk**. If a right of recovery belongs to an LLC, another business entity, or Bharath rather than Divya personally, Divya's natal chart alone cannot establish who receives the proceeds.
+
+Sources used for the practical and transit checks: [Powerball official prize chart and odds](https://www.powerball.com/powerball-prize-chart), [Powerball responsible-play guidance](https://www.powerball.com/play-responsibly), [IRS settlement and judgment tax guidance](https://www.irs.gov/government-entities/tax-implications-of-settlements-and-judgments), [Snohomish County after-trial collection guidance](https://snohomishcountywa.gov/5986/After-Trial), [Lahiri Jupiter ingress dataset](https://vedara.me/data/jupiter-sidereal-ingresses), and [Lahiri Saturn ingress dataset](https://vedara.me/data/saturn-sidereal-ingresses).
+
+This is a traditional symbolic planning assessment, not a statistical financial forecast, gambling strategy, or legal opinion. Recalculate the annual chart, exact dasha level, ruling planets, and transits if a specific claim, settlement conference, judgment, asset sale, or payment date actually arises.
 
 ## Permanent event log
 
@@ -661,6 +1181,12 @@ Append new entries chronologically. A status snapshot is not the same as a compl
 | 28 Sep 2026; well-being/status report | Divya is reportedly encountering obstacles frequently and feeling sad while trying to keep herself cheerful. | User-supplied subjective current-status report | This records Divya's reported emotional state under sustained project pressure; it is not a medical diagnosis. Duration, severity, effect on sleep/appetite/functioning, and any professional evaluation have not been supplied. |
 | 28 Sep 2026; public-status check | The official iSMASH Everett contact and locations pages continued to show the Everett venue as “Coming Soon”; hours and a grand-opening date had not been announced. | Official iSMASH Everett and locations pages, checked 28 Sep 2026 | Public marketing status only. It does not establish the City permit, inspection, Certificate of Occupancy, construction-readiness, staffing, or actual opening status. |
 | 7 Oct 2026; public-status check | The official iSMASH Everett contact and locations pages continued to show the Everett venue as “Coming Soon”; hours and a grand-opening date remained unannounced. | [Official iSMASH Everett contact page](https://ismashusa.com/wa-everett/contact-us/) and [locations page](https://ismashusa.com/locations/), checked 7 Oct 2026 | Public marketing status only. It does not establish City permit, inspection, Certificate of Occupancy, construction-readiness, staffing, or actual opening status. No positive 2026 franchise owner distribution is assumed in the income bands without an actual opening and distributable cash. |
+| 18 Oct 2026; public-status check | The official iSMASH Everett contact page continued to show the Everett venue as “Coming Soon”; hours and a grand-opening date remained unannounced. | [Official iSMASH Everett contact page](https://ismashusa.com/wa-everett/contact-us/), checked 18 Oct 2026 | Public marketing status only. It does not establish City permit, inspection, Certificate of Occupancy, construction-readiness, staffing, opening, or first revenue. The focused forecast through May 2027 therefore treats franchise revenue as zero until an actual legal opening and sales are confirmed. |
+| 18 Oct 2026; birth-data reconfirmation | Divya's birth time and place were reconfirmed as 4 June 1983 at 2:20 PM IST in Mysore, India. | User-supplied confirmation | Confirms the existing canonical birth record; no rectification or chart change is required. The 2026 Tithi Pravesha time near 2:20 AM IST is the annual Sun–Moon elongation return and is not a second birth-time claim. |
+| 18 Oct 2026; current residence | Divya currently lives in Bothell, Washington. | User-supplied current-status fact | Current residence as of the report. The move date and exact street coordinates were not supplied. Bothell is used only for a city-level relocated annual-chart overlay; Mysore remains the canonical birthplace chart location. |
+| 25 Oct 2026; ownership/investment/execution-role clarification | The iSMASH Everett franchise is reportedly in Divya's name. Bharath supplies investment capital and manages permits and construction. | User-supplied role clarification | Current role statement. The investment amount, legal ownership percentage, financing structure, and exact division of operational responsibilities remain unspecified. This does not establish completed permits, passed inspections, occupancy authorization, or an opening date. |
+| 25 Oct 2026; revision permit and construction-closeout status | The City permit/authorization to proceed with revision work has been obtained. Public opening is currently blocked by remaining landlord work expected to take a couple of days and pending Carney work that Carney claims requires about half a day. After completion, the City must still issue the CO before the doors open. | User-supplied project-status update | Material progress from waiting for revision authorization to physical correction/closeout. The permit identifier, exact scope, committed work dates, actual completion, applicable final-inspection dates/results, permit final, and CO issuance remain unconfirmed. Contractor duration claims are estimates, not completed facts or calendar commitments. |
+| 25 Oct 2026; public-status check | The official iSMASH Everett contact page still said “Coming Soon,” while the locations page listed Everett as “Opening Soon”; hours and a grand-opening date remained unannounced. The public City permit search redirected to login, so no address-specific permit final or CO was independently verified. | [Official iSMASH Everett contact page](https://ismashusa.com/wa-everett/contact-us/), [locations page](https://ismashusa.com/locations/), and [Everett permit portal](https://onlinepermits.everettwa.gov/eTRAKiT/Search/permit.aspx), checked 25 Oct 2026 | Public marketing and search-access status only. It does not prove whether plans were accepted, corrections completed, finals passed, or occupancy authorized; an unavailable public record is not evidence that no permit or CO exists. |
 
 ## 16. How to use this profile for later questions
 
@@ -682,4 +1208,4 @@ Interpretations use common Parashari whole-sign, graha-aspect, varga, and Vimsho
 
 ---
 
-Generated on 8 July 2026. Recalculate if the recorded birth time or birthplace changes.
+Generated on 8 July 2026; last materially updated 25 October 2026. Recalculate if the recorded birth time or birthplace changes.

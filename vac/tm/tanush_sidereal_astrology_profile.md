@@ -124,7 +124,7 @@ Event recording must follow these rules:
 | TM-E003 | October 4, 2025 | Observed | Digital SAT attempt | User-supplied; exact date | Score reported below 1500. Saturn–Venus–Rahu is broadly consistent and close to a calculated PD boundary. |
 | TM-E004 | October 2026; working assumption October 3, 2026 | Planned / outcome pending | SAT retake with a target score of 1560 | User supplied October 2026; October 3 is inferred from the official weekend SAT calendar and is not yet user-confirmed | Outcome pending. Preserve the target and later append the actual test date and score. |
 | TM-E005 | 2026–2027 college application and award cycle; exact dates unknown | Target / outcome pending | Seek scholarship or grant aid sufficient to cover tuition | User-supplied objective; no institution, application date, or decision date supplied | Outcome pending. Record each application, award decision, scholarship amount, and uncovered cost when supplied. |
-| TM-E006 | 2026–2027 college application cycle; exact dates and institutions unknown | Planned / outcome pending | Apply for undergraduate admission on a pre-med path and seek placement at a strong-fit university | User supplied the medicine interest and current Bothell, Washington home base on August 20, 2026; no institution, application date, or decision date supplied | Outcome pending. Record each named application, submission date, admission decision, scholarship package, enrollment choice, and any move from Bothell when supplied. |
+| TM-E006 | 2026–2027 college application cycle; applications confirmed ongoing through the remainder of 2026; exact submission dates and institutions not yet supplied | Ongoing / outcome pending | Apply for undergraduate admission on a pre-med path and seek placement at a strong-fit university | User supplied the medicine interest and current Bothell, Washington home base on August 20, 2026; on October 18, 2026, the user confirmed that Tanush is actively applying through the rest of 2026. UW was discussed as an example, not confirmed as a submitted application. | Application activity is underway; outcome pending. Record each named application, submission date, admission decision, scholarship package, enrollment choice, and any move from Bothell when supplied. |
 | TM-E007 | After undergraduate study; exact medical-school application and matriculation years unknown | Target / outcome pending | Pursue medicine and apply to medical school, potentially requiring a second educational relocation | User-supplied career interest on August 20, 2026; specialty, institutions, dates, and destination unknown | Outcome pending. Do not infer a medical-school acceptance, scholarship, destination, or move until concrete details are supplied. |
 | TM-E008 | “Lately,” reported September 9, 2026; exact onset unknown | Observed | Increased arguments between Tanush and his father; his father is speaking with him less regularly, and Tanush is having difficulty following parental instructions | User-supplied; relative time window only | Ongoing when reported. Exact onset, frequency, triggers, severity, and any later resolution have not yet been supplied. |
 | TM-E009 | September 12, 2026 | Observed | SAT attempt at Bonney Lake, Washington | User-supplied; exact test date and city, but test center name and official score report not supplied | Score reported as 1480–1490. Treat the range as provisional until the exact official score is supplied. This event is recorded separately from the October 2026 retake plan in TM-E004; whether it replaced that plan is not yet known. |
@@ -754,3 +754,250 @@ D1, D10, D24, D2, D9, and BNN agree on high depth, long training, and expertise-
 No new concrete life event was supplied in this query, so no Event Ledger row was added.
 
 **Current transit reference:** [October 6, 2026 Lahiri planetary positions](https://www.kalmanas.com/planetary-positions-today).
+
+## 23. Tithi Pravesha Timing Audit — October 18, 2026
+
+### 1. Question and relevant factors
+
+The question is the next annual Tithi Pravesha after October 18, 2026. Tithi Pravesha repeats the natal geocentric Moon–Sun angular separation in the corresponding soli-lunar month; it is not simply the civil birthday or the exact solar return. The return instant is global, while the displayed clock time and annual-chart houses depend on location.
+
+### 2. Parashara finding
+
+Using the profile-locked Lahiri longitudes—Sun Scorpio 10°22′ and Moon Libra 26°18′—the natal Moon–Sun elongation is **345°56′**. This is **Krishna Chaturdashi**, 82.78% elapsed. The matching 2026 return is **December 7, 2026 at about 18:14:40 UTC**.
+
+### 3. Bhava Chalit finding
+
+**Bhava Chalit verdict pending—verified Lahiri-sidereal Placidus cusp table unavailable.**
+
+Bhava Chalit is not needed to identify the global return instant, but a verified cusp table is required before interpreting the annual houses.
+
+### 4. KP finding
+
+**KP verdict pending—required cusp data unavailable.**
+
+The return time can be calculated from the luminary angle without KP cusps; KP event claims cannot be certified until the annual and natal cusp/sub-lord tables are available.
+
+### 5. BNN finding
+
+BNN is interpretive rather than the primary clock for this calculation. At the return, Jupiter as Jīva is in Leo, Saturn as Karma is retrograde in Pisces, and Mercury as Intellect is in Scorpio close to the Moon, emphasizing disciplined study, emotional processing, and specialized learning for the annual cycle. These are symbolic themes, not guaranteed events.
+
+### 6. Dasha finding
+
+The return occurs during **Saturn–Venus–Mercury**, nominally September 8, 2026–February 19, 2027. This activates education, resources, applications, communication, competitive work, and the natal Scorpio research complex; exact outcomes still require real-world evidence and verified KP cusps.
+
+### 7. Transit finding
+
+At the profile-degree return near 18:14:40 UTC, Lahiri-sidereal positions include Sun Scorpio 21°24′52″, Moon Scorpio 7°20′52″, Mercury Scorpio 7°53′28″, Venus Libra 8°03′33″, Mars Leo 10°03′58″, Jupiter Leo 2°44′35″, Saturn retrograde Pisces 13°42′17″, and mean Rahu Capricorn 29°53′29″. The Moon–Sun difference is exactly 345°56′ within rounding.
+
+### 8. Reconciliation and data-quality warning
+
+Two inputs in the profile do not produce the same exact result:
+
+- **Locked supplied longitudes:** elongation 345°56′ → **December 7 at about 10:14:40 AM PST in Bothell** / **11:44:40 PM IST in Bengaluru**.
+- **Direct Swiss Ephemeris calculation from November 26, 2008, 4:33 PM IST:** Sun about Scorpio 10°34′48″ and Moon about Libra 26°54′01″, elongation about 346°19′13″ → **December 7 at about 11:04:54 AM PST in Bothell** / **December 8 at about 12:34:54 AM IST in Bengaluru**.
+
+The approximately 50-minute difference is material. Because Moon–Sun separation is independent of ayanamsa, changing the Lahiri offset does not explain it. Until the stored natal degrees and birth timestamp are reconciled, the annual-chart ascendant and hora lord should not be treated as final.
+
+### 9. Conclusion
+
+For continuity with the locked chart in this profile, use **Monday, December 7, 2026 at approximately 10:15 AM PST in Bothell** (**11:45 PM IST in Bengaluru**) as the working Tithi Pravesha. For a fresh calculation based strictly on the stated birth timestamp, use **approximately 11:05 AM PST** (**12:35 AM IST on December 8**). The date is robust—December 7 in Bothell—but the exact minute remains conditional on resolving the natal-data mismatch.
+
+**Bothell 2026–27 working Tithi year:** December 7, 2026 at approximately **10:14:40 AM PST** through the next matching return on November 26, 2027 at approximately **3:34:47 PM PST**. Under the direct-birth-timestamp calculation, the corresponding endpoints are approximately **11:04:54 AM PST** on December 7, 2026 and **4:20:12 PM PST** on November 26, 2027. These are timing calculations, not observed events.
+
+Under the birthplace convention, cast the annual chart for Bengaluru at the same global instant; using Bothell instead changes the annual ascendant and houses, not the return instant. This is a symbolic astrological timing framework, not a scientific prediction method.
+
+No new concrete life event was supplied, so no Event Ledger row was added.
+
+**Method and ephemeris references:** [P.V.R. Narasimha Rao, Annual Tithi Pravesha](https://www.vedicastrologer.org/articles/pp_tp.pdf); [Lahiri Tithi Pravesha calculator methodology](https://parasara.net/calculators/tithi-pravesha); [Astrodienst sidereal ephemerides](https://www.astro.com/swisseph/sweph_sla_e.htm).
+
+## 24. College Admission, Local-versus-Away Study, and Community-College Path — October 18, 2026
+
+### 1. Question and relevant houses
+
+The question compares four outcomes for the autumn 2027 college transition: admission to a solid four-year university, UW or another nearby university, an interstate move, and community college followed potentially by transfer. The principal houses are 4 for foundational education and home, 5 for merit, 9 for university, 11 for realization of the desired result, 6 and 11 for competition, and 3/9/12 for movement away from the present home. D24 is used for academic capacity and D4 for residence patterns. No chart can identify a particular institution with certainty.
+
+### 2. Parāśara finding
+
+The natal promise for university study is strong: the 9th lord Jupiter is in its own 9th with Venus; the 10th/11th lord Saturn occupies the 5th; and D24 concentrates Moon, Mars, Jupiter, and Saturn in its 10th. This favors sustained higher education and demonstrable qualifications. Deeply combust Mercury and the D24 8th-house Sun–Mercury combination explain application anxiety, overanalysis, and the possibility that grades or knowledge are stronger than performance under time pressure.
+
+D4 adds genuine residence-change potential: Moon with Rahu in its 4th indicates a nonstandard or changing home pattern, while natal Ketu in the D1 4th creates periodic detachment from the existing home base. These factors permit relocation but do not prove another state.
+
+Under the birthplace convention, the December 7, 2026 Tithi Pravesha whole-sign chart is robustly Leo rising at both candidate return times. Its stable layout is: Mars and Jupiter in Leo/1st; Venus and Muntha in Libra/3rd; Sun, Moon, and Mercury in Scorpio/4th; Rahu in Capricorn/6th; Saturn retrograde in Pisces/8th; and Ketu in Cancer/12th. The Year Lagna falls in the natal 5th. Annual 4th/9th lord Mars joins 5th lord Jupiter in the Year Lagna, while own-sign Venus with Muntha supports essays and self-effort. This is a substantial 4–5–9 education signature and favors a direct four-year path more than community college being forced as the primary outcome. Saturn in the 8th still allows delay, a waitlist, a financial restructuring, or a revised route.
+
+The locked-degree TP makes Mars the hora/year lord; the direct-birth-time return makes Sun the year lord. Mars would be the annual 4th/9th lord with Jupiter, while Sun is the annual ascendant lord in the 4th. Both versions keep education and the home-versus-independence decision central, but the exact annual lord remains unresolved.
+
+### 3. Bhava Chalit finding
+
+**Bhava Chalit verdict pending—verified Lahiri-sidereal Placidus cusp table unavailable.**
+
+That limitation applies to the natal chart because the stored birth timestamp, planetary degrees, and 0°13′ Aries ascendant do not reproduce one another. For the birthplace Tithi chart, however, the independently calculated annual Placidus overlay is stable enough at both candidate return times to move Mars and Jupiter from the whole-sign 1st into the 12th bhava; Ketu also operates in the 12th. This strengthens institutional residence, substantial education expense, or separation from the familiar home routine. It still cannot distinguish a Seattle dorm, another Washington city, or a different state.
+
+### 4. KP finding
+
+**KP verdict pending—required cusp data unavailable.**
+
+The strict requested rule requires verified 4/9/11 cusp significations for university placement and 6/11 for competitive success. The natal and annual background is supportive, but UW, another prestigious institution, a waitlist, or community college cannot be KP-certified without consistent cusp degrees, star lords, and sub-lords.
+
+### 5. BNN finding
+
+The working chain is Jupiter as Jīva in its own 9th with Venus → Saturn as Karma in the 5th → Mercury as Intellect in Saturn-ruled Anuradha and working through own-sign Mars in Scorpio. Higher knowledge therefore becomes a credential through persistence, revision, and difficult problem-solving. This supports a strong-fit four-year environment, particularly for research or pre-health preparation, but it does not turn institutional prestige into a guaranteed result. A community-college transfer path is compatible with Saturn's stepwise delivery, though it is not the dominant natal promise.
+
+### 6. Dasha finding
+
+- **Saturn–Venus–Mercury, nominally through February 19, 2027:** the primary application and file-review period. Saturn links the 5th with career/gains, Venus activates resources and the 9th, and Mercury activates applications, competition, writing, portals, and detailed review. Mercury's exceptional combustion makes proofreading, transcript checks, recommendation tracking, and deadline control essential.
+- **Saturn–Venus–Ketu, approximately February 19–April 27, 2027:** overlaps the main decision period. Because natal Ketu is in the 4th and transit Ketu is also in Cancer, the result may alter the expected home plan: an unexpected choice, waitlist, different campus or major, a stronger away option, or voluntarily releasing a first choice. Ketu does not automatically mean rejection.
+- **Saturn–Sun from approximately April 27, 2027:** supports the final identity and education transition, but often after aid comparison, waitlist movement, administrative work, or revised expectations. It carries the actual commitment, preparation, and move toward greater independence.
+
+### 7. Transit finding
+
+On October 18, 2026, Lahiri Mercury is near the natal Moon in late Libra and stations there on October 23–24 before retrograding and turning direct around November 13. This makes the application mentally consuming and favors repeated review rather than last-minute submission. Jupiter in late Cancer supports the educational/home foundation; Saturn retrograde in Pisces activates the 12th and aspects the natal Sagittarius education cluster, combining opportunity with institutional work and expense.
+
+- Jupiter briefly enters Leo around October 31, 2026, returns to Cancer around January 24–25, 2027, and re-enters Leo around June 25–26. The first Leo phase supports merit and recognition; exalted Cancer during spring decisions favors a secure educational foundation and keeps nearby options viable; the later Leo phase supports enrollment and the start of college.
+- Mean Rahu moves into Capricorn and Ketu into Cancer around December 5, 2026, beginning a sign-level natal nodal return on the career/home axis. Exact-degree timing in mid-2027 is conditional on the natal mean-versus-true-node convention.
+- Saturn enters early Aries around June 2, 2027 and crosses the supplied 0°13′ ascendant soon afterward. Together with the nodal return, June through September 2027 is the clearest independence, new-routine, residence-change, and college-start window. This is stronger evidence for leaving the old home routine than for crossing a state line specifically.
+
+### 8. Reconciliation
+
+Parāśara, D24, the birthplace Tithi chart, BNN, dasha, and transits agree on a consequential higher-education transition with moderate-to-strong symbolic support for a workable four-year offer. The mixed 4th/9th/12th pattern says that home remains important while independence increases. A nearby university plus dorm living, a long commute or new schedule, an in-state move, and an interstate move can all express the same symbolism. Astrology cannot honestly isolate UW or a destination state.
+
+The new Tithi year begins December 7, after the UW Seattle application deadline, so it mainly describes admission decisions, aid comparison, enrollment, and the 2027 move—not the earlier application submission. The 50-minute natal-data discrepancy leaves the annual hora lord and sensitive vargas unresolved, but the Bengaluru Leo whole-sign chart and its main education pattern remain unchanged.
+
+Practical facts must take priority over the symbolism. UW Seattle's autumn first-year application deadline is November 15, 2026, with decisions March 1–15; UW Bothell is a separate application with November 15 early action and January 15 regular decision. UW states that ordinary reviewers generally do not see SAT scores and that curriculum and course performance remain central. UW also states that pre-health is a process rather than a major and that attending UW as an undergraduate does not confer an admissions advantage to UW School of Medicine. Therefore the best pre-med choice is the affordable school where Tanush can earn a strong GPA, complete prerequisites, gain clinical/research experience, and preserve well-being—not automatically the most prestigious name.
+
+### 9. Conclusion
+
+| Path | Relative chart support | Responsible interpretation |
+|---|---|---|
+| Direct admission to a solid four-year university | Moderate-to-strong; strongest of the compared paths | At least one workable four-year option is more consistent with the combined indicators than community college being forced. No admission is guaranteed. |
+| UW Seattle specifically | Plausible but unverified | The spring Cancer-Jupiter/home emphasis supports a nearby option, but KP cannot certify UW and real holistic review controls the outcome. |
+| UW Bothell or another local four-year school | Plausible and practically strong | Fits the strong 4th-house/home signature and can still produce a major independence transition. UW Bothell requires a separate application. |
+| Out-of-state four-year college | Plausible, especially if academic fit and aid are compelling | D4, natal Ketu in the 4th, annual 12th-bhava activity, Saturn in the 12th by transit, and the 2027 nodal/ascendant activation support separation; they do not prove another state. |
+| Community college followed by transfer | Credible strategic backup, not the dominant forecast | It can be the best route if four-year cost, aid, major access, or fit is poor. It should be evaluated as a planned financial/transfer strategy, not as failure. |
+
+The best synthesis is **a direct four-year admission is favored, but the final choice may be less linear than expected**. A local university with greater independence is marginally easier to reconcile across all layers than either unchanged commuting life or a clearly interstate move. Keep UW Seattle, UW Bothell, several balanced four-year choices, and a Washington community-college transfer plan active until written admissions and net-cost offers are compared.
+
+TM-E006 was updated rather than duplicated: the user confirmed on October 18, 2026 that college applications are ongoing through the remainder of 2026. No institution was recorded as submitted because none was explicitly confirmed.
+
+Astrology is a symbolic interpretive system, not a scientifically validated admissions method. No enrollment decision should be made from this reading alone.
+
+**Practical references:** [UW Seattle dates and deadlines](https://admit.washington.edu/apply/dates-deadlines/); [UW test-score policy](https://admit.washington.edu/apply/first-year/how-to-apply/test-scores/); [UW Bothell application dates](https://www.uwb.edu/admissions/apply/application-dates-deadlines); [UW pre-health guidance](https://prehealth.uw.edu/stages/pre-health-at-the-uw/); [UW application overview](https://admit.washington.edu/Apply/).
+
+## 25. Undergraduate Residence: Home, Campus, or Interstate — October 18, 2026
+
+### 1. Question and relevant houses
+
+The question is whether Tanush will live away from the Bothell family home during undergraduate study. The distinction matters: leaving the parents' daily household, living in a dorm near Bothell, moving elsewhere within Washington, and crossing state lines are different outcomes. Residence is assessed through D1 and D4 houses 4/9/12, supported by the education houses 5/9/11.
+
+### 2. Parāśara finding
+
+The natal chart gives moderate-to-strong support for a meaningful break from the present home routine. Ketu occupies the D1 4th; Jupiter rules both the 9th and 12th and occupies its own 9th with Venus; and D4 places Moon with Rahu in the 4th. This combination commonly symbolizes changing residence, a nonstandard home arrangement, or living between environments. It does not by itself specify another state.
+
+The 2026 Tithi Pravesha birthplace chart keeps home and education central: annual 4th/9th lord Mars joins 5th lord Jupiter, the Scorpio trio occupies the whole-sign 4th, and Ketu occupies the 12th. This supports college and a significant living-arrangement decision, but the strong 4th house keeps a nearby university fully viable.
+
+### 3. Bhava Chalit finding
+
+**Bhava Chalit verdict pending—verified Lahiri-sidereal Placidus cusp table unavailable.**
+
+In the separately calculated annual Tithi Bhava Chalit overlay, Mars and Jupiter move into the 12th bhava and Ketu remains 12th-linked. That raises the likelihood of institutional residence, education expenses, or time away from the family household. It cannot distinguish a Seattle dorm from another Washington city or an interstate move.
+
+### 4. KP finding
+
+**KP verdict pending—required cusp data unavailable.**
+
+Without verified natal 4th, 9th, 11th, and 12th cusp sub-lords, KP cannot certify departure from home, the distance, or the destination.
+
+### 5. BNN finding
+
+Jupiter as Jīva carries both higher-education and 12th-house themes from the natal 9th; Saturn as Karma in the 5th demands adult responsibility; Mercury as Intellect handles the applications and logistical details. The flow supports growth through a more independent academic environment, but not a specific geography.
+
+### 6. Dasha finding
+
+Saturn–Venus–Mercury covers applications and file review through approximately February 19, 2027. Saturn–Venus–Ketu then covers much of the decision period through April 27; Ketu in the natal 4th can detach Tanush from the initially expected home plan or produce an unexpected school/location choice. Saturn–Sun beginning in late April supports a decisive identity and education transition. None of these periods guarantees interstate relocation.
+
+### 7. Transit finding
+
+Mean Rahu–Ketu moves onto the natal Capricorn–Cancer career/home axis beginning in December 2026. Saturn enters Aries around June 2, 2027 and crosses the supplied early-Aries ascendant soon afterward, while Jupiter returns to Leo in late June. The combined June–September 2027 pattern is the clearest period for independence, a new routine, enrollment, and possible movement of residence.
+
+### 8. Reconciliation
+
+Natal D1/D4, the Tithi chart, dasha, BNN, and 2027 transits agree more strongly on **separation from the present household routine** than on **another-state relocation**. The same symbolism can be fulfilled by a UW Seattle dorm, an apartment near campus, extensive commuting with much less family involvement, another Washington university, or an out-of-state school. Financial aid, admission offers, and family decisions will determine which form occurs.
+
+### 9. Conclusion
+
+- Living more independently during undergraduate study: **moderate-to-strong symbolic likelihood**.
+- Physically moving out of the Bothell family home for at least part of college: **moderate likelihood, strongest from summer/fall 2027**.
+- Remaining in Washington while living on/near campus: **at least as plausible as an interstate move**.
+- Moving to another state: **plausible but not established or dominant**.
+- Commuting from home throughout the first year: **still possible**, especially if the chosen local option is financially or academically superior.
+
+The most responsible forecast is that Tanush is likely to experience a meaningful increase in residential and day-to-day independence for college, but the chart does not justify saying he will definitely leave Washington or live away for all four undergraduate years.
+
+This is a forecast, not a concrete life event, so no Event Ledger row was added. Record the enrollment institution, housing decision, move date, and destination only when the user confirms them. Astrology is a symbolic interpretive framework, not a scientifically validated relocation method.
+
+## 26. College Admission Process and Finalization Timeline — October 25, 2026
+
+### 1. Question and relevant houses
+
+The question is how Tanush's autumn 2027 undergraduate admission process is likely to unfold and when the outcome will become final. University placement uses houses 4/9/11, merit uses the 5th, competition uses 6/11, and residence or institutional separation uses 4/9/12. The practical timeline is cross-checked against the published UW Seattle and UW Bothell calendar.
+
+### 2. Parāśara finding
+
+The natal and D24 promise supports a serious four-year path: own-sign 9th lord Jupiter joins Venus in the 9th, career/gains lord Saturn occupies the 5th, and D24 concentrates Moon, Mars, Jupiter, and Saturn in its 10th. Saturn makes delivery gradual rather than effortless, while deeply combust Mercury creates revisions, anxiety, and paperwork risk.
+
+The Tithi Pravesha year beginning December 7, 2026 strengthens the same story: Leo Year Lagna falls in the natal 5th; annual 4th/9th lord Mars joins 5th lord Jupiter; Venus and Muntha occupy the 3rd; Rahu occupies the 6th; and Saturn occupies the 8th. This supports admission and competitive effort but also permits suspense, a waitlist, financial restructuring, or a final choice different from the initial favorite. The likely process is staged: an earlier workable result, a more important March result, comparison of aid and fit, and commitment near the normal May deadline.
+
+### 3. Bhava Chalit finding
+
+**Bhava Chalit verdict pending—verified Lahiri-sidereal Placidus cusp table unavailable.**
+
+In the independently calculated annual Tithi overlay, Mars and Jupiter move into the 12th bhava. This makes tuition, aid, institutional residence, and local-versus-away considerations important to the final selection. It does not identify a school.
+
+### 4. KP finding
+
+**KP verdict pending—required cusp data unavailable.**
+
+Without verified 4/9/11 and 6/11 cusp sub-lords, no exact institution, admission result, or result date is KP-certified. The windows below are a dasha/transit synthesis aligned with real admissions calendars, not a strict KP event guarantee.
+
+### 5. BNN finding
+
+Jupiter as Jīva with Venus in the 9th provides the university opportunity; Saturn as Karma in the 5th delivers it through sustained work and delay; Mercury as Intellect in Saturn-ruled Anuradha manages essays, portals, and revisions. This is more consistent with a credential obtained through a multi-step review than with one effortless early result. It favors a workable direct four-year option, while leaving community college as a deliberate contingency rather than the dominant outcome.
+
+### 6. Dasha finding
+
+- **Saturn–Venus–Mercury through approximately February 19, 2027:** completion, correction, file review, early results, requests for documents, and scholarship or aid communication. Boundary uncertainty is approximately ±3.65 days.
+- **Saturn–Venus–Ketu through approximately April 27, 2027:** the major selective-school decision period. Ketu in the natal 4th can produce a surprising fork: waitlist, alternate campus/major, a stronger unexpected school, or a location different from the original home-based expectation. Ketu does not automatically mean rejection.
+- **Saturn–Sun beginning approximately April 27, 2027:** strongest for Tanush making the final identity and enrollment choice, paying a deposit, and transitioning from applicant to committed student.
+
+### 7. Transit finding
+
+On October 25, 2026, Mercury is retrograde in late Libra within about 20 arcminutes of the supplied natal Moon. This magnifies application concern and makes exact proofreading, portal checks, recommendation tracking, and calm communication essential. Mercury turns direct around November 13, immediately before the main November 15 deadline.
+
+Jupiter enters Leo around October 31, returns to Cancer around January 24–25, 2027, turns direct around April 13, and re-enters Leo around June 25–26. The first Leo passage can accompany recognition or an early favorable result; Cancer during spring decisions emphasizes educational security, family, and the local-versus-away choice; direct motion in mid-April supports clearer comparison and closure; the later Leo passage supports enrollment and the start of college. Rahu–Ketu activates the career/home axis from December, while Saturn enters Aries around June 2 and crosses the early ascendant, making June–September the strongest implementation, housing, and new-routine period.
+
+### 8. Reconciliation and timeline
+
+| Window | Most likely stage | Interpretation |
+|---|---|---|
+| October 25–November 15, 2026 | Finish and submit priority applications | Proofread repeatedly and verify every portal item; do not rely on the final day. |
+| November 16–December 6 | Files settle | Corrections, missing-item notices, or supplementary material may still arise. |
+| December 7–January 24 | New Tithi year begins | Acknowledgments, interviews, scholarship communication, or an early/local result are plausible; this need not be the final choice. |
+| Late January–February 19 | First clearly workable option | Stronger window for an initial admission or encouraging result with preliminary aid information. |
+| February 19–March 31 | Main selective decisions | March is the key result month; the preferred option may arrive with a surprise, waitlist, alternate route, or different location. |
+| April 1–13 | Compare offers | Net cost, scholarships, major access, campus fit, visits, and housing become decisive. |
+| April 13–May 1 | Primary finalization window | Clarity strengthens after Jupiter turns direct; the strongest commitment signal is around the Saturn–Sun transition near April 27 through the normal May deadline. Follow the exact date in each offer letter. |
+| May–June | Contingency closure | A waitlist, aid appeal, or revised offer can extend certainty; otherwise the choice should already be settled. |
+| June–September | Implementation | Orientation, housing, course registration, move planning, and the actual start of the new routine. |
+
+Officially, UW Seattle's autumn first-year deadline is November 15, its decision period is March 1–15, its FAFSA/WASFA priority date is February 1, and most students commit by May 1, subject to the offer letter. UW Bothell is a separate application: November 15 early action, January 15 regular decision, January early-action results, and March regular decisions.
+
+### 9. Conclusion
+
+The most defensible forecast is a **staggered admission process rather than one clean early answer**. Tanush is more likely to receive at least one workable direct four-year option than to be forced into community college. A safety, local, or rolling result may appear first; the preferred/selective-school picture should become substantially clearer in March; aid and location comparison follows in April.
+
+**Best finalization estimate:** Tanush's own enrollment choice is most likely to be finalized from approximately **April 13 through May 1, 2027**, with the strongest commitment signal around **April 27–May 1**. If he is relying on a waitlist or aid appeal, final certainty can move into **late May or June**, and occasionally later under the college's published process. Housing and relocation should become concrete during June–July, with the actual transition in August–September.
+
+No new admission result or submitted institution was supplied in this query, so no Event Ledger row was added. When an application submission, admission, denial, waitlist, aid offer, deposit, or enrollment choice is reported, update TM-E006 rather than creating a conflicting duplicate.
+
+Astrology is a symbolic timing framework, not a scientifically validated admissions method. Written decisions, financial-aid packages, and official deadlines control the real outcome.
+
+**Practical references:** [UW Seattle dates and deadlines](https://admit.washington.edu/apply/dates-deadlines/); [UW Bothell application dates](https://www.uwb.edu/admissions/apply/application-dates-deadlines).

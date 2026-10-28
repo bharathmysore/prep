@@ -299,6 +299,46 @@ These broad transits establish background only. They do not explain or predict t
 
 This event is stronger than the prenatal mortgage milestone because it directly affected Nihaal. Each emergency visit can become a separate rectification anchor if the date, approximate arrival time, hospital/location, and whether it was the initial reaction or a recurrence are available. Multiple visits should not be collapsed into one event when testing KP cusps or lower dasha periods.
 
+## 2F. Current-Location Clarification — Bothell, Washington
+
+### Factual record
+
+| Recorded date | Fact supplied by the user | Timing precision | Classification |
+|---|---|---|---|
+| October 18, 2026 | Nihaal is in Bothell, Washington | Current-location statement; relocation date and time were not supplied | Direct context for location-dependent annual charts, houses, and planetary horas |
+
+This records Nihaal's stated current location. It does not establish when he moved to Bothell or whether Bothell was his physical location at an earlier annual return. Until a more precise location is supplied, Bothell city-center coordinates of approximately **47.7623° N, 122.2054° W** are used for local chart calculations.
+
+### Subsequent residence-history clarification
+
+| Recorded date | Clarification supplied by the user | Timing precision | Effect on the record |
+|---|---|---|---|
+| October 18, 2026 | Nihaal has lived in Bothell, Washington since his birth in 2013, except for approximately one or two months in Bellevue | Residence begins with the known January 7, 2013 birth date; the Bellevue interval's dates and exact duration were not supplied | Establishes Bothell as the default residence and annual-chart location, while preserving Bellevue as the stated physical birth location |
+
+This later clarification partially resolves the uncertainty in the original current-location record. It does **not** change the natal chart's location: a natal chart uses the physical place of birth, which remains stated as Bellevue. For Tithi Pravesha and other location-dependent annual charts, Bothell should be used unless Nihaal was physically elsewhere at the exact return instant. The undated one-to-two-month Bellevue interval cannot be matched to a dasha or transit without its approximate month and year.
+
+The residence clarification does not change Parāśara sign placements, BNN sign/dispositor chains, or the natal Vimshottari sequence. In KP it supports retaining the Bothell annual cusps below, including the 2027 5th cusp's working Mars/Venus star/sub-lord result. Its natal birth-time rectification value remains low because residence is not the birth location and the Bellevue interval is not dated. At the date of this clarification, the approximate period remains Saturn–Venus–Venus; the contemporaneous Lahiri transit context already recorded below remains Jupiter in Cancer, retrograde Saturn in Pisces, true Rahu/Ketu in Aquarius/Leo, and Mars in Cancer.
+
+### Effect on the 2026–27 and 2027–28 Tithi Pravesha calculations
+
+Changing the calculation place from Bellevue to Bothell does not alter the global Sun–Moon return instants or their Pacific clock times. It makes only small local-house changes under the supplied-longitude calculation:
+
+| Annual return | Bothell ascendant | Hora/year lord | Bhava Chalit effect |
+|---|---|---|---|
+| January 13, 2026, approximately 11:09 AM PST | Pisces 23°08′, Revati pada 2 | Moon | Planetary Chalit houses remain unchanged from the Bellevue calculation |
+| January 2, 2027, approximately 9:54 AM PST | Capricorn 24°21′, Dhanishta pada 1 | Mars | Planetary Chalit houses remain unchanged from the Bellevue calculation |
+
+The 2027 annual 5th cusp moves to approximately Gemini 4°50′ and remains in Mars's star, but its working KP sub-lord changes from Sun in the Bellevue city-center calculation to **Venus** in the Bothell city-center calculation. This illustrates why exact KP cusp claims must remain provisional until both the natal data discrepancy and the event location are resolved.
+
+### Method review and rectification value
+
+- **Parāśara:** Annual sign placements, yogas, graha aspects, and the operative Bhava Chalit houses do not change. Only cusp degrees shift slightly.
+- **KP:** Cusp degrees are location-sensitive. The 2027 5th-cusp sub-lord change is calculation-relevant, but it cannot rectify the natal birth time because this is a present-location clarification rather than a timed life event.
+- **BNN:** Sign-based conjunction, dispositor, and trinal chains remain unchanged.
+- **Dasha and current transits:** On the October 18, 2026 disclosure date, Nihaal is approximately in Saturn–Venus–Venus. Lahiri transits place Jupiter in Cancer, retrograde Saturn in Pisces, true Rahu/Ketu in Aquarius/Leo, and Mars in Cancer. These are retained only as context for the current annual reading, not as proof of a relocation event.
+- **Rectification value:** Low for the natal birth time; high practical value for future location-dependent annual charts and transit-to-angle calculations.
+- **Missing detail:** The relocation date, whether Bothell is the permanent residence, the exact physical location at each annual return, and more precise coordinates if minute-level house timing is required.
+
 ## 3. Principal Yogas and Important Qualifications
 
 ### Ruchaka Mahapurusha Yoga

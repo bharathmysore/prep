@@ -11,6 +11,7 @@ Useful public references:
 - NVIDIA Dynamo disaggregated serving: https://docs.dynamo.nvidia.com/dynamo/design-docs/disaggregated-serving
 - NVIDIA Dynamo platform overview: https://developer.nvidia.com/dynamo
 - NVIDIA Dynamo architecture flow: https://docs.nvidia.com/dynamo/latest/design-docs/architecture-flow
+- NVIDIA Dynamo v1.6 release notes: https://docs.nvidia.com/dynamo/dev/reference/releases/v1-6-0
 - NVIDIA GPU Operator: https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/index.html
 - NVIDIA GPU Operator DRA Driver for GPUs: https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/dra-intro-install.html
 - NVIDIA KAI Scheduler open-source overview: https://developer.nvidia.com/blog/nvidia-open-sources-runai-scheduler-to-foster-community-collaboration/
@@ -378,6 +379,7 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
         * `SelectDecode(prefill_result)` scores decode workers by active sequences, KV memory headroom, transfer-domain compatibility, tenant isolation, and deadline slack.
         * Durable state is small: request status, selected workers, transfer token, retry count, and idempotency key. Hot routing state comes from worker heartbeats and cache events.
         * Invariant: a request has at most one active prefill attempt and at most one active decode owner per attempt version.
+        * Treat custom scoring, classification, and flow-control policies as versioned, bounded plugins: they may defer, reorder, or steer eligible requests using health, queue, cache, and SLO inputs, but cannot make network calls or mutate request state on the hot path. Shadow-score every new policy, cap its execution time, log its decision inputs, and retain a deterministic built-in picker as the rollback path.
       * **Prefill Worker**
         * Owns prompt tokenization handoff, prefill execution, KV block allocation, and transfer metadata generation.
         * Publishes `PrefillComplete(request_id, attempt, kv_block_ids, bytes, topology_domain, ttl, checksum_or_epoch)`.
@@ -392,16 +394,24 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
         * Abstracts direct GPU-to-GPU transfer, RDMA/UCX, PCIe, or fallback CPU staging behind a `Transfer(request_id, source, destination, block_ids, deadline)` API.
         * Maintains transfer leases and deadlines; expired transfers are abandoned and cache blocks are reclaimed by the source worker.
         * Exposes bytes transferred, transfer p95/p99, failed transfers, topology-domain misses, and fallback path rate.
+        * Indexes GPU, remote-cache, and disk-resident KV separately. A lower tier is a recovery or reuse optimization—not a free transfer: the router must include hydrate latency and the tenant's remaining deadline in the score before selecting it.
       * **Planner / Autoscaler**
         * Separately forecasts prefill and decode needs from incoming prompt tokens, generated tokens/sec, queueing delay, KV transfer pressure, and SLO burn.
         * Scales related components as a group when ratios matter, for example three prefill nodes and six decode nodes in the same high-speed fabric domain.
         * Uses hysteresis and warm pools because cold GPU worker startup can be slower than the request latency budget.
+        * Reconfigures GPU budgets through a versioned desired-state object rather than changing worker limits imperatively; a worker acknowledges the generation only after it has admitted or drained enough sequences to honor the new cap.
+      * **Transport and Snapshot Operator**
+        * Terminates and authenticates both request-plane and control-plane transports; use mutual TLS for worker-to-worker cache/coordination channels, rotate identities independently of model rollout, and reject an unverified worker before it can receive KV metadata.
+        * Keep TCP as a conservative default and gate any QUIC response plane behind capability negotiation, per-hop telemetry, and a bounded fallback to TCP before a stream is visible to the caller.
+        * A dedicated snapshot operator captures router policy, model/runtime compatibility, and recoverable KV-index metadata. Snapshots are asynchronous, versioned, and never a reason to stall a token stream; restoration repopulates hints only and validates every hinted cache location before reuse.
 
     * **Explain the control flow**
       * Operators configure pool sizes, GPU types, transfer limits, and routing policy.
       * Autoscaler independently scales prefill and decode capacity.
       * Cache metadata controls which workers can receive or reuse KV state.
       * Deployment policy pins compatible model, tokenizer, runtime, and transfer-library versions across the prefill and decode pools before traffic is shifted.
+      * Runtime upgrades use an explicit compatibility matrix for engines, transfer libraries, CRD/storage versions, and cache-index formats. During a migration, read both index formats, write the new format only after canary validation, and drain old workers before removing compatibility code.
+      * Treat engine failover and snapshot recovery as separate mechanisms: failover restores service ownership, while snapshot restore repopulates advisory routing state. Each path must expose its recovery point, validation failures, and stale-hint discard rate.
       * The planner reconciles desired prefill/decode ratios, topology constraints, and warm-pool size; it does not sit on the hot request path.
       * Rollout uses shadow traffic and canary routing by tenant/model because routing mistakes usually appear as tail-latency or transfer-failure regressions before total outage.
 
@@ -448,6 +458,16 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
       * The user-visible stream should start only after decode ownership is established, because replaying a partially streamed response is hard to hide.
       * If prefill succeeds but transfer or decode fails before streaming, retry with a new attempt and invalidate old transfer tokens.
       * If decode fails after streaming starts, return a clear truncated-response error or continue from a checkpoint only if the runtime can prove deterministic token and KV state recovery.
+
+    * **Topic: extensible routing and tiered KV state**
+      * Pluggable router scoring and flow control let a platform specialize for TTFT, cost, prefix reuse, GPU health, request deferral, or queue reordering without forking the serving core. They also raise a control-plane risk: an unbounded or poorly tested policy can become a fleet-wide latency incident or violate fairness between tenants.
+      * Multi-tier KV indexing increases reuse and makes recovery less dependent on a single GPU, but disk or remote tiers can turn a cache "hit" into a deadline miss. Keep tier selection deadline-aware, enforce tenant isolation in every index key, and track logical hit rate separately from useful-within-SLO hit rate.
+      * Prefer a signed, versioned plugin contract with dry-run comparison, per-tenant fairness bounds, a built-in deterministic fallback, per-policy circuit breakers, and an SLO-aware tiering policy. Change the preference only for offline batch work, where cost can outweigh tail latency.
+
+    * **Topic: secure and upgradeable worker coordination**
+      * Disaggregated serving adds internal cache and coordination channels; protecting only client ingress leaves token state and placement commands exposed inside the cluster.
+      * Mutual TLS and independently rotated workload identity reduce that risk but create certificate-lifecycle and incident-response work. Versioned, asynchronous snapshots aid restart and rollback but must be treated as advisory because cache blocks may have expired or moved.
+      * Prefer encrypted, mutually authenticated internal transports, audit every transfer capability, and make snapshot restore validate current model, tenant, attempt, and cache epoch before reuse.
 
     * **Recommended L7 stance**
       * Start with monolithic plus continuous batching. Add disaggregation for long-context or highly bursty workloads when profiling shows phase imbalance, and make topology-aware KV transfer, bounded cache-aware routing, explicit fallback, and per-phase SLOs first-class parts of the design.
