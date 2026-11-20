@@ -12,6 +12,8 @@ Useful public references:
 - NVIDIA Dynamo platform overview: https://developer.nvidia.com/dynamo
 - NVIDIA Dynamo architecture flow: https://docs.nvidia.com/dynamo/latest/design-docs/architecture-flow
 - NVIDIA Dynamo v1.6 release notes: https://docs.nvidia.com/dynamo/dev/reference/releases/v1-6-0
+- NVIDIA Dynamo v1.6.1 release notes: https://github.com/ai-dynamo/dynamo/releases/tag/v1.6.1
+- NVIDIA Dynamo encode-prefill-decode disaggregation: https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving
 - NVIDIA GPU Operator: https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/index.html
 - NVIDIA GPU Operator DRA Driver for GPUs: https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/dra-intro-install.html
 - NVIDIA KAI Scheduler open-source overview: https://developer.nvidia.com/blog/nvidia-open-sources-runai-scheduler-to-foster-community-collaboration/
@@ -329,6 +331,7 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
 
   * **Functional Requirements**
     * Route requests to prefill workers.
+    * For multimodal requests, route media through an optional encoder pool and pass a versioned encoder result to prefill.
     * Transfer KV cache to decode workers.
     * Stream output tokens from decode workers.
     * Autoscale prefill and decode independently.
@@ -353,6 +356,9 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
       v
     Disaggregated Router
       |
+      +--> Optional Encoder Pool
+      |       |
+      |       v
       +--> Prefill Pool
       |       |
       |       v
@@ -367,6 +373,7 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
 
     * **Explain the blocks**
       * Router chooses a prefill worker based on load and cache hints.
+      * Optional Encoder Pool converts image, audio, or video input into model-compatible embeddings before prefill.
       * Prefill Pool processes prompts and produces KV cache.
       * KV Cache Transfer moves attention state to decode workers.
       * Decode Pool generates tokens.
@@ -377,6 +384,7 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
         * `Submit(request_id, tenant_id, model_id, tokens, routing_hints)` validates model/version, tenant quota, prompt length, and streaming deadline.
         * `SelectPrefill()` scores workers by queue depth, admitted prefill tokens, prefix-cache overlap, GPU health, and topology domain.
         * `SelectDecode(prefill_result)` scores decode workers by active sequences, KV memory headroom, transfer-domain compatibility, tenant isolation, and deadline slack.
+        * `SelectPlan()` chooses monolithic, prefill/decode, or encode/prefill/decode execution from the modality, media bytes, expected output length, model capability, topology, and remaining deadline. The router must treat this as an admission decision, not a best-effort mid-request switch: every plan has a compatible encoder, prefill, decode, and transfer contract before work starts.
         * Durable state is small: request status, selected workers, transfer token, retry count, and idempotency key. Hot routing state comes from worker heartbeats and cache events.
         * Invariant: a request has at most one active prefill attempt and at most one active decode owner per attempt version.
         * Treat custom scoring, classification, and flow-control policies as versioned, bounded plugins: they may defer, reorder, or steer eligible requests using health, queue, cache, and SLO inputs, but cannot make network calls or mutate request state on the hot path. Shadow-score every new policy, cap its execution time, log its decision inputs, and retain a deterministic built-in picker as the rollback path.
@@ -385,6 +393,9 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
         * Publishes `PrefillComplete(request_id, attempt, kv_block_ids, bytes, topology_domain, ttl, checksum_or_epoch)`.
         * Uses bounded admission by prefill tokens, not just request count, because long prompts dominate compute.
         * Failure handling: if prefill fails before ownership is published, the router retries on another prefill worker; if it fails after publishing transfer metadata, the decode worker treats the transfer token as invalid and asks the router for a new attempt.
+      * **Optional Encoder Worker**
+        * Owns media validation, bounded decode/resize work, encoder execution, and publication of an immutable embedding handle. Its result carries model, encoder, preprocessor, precision, media-digest, and attempt versions; prefill rejects any handle outside that compatibility tuple.
+        * Enforce distinct byte, pixel/frame, and encoder-GPU budgets before dispatch. If encoding fails before a response stream begins, invalidate the handle and restart the whole attempt on a compatible plan; never splice an embedding from a prior attempt into a retried prefill.
       * **Decode Worker**
         * Owns token generation, streaming cursor, active sequence memory, and final cleanup.
         * Pulls or receives KV blocks using backend-specific metadata, then starts decode only after transfer validation.
@@ -396,12 +407,13 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
         * Exposes bytes transferred, transfer p95/p99, failed transfers, topology-domain misses, and fallback path rate.
         * Indexes GPU, remote-cache, and disk-resident KV separately. A lower tier is a recovery or reuse optimization—not a free transfer: the router must include hydrate latency and the tenant's remaining deadline in the score before selecting it.
       * **Planner / Autoscaler**
-        * Separately forecasts prefill and decode needs from incoming prompt tokens, generated tokens/sec, queueing delay, KV transfer pressure, and SLO burn.
+        * Separately forecasts encoder, prefill, and decode needs from media workload, incoming prompt tokens, generated tokens/sec, queueing delay, KV transfer pressure, and SLO burn.
         * Scales related components as a group when ratios matter, for example three prefill nodes and six decode nodes in the same high-speed fabric domain.
         * Uses hysteresis and warm pools because cold GPU worker startup can be slower than the request latency budget.
         * Reconfigures GPU budgets through a versioned desired-state object rather than changing worker limits imperatively; a worker acknowledges the generation only after it has admitted or drained enough sequences to honor the new cap.
       * **Transport and Snapshot Operator**
         * Terminates and authenticates both request-plane and control-plane transports; use mutual TLS for worker-to-worker cache/coordination channels, rotate identities independently of model rollout, and reject an unverified worker before it can receive KV metadata.
+        * Treat the trust bundle as a versioned dependency of the worker-to-worker protocol. Publish its digest, accepted roots, expiry window, and rollout generation with every worker heartbeat; canary a new bundle against every internal endpoint and retain a bounded overlap period for planned root rotation. Do not silently bypass verification when a removed root breaks a cache-transfer or gRPC connection: quarantine the incompatible endpoint, surface the chain/issuer metric, and roll back only to a still-approved bundle.
         * Keep TCP as a conservative default and gate any QUIC response plane behind capability negotiation, per-hop telemetry, and a bounded fallback to TCP before a stream is visible to the caller.
         * A dedicated snapshot operator captures router policy, model/runtime compatibility, and recoverable KV-index metadata. Snapshots are asynchronous, versioned, and never a reason to stall a token stream; restoration repopulates hints only and validates every hinted cache location before reuse.
 
@@ -410,6 +422,8 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
       * Autoscaler independently scales prefill and decode capacity.
       * Cache metadata controls which workers can receive or reuse KV state.
       * Deployment policy pins compatible model, tokenizer, runtime, and transfer-library versions across the prefill and decode pools before traffic is shifted.
+      * A multimodal rollout also pins the encoder/preprocessor and embedding ABI. Canary each supported execution plan separately; a healthy text-only prefill/decode canary is not evidence that media payload validation, embedding transfer, or encode/prefill compatibility is safe.
+      * A trust-bundle rollout is a separate, staged control-plane operation: inventory internal peers and certificate chains, update a small compatible ring, verify successful mTLS/cache-transfer handshakes and zero unexpected issuer failures, then expand. Block a model rollout from depending on a bundle generation that has not passed that compatibility gate.
       * Runtime upgrades use an explicit compatibility matrix for engines, transfer libraries, CRD/storage versions, and cache-index formats. During a migration, read both index formats, write the new format only after canary validation, and drain old workers before removing compatibility code.
       * Treat engine failover and snapshot recovery as separate mechanisms: failover restores service ownership, while snapshot restore repopulates advisory routing state. Each path must expose its recovery point, validation failures, and stale-hint discard rate.
       * The planner reconciles desired prefill/decode ratios, topology constraints, and warm-pool size; it does not sit on the hot request path.
@@ -417,6 +431,7 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
 
     * **Explain the data flow**
       * Request enters router.
+      * A multimodal request is validated and, when the selected plan requires it, encoded before prefill; a text request skips this stage.
       * Prefill worker processes prompt and materializes KV cache.
       * KV cache is transferred to selected decode worker.
       * Decode worker generates tokens and streams them to the client.
@@ -440,6 +455,11 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
     * **Option: hybrid mode**
       * Pros: use monolithic for short prompts and disaggregated for long-context requests.
       * Cons: more routing logic and capacity planning complexity.
+
+    * **Topic: prefill/decode versus encode/prefill/decode for multimodal traffic**
+      * A two-stage design is the better default for text and for workloads where decode dominates the latency budget. It keeps the request graph, transfer contracts, and capacity planner simpler.
+      * Adding a distinct encoder pool can isolate expensive image, audio, or video preprocessing and permit a lower-cost accelerator tier for media-heavy requests, but it introduces another queue, another compatibility boundary, and a potentially large embedding transfer before prefill.
+      * Prefer a three-stage plan only when production traces show encoder work materially affects time-to-first-token and the selected topology can move encoder outputs within the remaining deadline. Keep a monolithic or two-stage fallback for small media, decode-heavy requests, encoder-pool saturation, and any model that lacks a compatible embedding ABI.
 
     * **Topic: cache-aware routing versus pure load balancing**
       * Pure load balancing is simple and robust, but it can route a request away from useful prefix or session KV state and force expensive recomputation.
@@ -466,8 +486,8 @@ For L7, the interviewer is testing whether you can turn an ambiguous infrastruct
 
     * **Topic: secure and upgradeable worker coordination**
       * Disaggregated serving adds internal cache and coordination channels; protecting only client ingress leaves token state and placement commands exposed inside the cluster.
-      * Mutual TLS and independently rotated workload identity reduce that risk but create certificate-lifecycle and incident-response work. Versioned, asynchronous snapshots aid restart and rollback but must be treated as advisory because cache blocks may have expired or moved.
-      * Prefer encrypted, mutually authenticated internal transports, audit every transfer capability, and make snapshot restore validate current model, tenant, attempt, and cache epoch before reuse.
+      * Mutual TLS and independently rotated workload identity reduce that risk but create certificate-lifecycle and incident-response work. Trust-store changes add a distinct compatibility failure mode: a valid-looking deployment can lose only the internal paths whose chain depends on a retired root. Versioned, asynchronous snapshots aid restart and rollback but must be treated as advisory because cache blocks may have expired or moved.
+      * Prefer encrypted, mutually authenticated internal transports, explicit trust-bundle generations with canary handshake gates and issuer/chain telemetry, audit every transfer capability, and make snapshot restore validate current model, tenant, attempt, and cache epoch before reuse.
 
     * **Recommended L7 stance**
       * Start with monolithic plus continuous batching. Add disaggregation for long-context or highly bursty workloads when profiling shows phase imbalance, and make topology-aware KV transfer, bounded cache-aware routing, explicit fallback, and per-phase SLOs first-class parts of the design.

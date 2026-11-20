@@ -22,8 +22,10 @@ Useful public anchors:
 - Kubernetes Dynamic Resource Allocation: https://kubernetes.io/docs/concepts/resource-management/dynamic-resource-allocation/
 - Kubernetes v1.37 DRA updates: https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/
 - Kubernetes v1.37 workload-aware scheduling: https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/
+- Kubernetes Workload API and Job gang scheduling: https://kubernetes.io/docs/concepts/workloads/workload-api/
 - Kueue all-or-nothing with ready Pods: https://kueue.sigs.k8s.io/docs/tasks/manage/setup_wait_for_pods_ready/
 - Kueue Dynamic Resource Allocation quota management: https://kueue.sigs.k8s.io/docs/concepts/dynamic_resource_allocation/
+- Kueue DRA setup and quota accounting: https://kueue.sigs.k8s.io/docs/tasks/manage/setup_dra/
 - NVIDIA GPU Operator DRA Driver for GPUs: https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/dra-intro-install.html
 
 How to use this:
@@ -257,6 +259,29 @@ Implementation details:
 - Keep topology-aware scheduling conservative until the runtime can prove that DRA device accounting and topology assignments are consistent for the same attempt.
 
 Recommended answer: model DRA as a device-allocation contract below the queue scheduler. Use it for heterogeneous GPU SKUs, MIG, shared devices, and secure multi-node NVLink domains, while preserving all-or-nothing gang semantics and idempotent quota release.
+
+#### Topic: Admission, Device Binding, And Gang Readiness Are Different Commit Points
+
+Problem: A queue can admit a training gang and Kubernetes can allocate a `ResourceClaim`, while device preparation, Pod binding, image pull, or distributed rendezvous still fails. Calling any earlier step "started" leaks quota, misleads users, and leaves partial gangs consuming scarce GPUs.
+
+Recommended state machine:
+
+```text
+Queued -> Admitted -> ClaimsAllocated -> DevicesReady -> PodsBound
+      -> GangReady -> Running
+                     \
+                      -> Rollback(attempt + 1) -> Queued | Failed
+```
+
+- `Admitted` is a queue/quota decision, not a device allocation. Persist the queue generation, `ClusterQueue`/flavor (or equivalent), requested resource class, and reservation expiry so a retry cannot consume a newer policy implicitly.
+- `ClaimsAllocated` records the concrete claim allocation and its attempt id. It must be reconciled against the scheduler's placement result; a claim allocation that is no longer compatible with topology, driver, or tenant policy is rolled back before Pods are exposed as running.
+- `DevicesReady` is distinct from allocation. Use DRA binding conditions for externally prepared or fabric-attached devices: the scheduler should wait in pre-bind until the driver reports the required readiness condition, and treat a driver-published failure condition or timeout as a failed attempt. Bound the timeout below the job's startup SLO and record the driver reason, rather than leaving an admitted gang indefinitely pending.
+- `PodsBound` is still insufficient for distributed training. Release the application rendezvous only after all strict-gang workers have completed startup/readiness checks. For elastic jobs, make `minAvailable`, membership-change behavior, and checkpoint compatibility explicit in the job contract.
+- A rollback compensates in reverse order: stop or fence partial workers, clear or release claims/reservations, reverse the quota charge exactly once using the attempt id, and publish one terminal attempt event. Reconciliation must be safe if Kubernetes, the driver, and the queue controller each replay their own status event.
+
+Versioning tradeoff: Kubernetes Workload API gang scheduling and workload-level DRA claims may be feature-gated in a given cluster, while Kueue and custom controllers offer their own admission/readiness controls. Do not present an alpha API as the production correctness mechanism. Keep the platform-level attempt state machine and audit log authoritative, then select the cluster integration only after validating its feature gates, upgrade path, and failure semantics.
+
+Recommended answer: treat queue admission, DRA allocation, device readiness, and distributed-worker readiness as four independently observable steps. The scheduler owns the end-to-end attempt lease and compensating rollback; Kubernetes and the device driver report facts, but neither alone defines the user-visible start contract.
 
 #### Topic: Utilization Versus Performance
 

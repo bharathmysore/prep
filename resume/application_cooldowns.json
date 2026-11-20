@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-10-18",
+  "entries": [
+    {
+      "company": "OpenAI",
+      "position": "Software Engineer, Compute - Storage",
+      "url": "https://openai.com/careers/software-engineer-compute-storage-san-francisco/",
+      "locations": ["San Francisco", "Seattle", "London, UK"],
+      "status": "cooldown_pending",
+      "application_submitted": false,
+      "cooldown_days": 180,
+      "cooldown_start_date": null,
+      "cooldown_end_date": null,
+      "days_remaining": null,
+      "cooldown_note": "User reports they cannot apply because of a 180-day cool-off period. The triggering application/interview date and remaining time are unknown. Do not mark as applied or estimate an expiry. Revisit when the user provides a trigger date or confirms eligibility has returned.",
+      "saved_application_writeup": "I’m motivated by the opportunity to build storage infrastructure that helps research and production teams move quickly without compromising reliability. My background spans unified object, block, and file storage; cross-region replication and recovery; erasure coding; backup and archival; and capacity efficiency. I’ve led cross-team infrastructure work and stayed hands-on with systems software, Linux, and production debugging.\n\nI’ve also built a 1,500-node Kubernetes cluster for a proof-of-concept project. At Oracle, I developed backend capacity optimization for idle volumes (Patent 11,412,043) and drove CI/CD work for automated qualification and deployment. I’d bring this combination of storage depth, systems engineering, and practical infrastructure delivery to OpenAI’s Compute Storage team.",
+      "resume_file": "resume/RESUME_OpenAI_Compute_Storage.docx",
+      "notes": "Position and writeup saved for later. The writeup is a draft only and has not been submitted."
+    }
+  ]
+}
