@@ -1,0 +1,133 @@
+{
+  "captured_date": "2026-10-27",
+  "timezone": "America/Los_Angeles",
+  "root": "/Users/bmysoren/tpt",
+  "repositories": [
+    {
+      "name": "ceph",
+      "path": "/Users/bmysoren/tpt/ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "branch": "main",
+      "status": "",
+      "origin": "https://github.com/ceph/ceph.git",
+      "commit_date": "2026-10-27T16:17:45-04:00"
+    },
+    {
+      "name": "cornerstone",
+      "path": "/Users/bmysoren/tpt/cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "branch": "master",
+      "status": "",
+      "origin": "https://github.com/datatechnology/cornerstone.git",
+      "commit_date": "2023-05-12T14:35:49-07:00"
+    },
+    {
+      "name": "cubefs",
+      "path": "/Users/bmysoren/tpt/cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "branch": "master",
+      "status": "",
+      "origin": "https://github.com/cubefs/cubefs.git",
+      "commit_date": "2026-08-19T11:08:22+08:00"
+    },
+    {
+      "name": "etcd",
+      "path": "/Users/bmysoren/tpt/etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "branch": "main",
+      "status": "",
+      "origin": "https://github.com/etcd-io/etcd.git",
+      "commit_date": "2026-10-27T12:55:34-07:00"
+    },
+    {
+      "name": "foundationdb",
+      "path": "/Users/bmysoren/tpt/foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "branch": "main",
+      "status": "",
+      "origin": "https://github.com/apple/foundationdb.git",
+      "commit_date": "2026-10-27T15:34:09-07:00"
+    },
+    {
+      "name": "leveldb",
+      "path": "/Users/bmysoren/tpt/leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "branch": "main",
+      "status": "",
+      "origin": "https://github.com/google/leveldb.git",
+      "commit_date": "2026-10-08T12:15:26-07:00"
+    },
+    {
+      "name": "lmdb",
+      "path": "/Users/bmysoren/tpt/lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "branch": "mdb.master3",
+      "status": "",
+      "origin": "https://github.com/LMDB/lmdb.git",
+      "commit_date": "2026-10-20T13:41:29+01:00"
+    },
+    {
+      "name": "oceanbase",
+      "path": "/Users/bmysoren/tpt/oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "branch": "master",
+      "status": "",
+      "origin": "https://github.com/oceanbase/oceanbase.git",
+      "commit_date": "2026-10-08T15:54:33Z"
+    },
+    {
+      "name": "paxos",
+      "path": "/Users/bmysoren/tpt/paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "branch": "master",
+      "status": "?? .idea/",
+      "origin": "https://github.com/rahuliyer/paxos.git",
+      "commit_date": "2013-05-29T02:25:09-06:00"
+    },
+    {
+      "name": "redis",
+      "path": "/Users/bmysoren/tpt/redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "branch": "unstable",
+      "status": "",
+      "origin": "https://github.com/redis/redis.git",
+      "commit_date": "2026-10-27T19:48:51+08:00"
+    },
+    {
+      "name": "rocksdb",
+      "path": "/Users/bmysoren/tpt/rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "branch": "main",
+      "status": "",
+      "origin": "https://github.com/facebook/rocksdb.git",
+      "commit_date": "2026-10-27T17:34:39-07:00"
+    },
+    {
+      "name": "rockslab-week1",
+      "path": "/Users/bmysoren/tpt/rockslab-week1",
+      "commit": null,
+      "branch": null,
+      "status": null,
+      "origin": null,
+      "commit_date": null
+    },
+    {
+      "name": "seaweedfs",
+      "path": "/Users/bmysoren/tpt/seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "branch": "master",
+      "status": "",
+      "origin": "https://github.com/seaweedfs/seaweedfs.git",
+      "commit_date": "2026-10-27T17:48:22-07:00"
+    },
+    {
+      "name": "tikv",
+      "path": "/Users/bmysoren/tpt/tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "branch": "master",
+      "status": "",
+      "origin": "https://github.com/tikv/tikv.git",
+      "commit_date": "2026-10-27T16:26:26Z"
+    }
+  ]
+}

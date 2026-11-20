@@ -1,0 +1,3635 @@
+{
+  "captured_date": "2026-10-27",
+  "scope": "Local repository and saved-sample code anchors; hashes detect drift, not immutable archival copies",
+  "entries": [
+    {
+      "path": "/Users/bmysoren/prep/focused_areas/storage/samples/rockslab-week1/include/mini_lsm.h",
+      "line": 12,
+      "line_text": "class MiniLsm {",
+      "file_sha256": "3b41eb12f5a5021245419db1f4d2f2791d1ec9278d53ea5c55404187359ec80f",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "samples/README.md"
+      ],
+      "original_source_path": "/Users/bmysoren/tpt/rockslab-week1/include/mini_lsm.h"
+    },
+    {
+      "path": "/Users/bmysoren/prep/focused_areas/storage/samples/rockslab-week1/src/main.cc",
+      "line": 23,
+      "line_text": "int main() {",
+      "file_sha256": "874a88d4d55ea94e449ce08845b2070f9af38912fc3af6f4114f1bd6d8306fc3",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "samples/README.md",
+        "expertise/implementation-workbook.md"
+      ],
+      "original_source_path": "/Users/bmysoren/tpt/rockslab-week1/src/main.cc"
+    },
+    {
+      "path": "/Users/bmysoren/prep/focused_areas/storage/samples/rockslab-week1/src/mini_lsm.cc",
+      "line": 12,
+      "line_text": "void MiniLsm::Put(Key key, Value value) {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "samples/README.md"
+      ],
+      "original_source_path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc"
+    },
+    {
+      "path": "/Users/bmysoren/prep/focused_areas/storage/samples/rockslab-week1/src/mini_lsm.cc",
+      "line": 17,
+      "line_text": "void MiniLsm::Delete(Key key) {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "samples/README.md",
+        "expertise/implementation-workbook.md"
+      ],
+      "original_source_path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc"
+    },
+    {
+      "path": "/Users/bmysoren/prep/focused_areas/storage/samples/rockslab-week1/src/mini_lsm.cc",
+      "line": 22,
+      "line_text": "std::optional<MiniLsm::Value> MiniLsm::Get(const Key& key) const {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "samples/README.md",
+        "expertise/implementation-workbook.md"
+      ],
+      "original_source_path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc"
+    },
+    {
+      "path": "/Users/bmysoren/prep/focused_areas/storage/samples/rockslab-week1/src/mini_lsm.cc",
+      "line": 30,
+      "line_text": "std::vector<std::pair<MiniLsm::Key, MiniLsm::Value>> MiniLsm::Scan(",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "samples/README.md"
+      ],
+      "original_source_path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc"
+    },
+    {
+      "path": "/Users/bmysoren/prep/focused_areas/storage/samples/rockslab-week1/src/mini_lsm.cc",
+      "line": 55,
+      "line_text": "void MiniLsm::Flush() {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "samples/README.md",
+        "expertise/implementation-workbook.md"
+      ],
+      "original_source_path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc"
+    },
+    {
+      "path": "/Users/bmysoren/prep/focused_areas/storage/samples/rockslab-week1/src/mini_lsm.cc",
+      "line": 63,
+      "line_text": "void MiniLsm::Compact() {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "samples/README.md",
+        "expertise/implementation-workbook.md"
+      ],
+      "original_source_path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc"
+    },
+    {
+      "path": "/Users/bmysoren/prep/focused_areas/storage/samples/rockslab-week1/src/mini_lsm.cc",
+      "line": 100,
+      "line_text": "const MiniLsm::Entry* MiniLsm::FindNewest(const Key& key) const {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "samples/README.md",
+        "exercises/README.md",
+        "expertise/implementation-workbook.md",
+        "expertise/implementation-workbook.md"
+      ],
+      "original_source_path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc"
+    },
+    {
+      "path": "/Users/bmysoren/prep/focused_areas/storage/samples/rockslab-week1/tests/mini_lsm_test.cc",
+      "line": 18,
+      "line_text": "int main() {",
+      "file_sha256": "0887b35e14822f176f5184f9404d486280d2125eb695caa01a085a4f0dff6222",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "samples/README.md",
+        "exercises/README.md",
+        "expertise/implementation-workbook.md"
+      ],
+      "original_source_path": "/Users/bmysoren/tpt/rockslab-week1/tests/mini_lsm_test.cc"
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/architecture/ceph-clients.rst",
+      "line": 12,
+      "line_text": "Ceph Clients include a number of service interfaces. These include:",
+      "file_sha256": "d1f0825956fa6c855b92dd7818f5d5df56a64e079eb6d506b55eaf090f830663",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/architecture/ceph-clients.rst",
+      "line": 66,
+      "line_text": ".. topic:: S3/Swift Objects and Store Cluster Objects Compared",
+      "file_sha256": "d1f0825956fa6c855b92dd7818f5d5df56a64e079eb6d506b55eaf090f830663",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/architecture/ceph-clients.rst",
+      "line": 83,
+      "line_text": "A Ceph Block Device stripes a block device image over multiple objects in the",
+      "file_sha256": "d1f0825956fa6c855b92dd7818f5d5df56a64e079eb6d506b55eaf090f830663",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/architecture/ceph-clients.rst",
+      "line": 138,
+      "line_text": "The Ceph File System service includes the Ceph Metadata Server (MDS) deployed",
+      "file_sha256": "d1f0825956fa6c855b92dd7818f5d5df56a64e079eb6d506b55eaf090f830663",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/architecture/scalability-high-availability.rst",
+      "line": 31,
+      "line_text": "Ceph Clients and Ceph OSD Daemons both use the :abbr:`CRUSH (Controlled",
+      "file_sha256": "bf91c7e07c99b0f1b70d9dcfe6844c838d4757d4e3612b3ba2ffc3e2348e08bc",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/architecture/scalability-high-availability.rst",
+      "line": 71,
+      "line_text": "#. **The CRUSH Map:** Contains a list of storage devices, the failure domain",
+      "file_sha256": "bf91c7e07c99b0f1b70d9dcfe6844c838d4757d4e3612b3ba2ffc3e2348e08bc",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/architecture/scalability-high-availability.rst",
+      "line": 102,
+      "line_text": "Ceph leverages a cluster of monitors in order to increase reliability and fault",
+      "file_sha256": "bf91c7e07c99b0f1b70d9dcfe6844c838d4757d4e3612b3ba2ffc3e2348e08bc",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/architecture/storage-cluster.rst",
+      "line": 19,
+      "line_text": "A Ceph Storage Cluster consists of multiple types of daemons:",
+      "file_sha256": "a55dabb3bd012e2ffeef73df316e8cedf542f09cc53d1c178c7821968d9cd441",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/architecture/storage-cluster.rst",
+      "line": 51,
+      "line_text": "The Ceph Storage Cluster receives data from :term:`Ceph Client`\\s--whether it",
+      "file_sha256": "a55dabb3bd012e2ffeef73df316e8cedf542f09cc53d1c178c7821968d9cd441",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/architecture/storage-cluster.rst",
+      "line": 68,
+      "line_text": "Ceph OSD Daemons store data as objects in a flat namespace. This means that",
+      "file_sha256": "a55dabb3bd012e2ffeef73df316e8cedf542f09cc53d1c178c7821968d9cd441",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/dev/bluestore.rst",
+      "line": 9,
+      "line_text": "* *U*: Uncompressed write of a complete, new blob.",
+      "file_sha256": "cf020561b2744f646801c08bb676dafce3000753f36ba209d3ad3cb604170d58",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/dev/crimson/index.rst",
+      "line": 12,
+      "line_text": "Crimson is not enabled by default. Enable it at build time by running::",
+      "file_sha256": "a37792e2de07f5e2f335c2d970bff2cb8bf599bec4ed0d2bc3eb047401b44652",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "evolution.md",
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/dev/crimson/seastore.rst",
+      "line": 10,
+      "line_text": "* Target NVMe devices primarily, with interest in HDDs as well.",
+      "file_sha256": "148b4eb53c77fd756b5b1e72e39d763d141061863373a7ab536ea3a5527267de",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "evolution.md",
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/dev/osd_internals/log_based_pg.rst",
+      "line": 20,
+      "line_text": "Reads must return data written by any write which completed (where the",
+      "file_sha256": "31a5c7b09228bd0a422359000ba3fd5875d90bbdf85ce6588bc5f0cf7181a959",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/dev/osd_internals/log_based_pg.rst",
+      "line": 43,
+      "line_text": "Using this log, as long as we talk to a non-empty subset of the OSDs",
+      "file_sha256": "31a5c7b09228bd0a422359000ba3fd5875d90bbdf85ce6588bc5f0cf7181a959",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/dev/osd_internals/log_based_pg.rst",
+      "line": 58,
+      "line_text": "The reason for this gets to the heart of the rest of the differences",
+      "file_sha256": "31a5c7b09228bd0a422359000ba3fd5875d90bbdf85ce6588bc5f0cf7181a959",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/dev/osd_internals/log_based_pg.rst",
+      "line": 140,
+      "line_text": "Client Reads",
+      "file_sha256": "31a5c7b09228bd0a422359000ba3fd5875d90bbdf85ce6588bc5f0cf7181a959",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/dev/osd_internals/recovery_reservation.rst",
+      "line": 13,
+      "line_text": "In log-based recovery, the primary first acquires a local reservation",
+      "file_sha256": "f545fbe9e67c6882fa41fdb2e25cc55f04724470c9d129072675ef2480ebfb9a",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/dev/radosgw/bucket_index.rst",
+      "line": 1,
+      "line_text": "==================",
+      "file_sha256": "0cf8a23c5fe0eeef5e3f1ff900f20af5941ce90e3fa03d5f409292bb3dd3b596",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/rados/operations/erasure-code.rst",
+      "line": 1,
+      "line_text": ".. _ecpool:",
+      "file_sha256": "b66cd6fec9bfe13b0629c1de4d29a24f7cbb0d681bd65b0674321df7c8b947dd",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "foundations/04-placement-and-file-object-storage.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/rados/operations/placement-groups.rst",
+      "line": 14,
+      "line_text": "Ceph\u2019s internal RADOS objects are each mapped to a specific placement group,",
+      "file_sha256": "73129394b574449c25cc7e94ff10397c104f2f36b9df7db28485a5649b0078ed",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/doc/rados/operations/pools.rst",
+      "line": 748,
+      "line_text": "   size`` replicas. To set a minimum number of replicas required for I/O, you",
+      "file_sha256": "19428686b31ad964f10a14928c387bb89dce237ee67664998608fb476185c0ae",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/src/osd/PrimaryLogPG.cc",
+      "line": 7204,
+      "line_text": "    case CEPH_OSD_OP_DELETE:",
+      "file_sha256": "730e70404982afab81ab4e09bae793a9416fdb7084f773e9cb54b75b84800cd7",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/src/osd/PrimaryLogPG.cc",
+      "line": 11666,
+      "line_text": "void PrimaryLogPG::repop_all_committed(RepGather *repop)",
+      "file_sha256": "730e70404982afab81ab4e09bae793a9416fdb7084f773e9cb54b75b84800cd7",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/src/osd/PrimaryLogPG.cc",
+      "line": 11698,
+      "line_text": "  // ondisk?",
+      "file_sha256": "730e70404982afab81ab4e09bae793a9416fdb7084f773e9cb54b75b84800cd7",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/src/osd/ReplicatedBackend.cc",
+      "line": 638,
+      "line_text": "  op.waiting_for_commit.insert(",
+      "file_sha256": "17c837f64fb4e2d4387f008f360a79eff362431b848062048d7845a6d0df79da",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/src/osd/ReplicatedBackend.cc",
+      "line": 668,
+      "line_text": "  op_t.register_on_commit(",
+      "file_sha256": "17c837f64fb4e2d4387f008f360a79eff362431b848062048d7845a6d0df79da",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/ceph/src/osd/ReplicatedBackend.cc",
+      "line": 696,
+      "line_text": "  op->waiting_for_commit.erase(get_parent()->whoami_shard());",
+      "file_sha256": "17c837f64fb4e2d4387f008f360a79eff362431b848062048d7845a6d0df79da",
+      "project": "ceph",
+      "commit": "0fab663780ab76bb88aead23d15e930b826151a9",
+      "cited_in": [
+        "systems/ceph.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/README.md",
+      "line": 11,
+      "line_text": "- fs_log_store is not for production",
+      "file_sha256": "5343a3f62aba76fe079fb26629e558b1093b29d64a0b50158b667a898d917497",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/README.md",
+      "line": 27,
+      "line_text": "The key advantage or could be disadvantage for this implementation is it does not have any additional code that is unrelated to raft consensus itself. Which means, it does not have state machine, which could be a storage service.",
+      "file_sha256": "5343a3f62aba76fe079fb26629e558b1093b29d64a0b50158b667a898d917497",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/README.md",
+      "line": 40,
+      "line_text": "2. For log storage, please make your platform specific implementation, we may or may not add sophisticated implementation as it's not hard for everyone to implement one, the existing fs_log_store is for demo only as it's lack of many stuff including flush file data and meta data into physical device, always keeping three files in correct state (sort of transactional), etc.",
+      "file_sha256": "5343a3f62aba76fe079fb26629e558b1093b29d64a0b50158b667a898d917497",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/include/state_machine.hxx",
+      "line": 26,
+      "line_text": "{",
+      "file_sha256": "93c3899ed681531b39c3bffdbae481b27af3936d9aaa64c2b4f57cc1afdd79fb",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/src/fs_log_store.cxx",
+      "line": 276,
+      "line_text": "ulong fs_log_store::append(ptr<log_entry>& entry)",
+      "file_sha256": "dc0e1e54681e991f0c48be58d1a04d0e6fdac537613566a4478c1ee4249eb092",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/src/fs_log_store.cxx",
+      "line": 644,
+      "line_text": "bool fs_log_store::compact(ulong last_log_index)",
+      "file_sha256": "dc0e1e54681e991f0c48be58d1a04d0e6fdac537613566a4478c1ee4249eb092",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/src/raft_server.cxx",
+      "line": 49,
+      "line_text": "raft_server::raft_server(context* ctx)",
+      "file_sha256": "6a8f99127754f45e55fd3631fe1a833be4fbf343d4ea804965758bbc157e62f3",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/src/raft_server.cxx",
+      "line": 174,
+      "line_text": "void raft_server::handle_election_timeout()",
+      "file_sha256": "6a8f99127754f45e55fd3631fe1a833be4fbf343d4ea804965758bbc157e62f3",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/src/raft_server.cxx",
+      "line": 238,
+      "line_text": "void raft_server::become_candidate()",
+      "file_sha256": "6a8f99127754f45e55fd3631fe1a833be4fbf343d4ea804965758bbc157e62f3",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/src/raft_server.cxx",
+      "line": 540,
+      "line_text": "void raft_server::snapshot_and_compact(ulong committed_idx)",
+      "file_sha256": "6a8f99127754f45e55fd3631fe1a833be4fbf343d4ea804965758bbc157e62f3",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/src/raft_server.cxx",
+      "line": 638,
+      "line_text": "ptr<req_msg> raft_server::create_append_entries_req(peer& p)",
+      "file_sha256": "6a8f99127754f45e55fd3631fe1a833be4fbf343d4ea804965758bbc157e62f3",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/src/raft_server.cxx",
+      "line": 882,
+      "line_text": "void raft_server::commit_in_bg()",
+      "file_sha256": "6a8f99127754f45e55fd3631fe1a833be4fbf343d4ea804965758bbc157e62f3",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/src/raft_server.cxx",
+      "line": 960,
+      "line_text": "ptr<async_result<bool>> raft_server::append_entries(std::vector<bufptr>& logs)",
+      "file_sha256": "6a8f99127754f45e55fd3631fe1a833be4fbf343d4ea804965758bbc157e62f3",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cornerstone/src/raft_server_resp_handlers.cxx",
+      "line": 104,
+      "line_text": "            p->set_matched_idx(resp.get_next_idx() - 1);",
+      "file_sha256": "3b1a5117ad56cf55db86fa3cc1de7310fd605b6995478eef92221a06f684e7d6",
+      "project": "cornerstone",
+      "commit": "eb053fcff3ffa271be2c5f31d6a58c511b493f85",
+      "cited_in": [
+        "systems/cornerstone.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/blobstore/access/stream/stream_put.go",
+      "line": 205,
+      "line_text": "// writeToBlobnodes write shards to blobnodes.",
+      "file_sha256": "2e3cc80972a3563d9cb12f4b9290d2a8fb73740af1d875dda7ccf1ec81dd0d9d",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/blobstore/access/stream/stream_put.go",
+      "line": 443,
+      "line_text": "\t\tif len(badIdxes) > 0 {",
+      "file_sha256": "2e3cc80972a3563d9cb12f4b9290d2a8fb73740af1d875dda7ccf1ec81dd0d9d",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/blobstore/access/stream/stream_put.go",
+      "line": 454,
+      "line_text": "\t// It tolerate one az was down when we have 3 or more azs.",
+      "file_sha256": "2e3cc80972a3563d9cb12f4b9290d2a8fb73740af1d875dda7ccf1ec81dd0d9d",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/datanode/storage/extent.go",
+      "line": 478,
+      "line_text": "\tif _, err = e.file.WriteAt(param.Data[:param.Size], int64(param.Offset)); err != nil {",
+      "file_sha256": "f1f774ff9b111ac9ef817af2af824e0a84750d4becfc70b56d25ee3b2992952c",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/datanode/wrap_operator.go",
+      "line": 959,
+      "line_text": "\t\tif writable := partition.disk.tryDiskLimit(OpWrite, uint32(p.Size), func() {",
+      "file_sha256": "dd5e7b4bfe1112c3cf838de35b1c8c2a0d7f2ef7f6818bf1ffb1286b8bc4e817",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/blobstore.md",
+      "line": 3,
+      "line_text": "Before CubeFS 3.0.0, only multi-replica storage was provided. As data scales continue to grow, businesses face greater cost challenges, and the demand for lower-cost erasure codes (EC) becomes increasingly strong.",
+      "file_sha256": "f24fc56b73cfd42e506a2fedae1e0efcdcd74df8982b339786f43aa9b00d7251",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/blobstore.md",
+      "line": 13,
+      "line_text": "1. Uses Reed-Solomon encoding, a concise online EC architecture",
+      "file_sha256": "f24fc56b73cfd42e506a2fedae1e0efcdcd74df8982b339786f43aa9b00d7251",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/blobstore.md",
+      "line": 25,
+      "line_text": "* Access: Request access gateway, providing basic operations such as data read, write, and delete.",
+      "file_sha256": "f24fc56b73cfd42e506a2fedae1e0efcdcd74df8982b339786f43aa9b00d7251",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/blobstore.md",
+      "line": 29,
+      "line_text": "* Scheduler: Asynchronous task scheduling center, responsible for generating and scheduling tasks such as disk repair, disk offline, data balancing, data inspection, data repair, and data deletion.",
+      "file_sha256": "f24fc56b73cfd42e506a2fedae1e0efcdcd74df8982b339786f43aa9b00d7251",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/blobstore.md",
+      "line": 33,
+      "line_text": "**Volume**",
+      "file_sha256": "f24fc56b73cfd42e506a2fedae1e0efcdcd74df8982b339786f43aa9b00d7251",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/blobstore.md",
+      "line": 65,
+      "line_text": "## Data Read/Write Process",
+      "file_sha256": "f24fc56b73cfd42e506a2fedae1e0efcdcd74df8982b339786f43aa9b00d7251",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/blobstore.md",
+      "line": 76,
+      "line_text": "**Read Process**",
+      "file_sha256": "f24fc56b73cfd42e506a2fedae1e0efcdcd74df8982b339786f43aa9b00d7251",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/blobstore.md",
+      "line": 115,
+      "line_text": "### EC Encoding and Decoding",
+      "file_sha256": "f24fc56b73cfd42e506a2fedae1e0efcdcd74df8982b339786f43aa9b00d7251",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/blobstore.md",
+      "line": 135,
+      "line_text": "As a single-machine storage engine, BlobNode manages all disk storage space on the local machine, organizes user data on disk and in memory, and provides interfaces for data reading, writing, deletion, and repair.",
+      "file_sha256": "f24fc56b73cfd42e506a2fedae1e0efcdcd74df8982b339786f43aa9b00d7251",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/client.md",
+      "line": 7,
+      "line_text": "The client process will use the client cache in the following situations:",
+      "file_sha256": "e9ea6b4e8ca8a1d4f69492f1635be5fbabb78cbd5087afc0b03e1c67934b1a09",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/client.md",
+      "line": 9,
+      "line_text": "- In order to reduce the communication burden with the resource management node, the client will obtain the addresses of all metadata and data nodes in the mounted volume during the mount startup and cache them. The cache will be updated periodically from the resource management node.",
+      "file_sha256": "e9ea6b4e8ca8a1d4f69492f1635be5fbabb78cbd5087afc0b03e1c67934b1a09",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/client.md",
+      "line": 16,
+      "line_text": "During fault recovery, the leader node of the Raft replication group may change, causing the cached address of the client to be invalid. Therefore, when the client receives a \"not leader\" reply after sending a request, it will retry all nodes in the replication group. After a successful retry, the new leader node will be identified, and the client will cache the address of the new leader node.",
+      "file_sha256": "e9ea6b4e8ca8a1d4f69492f1635be5fbabb78cbd5087afc0b03e1c67934b1a09",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/client.md",
+      "line": 26,
+      "line_text": "Currently, the writeback cache feature of FUSE has not achieved the expected performance improvement.",
+      "file_sha256": "e9ea6b4e8ca8a1d4f69492f1635be5fbabb78cbd5087afc0b03e1c67934b1a09",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/client.md",
+      "line": 34,
+      "line_text": "## Live Upgrade",
+      "file_sha256": "e9ea6b4e8ca8a1d4f69492f1635be5fbabb78cbd5087afc0b03e1c67934b1a09",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/client.md",
+      "line": 59,
+      "line_text": "## Client Warm-up",
+      "file_sha256": "e9ea6b4e8ca8a1d4f69492f1635be5fbabb78cbd5087afc0b03e1c67934b1a09",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/datanode.md",
+      "line": 21,
+      "line_text": "### Small File Storage",
+      "file_sha256": "27881e972bccf6cffe14c9ee563655176ee705a225a0a9bf4d4f06f0f13b5b9f",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/datanode.md",
+      "line": 27,
+      "line_text": "### Data Replication",
+      "file_sha256": "27881e972bccf6cffe14c9ee563655176ee705a225a0a9bf4d4f06f0f13b5b9f",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/datanode.md",
+      "line": 39,
+      "line_text": "### Fault Recovery",
+      "file_sha256": "27881e972bccf6cffe14c9ee563655176ee705a225a0a9bf4d4f06f0f13b5b9f",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/datanode.md",
+      "line": 43,
+      "line_text": "### Cached Data",
+      "file_sha256": "27881e972bccf6cffe14c9ee563655176ee705a225a0a9bf4d4f06f0f13b5b9f",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/datanode.md",
+      "line": 93,
+      "line_text": "The file names consisting of numbers like 1 and 10 are the actual files where the data is stored, called extent files, and their file names are the serial numbers of the extent files, called ExtentID. There are two types of extent files, as follows:",
+      "file_sha256": "27881e972bccf6cffe14c9ee563655176ee705a225a0a9bf4d4f06f0f13b5b9f",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/datanode.md",
+      "line": 100,
+      "line_text": "- `APPLY` - Records the ApplyIndex value of the current Raft for the partition.",
+      "file_sha256": "27881e972bccf6cffe14c9ee563655176ee705a225a0a9bf4d4f06f0f13b5b9f",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/kernelclient.md",
+      "line": 1,
+      "line_text": "# Kernel Client ",
+      "file_sha256": "16da523a43876a52a46a6ad756d6b35d17e4334a0e954f5ce2140514194ca377",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/metanode.md",
+      "line": 9,
+      "line_text": "Each metadata can contain hundreds or thousands of metadata partitions, and each partition consists of an `InodeTree (BTree)` and a `DentryTree (BTree)`.",
+      "file_sha256": "33cb09874025ca99685a1ff4c1bc4a5a50e313645118cc45102eef37a0aa5a8e",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/design/metanode.md",
+      "line": 24,
+      "line_text": "## Fault Recovery",
+      "file_sha256": "33cb09874025ca99685a1ff4c1bc4a5a50e313645118cc45102eef37a0aa5a8e",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/overview/architecture.md",
+      "line": 5,
+      "line_text": "CubeFS consists of a metadata subsystem, a data subsystem, a resource management node (Master), and an object gateway (Object Subsystem), which can access stored data through the POSIX/HDFS/S3 interface.",
+      "file_sha256": "545b0d2228569ae1bd195c2c8db2d0a1add513b66d4a63ac4f8c81a1a03f3c0c",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/overview/architecture.md",
+      "line": 7,
+      "line_text": "- **Resource Management Node**: Composed of multiple Master nodes, it is responsible for asynchronously processing different types of tasks, such as managing data shards and metadata shards (including creation, deletion, updating, and consistency checks), checking the health status of data or metadata nodes, and maintaining volume information.",
+      "file_sha256": "545b0d2228569ae1bd195c2c8db2d0a1add513b66d4a63ac4f8c81a1a03f3c0c",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/docs/source/overview/architecture.md",
+      "line": 19,
+      "line_text": "- **Data Subsystem**: Divided into Replica Subsystem and Erasure Code Subsystem, both subsystems can coexist or exist independently:",
+      "file_sha256": "545b0d2228569ae1bd195c2c8db2d0a1add513b66d4a63ac4f8c81a1a03f3c0c",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/sdk/data/stream/extent_client.go",
+      "line": 712,
+      "line_text": "func (client *ExtentClient) Write(inode uint64, offset int, data []byte, flags int, checkFunc func() error,",
+      "file_sha256": "3525dc6fbc213d944ec7a2bc191f495dc062533827a4d2731a469cbdebd02cda",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/sdk/data/stream/extent_client.go",
+      "line": 766,
+      "line_text": "func (client *ExtentClient) Read(inode uint64, data []byte, offset int, size int, storageClass uint32, isMigration bool) (read int, err error) {",
+      "file_sha256": "3525dc6fbc213d944ec7a2bc191f495dc062533827a4d2731a469cbdebd02cda",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/sdk/data/stream/extent_client.go",
+      "line": 819,
+      "line_text": "func (client *ExtentClient) ReadExtent(inode uint64, ek *proto.ExtentKey, data []byte, offset int, size int, storageClass uint32) (read int, err error, isStream bool) {",
+      "file_sha256": "3525dc6fbc213d944ec7a2bc191f495dc062533827a4d2731a469cbdebd02cda",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/cubefs/sdk/meta/api.go",
+      "line": 1512,
+      "line_text": "func (mw *MetaWrapper) AppendExtentKey(parentInode, inode uint64, ek proto.ExtentKey, discard []proto.ExtentKey,",
+      "file_sha256": "1a899b88dbcd4ef10e31bfaa2951800f3b2888fd139eda21c64162e558e3a30d",
+      "project": "cubefs",
+      "commit": "ca5609b0af9108ef2eda825827e2f43fba65f596",
+      "cited_in": [
+        "systems/cubefs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/Documentation/contributor-guide/roadmap.md",
+      "line": 3,
+      "line_text": "etcd uses GitHub milestones to track all tasks in each major or minor release. The `roadmap.md` file only records the",
+      "file_sha256": "90784295486cc07cfb29185f20e69d0560e1cd09c65d2cfcdc05566e55810891",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/Documentation/contributor-guide/roadmap.md",
+      "line": 29,
+      "line_text": "## v3.7.0",
+      "file_sha256": "90784295486cc07cfb29185f20e69d0560e1cd09c65d2cfcdc05566e55810891",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/README.md",
+      "line": 28,
+      "line_text": "etcd is written in Go and uses the [Raft][] consensus algorithm to manage a highly-available replicated log.",
+      "file_sha256": "d78b5f4555f76984a161a824a06722f8ed5b00e7cf9d845a75ccda1d134deae1",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/etcdserver/raft.go",
+      "line": 245,
+      "line_text": "\t\t\t\t// Must save the snapshot file and WAL snapshot entry before saving any other entries or hardstate to",
+      "file_sha256": "4298ef7d925acc2420ff064b36d9628b7b81877303c815926fff9f2f7f44864a",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md",
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/etcdserver/raft.go",
+      "line": 265,
+      "line_text": "\t\t\t\t\t// Force WAL to fsync its hard state before Release() releases",
+      "file_sha256": "4298ef7d925acc2420ff064b36d9628b7b81877303c815926fff9f2f7f44864a",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/etcdserver/read/read.go",
+      "line": 117,
+      "line_text": "\t\tconfirmedIndex, err := r.requestCurrentIndex(leaderChangedNotifier)",
+      "file_sha256": "24ff8372d19e1a0c70bdc26aae07e0dc1cfb4e33d46eaf99c05a629e8be94c45",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "samples/README.md",
+        "systems/etcd.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/etcdserver/v3_server.go",
+      "line": 61,
+      "line_text": "type RaftKV interface {",
+      "file_sha256": "ceedb289311f5b10caf5655f62bf2f211eef358fc336ba6772ec92478ec8db76",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/etcdserver/v3_server.go",
+      "line": 139,
+      "line_text": "\tif !r.Serializable {",
+      "file_sha256": "ceedb289311f5b10caf5655f62bf2f211eef358fc336ba6772ec92478ec8db76",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/etcdserver/v3_server.go",
+      "line": 304,
+      "line_text": "\tresp, err := s.raftRequest(ctx, &pb.InternalRaftRequest{Put: r})",
+      "file_sha256": "ceedb289311f5b10caf5655f62bf2f211eef358fc336ba6772ec92478ec8db76",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/etcdserver/v3_server.go",
+      "line": 376,
+      "line_text": "\tresp, err := s.raftRequest(ctx, &pb.InternalRaftRequest{Txn: r})",
+      "file_sha256": "ceedb289311f5b10caf5655f62bf2f211eef358fc336ba6772ec92478ec8db76",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/etcdserver/v3_server.go",
+      "line": 385,
+      "line_text": "\tctx, span = traceutil.Tracer.Start(ctx, \"compact\", trace.WithAttributes(",
+      "file_sha256": "ceedb289311f5b10caf5655f62bf2f211eef358fc336ba6772ec92478ec8db76",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/etcdserver/v3_server.go",
+      "line": 489,
+      "line_text": "func (s *EtcdServer) LeaseRenew(ctx context.Context, id lease.LeaseID) (int64, error) {",
+      "file_sha256": "ceedb289311f5b10caf5655f62bf2f211eef358fc336ba6772ec92478ec8db76",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/etcdserver/v3_server.go",
+      "line": 1115,
+      "line_text": "\terr = s.r.Propose(cctx, data)",
+      "file_sha256": "ceedb289311f5b10caf5655f62bf2f211eef358fc336ba6772ec92478ec8db76",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/storage/backend/backend.go",
+      "line": 233,
+      "line_text": "\tdb, err := bolt.Open(bcfg.Path, 0o600, bopts)",
+      "file_sha256": "68cbaece5d20dc001acf03f6e0f91c3a3945abf02a8d277ab4bec43080880b66",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/storage/backend/backend.go",
+      "line": 723,
+      "line_text": "\t// Phase 1: bulk-copy the live db using only a read-only bbolt transaction, mirroring",
+      "file_sha256": "68cbaece5d20dc001acf03f6e0f91c3a3945abf02a8d277ab4bec43080880b66",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/storage/mvcc/kvstore.go",
+      "line": 37,
+      "line_text": "var (",
+      "file_sha256": "cf339f33b1c9530ccedc255caa50e547f64ebb6a26127bc9f8469293c7ae51fa",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/storage/mvcc/kvstore.go",
+      "line": 53,
+      "line_text": "type store struct {",
+      "file_sha256": "cf339f33b1c9530ccedc255caa50e547f64ebb6a26127bc9f8469293c7ae51fa",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/storage/mvcc/kvstore_compaction.go",
+      "line": 28,
+      "line_text": "func (s *store) scheduleCompaction(compactMainRev, prevCompactRev int64) (KeyValueHash, error) {",
+      "file_sha256": "421266bb014d99f2903c53322d8a8aceee8be96776783a17f0fd063fc9ffd565",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/storage/mvcc/kvstore_txn.go",
+      "line": 293,
+      "line_text": "func (tw *storeTxnWrite) deleteRange(key, end []byte) int64 {",
+      "file_sha256": "8127b4ce3049d078257294344d2e929a08034dae42fe35385f5ab0358a372d7d",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/storage/mvcc/revision.go",
+      "line": 35,
+      "line_text": "type Revision struct {",
+      "file_sha256": "e3d0e8dac827e6b1dd637d3ba9c68ddef77cf6c144939ec2b7f5f74a036e858e",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/etcd/server/storage/mvcc/watchable_store.go",
+      "line": 63,
+      "line_text": "\t// victims are watcher batches that were blocked on the watch channel",
+      "file_sha256": "56893ad5fb77abadacb1e2fa6419ac7207123a7a8dee9e406f1edd49a6733dbb",
+      "project": "etcd",
+      "commit": "2b7b001a90b4be38e6b1b54021ea3327666e3793",
+      "cited_in": [
+        "systems/etcd.md",
+        "systems/etcd.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/AGENTS.md",
+      "line": 68,
+      "line_text": "FDB uses cooperative single-threaded concurrency. Asynchronous functions use",
+      "file_sha256": "f2ac69a2f533dde0585e02b1b5b3456924f39beb1f80a49a759bc5ca542c5094",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/design/feature-status.md",
+      "line": 8,
+      "line_text": "|RocksDB|production|RocksDB storage engine is in production in FDB 7.3|Apple FDB Team|Supported|",
+      "file_sha256": "20a5c63b559db5ab6083561dbecc1d829fe541fd81e2ef875309934e98828bdd",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "evolution.md",
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/design/feature-status.md",
+      "line": 17,
+      "line_text": "|[V2 backup (partitioned mutation logs)](https://github.com/apple/foundationdb/blob/main/design/backup_v2_partitioned_logs.md)|experimental|Mutation logs are no longer stored separately on storage servers. A new backup worker role pulls mutations from tlogs and uploads to S3, reducing half write bandwidth to tlogs. We are targeting 7.4 release for production use.|Apple FDB Team|Will evolve into range-partitioned mutation logs, i.e., V3 backup.|",
+      "file_sha256": "20a5c63b559db5ab6083561dbecc1d829fe541fd81e2ef875309934e98828bdd",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/design/recovery-internals.md",
+      "line": 15,
+      "line_text": "## When will recovery happen?",
+      "file_sha256": "90ece5fd0fd0054750c72b52621846d90372ef4ccf7a5af39337f58cab75bc3a",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/design/recovery-internals.md",
+      "line": 48,
+      "line_text": "## Overview",
+      "file_sha256": "90ece5fd0fd0054750c72b52621846d90372ef4ccf7a5af39337f58cab75bc3a",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/design/recovery-internals.md",
+      "line": 67,
+      "line_text": "## Phase 2: LOCKING_CSTATE",
+      "file_sha256": "90ece5fd0fd0054750c72b52621846d90372ef4ccf7a5af39337f58cab75bc3a",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/design/recovery-internals.md",
+      "line": 99,
+      "line_text": "Once the CC gets enough tLogs, it calculates the known committed version (i.e., `knownCommittedVersion`). `knownCommittedVersion` is the highest version that a commit proxy tells a given tLog that it had durably committed on *all* \"local\" tLogs (tLogs in remote DCs are not included).",
+      "file_sha256": "90ece5fd0fd0054750c72b52621846d90372ef4ccf7a5af39337f58cab75bc3a",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/documentation/sphinx/source/architecture.rst",
+      "line": 5,
+      "line_text": "FoundationDB makes your architecture flexible and easy to operate. Your applications can send their data directly to FoundationDB or to a :doc:`layer<layer-concept>`, a user-written module that can provide a new data model, compatibility with existing systems, or even serve as an entire framework. In both cases, all data is stored in a single place via an ordered, transactional key-value API.",
+      "file_sha256": "d0a9b1fa636a00ca36ab1944c4001071cf8411fae3b9d80c30ebc79a24762420",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/documentation/sphinx/source/architecture.rst",
+      "line": 24,
+      "line_text": "Coordinators",
+      "file_sha256": "d0a9b1fa636a00ca36ab1944c4001071cf8411fae3b9d80c30ebc79a24762420",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/documentation/sphinx/source/architecture.rst",
+      "line": 71,
+      "line_text": "Commit Proxies",
+      "file_sha256": "d0a9b1fa636a00ca36ab1944c4001071cf8411fae3b9d80c30ebc79a24762420",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/documentation/sphinx/source/architecture.rst",
+      "line": 85,
+      "line_text": "The key space starting with the ``\\xff`` byte is reserved for system",
+      "file_sha256": "d0a9b1fa636a00ca36ab1944c4001071cf8411fae3b9d80c30ebc79a24762420",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/documentation/sphinx/source/architecture.rst",
+      "line": 94,
+      "line_text": "Transaction Logs",
+      "file_sha256": "d0a9b1fa636a00ca36ab1944c4001071cf8411fae3b9d80c30ebc79a24762420",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/documentation/sphinx/source/architecture.rst",
+      "line": 124,
+      "line_text": "The vast majority of processes in a cluster are storage servers. Storage",
+      "file_sha256": "d0a9b1fa636a00ca36ab1944c4001071cf8411fae3b9d80c30ebc79a24762420",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md",
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/documentation/sphinx/source/architecture.rst",
+      "line": 136,
+      "line_text": "Data Distributor",
+      "file_sha256": "d0a9b1fa636a00ca36ab1944c4001071cf8411fae3b9d80c30ebc79a24762420",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/documentation/sphinx/source/architecture.rst",
+      "line": 146,
+      "line_text": "Ratekeeper",
+      "file_sha256": "d0a9b1fa636a00ca36ab1944c4001071cf8411fae3b9d80c30ebc79a24762420",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/documentation/sphinx/source/developer-guide.rst",
+      "line": 339,
+      "line_text": "FoundationDB provides concurrency control via transactions, allowing multiple clients to concurrently read and write data in the database with strong guarantees about how they affect each other. Specifically, FoundationDB provides global, ACID transactions with strict serializability using optimistic concurrency.",
+      "file_sha256": "f68cb802a6c8f7ad631fcaa6c76960d7b94b4e9c38e11a82216efcf1c35cf611",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/documentation/sphinx/source/developer-guide.rst",
+      "line": 566,
+      "line_text": ".. _developer-guide-unknown-results:",
+      "file_sha256": "f68cb802a6c8f7ad631fcaa6c76960d7b94b4e9c38e11a82216efcf1c35cf611",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/documentation/sphinx/source/developer-guide.rst",
+      "line": 605,
+      "line_text": "By default, FoundationDB transactions guarantee :ref:`strict serializability <ACID>`, which results in a state that *could* have been produced by executing transactions one at a time, even though they may actually have been executed concurrently. FoundationDB maintains strict serializability by detecting conflicts among concurrent transactions and allowing only a non-conflicting subset of them to succeed. Two concurrent transactions conflict if the first to commit writes a value that the second reads. In this case, the second transaction will fail. Clients will usually retry failed transactions.",
+      "file_sha256": "f68cb802a6c8f7ad631fcaa6c76960d7b94b4e9c38e11a82216efcf1c35cf611",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/documentation/sphinx/source/kv-architecture.rst",
+      "line": 61,
+      "line_text": "Clients must get a read version at the start of every transaction. During the transaction all of the reads are done at that read version, and write are kept in memory until transaction is committed. When the transaction is committed, all of the reads and writes are sent to the commit proxy. If the transaction conflicts with another transaction the client is responsible for retrying the transaction. By default, reading a key that was written in the same transaction will return the newly written value.",
+      "file_sha256": "c7bd5765b372adda3d0d04b7a844327e44d37d491875aeb8127954df365dab46",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/fdbserver/commitproxy/CommitProxyServer.cpp",
+      "line": 104,
+      "line_text": "\tCommitTransactionRef& getOutTransaction(int resolver, Version read_snapshot) {",
+      "file_sha256": "9461a65df59971350417be2347c7f3d34f04c5849b6402116d4a50a48b2433db",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/fdbserver/kvstore/IKeyValueStore.cpp",
+      "line": 25,
+      "line_text": "IKeyValueStore* openKVStore(KeyValueStoreType storeType,",
+      "file_sha256": "2e048ad672cbaeceb6ef5b3aebd006d29109f6ef8ecff6863a9b93956f333dfa",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/fdbserver/storageserver/StorageServer.cpp",
+      "line": 1627,
+      "line_text": "\t\tmutableData().forgetVersionsBefore(ver);",
+      "file_sha256": "74c66974d769f44e5dd0d80b7f0abe500943c97fd3174dc169e57efe75ff32cf",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/foundationdb/fdbserver/storageserver/StorageServer.cpp",
+      "line": 11572,
+      "line_text": "\t} else if (mutation.type == MutationRef::ClearRange) {",
+      "file_sha256": "74c66974d769f44e5dd0d80b7f0abe500943c97fd3174dc169e57efe75ff32cf",
+      "project": "foundationdb",
+      "commit": "1f6fd50214ce2d93fbc9e6305246a5992ae69b22",
+      "cited_in": [
+        "systems/foundationdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/README.md",
+      "line": 1,
+      "line_text": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+      "file_sha256": "87a8ae2a56e9f03deb639a75b919c75ed0c04acd69afd7fdad4f05b5fabfe7ca",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/db_impl.cc",
+      "line": 292,
+      "line_text": "Status DBImpl::Recover(VersionEdit* edit, bool* save_manifest) {",
+      "file_sha256": "8ec9ebbd813dfbb4186993154f1d7c392b62926f3b36f356ffd26f3fd0006a81",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/db_impl.cc",
+      "line": 385,
+      "line_text": "Status DBImpl::RecoverLogFile(uint64_t log_number, bool last_log,",
+      "file_sha256": "8ec9ebbd813dfbb4186993154f1d7c392b62926f3b36f356ffd26f3fd0006a81",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/db_impl.cc",
+      "line": 505,
+      "line_text": "Status DBImpl::WriteLevel0Table(MemTable* mem, VersionEdit* edit,",
+      "file_sha256": "8ec9ebbd813dfbb4186993154f1d7c392b62926f3b36f356ffd26f3fd0006a81",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/db_impl.cc",
+      "line": 549,
+      "line_text": "void DBImpl::CompactMemTable() {",
+      "file_sha256": "8ec9ebbd813dfbb4186993154f1d7c392b62926f3b36f356ffd26f3fd0006a81",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/db_impl.cc",
+      "line": 966,
+      "line_text": "",
+      "file_sha256": "8ec9ebbd813dfbb4186993154f1d7c392b62926f3b36f356ffd26f3fd0006a81",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/db_impl.cc",
+      "line": 1121,
+      "line_text": "Status DBImpl::Get(const ReadOptions& options, const Slice& key,",
+      "file_sha256": "8ec9ebbd813dfbb4186993154f1d7c392b62926f3b36f356ffd26f3fd0006a81",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md",
+        "expertise/implementation-workbook.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/db_impl.cc",
+      "line": 1187,
+      "line_text": "const Snapshot* DBImpl::GetSnapshot() {",
+      "file_sha256": "8ec9ebbd813dfbb4186993154f1d7c392b62926f3b36f356ffd26f3fd0006a81",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/db_impl.cc",
+      "line": 1206,
+      "line_text": "Status DBImpl::Write(const WriteOptions& options, WriteBatch* updates) {",
+      "file_sha256": "8ec9ebbd813dfbb4186993154f1d7c392b62926f3b36f356ffd26f3fd0006a81",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "samples/README.md",
+        "systems/leveldb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/db_impl.cc",
+      "line": 1231,
+      "line_text": "    // during this phase since &w is currently responsible for logging",
+      "file_sha256": "8ec9ebbd813dfbb4186993154f1d7c392b62926f3b36f356ffd26f3fd0006a81",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/db_impl.cc",
+      "line": 1331,
+      "line_text": "Status DBImpl::MakeRoomForWrite(bool force) {",
+      "file_sha256": "8ec9ebbd813dfbb4186993154f1d7c392b62926f3b36f356ffd26f3fd0006a81",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/dbformat.cc",
+      "line": 47,
+      "line_text": "int InternalKeyComparator::Compare(const Slice& akey, const Slice& bkey) const {",
+      "file_sha256": "61d14472c74bf944021c43ac971603dadc33fe4958cd402f4ce5ea9b4f52a9c9",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/log_reader.cc",
+      "line": 56,
+      "line_text": "bool Reader::ReadRecord(Slice* record, std::string* scratch) {",
+      "file_sha256": "8138df3a296a64e17138063b2b431834d615d58edf0196752077a57c9c082c53",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/log_writer.cc",
+      "line": 34,
+      "line_text": "Status Writer::AddRecord(const Slice& slice) {",
+      "file_sha256": "987154bb04f6867d9c8bec49e92d49e8d62711e2af6bfe1c6c353fcdf482705b",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/memtable.cc",
+      "line": 79,
+      "line_text": "  //  key_size     : varint32 of internal_key.size()",
+      "file_sha256": "44065bea0dec4e0dadc04ff8d030836149ed28bf62dfefd7b1642993e1de5288",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/skiplist.h",
+      "line": 8,
+      "line_text": "// Thread safety",
+      "file_sha256": "41244fedd56cc59db75023646b0c53926c4987037e129814ddddd2f7184222e1",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/version_set.cc",
+      "line": 777,
+      "line_text": "Status VersionSet::LogAndApply(VersionEdit* edit, port::Mutex* mu) {",
+      "file_sha256": "5f15221bd5f234d515792dac314f321e973592b56c223cb2e5991080a010edbb",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/db/version_set.cc",
+      "line": 861,
+      "line_text": "Status VersionSet::Recover(bool* save_manifest) {",
+      "file_sha256": "5f15221bd5f234d515792dac314f321e973592b56c223cb2e5991080a010edbb",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/doc/impl.md",
+      "line": 11,
+      "line_text": "### Log files",
+      "file_sha256": "340b4dd78186daa7a24bca259f6427e1f9153afa42e27cefed61ca9da728fe08",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "foundations/02-local-engines.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/doc/impl.md",
+      "line": 44,
+      "line_text": "### Manifest",
+      "file_sha256": "340b4dd78186daa7a24bca259f6427e1f9153afa42e27cefed61ca9da728fe08",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "foundations/01-machine-and-durability.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/doc/impl.md",
+      "line": 104,
+      "line_text": "Compactions drop overwritten values. They also drop deletion markers if there",
+      "file_sha256": "340b4dd78186daa7a24bca259f6427e1f9153afa42e27cefed61ca9da728fe08",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "foundations/02-local-engines.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/doc/table_format.md",
+      "line": 1,
+      "line_text": "leveldb File format",
+      "file_sha256": "16f96b651b8ee0a20fbc81da0c76b0e65b7d0981333569e8940770e9a5bc4fc0",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "foundations/02-local-engines.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/include/leveldb/options.h",
+      "line": 147,
+      "line_text": "  const FilterPolicy* filter_policy = nullptr;",
+      "file_sha256": "2998a0866cd991aa426573acba8ac0ec48ff7568fc6d50b5ff2a467b0e45c507",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/include/leveldb/options.h",
+      "line": 167,
+      "line_text": "// Options that control write operations",
+      "file_sha256": "2998a0866cd991aa426573acba8ac0ec48ff7568fc6d50b5ff2a467b0e45c507",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "foundations/01-machine-and-durability.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/table/merger.cc",
+      "line": 179,
+      "line_text": "Iterator* NewMergingIterator(const Comparator* comparator, Iterator** children,",
+      "file_sha256": "329917e0a2911bdbac59c715a410d8806db0d17c194510a6e52f3c6ea2eb00d2",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/table/table.cc",
+      "line": 156,
+      "line_text": "  Cache* block_cache = table->rep_->options.block_cache;",
+      "file_sha256": "d827f94eaa5838f828e7402fb65ef39e3b892f47d83bc00875f87f50618c0d19",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "systems/leveldb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/util/bloom.cc",
+      "line": 28,
+      "line_text": "  void CreateFilter(const Slice* keys, int n, std::string* dst) const override {",
+      "file_sha256": "08e070a7e0e8823082ce335dbbe643cfaae70456a38303db9e885fb49b6201e8",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/leveldb/util/bloom.cc",
+      "line": 56,
+      "line_text": "  bool KeyMayMatch(const Slice& key, const Slice& bloom_filter) const override {",
+      "file_sha256": "08e070a7e0e8823082ce335dbbe643cfaae70456a38303db9e885fb49b6201e8",
+      "project": "leveldb",
+      "commit": "bb74ef739973a70ca9f0d90788a1da89b788c0ad",
+      "cited_in": [
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/intro.doc",
+      "line": 62,
+      "line_text": "Because LMDB is very efficient (and usually zero-copy), the data returned",
+      "file_sha256": "f716431fc2d079320bb2881fc34150adb58193fbff5e7a2fdad07275945bfbd5",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "foundations/02-local-engines.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/intro.doc",
+      "line": 128,
+      "line_text": "",
+      "file_sha256": "f716431fc2d079320bb2881fc34150adb58193fbff5e7a2fdad07275945bfbd5",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "foundations/02-local-engines.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/lmdb.h",
+      "line": 6,
+      "line_text": " *\t@section intro_sec Introduction",
+      "file_sha256": "90d3c88181696bcdf6b69b20ae3d0eeef9f4158713bb05ca4c820878297c6d9e",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/lmdb.h",
+      "line": 83,
+      "line_text": " *\t- An LMDB configuration will often reserve considerable \\b unused",
+      "file_sha256": "90d3c88181696bcdf6b69b20ae3d0eeef9f4158713bb05ca4c820878297c6d9e",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/lmdb.h",
+      "line": 106,
+      "line_text": " *\t  breaks fcntl() advisory locking.  (It is OK to reopen it after",
+      "file_sha256": "90d3c88181696bcdf6b69b20ae3d0eeef9f4158713bb05ca4c820878297c6d9e",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/lmdb.h",
+      "line": 235,
+      "line_text": "#define MDB_VERSION_MAJOR\t0",
+      "file_sha256": "90d3c88181696bcdf6b69b20ae3d0eeef9f4158713bb05ca4c820878297c6d9e",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/lmdb.h",
+      "line": 631,
+      "line_text": "\t *\t<li>#MDB_WRITEMAP",
+      "file_sha256": "90d3c88181696bcdf6b69b20ae3d0eeef9f4158713bb05ca4c820878297c6d9e",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/mdb.c",
+      "line": 802,
+      "line_text": "/**\t@defgroup readers\tReader Lock Table",
+      "file_sha256": "d74b70a18ed702628380b851fb7271410c05774f755441524707b19a02fbf2f9",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md",
+        "systems/lmdb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/mdb.c",
+      "line": 1075,
+      "line_text": "#define\tP_BRANCH\t 0x01\t\t/**< branch page */",
+      "file_sha256": "d74b70a18ed702628380b851fb7271410c05774f755441524707b19a02fbf2f9",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/mdb.c",
+      "line": 1230,
+      "line_text": "typedef struct MDB_node {",
+      "file_sha256": "d74b70a18ed702628380b851fb7271410c05774f755441524707b19a02fbf2f9",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/mdb.c",
+      "line": 1339,
+      "line_text": "typedef struct MDB_db {",
+      "file_sha256": "d74b70a18ed702628380b851fb7271410c05774f755441524707b19a02fbf2f9",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/mdb.c",
+      "line": 1368,
+      "line_text": "\t *\tPages 0-1 are meta pages. Transaction N writes meta page #(N % 2).",
+      "file_sha256": "d74b70a18ed702628380b851fb7271410c05774f755441524707b19a02fbf2f9",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/mdb.c",
+      "line": 1370,
+      "line_text": "typedef struct MDB_meta {",
+      "file_sha256": "d74b70a18ed702628380b851fb7271410c05774f755441524707b19a02fbf2f9",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/mdb.c",
+      "line": 3028,
+      "line_text": "mdb_page_touch(MDB_cursor *mc)",
+      "file_sha256": "d74b70a18ed702628380b851fb7271410c05774f755441524707b19a02fbf2f9",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/mdb.c",
+      "line": 4652,
+      "line_text": "mdb_txn_commit(MDB_txn *txn)",
+      "file_sha256": "d74b70a18ed702628380b851fb7271410c05774f755441524707b19a02fbf2f9",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "samples/README.md",
+        "systems/lmdb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/mdb.c",
+      "line": 5026,
+      "line_text": "mdb_env_pick_meta(const MDB_env *env)",
+      "file_sha256": "d74b70a18ed702628380b851fb7271410c05774f755441524707b19a02fbf2f9",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/mdb.c",
+      "line": 7580,
+      "line_text": "mdb_page_search(MDB_cursor *mc, MDB_val *key, int flags)",
+      "file_sha256": "d74b70a18ed702628380b851fb7271410c05774f755441524707b19a02fbf2f9",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/lmdb/libraries/liblmdb/mdb.c",
+      "line": 10636,
+      "line_text": "mdb_del(MDB_txn *txn, MDB_dbi dbi,",
+      "file_sha256": "d74b70a18ed702628380b851fb7271410c05774f755441524707b19a02fbf2f9",
+      "project": "lmdb",
+      "commit": "ba47717cc87753f86f24135c17bfaaa82d5daf53",
+      "cited_in": [
+        "systems/lmdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/docs/docs/en/architecture.md",
+      "line": 7,
+      "line_text": "OceanBase Database adopts a shared-nothing architecture, where each node is equal to each other. That is, each node has its own SQL engine, storage engine, and transaction engine, and runs on a cluster of ordinary PC servers. OceanBase Database provides core features such as high scalability, high availability, high performance, cost-effectiveness, and strong compatibility with mainstream databases.",
+      "file_sha256": "393f1eeabc11924d7c3934ba2a630a58572d15597e36141f77a3e4af79828605",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/docs/docs/en/architecture.md",
+      "line": 9,
+      "line_text": "## Zone",
+      "file_sha256": "393f1eeabc11924d7c3934ba2a630a58572d15597e36141f77a3e4af79828605",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/docs/docs/en/architecture.md",
+      "line": 13,
+      "line_text": "## Partition",
+      "file_sha256": "393f1eeabc11924d7c3934ba2a630a58572d15597e36141f77a3e4af79828605",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/docs/docs/en/architecture.md",
+      "line": 17,
+      "line_text": "## Log Stream",
+      "file_sha256": "393f1eeabc11924d7c3934ba2a630a58572d15597e36141f77a3e4af79828605",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/docs/docs/en/architecture.md",
+      "line": 21,
+      "line_text": "## OBServer",
+      "file_sha256": "393f1eeabc11924d7c3934ba2a630a58572d15597e36141f77a3e4af79828605",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/docs/docs/en/architecture.md",
+      "line": 25,
+      "line_text": "## Multi-Tenant",
+      "file_sha256": "393f1eeabc11924d7c3934ba2a630a58572d15597e36141f77a3e4af79828605",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/docs/docs/en/architecture.md",
+      "line": 31,
+      "line_text": "## Resource Unit",
+      "file_sha256": "393f1eeabc11924d7c3934ba2a630a58572d15597e36141f77a3e4af79828605",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/docs/docs/en/architecture.md",
+      "line": 35,
+      "line_text": "## obproxy",
+      "file_sha256": "393f1eeabc11924d7c3934ba2a630a58572d15597e36141f77a3e4af79828605",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/logservice/palf/palf_handle.h",
+      "line": 78,
+      "line_text": "  virtual int append(const PalfAppendOptions &opts,",
+      "file_sha256": "787f955afed7d1a114c8db617be784d361c5021f85fdc8148a5233b982ea3263",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/share/ob_define.h",
+      "line": 594,
+      "line_text": "const char *const SHARED_STORAGE_MODE_STR = \"shared_storage\";",
+      "file_sha256": "f3f1a14eb350197f998f73573b3535bfcf757430c7b0d90161fd205c2ca90478",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/column_store/ob_co_merge_dag.cpp",
+      "line": 464,
+      "line_text": "int ObCOMergeExeDag::init_merge_batch_size(const bool is_using_column_tmp_file)",
+      "file_sha256": "6dfdd7b31c9f7320aa9af31de110a35951e1e90b2cbfaafdec9e4663c88bd0e8",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "foundations/05-query-models-and-resource-control.md",
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/compaction/ob_tenant_tablet_scheduler.h",
+      "line": 55,
+      "line_text": "  OB_INLINE bool need_check() const { return enable_fast_freeze_; }",
+      "file_sha256": "4513c31016efcceada55bd0bb7118df899116144106819d56a3312db13a726d7",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/compaction/ob_tenant_tablet_scheduler.h",
+      "line": 63,
+      "line_text": "  void check_tombstone_need_fast_freeze(",
+      "file_sha256": "4513c31016efcceada55bd0bb7118df899116144106819d56a3312db13a726d7",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/compaction/ob_tenant_tablet_scheduler.h",
+      "line": 172,
+      "line_text": "  virtual int schedule_merge(const int64_t broadcast_version) override;",
+      "file_sha256": "4513c31016efcceada55bd0bb7118df899116144106819d56a3312db13a726d7",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/ls/ob_ls_tablet_service.h",
+      "line": 425,
+      "line_text": "  int delete_rows(",
+      "file_sha256": "42a9439d4059d0c9714a1bb535b8125d3be350b2cf804e4163b144ad391f9b53",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/memtable/ob_memtable.cpp",
+      "line": 3563,
+      "line_text": "    } else if (blocksstable::ObDmlFlag::DF_DELETE == dml_flag) {",
+      "file_sha256": "145653bcc527bebbc311c668caf235cb15a5392cc4fed84fd816232b369a60e8",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/tablet/ob_tablet.h",
+      "line": 217,
+      "line_text": "class ObTablet final : public ObITabletMdsCustomizedInterface",
+      "file_sha256": "7769b8b99ca557bebbb0ea8fcea98ec115992f1b1d1e7f647e5d98b946d0145c",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/tablet/ob_tablet.h",
+      "line": 597,
+      "line_text": "  // migration section",
+      "file_sha256": "7769b8b99ca557bebbb0ea8fcea98ec115992f1b1d1e7f647e5d98b946d0145c",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/tablet/ob_tablet.h",
+      "line": 649,
+      "line_text": "  int get_recycle_version(const int64_t multi_version_start, int64_t &recycle_version) const;",
+      "file_sha256": "7769b8b99ca557bebbb0ea8fcea98ec115992f1b1d1e7f647e5d98b946d0145c",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/tablet/ob_tablet.h",
+      "line": 667,
+      "line_text": "  int check_need_gc_sstable_or_update_upper_trans_version(",
+      "file_sha256": "7769b8b99ca557bebbb0ea8fcea98ec115992f1b1d1e7f647e5d98b946d0145c",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/tablet/ob_tablet.h",
+      "line": 1011,
+      "line_text": "  int get_read_tables(",
+      "file_sha256": "7769b8b99ca557bebbb0ea8fcea98ec115992f1b1d1e7f647e5d98b946d0145c",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md",
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/tx/ob_trans_define.h",
+      "line": 426,
+      "line_text": "/*",
+      "file_sha256": "2cfd6b703a6534de53603ba595662f520ef785990f2cacb29b6c4f7a693879c2",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/tx/ob_trans_service.h",
+      "line": 220,
+      "line_text": "  int get_weak_read_snapshot(const uint64_t tenant_id, share::SCN &snapshot_version);",
+      "file_sha256": "623b3a441739f802e2b5728c80e9984d91ea0532f394ca128994b0d3b03e08b4",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/tx/ob_two_phase_committer.h",
+      "line": 25,
+      "line_text": "// persistent.",
+      "file_sha256": "975c399d60bd165527cae4f01ae1575a151bbb1c151c29ac7448e696a00e0f11",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/tx/ob_two_phase_committer.h",
+      "line": 41,
+      "line_text": "class ObTxCycleTwoPhaseCommitter",
+      "file_sha256": "975c399d60bd165527cae4f01ae1575a151bbb1c151c29ac7448e696a00e0f11",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/tx/ob_two_phase_committer.h",
+      "line": 63,
+      "line_text": "  // Two phase commit's msg handler",
+      "file_sha256": "975c399d60bd165527cae4f01ae1575a151bbb1c151c29ac7448e696a00e0f11",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/oceanbase/src/storage/tx/ob_two_phase_committer.h",
+      "line": 87,
+      "line_text": "  // Two phase commit's log state machine handler",
+      "file_sha256": "975c399d60bd165527cae4f01ae1575a151bbb1c151c29ac7448e696a00e0f11",
+      "project": "oceanbase",
+      "commit": "5e8a63d29dae9fde5e962b8fcc7b167d438fc343",
+      "cited_in": [
+        "systems/oceanbase.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/PaxosBrain.cpp",
+      "line": 15,
+      "line_text": "PaxosProposeResult PaxosBrain::recvPropose(const PaxosProposeArgs& args) {",
+      "file_sha256": "890c5795efd64bc052bd88a18b70fcf44f1186dc3bf63f390494225e55d919db",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/PaxosBrain.cpp",
+      "line": 48,
+      "line_text": "void PaxosBrain::sentAcceptResponse() {",
+      "file_sha256": "890c5795efd64bc052bd88a18b70fcf44f1186dc3bf63f390494225e55d919db",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/PaxosClient.cpp",
+      "line": 27,
+      "line_text": "bool PaxosClient::sendAccept(PaxosTransaction& p) {",
+      "file_sha256": "d71c68b37548ad6aed1292fcc0ebff7e1637e2311f6aaca3fb2e696a69d55926",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/PaxosClient.cpp",
+      "line": 55,
+      "line_text": "void PaxosClient::sendLearn(std::string& val) {",
+      "file_sha256": "d71c68b37548ad6aed1292fcc0ebff7e1637e2311f6aaca3fb2e696a69d55926",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/PaxosClient.cpp",
+      "line": 65,
+      "line_text": "bool PaxosClient::submit(std::string& val) {",
+      "file_sha256": "d71c68b37548ad6aed1292fcc0ebff7e1637e2311f6aaca3fb2e696a69d55926",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/PaxosFileLogger.cpp",
+      "line": 148,
+      "line_text": "void PaxosFileLogger::log(const PaxosTransaction& txn) {",
+      "file_sha256": "d131bc8ee335f3573324d6dab6ba708cc4f22444bfd2cc0365c0d24c0028b2d0",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/PaxosFileLogger.cpp",
+      "line": 197,
+      "line_text": "bool PaxosFileLogger::getLatestTransaction(PaxosTransaction& txn) {",
+      "file_sha256": "d131bc8ee335f3573324d6dab6ba708cc4f22444bfd2cc0365c0d24c0028b2d0",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/PaxosFileLogger.cpp",
+      "line": 272,
+      "line_text": "void PaxosFileLogger::commitLatestTransaction() {",
+      "file_sha256": "d131bc8ee335f3573324d6dab6ba708cc4f22444bfd2cc0365c0d24c0028b2d0",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/PaxosServiceHandler.cpp",
+      "line": 12,
+      "line_text": "void PaxosServiceHandler::accept(PaxosAcceptResult& res, const PaxosAcceptArgs& args) {",
+      "file_sha256": "b55a9cb026ec2d2799b7de3511a58376177acb0e645c2ea63800e9a0d2ed92f4",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/PaxosState.cpp",
+      "line": 6,
+      "line_text": "PaxosState::PaxosState(PaxosStateLogger& logger) : logger_(logger) {",
+      "file_sha256": "9697267ec8d2f941a0042b49a2517cc1669c29ada50645abcb78a838ebe2e548",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/PaxosState.cpp",
+      "line": 33,
+      "line_text": "void PaxosState::setHighestProposalSeen(int64_t proposal) {",
+      "file_sha256": "9697267ec8d2f941a0042b49a2517cc1669c29ada50645abcb78a838ebe2e548",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/README.md",
+      "line": 1,
+      "line_text": "#Paxos",
+      "file_sha256": "831863c4fa8653fbf828b53c9d42a42bc00091280789de940ce7a6f81954aa43",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/paxos/TODO",
+      "line": 1,
+      "line_text": "- Add checksum to the log",
+      "file_sha256": "c1788b4d6d231a48278d8c41875b7e9e9f16fd19cd08a4f6e1fe6f580f6e721e",
+      "project": "paxos",
+      "commit": "b8a8040feec37b0382bab2aa7654d2aca94fdeb3",
+      "cited_in": [
+        "systems/paxos.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/README.md",
+      "line": 37,
+      "line_text": "## What is Redis?",
+      "file_sha256": "947c87732c7ec6382a64ac7c637bea474b6aa478f22dcf3d8091bb6ca8bb531d",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/modules/vector-sets/README.md",
+      "line": 1,
+      "line_text": "**IMPORTANT:** *Please note that this is a merged module, it's part of the Redis binary now, and you don't need to build it and load it into Redis. Compiling Redis version 8 or greater will result into having the Vector Sets commands available. However, you could compile this module as a shared library in order to load it in older versions of Redis.*",
+      "file_sha256": "6af4318648f498a5b2f3513f5b55368d42595aa7ca534ca0abf1a0690e92fdb6",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "evolution.md",
+        "foundations/05-query-models-and-resource-control.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/redis.conf",
+      "line": 616,
+      "line_text": "# 1) Redis replication is asynchronous, but you can configure a master to",
+      "file_sha256": "e5dea0b9f22fe05449fcfd21c466fbee1f5984c8bf2eec87e57668963e8e4073",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/redis.conf",
+      "line": 1545,
+      "line_text": "appendonly no",
+      "file_sha256": "e5dea0b9f22fe05449fcfd21c466fbee1f5984c8bf2eec87e57668963e8e4073",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/redis.conf",
+      "line": 1603,
+      "line_text": "# appendfsync always",
+      "file_sha256": "e5dea0b9f22fe05449fcfd21c466fbee1f5984c8bf2eec87e57668963e8e4073",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/ae.c",
+      "line": 497,
+      "line_text": "void aeMain(aeEventLoop *eventLoop) {",
+      "file_sha256": "e959e43ecab56f7a43081aa32f799f07b6c912c5a31fd463e31296947daf5dfb",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/aof.c",
+      "line": 1409,
+      "line_text": "void flushAppendOnlyFile(int force) {",
+      "file_sha256": "92f8ce80df2b89a5fd0f22d3d6c77974e5bd02ab81226a90428be48a5805ca88",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/aof.c",
+      "line": 1671,
+      "line_text": "void feedAppendOnlyFile(int dictid, robj **argv, int argc, long long duration) {",
+      "file_sha256": "92f8ce80df2b89a5fd0f22d3d6c77974e5bd02ab81226a90428be48a5805ca88",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/aof.c",
+      "line": 2132,
+      "line_text": "int loadAppendOnlyFiles(aofManifest *am) {",
+      "file_sha256": "92f8ce80df2b89a5fd0f22d3d6c77974e5bd02ab81226a90428be48a5805ca88",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/db.c",
+      "line": 372,
+      "line_text": "kvobj *lookupKeyReadWithFlags(redisDb *db, robj *key, int flags) {",
+      "file_sha256": "ca85d3b8ac27f25a94a96f1eb8bf5796614460741ee5addb9a332bdd005dacc9",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/db.c",
+      "line": 883,
+      "line_text": "int dbGenericDelete(redisDb *db, robj *key, int async, int flags) {",
+      "file_sha256": "ca85d3b8ac27f25a94a96f1eb8bf5796614460741ee5addb9a332bdd005dacc9",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/expire.c",
+      "line": 295,
+      "line_text": "void activeExpireCycle(int type) {",
+      "file_sha256": "d720245c88fcbffac83ecd3229788b358c7aaadee91231d40d590a1032d633fd",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/rdb.c",
+      "line": 2317,
+      "line_text": "int rdbSaveBackground(int req, char *filename, rdbSaveInfo *rsi, int rdbflags) {",
+      "file_sha256": "ba47ec4cd9ea00fc592ed13fab7558d3f1237700830446c23103208ef3127ccf",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/rdb.c",
+      "line": 5258,
+      "line_text": "int rdbLoad(char *filename, rdbSaveInfo *rsi, int rdbflags) {",
+      "file_sha256": "ba47ec4cd9ea00fc592ed13fab7558d3f1237700830446c23103208ef3127ccf",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/replication.c",
+      "line": 656,
+      "line_text": "void replicationFeedSlaves(list *slaves, int dictid, robj **argv, int argc) {",
+      "file_sha256": "e414baf364aab6f33ff778b9da2586c6f942507b22a2b9d5c64184e8e5dffb8a",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/replication.c",
+      "line": 4911,
+      "line_text": "void waitCommand(client *c) {",
+      "file_sha256": "e414baf364aab6f33ff778b9da2586c6f942507b22a2b9d5c64184e8e5dffb8a",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/replication.c",
+      "line": 4946,
+      "line_text": "    uint64_t timeout;",
+      "file_sha256": "e414baf364aab6f33ff778b9da2586c6f942507b22a2b9d5c64184e8e5dffb8a",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/server.c",
+      "line": 4182,
+      "line_text": "void call(client *c, int flags) {",
+      "file_sha256": "4483273a3eee4bcb1a8d4ed307cedc0c8008f30e5041e8d3e827d11444439934",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/server.c",
+      "line": 4691,
+      "line_text": "int processCommand(client *c) {",
+      "file_sha256": "4483273a3eee4bcb1a8d4ed307cedc0c8008f30e5041e8d3e827d11444439934",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/server.h",
+      "line": 1268,
+      "line_text": "typedef struct redisDb {",
+      "file_sha256": "df6a5be0721de3e7f66e8c161b10a7471d8eebe8811f2189f1628be0275b47e4",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/t_string.c",
+      "line": 87,
+      "line_text": "void setGenericCommand(client *c, int flags, robj *key, robj **valref, robj *expire,",
+      "file_sha256": "42279d2e702806353cfd3441dcd520564ab38cc61e4c851a6eae04f24d25d077",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/redis/src/t_string.c",
+      "line": 456,
+      "line_text": "int getGenericCommand(client *c) {",
+      "file_sha256": "42279d2e702806353cfd3441dcd520564ab38cc61e4c851a6eae04f24d25d077",
+      "project": "redis",
+      "commit": "33c2a2a145d3f09b42503df27d3ffbc76f34e32c",
+      "cited_in": [
+        "systems/redis.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/README.md",
+      "line": 8,
+      "line_text": "",
+      "file_sha256": "99d85d5d88c6d853c2e6fda21de51fa33288a51d3aa4959dd2b68535f768894b",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/db/column_family.h",
+      "line": 208,
+      "line_text": "// holds references to memtable, all immutable memtables and version",
+      "file_sha256": "e4aa584ac4a6a1ec56de18f135897da0c496a41fbfd93282d47d90b29bfc5653",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/db/compaction/compaction_iterator.h",
+      "line": 261,
+      "line_text": "      SequenceNumber last_sequence, std::vector<SequenceNumber>* snapshots,",
+      "file_sha256": "d26c7d8ba2cf946e41d0b172a817815b12a34c3b9f9b627e8e6b3689e42f16b6",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/db/db_impl/db_impl.cc",
+      "line": 3186,
+      "line_text": "Status DBImpl::GetImpl(const ReadOptions& read_options,",
+      "file_sha256": "827fd742079897bb8b37ebcdea814799eefef9844343030e270cda292f00d7ba",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/db/db_impl/db_impl.cc",
+      "line": 3200,
+      "line_text": "Status DBImpl::GetEntityLazyImpl(const ReadOptions& read_options,",
+      "file_sha256": "827fd742079897bb8b37ebcdea814799eefef9844343030e270cda292f00d7ba",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/db/db_impl/db_impl_compaction_flush.cc",
+      "line": 185,
+      "line_text": "Status DBImpl::FlushMemTableToOutputFile(",
+      "file_sha256": "50ea8d18b9bfe58a7248b9f71569ecb072868ebf200035c0b69c6f0287adc399",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/db/db_impl/db_impl_open.cc",
+      "line": 442,
+      "line_text": "Status DBImpl::Recover(",
+      "file_sha256": "04e379d6d29b01e06654b8d77bed376d1fa802a514ed27a09ed5857cd8667781",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/db/db_impl/db_impl_open.cc",
+      "line": 1237,
+      "line_text": "Status DBImpl::RecoverLogFiles(const std::vector<uint64_t>& wal_numbers,",
+      "file_sha256": "04e379d6d29b01e06654b8d77bed376d1fa802a514ed27a09ed5857cd8667781",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/db/db_impl/db_impl_open.cc",
+      "line": 1693,
+      "line_text": "  Status status = WriteBatchInternal::InsertInto(",
+      "file_sha256": "04e379d6d29b01e06654b8d77bed376d1fa802a514ed27a09ed5857cd8667781",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/db/db_impl/db_impl_write.cc",
+      "line": 891,
+      "line_text": "Status DBImpl::WriteImpl(",
+      "file_sha256": "903610cdbfecbc926cf2bbabaabef987c4e8b547ba9f3ff571b22bfc8133bb32",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/db/db_impl/db_impl_write.cc",
+      "line": 1484,
+      "line_text": "        w.status = WriteBatchInternal::InsertInto(",
+      "file_sha256": "903610cdbfecbc926cf2bbabaabef987c4e8b547ba9f3ff571b22bfc8133bb32",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/db/write_controller.h",
+      "line": 24,
+      "line_text": "class WriteController {",
+      "file_sha256": "a5924f07f57493d4ce442bc6a2bc46c23ee175b3178515d1847d4628f879c23c",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/db/write_thread.h",
+      "line": 32,
+      "line_text": "class WriteThread {",
+      "file_sha256": "ffd8b38db25f8b03a1b39b63a7d012f1f2bc5095061f42d66d7df090c0820dfa",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/docs/components/index.md",
+      "line": 1,
+      "line_text": "# RocksDB Components",
+      "file_sha256": "50f7dfc9056805fc9c9ee11f01000af366e804033f88480001a8869f2aae422a",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/examples/simple_example.cc",
+      "line": 28,
+      "line_text": "int main() {",
+      "file_sha256": "b4a39b9172c439f513e0bc097b481c39e8a16ec5b205dd1c2e639e513c36b090",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "samples/README.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/examples/simple_example.cc",
+      "line": 50,
+      "line_text": "  // atomically apply a set of updates",
+      "file_sha256": "b4a39b9172c439f513e0bc097b481c39e8a16ec5b205dd1c2e639e513c36b090",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/include/rocksdb/memtablerep.h",
+      "line": 22,
+      "line_text": "//  - SkipListRep: This is the default; it is backed by a skip list.",
+      "file_sha256": "1e2548ce91e4475a5cec48705a41eb3fa27dd77d928faeb051614708acf3ec2e",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/include/rocksdb/options.h",
+      "line": 535,
+      "line_text": "class CompactionService : public Customizable {",
+      "file_sha256": "5673f78cdd6fed8098635e503621b04a4e5ac3b6478705428003745b05f3705e",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "evolution.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/include/rocksdb/options.h",
+      "line": 2705,
+      "line_text": "struct WriteOptions {",
+      "file_sha256": "5673f78cdd6fed8098635e503621b04a4e5ac3b6478705428003745b05f3705e",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/include/rocksdb/table.h",
+      "line": 218,
+      "line_text": "struct BlockBasedTableOptions {",
+      "file_sha256": "b7f612b29348c60e5fd146ad7d4de5492027ddd259f47e15bd6de6ea08f833d7",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/include/rocksdb/table.h",
+      "line": 380,
+      "line_text": "  bool no_block_cache = false;",
+      "file_sha256": "b7f612b29348c60e5fd146ad7d4de5492027ddd259f47e15bd6de6ea08f833d7",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rocksdb/include/rocksdb/table.h",
+      "line": 519,
+      "line_text": "  bool partition_filters = false;",
+      "file_sha256": "b7f612b29348c60e5fd146ad7d4de5492027ddd259f47e15bd6de6ea08f833d7",
+      "project": "rocksdb",
+      "commit": "4c38c45ac10a73ff933b20610925da828e52c8ae",
+      "cited_in": [
+        "systems/rocksdb.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rockslab-week1/README.md",
+      "line": 1,
+      "line_text": "# RocksLab \u2014 Week 1: Build an LSM Model",
+      "file_sha256": "b5e3f106a78010fd15efcd83a8da5113605d4ae0b6b1eef3d4ee9af7f9af53e0",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "systems/rockslab-week1.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rockslab-week1/include/mini_lsm.h",
+      "line": 35,
+      "line_text": "  struct Entry {",
+      "file_sha256": "3b41eb12f5a5021245419db1f4d2f2791d1ec9278d53ea5c55404187359ec80f",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "systems/rockslab-week1.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc",
+      "line": 12,
+      "line_text": "void MiniLsm::Put(Key key, Value value) {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "systems/rockslab-week1.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc",
+      "line": 17,
+      "line_text": "void MiniLsm::Delete(Key key) {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "systems/rockslab-week1.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc",
+      "line": 22,
+      "line_text": "std::optional<MiniLsm::Value> MiniLsm::Get(const Key& key) const {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "systems/rockslab-week1.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc",
+      "line": 30,
+      "line_text": "std::vector<std::pair<MiniLsm::Key, MiniLsm::Value>> MiniLsm::Scan(",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "systems/rockslab-week1.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc",
+      "line": 55,
+      "line_text": "void MiniLsm::Flush() {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "systems/rockslab-week1.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc",
+      "line": 63,
+      "line_text": "void MiniLsm::Compact() {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "systems/rockslab-week1.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc",
+      "line": 100,
+      "line_text": "const MiniLsm::Entry* MiniLsm::FindNewest(const Key& key) const {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "systems/rockslab-week1.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rockslab-week1/src/mini_lsm.cc",
+      "line": 116,
+      "line_text": "void MiniLsm::MaybeFlush() {",
+      "file_sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "systems/rockslab-week1.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/rockslab-week1/tests/mini_lsm_test.cc",
+      "line": 1,
+      "line_text": "#include \"mini_lsm.h\"",
+      "file_sha256": "0887b35e14822f176f5184f9404d486280d2125eb695caa01a085a4f0dff6222",
+      "project": "rockslab-week1",
+      "commit": null,
+      "cited_in": [
+        "systems/rockslab-week1.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/README.md",
+      "line": 189,
+      "line_text": "* One disk read per blob. A small file is one blob; a large file is split into chunks of a few MB, each its own blob. A volume server keeps a 16-byte index entry per blob in memory and reads it in a single seek, also for erasure-coded data.",
+      "file_sha256": "66935667e2f5c7106a44129d1eaf18a91f3bced4f4d394b6f76f538a988d65b2",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md",
+        "systems/seaweedfs.md",
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/README.md",
+      "line": 199,
+      "line_text": "* The master tracks volumes, not files. A cluster with billions of files has a few thousand volumes, so the master stays small. One master is enough for most clusters; run three for [Raft failover][FailoverMaster].",
+      "file_sha256": "66935667e2f5c7106a44129d1eaf18a91f3bced4f4d394b6f76f538a988d65b2",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md",
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/README.md",
+      "line": 200,
+      "line_text": "* Adding a server adds capacity with no data reshuffle. Balancing, vacuum, erasure coding, and repair run on demand from [`weed shell`][WeedShell] or the [maintenance worker][Worker].",
+      "file_sha256": "66935667e2f5c7106a44129d1eaf18a91f3bced4f4d394b6f76f538a988d65b2",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/README.md",
+      "line": 201,
+      "line_text": "* Filer and S3 gateways are stateless and scale linearly. Directory metadata lives in a [store you already run][FilerStores]: LevelDB, RocksDB, SQLite, MySQL, PostgreSQL, Cassandra, HBase, MongoDB, Redis, Elasticsearch, etcd, TiKV, FoundationDB, YDB, ArangoDB, Tarantool, and MySQL or PostgreSQL compatible databases such as TiDB, CockroachDB, and MemSQL.",
+      "file_sha256": "66935667e2f5c7106a44129d1eaf18a91f3bced4f4d394b6f76f538a988d65b2",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/README.md",
+      "line": 202,
+      "line_text": "* Rack and data center aware [replication][Replication], [tiered storage][TieredStorage] across disk types, and [transparent cloud tiering][CloudTier] for unlimited capacity.",
+      "file_sha256": "66935667e2f5c7106a44129d1eaf18a91f3bced4f4d394b6f76f538a988d65b2",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/README.md",
+      "line": 224,
+      "line_text": "## A data warehouse with S3 Tables ##",
+      "file_sha256": "66935667e2f5c7106a44129d1eaf18a91f3bced4f4d394b6f76f538a988d65b2",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "evolution.md",
+        "foundations/05-query-models-and-resource-control.md",
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/README.md",
+      "line": 248,
+      "line_text": "* [Active-active or active-passive replication][ActiveActiveAsyncReplication] between clusters, continuous and resumable, for the whole tree or chosen folders, across data centers.",
+      "file_sha256": "66935667e2f5c7106a44129d1eaf18a91f3bced4f4d394b6f76f538a988d65b2",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md",
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/README.md",
+      "line": 260,
+      "line_text": "* **Master** servers, one or a Raft group of three, track which volume lives on which volume server and hand out file ids. They are not in the read path.",
+      "file_sha256": "66935667e2f5c7106a44129d1eaf18a91f3bced4f4d394b6f76f538a988d65b2",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/README.md",
+      "line": 261,
+      "line_text": "* **Volume** servers store blobs in append-only volume files, keep a 16-byte in-memory index per blob, and replicate or erasure-code at the volume level.",
+      "file_sha256": "66935667e2f5c7106a44129d1eaf18a91f3bced4f4d394b6f76f538a988d65b2",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/seaweed-volume/README.md",
+      "line": 1,
+      "line_text": "# SeaweedFS Volume Server (Rust)",
+      "file_sha256": "4e1e1f26641d3fcf5970d1b056622c2be781235220d2ca4251ada14ddde30745",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/server/filer_server_handlers_write_autochunk.go",
+      "line": 511,
+      "line_text": "\tif isAppend || isOffsetWrite {",
+      "file_sha256": "08e1a56ecf036ccb35e4b6f19b0d9fd9c84cceebee5f5f9e2bc9d6682c0c1cd4",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/server/filer_server_handlers_write_autochunk.go",
+      "line": 530,
+      "line_text": "\tdbErr := fs.filer.CreateEntry(context.WithoutCancel(ctx), entry, nil, false, false, nil, skipCheckParentDirEntry(r), so.MaxFileNameLength)",
+      "file_sha256": "08e1a56ecf036ccb35e4b6f19b0d9fd9c84cceebee5f5f9e2bc9d6682c0c1cd4",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/server/master_server.go",
+      "line": 301,
+      "line_text": "func (ms *MasterServer) SetRaftServer(raftServer *RaftServer) {",
+      "file_sha256": "379647e5e74327ff39b49e4d3572a2cfaa47c492850e94bde70e415491c703bb",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md",
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/server/volume_server_handlers_write.go",
+      "line": 46,
+      "line_text": "\treqNeedle, originalSize, contentMd5, ne := needle.CreateNeedleFromRequest(r, vs.FixJpgOrientation, vs.fileSizeLimitBytes, bytesBuffer)",
+      "file_sha256": "6bc24cf8573026dd31f71adf7d9c87c7972c03196afe17cfb4124cfaf1a3249c",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/storage/needle/file_id.go",
+      "line": 11,
+      "line_text": "type FileId struct {",
+      "file_sha256": "44dabc1015b43e3cb9e9851cbfd425ee3fdf3fefe022268555deee640aceb6d4",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/storage/volume_vacuum.go",
+      "line": 23,
+      "line_text": "// isSkippableNeedleReadError returns true when a needle read failed because",
+      "file_sha256": "725690746dcb0bfaf05a8ded782fc2971ba483bb8652b763d839eb9f61c4f96a",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/storage/volume_vacuum.go",
+      "line": 111,
+      "line_text": "\tv.lastCompactIndexOffset = v.IndexFileSize()",
+      "file_sha256": "725690746dcb0bfaf05a8ded782fc2971ba483bb8652b763d839eb9f61c4f96a",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/storage/volume_write.go",
+      "line": 194,
+      "line_text": "\tif !fsync {",
+      "file_sha256": "088b6bf14c9fa9bc5ad0e3eca3c516c35533134e08a7cf797e70598b2ad0fa27",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/storage/volume_write.go",
+      "line": 209,
+      "line_text": "\toffset, size, isUnchanged, err = v.appendWriteRequest(n, checkCookie, fsync)",
+      "file_sha256": "088b6bf14c9fa9bc5ad0e3eca3c516c35533134e08a7cf797e70598b2ad0fa27",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md",
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/storage/volume_write.go",
+      "line": 240,
+      "line_text": "\t// The .idx row goes down before the write is acknowledged, same as the",
+      "file_sha256": "088b6bf14c9fa9bc5ad0e3eca3c516c35533134e08a7cf797e70598b2ad0fa27",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/storage/volume_write.go",
+      "line": 434,
+      "line_text": "func (v *Volume) deleteNeedle2(n *needle.Needle) (Size, error) {",
+      "file_sha256": "088b6bf14c9fa9bc5ad0e3eca3c516c35533134e08a7cf797e70598b2ad0fa27",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/topology/store_replicate.go",
+      "line": 33,
+      "line_text": "func ReplicatedWrite(ctx context.Context, masterFn operation.GetMasterFn, grpcDialOption grpc.DialOption, s *storage.Store, volumeId needle.VolumeId, n *needle.Needle, r *http.Request, contentMd5 string) (isUnchanged bool, err error) {",
+      "file_sha256": "eb41d504f1f2db292288141d4e87509064d5a48cf4da660234a635b806a03122",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/topology/store_replicate.go",
+      "line": 57,
+      "line_text": "\t// read fsync value",
+      "file_sha256": "eb41d504f1f2db292288141d4e87509064d5a48cf4da660234a635b806a03122",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/topology/store_replicate.go",
+      "line": 100,
+      "line_text": "\t// Run the local disk write and the replica fan-out concurrently against the",
+      "file_sha256": "eb41d504f1f2db292288141d4e87509064d5a48cf4da660234a635b806a03122",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/topology/store_replicate.go",
+      "line": 198,
+      "line_text": "\twg.Wait()",
+      "file_sha256": "eb41d504f1f2db292288141d4e87509064d5a48cf4da660234a635b806a03122",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/topology/store_replicate.go",
+      "line": 209,
+      "line_text": "// ReplicatedDelete deletes a needle from the local volume and sends delete",
+      "file_sha256": "eb41d504f1f2db292288141d4e87509064d5a48cf4da660234a635b806a03122",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/seaweedfs/weed/topology/store_replicate.go",
+      "line": 363,
+      "line_text": "\tif v != nil {",
+      "file_sha256": "eb41d504f1f2db292288141d4e87509064d5a48cf4da660234a635b806a03122",
+      "project": "seaweedfs",
+      "commit": "3a0af308ce8d7225ed6b7b75196adf1384dc8b00",
+      "cited_in": [
+        "systems/seaweedfs.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/README.md",
+      "line": 25,
+      "line_text": "With the implementation of the Raft consensus algorithm in Rust and consensus state stored in RocksDB, TiKV guarantees data consistency. [Placement Driver (PD)](https://github.com/pingcap/pd/), which is introduced to implement auto-sharding, enables automatic data migration. The transaction model is similar to Google's Percolator with some performance improvements. TiKV also provides snapshot isolation (SI), snapshot isolation with lock (SQL: `SELECT ... FOR UPDATE`), and externally consistent reads and writes in distributed transactions.",
+      "file_sha256": "58a21aba3c4496806139219d5f61ad2ad1ae44ecfec555812c9d1c371489a450",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/README.md",
+      "line": 69,
+      "line_text": "- **Placement Driver:** PD is the cluster manager of TiKV, which periodically checks replication constraints to balance load and data automatically.",
+      "file_sha256": "58a21aba3c4496806139219d5f61ad2ad1ae44ecfec555812c9d1c371489a450",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/components/hybrid_engine.md",
+      "line": 38,
+      "line_text": "- Sequence number must align between disk snapshot and cache snapshot.",
+      "file_sha256": "94aa8e69962374b801e461bdc34bfef95d793e67dab6b43c618410cd91a92222",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/components/raftstore.md",
+      "line": 110,
+      "line_text": "- `store/fsm/apply.rs` owns committed-log apply, callback completion, and",
+      "file_sha256": "0530da35d2f6e55596921a3e6a951098d48ddf3e77651ea9377f3964c677bf25",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/components/raftstore.md",
+      "line": 160,
+      "line_text": "- A `Peer` must preserve role, applied index, raft log, and lease/read-progress",
+      "file_sha256": "0530da35d2f6e55596921a3e6a951098d48ddf3e77651ea9377f3964c677bf25",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/repo-overview.md",
+      "line": 17,
+      "line_text": "TiKV is a distributed transactional key-value database that normally runs with:",
+      "file_sha256": "340e865cfee60b18abdfa68e6236b32030ee6b63fa8afad2d473e56360acb053",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/repo-overview.md",
+      "line": 181,
+      "line_text": "## Data Model And Metadata Contracts",
+      "file_sha256": "340e865cfee60b18abdfa68e6236b32030ee6b63fa8afad2d473e56360acb053",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/repo-overview.md",
+      "line": 204,
+      "line_text": "Hot metadata classes that deserve explicit reviewer attention:",
+      "file_sha256": "340e865cfee60b18abdfa68e6236b32030ee6b63fa8afad2d473e56360acb053",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/repo-overview.md",
+      "line": 211,
+      "line_text": "## Write Path And Raft Pipeline",
+      "file_sha256": "340e865cfee60b18abdfa68e6236b32030ee6b63fa8afad2d473e56360acb053",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/repo-overview.md",
+      "line": 224,
+      "line_text": "Alternate `RaftKv2` write path:",
+      "file_sha256": "340e865cfee60b18abdfa68e6236b32030ee6b63fa8afad2d473e56360acb053",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/repo-overview.md",
+      "line": 237,
+      "line_text": "Hot files for this pipeline:",
+      "file_sha256": "340e865cfee60b18abdfa68e6236b32030ee6b63fa8afad2d473e56360acb053",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/repo-overview.md",
+      "line": 245,
+      "line_text": "## Read Path And Coprocessor Execution",
+      "file_sha256": "340e865cfee60b18abdfa68e6236b32030ee6b63fa8afad2d473e56360acb053",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/repo-overview.md",
+      "line": 255,
+      "line_text": "Coprocessor path:",
+      "file_sha256": "340e865cfee60b18abdfa68e6236b32030ee6b63fa8afad2d473e56360acb053",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/repo-overview.md",
+      "line": 264,
+      "line_text": "## Foreground And Background IO, And Determinism",
+      "file_sha256": "340e865cfee60b18abdfa68e6236b32030ee6b63fa8afad2d473e56360acb053",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/repo-overview.md",
+      "line": 315,
+      "line_text": "## Engines For Raft And RocksDB Deep Dive",
+      "file_sha256": "340e865cfee60b18abdfa68e6236b32030ee6b63fa8afad2d473e56360acb053",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/doc/maintenance-guides/repo-overview.md",
+      "line": 439,
+      "line_text": "- storage scheduler and MVCC metrics",
+      "file_sha256": "340e865cfee60b18abdfa68e6236b32030ee6b63fa8afad2d473e56360acb053",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/src/storage/mvcc/txn.rs",
+      "line": 127,
+      "line_text": "        let write = Modify::Put(CF_LOCK, key, lock.to_bytes());",
+      "file_sha256": "e3095c4e3c9e42b09be7168b9c9f594ddb812e4283c745857f1bd70cfea146c4",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/src/storage/mvcc/txn.rs",
+      "line": 175,
+      "line_text": "        let write = Modify::Put(CF_DEFAULT, key.append_ts(ts), value);",
+      "file_sha256": "e3095c4e3c9e42b09be7168b9c9f594ddb812e4283c745857f1bd70cfea146c4",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/src/storage/mvcc/txn.rs",
+      "line": 187,
+      "line_text": "        let write = Modify::Put(CF_WRITE, key.append_ts(ts), value);",
+      "file_sha256": "e3095c4e3c9e42b09be7168b9c9f594ddb812e4283c745857f1bd70cfea146c4",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/src/storage/txn/actions/gc.rs",
+      "line": 50,
+      "line_text": "    fn delete_write(&mut self, write: Write, ts: TimeStamp) {",
+      "file_sha256": "42929575e7f7c99fa8f41c70f481d4230256f64d5883c442175a2f4037f28821",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/src/storage/txn/actions/gc.rs",
+      "line": 67,
+      "line_text": "    fn run(mut self, safe_point: TimeStamp) -> MvccResult<GcInfo> {",
+      "file_sha256": "42929575e7f7c99fa8f41c70f481d4230256f64d5883c442175a2f4037f28821",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/src/storage/txn/actions/gc.rs",
+      "line": 87,
+      "line_text": "enum State {",
+      "file_sha256": "42929575e7f7c99fa8f41c70f481d4230256f64d5883c442175a2f4037f28821",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/src/storage/txn/actions/prewrite.rs",
+      "line": 58,
+      "line_text": "pub fn prewrite_with_generation<S: Snapshot>(",
+      "file_sha256": "878fb1548969642513608ce7de56817b94f1dea5b5ac7404511cb8dfffcd58fc",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md",
+        "expertise/implementation-workbook.md"
+      ]
+    },
+    {
+      "path": "/Users/bmysoren/tpt/tikv/src/storage/txn/actions/prewrite.rs",
+      "line": 554,
+      "line_text": "        MVCC_DUPLICATE_CMD_COUNTER_VEC.prewrite.inc();",
+      "file_sha256": "878fb1548969642513608ce7de56817b94f1dea5b5ac7404511cb8dfffcd58fc",
+      "project": "tikv",
+      "commit": "2be7aafd3d04a128100c5df69cb43fc99ad14b04",
+      "cited_in": [
+        "systems/tikv.md"
+      ]
+    }
+  ]
+}

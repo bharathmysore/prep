@@ -51,6 +51,7 @@ This index links all maintained Markdown docs in this workspace.
 ## Company And Position Prep
 
 - [Company And Position Specific Prep](./company_positions/README.md)
+- [Microsoft Position 200047514 Interview Prep](./company_positions/microsoft/microsoft_position_200047514_prep.md)
 - [Apple Coding Code Index](./company_positions/apple/apple_coding_code_index.md)
 - [Apple Elastic Disk Staff/Principal Top 20 Questions](./company_positions/apple/apple_elastic_disk_staff_principal_top_20.md)
 - [CoreWeave Staff Storage Engine: Seven-Day Intensive Tracker](./company_positions/coreweave/coreweave_staff_storage_engine_prep.md)
@@ -61,6 +62,21 @@ This index links all maintained Markdown docs in this workspace.
 - [CoreWeave Storage Engine Prep Tracker Implementation Plan](./docs/superpowers/plans/2026-09-15-coreweave-storage-engine-prep.md)
 
 ## Focused Areas
+
+### Filesystem architecture learning pack
+
+- [README](./focused_areas/fs/README.md)
+- [ai ml](./focused_areas/fs/ai_ml.md)
+- [architecture](./focused_areas/fs/architecture.md)
+- [exercises](./focused_areas/fs/exercises.md)
+- [fundamentals](./focused_areas/fs/fundamentals.md)
+- [performance lab](./focused_areas/fs/performance_lab.md)
+- [progress](./focused_areas/fs/progress.md)
+- [references](./focused_areas/fs/references.md)
+- [roadmap](./focused_areas/fs/roadmap.md)
+- [README](./focused_areas/fs/samples/README.md)
+- [test cases](./focused_areas/fs/samples/test_cases.md)
+
 
 - [Focused Areas](./focused_areas/README.md)
 - [Rate Limiters](./focused_areas/rate_limiters.md)
@@ -104,3 +120,47 @@ This index links all maintained Markdown docs in this workspace.
 | Stacks and queues | [patterns](./coding/cpp/stacks_queues/patterns.md) | [questions](./coding/cpp/stacks_queues/questions.md) | [solutions](./coding/cpp/stacks_queues/solutions.md) | [test cases](./coding/cpp/stacks_queues/test_cases.md) |
 | Systems-style coding | [patterns](./coding/cpp/systems_style/patterns.md) | [questions](./coding/cpp/systems_style/questions.md) | [solutions](./coding/cpp/systems_style/solutions.md) | [test cases](./coding/cpp/systems_style/test_cases.md) |
 | Trees and tries | [patterns](./coding/cpp/trees_tries/patterns.md) | [questions](./coding/cpp/trees_tries/questions.md) | [solutions](./coding/cpp/trees_tries/solutions.md) | [test cases](./coding/cpp/trees_tries/test_cases.md) |
+
+## Storage Architecture and Research Learning
+
+- [Storage systems architecture knowledge base](./focused_areas/storage/README.md)
+- [How the systems compose](./focused_areas/storage/architecture-map.md)
+- [Architectural comparisons and tradeoffs](./focused_areas/storage/comparison.md)
+- [Predicting architectural evolution](./focused_areas/storage/evolution.md)
+- [Storage exercises](./focused_areas/storage/exercises/README.md)
+- [Expertise path for engines, databases, time series and disconnected systems](./focused_areas/storage/expertise/README.md)
+- [Storage under bounded resources and intermittent connectivity](./focused_areas/storage/expertise/constrained-and-disconnected.md)
+- [Deep track for LSM and B tree internals](./focused_areas/storage/expertise/engine-internals.md)
+- [Implementation workbook for storage architecture](./focused_areas/storage/expertise/implementation-workbook.md)
+- [Lab portfolio and telemetry capstone](./focused_areas/storage/expertise/labs.md)
+- [Paper study and research apprenticeship](./focused_areas/storage/expertise/paper-study.md)
+- [From architectural question to defensible paper](./focused_areas/storage/expertise/research-method.md)
+- [Research and architectural leadership program](./focused_areas/storage/expertise/research-program.md)
+- [Time series storage from first principles](./focused_areas/storage/expertise/time-series.md)
+- [Machines, bytes, and durable state](./focused_areas/storage/foundations/01-machine-and-durability.md)
+- [Local storage engines and reclamation](./focused_areas/storage/foundations/02-local-engines.md)
+- [Replication, consensus, and transactions](./focused_areas/storage/foundations/03-distribution-and-transactions.md)
+- [Placement, file metadata, and object storage](./focused_areas/storage/foundations/04-placement-and-file-object-storage.md)
+- [Queries, indexes, and resource control](./focused_areas/storage/foundations/05-query-models-and-resource-control.md)
+- [Storage glossary](./focused_areas/storage/glossary.md)
+- [Learning path from primitives to architectural judgment](./focused_areas/storage/learning-path.md)
+- [Evidence, provenance, and maintenance](./focused_areas/storage/maintenance.md)
+- [Reasoning about performance and failure](./focused_areas/storage/performance-and-failure-reasoning.md)
+- [Research gaps and next discriminating studies](./focused_areas/storage/research-gaps.md)
+- [Storage implementation samples](./focused_areas/storage/samples/README.md)
+- [RocksLab — Week 1: Build an LSM Model](./focused_areas/storage/samples/rockslab-week1/README.md)
+- [Ceph: one distributed object substrate, several storage interfaces](./focused_areas/storage/systems/ceph.md)
+- [Cornerstone: Raft consensus and integration interfaces](./focused_areas/storage/systems/cornerstone.md)
+- [CubeFS: independent namespace, replica, and erasure-coded storage layers](./focused_areas/storage/systems/cubefs.md)
+- [etcd: a replicated MVCC coordination database](./focused_areas/storage/systems/etcd.md)
+- [FoundationDB: a transactional ordered keyspace with separated roles](./focused_areas/storage/systems/foundationdb.md)
+- [LevelDB: the compact durable LSM reference](./focused_areas/storage/systems/leveldb.md)
+- [LMDB: memory-mapped copy-on-write B+tree](./focused_areas/storage/systems/lmdb.md)
+- [OceanBase: SQL and transactions over tablets and log streams](./focused_areas/storage/systems/oceanbase.md)
+- [paxos: a small consensus implementation, not a storage engine](./focused_areas/storage/systems/paxos.md)
+- [Redis: an in-memory data-structure server with persistence and replication](./focused_areas/storage/systems/redis.md)
+- [RocksDB: a configurable LSM engine](./focused_areas/storage/systems/rocksdb.md)
+- [RocksLab Week 1: the deliberately incomplete LSM model](./focused_areas/storage/systems/rockslab-week1.md)
+- [SeaweedFS: packed blobs first, namespace and protocols above them](./focused_areas/storage/systems/seaweedfs.md)
+- [TiKV: transactional ranges over replicated local engines](./focused_areas/storage/systems/tikv.md)
+- [Validation report](./focused_areas/storage/validation-report.md)

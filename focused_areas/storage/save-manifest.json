@@ -1,0 +1,395 @@
+{
+  "saved_date": "2026-10-27",
+  "canonical_root": "/Users/bmysoren/prep/focused_areas/storage",
+  "previous_knowledge_base": "/Users/bmysoren/randoms/storage-knowledge-base",
+  "sample_source": "/Users/bmysoren/tpt/rockslab-week1",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "8722330b63e8b225a8f40b0d68ad66a3ba2b91b97f2c17deb553e5934a3f02ec"
+    },
+    {
+      "path": "architecture-map.md",
+      "sha256": "0c4680dce664d64d0aad71859c27161a8b22ff1ffcad56c6846a2270515a5f2e"
+    },
+    {
+      "path": "comparison.md",
+      "sha256": "1f0beac4a076f0e53acdda7d50df43bb8eeca255c40d1d67551696d9ef9738fe"
+    },
+    {
+      "path": "evolution.md",
+      "sha256": "5fd289d6d662b005bdf9564a719f128f0c4e564d32e9884801e3d6932a3272f9"
+    },
+    {
+      "path": "exercises/README.md",
+      "sha256": "5420bff73b71554ecc07ddfda871e892f8ccb627ca8cad313069bd52ef1de9bf"
+    },
+    {
+      "path": "expertise/README.md",
+      "sha256": "25767275c0f0cc0f1665dc79ef2901269f272f66899161281e256af037a4c25c"
+    },
+    {
+      "path": "expertise/constrained-and-disconnected.md",
+      "sha256": "b20e2d3373e5a37b75f6a828a4b822b0f10ba3af0a7e0eaf1d4bd4bd72db2403"
+    },
+    {
+      "path": "expertise/engine-internals.md",
+      "sha256": "83547a3c26c93913ce32828cb744d11f902ef50925b720c8eaf5e36c43b1e10f"
+    },
+    {
+      "path": "expertise/implementation-workbook.md",
+      "sha256": "f18345549a4874a88cbeeaf5fe14ad5a6b5884b69e71092a0c7b1325b7a7c9a0"
+    },
+    {
+      "path": "expertise/labs.md",
+      "sha256": "cf09ed749e079f3fdf3f7bfa0fe4ba6b1a33bcbce33f2ba2a1468f669b0f2797"
+    },
+    {
+      "path": "expertise/paper-study.md",
+      "sha256": "65e849d05c7d50a69818d8f0efe163f88583dda57351c13464356b46a60e264c"
+    },
+    {
+      "path": "expertise/research-method.md",
+      "sha256": "8a32c19678507e735565daae1a94d72c972a14c38066221cb72fb59be0efba92"
+    },
+    {
+      "path": "expertise/research-program.md",
+      "sha256": "912adb9af7684b1d8efd91d205fbc8cde0b51fdb42b7666aedf6412b31cc1871"
+    },
+    {
+      "path": "expertise/time-series.md",
+      "sha256": "cae12673d91f8f44a19218fc72dd2aa6be1a5899021f6d6cac707233cf205445"
+    },
+    {
+      "path": "foundations/01-machine-and-durability.md",
+      "sha256": "923284cc5f32031e67ced1e27ccada2b4fcba3ba6477f946d402d9886b282530"
+    },
+    {
+      "path": "foundations/02-local-engines.md",
+      "sha256": "c015d9b58cf1088496725644e571accbe7c045d4caf024a024dc3aac669bbaba"
+    },
+    {
+      "path": "foundations/03-distribution-and-transactions.md",
+      "sha256": "e3808240f7f83c942bd5c67a97e221cdee8ee35db5d58ca35fdbc5faf3fb53e7"
+    },
+    {
+      "path": "foundations/04-placement-and-file-object-storage.md",
+      "sha256": "e22b2e87d656c1d842f37e1e2795319ee88512b975caab73d1fdabbe29cf8262"
+    },
+    {
+      "path": "foundations/05-query-models-and-resource-control.md",
+      "sha256": "1da81e3e73fd59f6faa79cf3f3d3d6861c543a1883dea6d1367d44b7fc5cc38a"
+    },
+    {
+      "path": "glossary.md",
+      "sha256": "00f006f940104158c15598660c0a8c34c662c1d0726905f7ea6838b7d9b2fed5"
+    },
+    {
+      "path": "learning-path.md",
+      "sha256": "8aa753c1e715c3db84c58a6a661cba97dfd9b5db9bb1898c1a8b5afa3f7bc7a7"
+    },
+    {
+      "path": "maintenance.md",
+      "sha256": "cbc187ef483205a7df271a917e5b90a703f2a0d4923b94c0dd14ef6e8bd7f065"
+    },
+    {
+      "path": "performance-and-failure-reasoning.md",
+      "sha256": "400a73a295678b84f59d542143b239bf29d6cbe14c5ff4803e294ed33a6127c4"
+    },
+    {
+      "path": "research-gaps.md",
+      "sha256": "d1d694b560667d079f000d573df253e41411a2fc87060e54b40628075f9434ed"
+    },
+    {
+      "path": "samples/README.md",
+      "sha256": "38b868891fb23cbed4d5b94d3e96244c1058f67611e9054a865f70b7c4f5e12f"
+    },
+    {
+      "path": "samples/rockslab-week1/CMakeLists.txt",
+      "sha256": "03019de342546ed2f74e69cd86fde544f0de0fa2f064c9c3ad2a38a7f233d863"
+    },
+    {
+      "path": "samples/rockslab-week1/README.md",
+      "sha256": "b5e3f106a78010fd15efcd83a8da5113605d4ae0b6b1eef3d4ee9af7f9af53e0"
+    },
+    {
+      "path": "samples/rockslab-week1/include/mini_lsm.h",
+      "sha256": "3b41eb12f5a5021245419db1f4d2f2791d1ec9278d53ea5c55404187359ec80f"
+    },
+    {
+      "path": "samples/rockslab-week1/src/main.cc",
+      "sha256": "874a88d4d55ea94e449ce08845b2070f9af38912fc3af6f4114f1bd6d8306fc3"
+    },
+    {
+      "path": "samples/rockslab-week1/src/mini_lsm.cc",
+      "sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07"
+    },
+    {
+      "path": "samples/rockslab-week1/tests/mini_lsm_test.cc",
+      "sha256": "0887b35e14822f176f5184f9404d486280d2125eb695caa01a085a4f0dff6222"
+    },
+    {
+      "path": "source-index.json",
+      "sha256": "b0069de04d785c06f5a2d7690385a0bd53c73916947bf7ca243f024c57e81403"
+    },
+    {
+      "path": "source-snapshot.json",
+      "sha256": "40df4310eb78ea740d8cbc28a40b521d175ea5e2dae292e8a3d0eb6617e000a1"
+    },
+    {
+      "path": "systems/ceph.md",
+      "sha256": "01f18580f017b1acc634f90f960a39f610f0c773a54b274f44325d7d6705d3ef"
+    },
+    {
+      "path": "systems/cornerstone.md",
+      "sha256": "39becdc9466b71ffba6850f68fe65be8022cd4636a2c7f94632af0d666174e9e"
+    },
+    {
+      "path": "systems/cubefs.md",
+      "sha256": "ceb509d261e9d7bc66a5775d83739ef6bc6cf59afee019d9c52a8e30538d028c"
+    },
+    {
+      "path": "systems/etcd.md",
+      "sha256": "46177b2c5647414569d0a5cab48331ecdcabf1e884f90bf4d5f6b94966c733ca"
+    },
+    {
+      "path": "systems/foundationdb.md",
+      "sha256": "6d3ea1608e19d7ed00ae6dceeb9badcef121b6636b9c3f8cb7ae2924341c2506"
+    },
+    {
+      "path": "systems/leveldb.md",
+      "sha256": "391adbfdbd36571a5af9902b3ea457509b39e575f035ba0f581e6ef6a043407b"
+    },
+    {
+      "path": "systems/lmdb.md",
+      "sha256": "40afc50221d620d4fd656c32e9e9d9cf3791b30dd4f9c8f2f528d72293aa6f29"
+    },
+    {
+      "path": "systems/oceanbase.md",
+      "sha256": "1c94340c91e5192c4d4ad28c26f9d196257fd7c46c119e03b41168c1c54ca901"
+    },
+    {
+      "path": "systems/paxos.md",
+      "sha256": "dbb08ab59aa61095c8d3a55643316581c2d4982f93f6fb284b0a4611a9330830"
+    },
+    {
+      "path": "systems/redis.md",
+      "sha256": "272dea26d3eceb270fd88645008b0216edffa9846052b45a1b988e5dd2638ede"
+    },
+    {
+      "path": "systems/rocksdb.md",
+      "sha256": "1665043aaa7cc249a632c07262c1eb6e538046484f535d28a3beef83e5355c8e"
+    },
+    {
+      "path": "systems/rockslab-week1.md",
+      "sha256": "4f5d4a65dfc4820471a01f92246416e0f7c2cd04ff66dfef2344252631687fc0"
+    },
+    {
+      "path": "systems/seaweedfs.md",
+      "sha256": "d88d4ec9715f0b3450b15cf6b8788154fc05102345beb8c719c5b4d0863cfd25"
+    },
+    {
+      "path": "systems/tikv.md",
+      "sha256": "56403a6c2ae2453e33187c5ff399af6aca236c0e5a092840d55c9f399a57b698"
+    },
+    {
+      "path": "validation-report.md",
+      "sha256": "feab3775c0e0099ac87bd7f3f1cafca61964e47dd12a49908213734cd7a7ae43"
+    }
+  ],
+  "initial_save_files": [
+    {
+      "path": "README.md",
+      "sha256": "8722330b63e8b225a8f40b0d68ad66a3ba2b91b97f2c17deb553e5934a3f02ec"
+    },
+    {
+      "path": "architecture-map.md",
+      "sha256": "0c4680dce664d64d0aad71859c27161a8b22ff1ffcad56c6846a2270515a5f2e"
+    },
+    {
+      "path": "comparison.md",
+      "sha256": "1f0beac4a076f0e53acdda7d50df43bb8eeca255c40d1d67551696d9ef9738fe"
+    },
+    {
+      "path": "evolution.md",
+      "sha256": "5fd289d6d662b005bdf9564a719f128f0c4e564d32e9884801e3d6932a3272f9"
+    },
+    {
+      "path": "exercises/README.md",
+      "sha256": "3505b3400d114742df5cfecf5772a3ac2569119aadbe832459202719efc98a60"
+    },
+    {
+      "path": "expertise/README.md",
+      "sha256": "25767275c0f0cc0f1665dc79ef2901269f272f66899161281e256af037a4c25c"
+    },
+    {
+      "path": "expertise/constrained-and-disconnected.md",
+      "sha256": "b20e2d3373e5a37b75f6a828a4b822b0f10ba3af0a7e0eaf1d4bd4bd72db2403"
+    },
+    {
+      "path": "expertise/engine-internals.md",
+      "sha256": "83547a3c26c93913ce32828cb744d11f902ef50925b720c8eaf5e36c43b1e10f"
+    },
+    {
+      "path": "expertise/implementation-workbook.md",
+      "sha256": "fcbf3547c43ac59ebe982337728d83f6458660ffc7b4fab0a33a7582bb95af90"
+    },
+    {
+      "path": "expertise/labs.md",
+      "sha256": "cf09ed749e079f3fdf3f7bfa0fe4ba6b1a33bcbce33f2ba2a1468f669b0f2797"
+    },
+    {
+      "path": "expertise/paper-study.md",
+      "sha256": "65e849d05c7d50a69818d8f0efe163f88583dda57351c13464356b46a60e264c"
+    },
+    {
+      "path": "expertise/research-method.md",
+      "sha256": "8a32c19678507e735565daae1a94d72c972a14c38066221cb72fb59be0efba92"
+    },
+    {
+      "path": "expertise/research-program.md",
+      "sha256": "912adb9af7684b1d8efd91d205fbc8cde0b51fdb42b7666aedf6412b31cc1871"
+    },
+    {
+      "path": "expertise/time-series.md",
+      "sha256": "cae12673d91f8f44a19218fc72dd2aa6be1a5899021f6d6cac707233cf205445"
+    },
+    {
+      "path": "foundations/01-machine-and-durability.md",
+      "sha256": "923284cc5f32031e67ced1e27ccada2b4fcba3ba6477f946d402d9886b282530"
+    },
+    {
+      "path": "foundations/02-local-engines.md",
+      "sha256": "c015d9b58cf1088496725644e571accbe7c045d4caf024a024dc3aac669bbaba"
+    },
+    {
+      "path": "foundations/03-distribution-and-transactions.md",
+      "sha256": "e3808240f7f83c942bd5c67a97e221cdee8ee35db5d58ca35fdbc5faf3fb53e7"
+    },
+    {
+      "path": "foundations/04-placement-and-file-object-storage.md",
+      "sha256": "e22b2e87d656c1d842f37e1e2795319ee88512b975caab73d1fdabbe29cf8262"
+    },
+    {
+      "path": "foundations/05-query-models-and-resource-control.md",
+      "sha256": "1da81e3e73fd59f6faa79cf3f3d3d6861c543a1883dea6d1367d44b7fc5cc38a"
+    },
+    {
+      "path": "glossary.md",
+      "sha256": "00f006f940104158c15598660c0a8c34c662c1d0726905f7ea6838b7d9b2fed5"
+    },
+    {
+      "path": "learning-path.md",
+      "sha256": "8aa753c1e715c3db84c58a6a661cba97dfd9b5db9bb1898c1a8b5afa3f7bc7a7"
+    },
+    {
+      "path": "maintenance.md",
+      "sha256": "cbc187ef483205a7df271a917e5b90a703f2a0d4923b94c0dd14ef6e8bd7f065"
+    },
+    {
+      "path": "performance-and-failure-reasoning.md",
+      "sha256": "400a73a295678b84f59d542143b239bf29d6cbe14c5ff4803e294ed33a6127c4"
+    },
+    {
+      "path": "research-gaps.md",
+      "sha256": "d1d694b560667d079f000d573df253e41411a2fc87060e54b40628075f9434ed"
+    },
+    {
+      "path": "samples/README.md",
+      "sha256": "9d40c23a50c1642377e730dc9502f9d8ddbcd97d43993f06e021d867be9be7cd"
+    },
+    {
+      "path": "samples/rockslab-week1/CMakeLists.txt",
+      "sha256": "03019de342546ed2f74e69cd86fde544f0de0fa2f064c9c3ad2a38a7f233d863"
+    },
+    {
+      "path": "samples/rockslab-week1/README.md",
+      "sha256": "b5e3f106a78010fd15efcd83a8da5113605d4ae0b6b1eef3d4ee9af7f9af53e0"
+    },
+    {
+      "path": "samples/rockslab-week1/include/mini_lsm.h",
+      "sha256": "3b41eb12f5a5021245419db1f4d2f2791d1ec9278d53ea5c55404187359ec80f"
+    },
+    {
+      "path": "samples/rockslab-week1/src/main.cc",
+      "sha256": "874a88d4d55ea94e449ce08845b2070f9af38912fc3af6f4114f1bd6d8306fc3"
+    },
+    {
+      "path": "samples/rockslab-week1/src/mini_lsm.cc",
+      "sha256": "dc4d0d83b03a30052b43d5cf94436d6eab1d346b30623ef6d85664bf09de4e07"
+    },
+    {
+      "path": "samples/rockslab-week1/tests/mini_lsm_test.cc",
+      "sha256": "0887b35e14822f176f5184f9404d486280d2125eb695caa01a085a4f0dff6222"
+    },
+    {
+      "path": "source-index.json",
+      "sha256": "46b8435145139ddb74fa6ad696986a9123853b50c87e814d647ff0b3b1012fc3"
+    },
+    {
+      "path": "source-snapshot.json",
+      "sha256": "40df4310eb78ea740d8cbc28a40b521d175ea5e2dae292e8a3d0eb6617e000a1"
+    },
+    {
+      "path": "systems/ceph.md",
+      "sha256": "01f18580f017b1acc634f90f960a39f610f0c773a54b274f44325d7d6705d3ef"
+    },
+    {
+      "path": "systems/cornerstone.md",
+      "sha256": "39becdc9466b71ffba6850f68fe65be8022cd4636a2c7f94632af0d666174e9e"
+    },
+    {
+      "path": "systems/cubefs.md",
+      "sha256": "ceb509d261e9d7bc66a5775d83739ef6bc6cf59afee019d9c52a8e30538d028c"
+    },
+    {
+      "path": "systems/etcd.md",
+      "sha256": "46177b2c5647414569d0a5cab48331ecdcabf1e884f90bf4d5f6b94966c733ca"
+    },
+    {
+      "path": "systems/foundationdb.md",
+      "sha256": "6d3ea1608e19d7ed00ae6dceeb9badcef121b6636b9c3f8cb7ae2924341c2506"
+    },
+    {
+      "path": "systems/leveldb.md",
+      "sha256": "391adbfdbd36571a5af9902b3ea457509b39e575f035ba0f581e6ef6a043407b"
+    },
+    {
+      "path": "systems/lmdb.md",
+      "sha256": "40afc50221d620d4fd656c32e9e9d9cf3791b30dd4f9c8f2f528d72293aa6f29"
+    },
+    {
+      "path": "systems/oceanbase.md",
+      "sha256": "1c94340c91e5192c4d4ad28c26f9d196257fd7c46c119e03b41168c1c54ca901"
+    },
+    {
+      "path": "systems/paxos.md",
+      "sha256": "dbb08ab59aa61095c8d3a55643316581c2d4982f93f6fb284b0a4611a9330830"
+    },
+    {
+      "path": "systems/redis.md",
+      "sha256": "272dea26d3eceb270fd88645008b0216edffa9846052b45a1b988e5dd2638ede"
+    },
+    {
+      "path": "systems/rocksdb.md",
+      "sha256": "1665043aaa7cc249a632c07262c1eb6e538046484f535d28a3beef83e5355c8e"
+    },
+    {
+      "path": "systems/rockslab-week1.md",
+      "sha256": "4f5d4a65dfc4820471a01f92246416e0f7c2cd04ff66dfef2344252631687fc0"
+    },
+    {
+      "path": "systems/seaweedfs.md",
+      "sha256": "d88d4ec9715f0b3450b15cf6b8788154fc05102345beb8c719c5b4d0863cfd25"
+    },
+    {
+      "path": "systems/tikv.md",
+      "sha256": "56403a6c2ae2453e33187c5ff399af6aca236c0e5a092840d55c9f399a57b698"
+    },
+    {
+      "path": "validation-report.md",
+      "sha256": "41b7d9e6b22e08a04b7056748e7d204f443ee03551f67cd13b86c8b079c31d93"
+    }
+  ],
+  "updated_date": "2026-10-27"
+}

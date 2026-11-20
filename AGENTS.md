@@ -29,11 +29,15 @@ This directory is a local workspace for L7 interview preparation, focused on clo
 ## Current Company/Position Prep Files
 
 - [Company And Position Specific Prep](./company_positions/README.md)
+- [Microsoft Position 200047514 Interview Prep](./company_positions/microsoft/microsoft_position_200047514_prep.md)
 - [Apple Coding Code Index](./company_positions/apple/apple_coding_code_index.md)
 - [Apple Elastic Disk Staff/Principal Top 20 Questions](./company_positions/apple/apple_elastic_disk_staff_principal_top_20.md)
 
 ## Current Focused Area Prep Files
 
+- [Filesystem Architecture Learning Pack](./focused_areas/fs/README.md)
+
+- [Storage Architecture and Research Learning Hub](./focused_areas/storage/README.md)
 - [Focused Areas](./focused_areas/README.md)
 - [Rate Limiters](./focused_areas/rate_limiters.md)
 - [Linux Storage Principal Ramp Tracker](./focused_areas/linux_storage_principal_ramp.md)
