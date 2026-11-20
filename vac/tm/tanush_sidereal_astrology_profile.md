@@ -124,7 +124,7 @@ Event recording must follow these rules:
 | TM-E003 | October 4, 2025 | Observed | Digital SAT attempt | User-supplied; exact date | Score reported below 1500. Saturn–Venus–Rahu is broadly consistent and close to a calculated PD boundary. |
 | TM-E004 | October 2026; working assumption October 3, 2026 | Planned / outcome pending | SAT retake with a target score of 1560 | User supplied October 2026; October 3 is inferred from the official weekend SAT calendar and is not yet user-confirmed | Outcome pending. Preserve the target and later append the actual test date and score. |
 | TM-E005 | 2026–2027 college application and award cycle; exact dates unknown | Target / outcome pending | Seek scholarship or grant aid sufficient to cover tuition | User-supplied objective; no institution, application date, or decision date supplied | Outcome pending. Record each application, award decision, scholarship amount, and uncovered cost when supplied. |
-| TM-E006 | 2026–2027 college application cycle; applications confirmed ongoing through the remainder of 2026; exact submission dates and institutions not yet supplied | Ongoing / outcome pending | Apply for undergraduate admission on a pre-med path and seek placement at a strong-fit university | User supplied the medicine interest and current Bothell, Washington home base on August 20, 2026; on October 18, 2026, the user confirmed that Tanush is actively applying through the rest of 2026. UW was discussed as an example, not confirmed as a submitted application. | Application activity is underway; outcome pending. Record each named application, submission date, admission decision, scholarship package, enrollment choice, and any move from Bothell when supplied. |
+| TM-E006 | 2026–2027 college application cycle; multiple applications submitted November 1, 2026 from 9:30 AM PST through the time of the user's report; another application planned for November 12–15, 2026, with a recommended final-click window of November 14 at 8:30–8:40 AM PST; institutions, subject/major, count, and exact prior ending time not yet supplied | Observed submissions / additional application planned / outcomes pending | Apply for undergraduate admission on a pre-med path and seek placement at a strong-fit university | User supplied the medicine interest and current Bothell home base on August 20, 2026; confirmed active applications on October 18; reported November 1 submissions; and on November 11 reported that Tanush will apply to another college “this week.” UW has been discussed as an example, not confirmed as a submitted application. | November 1 submission activity is observed. The additional November 12–15 application remains planned; the November 14 muhurta is a symbolic preference, not an observed submission or admission promise. Record each institution, campus, intended major, exact submission timestamp, confirmation receipt, decision, aid package, enrollment choice, and any move when supplied. |
 | TM-E007 | After undergraduate study; exact medical-school application and matriculation years unknown | Target / outcome pending | Pursue medicine and apply to medical school, potentially requiring a second educational relocation | User-supplied career interest on August 20, 2026; specialty, institutions, dates, and destination unknown | Outcome pending. Do not infer a medical-school acceptance, scholarship, destination, or move until concrete details are supplied. |
 | TM-E008 | “Lately,” reported September 9, 2026; exact onset unknown | Observed | Increased arguments between Tanush and his father; his father is speaking with him less regularly, and Tanush is having difficulty following parental instructions | User-supplied; relative time window only | Ongoing when reported. Exact onset, frequency, triggers, severity, and any later resolution have not yet been supplied. |
 | TM-E009 | September 12, 2026 | Observed | SAT attempt at Bonney Lake, Washington | User-supplied; exact test date and city, but test center name and official score report not supplied | Score reported as 1480–1490. Treat the range as provisional until the exact official score is supplied. This event is recorded separately from the October 2026 retake plan in TM-E004; whether it replaced that plan is not yet known. |
@@ -1001,3 +1001,115 @@ No new admission result or submitted institution was supplied in this query, so 
 Astrology is a symbolic timing framework, not a scientifically validated admissions method. Written decisions, financial-aid packages, and official deadlines control the real outcome.
 
 **Practical references:** [UW Seattle dates and deadlines](https://admit.washington.edu/apply/dates-deadlines/); [UW Bothell application dates](https://www.uwb.edu/admissions/apply/application-dates-deadlines).
+
+## 27. College-Application Submission Muhurta — November 1, 2026, Bothell
+
+### 1. Question and relevant houses
+
+The question is when Tanush should submit one or more college applications on Sunday, November 1, 2026 in Bothell, Washington. The election emphasizes houses 3/6 for the application and competition, 4/5/9 for education and merit, and 11 for fulfillment. At **2:00 AM PDT**, Bothell's clock falls back to **1:00 AM PST**. Consequently, every morning window below is explicitly **PST (UTC-8)**; no additional one-hour adjustment should be applied. In particular, 8:00-10:00 AM local equals 16:00-18:00 UTC, and 9:25-10:00 AM PST equals 17:25-18:00 UTC.
+
+### 2. Parāśara finding
+
+The day is usable-to-strong if the application is already complete. At the preferred window, Lahiri Sagittarius rises; ascendant lord Jupiter occupies the electional 9th house, while 9th lord Sun, 10th lord Mercury, and own-sign 11th lord Venus operate from the 11th. This is a direct higher-education-to-result linkage. Moon is in its own Cancer in Pushya. Pushya is the 20th nakshatra counted from natal Vishakha, giving favorable Sampat Tara, and Cancer is 10th from the natal Libra Moon, giving favorable Chandrabala.
+
+November 1 is Ravi Pushya Yoga from sunrise until Pushya ends around 3:00 PM. Krishna Ashtami is a Jaya-class tithi and the daily yoga is Shubha. These factors support a completed submission, although they do not override an inaccurate or unfinished application.
+
+### 3. Bhava Chalit finding
+
+**Bhava Chalit verdict pending—verified Lahiri-sidereal Placidus cusp table unavailable.**
+
+The natal data inconsistency prevents a certified Chalit election tied to Tanush's cusps. The recommended time therefore relies on the independently calculated Lahiri electional ascendant, whole-sign house pattern, panchang, dasha, and transits.
+
+### 4. KP finding
+
+**KP verdict pending—required cusp data unavailable.**
+
+Without verified natal 4/9/11 and 6/11 cusp sub-lords, no time can guarantee an admission result. The window is a muhurta preference, not KP certification.
+
+### 5. BNN finding
+
+Jupiter as Jīva has just entered Leo, activating the natal 5th sign and aspecting the natal 9th-house Jupiter–Venus cluster and Aries ascendant. Pushya is ruled by Saturn, the active mahadasha lord. Mercury as Intellect is the active pratyantardasha lord and directly governs the application mechanics. The flow supports disciplined educational action but demands careful checking because Mercury is retrograde and combust.
+
+### 6. Dasha finding
+
+Tanush is in Saturn–Venus–Mercury. Saturn supports the long credentialing process; Venus connects resources and higher education; Mercury activates writing, portals, forms, competition, and documentation. This is appropriate for submitting applications, but Mercury's deep natal combustion and current retrograde motion make accuracy more important than ceremonial timing.
+
+### 7. Transit and Tithi finding
+
+At sunrise, Lahiri positions include Moon in Cancer/Pushya, retrograde Mercury and Venus in Libra, Jupiter newly in Leo, and retrograde Saturn in Pisces. Moon's favorable Tara and Chandrabala support the action, while Jupiter in the natal 5th sign supports education. Retrograde/combust Mercury favors final review and correction before submission; it is not a reason to miss a real deadline.
+
+The December 7, 2026 Tithi Pravesha chart is **not yet active** on November 1. It describes the later admission-decision cycle, not tomorrow's submission. The application muhurta is therefore judged from natal promise, dasha, current transits, and the local panchang.
+
+### 8. Reconciliation and timing windows
+
+| Use | Bothell time, PST | Basis |
+|---|---|---|
+| **Preferred final click** | **11:32–11:47 AM** | Jupiter hora, Amrit Choghadiya, Abhijit Muhurta, Pushya, Shubha Yoga, and Sagittarius ascendant; stop before Yamaganda. |
+| Earlier alternate | 9:25–10:08 AM | Moon hora, Labh Choghadiya and Amrita Kalam; Scorpio ascendant places own-sign Moon in the 9th and Jupiter in the 10th. |
+| Afternoon backup | 1:35–2:15 PM | Venus hora and Shubh Choghadiya, after Yamaganda and before Gulika; Pushya remains active. |
+
+Avoid **11:52 AM–1:07 PM** (Yamaganda), **2:22–3:36 PM** (Gulika), and **3:36–4:51 PM** (Rahu Kalam). Pushya ends around 3:00 PM. Do not use the repeated 1:00–2:00 AM hour created by the daylight-saving rollback.
+
+For several applications, complete the final file review during the earlier window and reserve **11:32–11:47 AM** for the most important final submission. Before clicking, verify the exact institution and campus, intended major, essays, transcript/course entries, recommenders, test-score choice, financial-aid fields, fee or waiver, and the generated PDF. Save the confirmation receipt afterward.
+
+### 9. Conclusion
+
+The strongest single recommendation is to click **Submit between 11:35 and 11:45 AM PST on Sunday, November 1, 2026**. The broader safe preferred interval is 11:32–11:47 AM. If the application is not fully accurate by then, use the 1:35–2:15 PM backup or submit when ready before the actual deadline; correctness is more important than forcing the muhurta.
+
+TM-E006 was updated on November 1: the user reported that multiple applications were submitted beginning at **9:30 AM PST** and continuing through the time of the report, with additional applications still pending. The submitted institutions, number of submissions, exact individual timestamps, and confirmation receipts were not supplied, so they remain explicitly unverified; the remaining applications stay classified as planned/pending.
+
+Astrology and muhurta are symbolic traditions, not scientifically validated predictors of admission. Application quality, eligibility, deadlines, and institutional review control the result.
+
+**Panchang and civil-time references:** [Seattle panchang for November 1](https://globalpanchang.com/panchang/seattle/2026-11-01); [independent Lahiri panchang cross-check](https://nakshatrachakra.com/en/panchangam/seattle/2026-11-01); [Seattle choghadiya](https://www.shubh.live/choghadiya/seattle/2026-11-01); [detailed Seattle panchang](https://thetelugucalendar.com/panchangam/2026/seattle/november/1/); [NIST 2026 daylight-saving rule](https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst); [Bothell 2026 clock change](https://www.timeanddate.com/time/change/usa/bothell).
+
+## 28. Additional College-Application Muhurta — November 12–15, 2026, Bothell
+
+### 1. Question and relevant houses/factors
+
+The user reported on November 11, 2026 that Tanush plans to submit another college application during the remaining week. The institution and intended subject/major were not supplied. The election therefore emphasizes 4/5/9 for education and subject fit, 6/11 for competitive success, and 11 for fulfillment, while treating the actual program rules and deadline as controlling.
+
+### 2. Parāśara
+
+Saturday, November 14 is the strongest remaining date. Until 1:41 PM PST the Moon is in Sagittarius, Tanush's natal 9th sign and the third sign from his natal Libra Moon. At approximately 8:30 AM it is near 27° Sagittarius, closely crossing the supplied natal Jupiter at 27°18′ and operating near the natal Jupiter–Venus higher-education combination. Uttara Ashadha is Sādhaka Tara counted from natal Vishakha, while Shukla Panchami continues until 9:54 AM. Transit Jupiter, Mars and Ketu in Leo activate the natal 5th sign; Jupiter aspects the natal Sagittarius 9th-house cluster and Aries ascendant. Transit Saturn in Pisces applies its tenth aspect to natal Sagittarius, adding discipline and delay rather than effortless results.
+
+The whole-sign election around 8:30 AM has Lahiri Scorpio rising. Its lord Mars is with Jupiter and Ketu in Leo, linking purposeful action, higher learning, specialization and career direction, but Ketu makes the route less predictable. This supports medicine, science, research or another specialized path symbolically; it does not establish admission to a particular major.
+
+### 3. Bhava Chalit
+
+**Bhava Chalit verdict pending—verified Lahiri-sidereal Placidus cusp table unavailable.**
+
+An independent mathematical estimate for 8:30 AM PST gives approximate Lahiri Placidus cusps of Scorpio 11°25′ rising, Pisces 4°56′ on the 4th, Cancer 27° on the 9th, Virgo 4°56′ on the 10th and Libra 2°55′ on the 11th. On that estimate, Saturn falls in the 4th, Jupiter–Mars–Ketu in the 9th, Venus in the 10th and Mercury in the 11th. This is a useful cross-check of the desired 4/9/10/11 pattern, but it is not promoted to a certified Chalit verdict without an independently verified cusp table.
+
+### 4. KP
+
+**KP verdict pending—required cusp data unavailable.**
+
+The electional estimate activates 4/9/11 themes, but natal 4/9/11 and 6/11 cusp sub-lords have not been verified. The chosen time cannot be called a KP-certified admission or preferred-major promise.
+
+### 5. BNN
+
+Jupiter as Jīva transits Tanush's natal 5th sign and aspects the natal 9th-house Jupiter–Venus cluster and Aries ascendant, creating a strong 1–5–9 educational flow. Saturn as Karma aspects natal Sagittarius, making the process formal, effortful and consequential. Mercury as Intellect has just turned direct in Libra and is estimated in the electional 11th Bhava, supporting forms, writing and result-seeking; because it is almost stationary and Tanush's natal Mercury is deeply combust, the portal, institution, major and attachments require exact review. Mars–Ketu with Jupiter favors a specialized, technical, medical or research orientation but can also produce abrupt changes in subject choice.
+
+### 6. Dasha
+
+The working period is Saturn–Venus–Mercury. Saturn represents the long credentialing process and is also the lord of Saturday; Venus connects resources and Tanush's natal 9th-house prosperity combination; Mercury governs the application, writing, selection and competition. Both Mercury and Venus have just stationed direct by Saturday morning, improving forward symbolism but remaining slow enough to require patience and proofreading.
+
+### 7. Transit
+
+For Seattle/Bothell on Saturday, November 14: sunrise is about 7:13 AM PST; Gulika runs until 8:23 AM; Durmuhurta ends around 8:28 AM; Shubh Choghadiya runs 8:23–9:33 AM; Jupiter Hora runs approximately 8:00–8:46 AM; Shukla Panchami ends at 9:54 AM; Uttara Ashadha operates all day; and Moon remains in Sagittarius until 1:41 PM. Rahu Kalam begins at 9:33 AM. The daily Shoola Yoga is a real blemish, so the date is strong rather than flawless.
+
+Mercury turned direct on November 13 at about 7:54 AM PST and Venus at about 4:29 PM PST; both are direct but nearly stationary at the recommended time. Mars, Jupiter and Ketu are tightly grouped at the beginning of Leo, increasing specialization and ambition while warning against an impulsive program choice.
+
+### 8. Reconciliation
+
+The cleanest overlap across panchang, natal transit, dasha and the provisional electional Chalit estimate is **Saturday, November 14, 8:30–8:40 AM PST**. A slightly broader usable band is **8:29–8:44 AM**. This window begins after Gulika and Durmuhurta, remains inside Shubh Choghadiya and Jupiter Hora, retains Panchami, favorable Sādhaka Tara and Chandrabala, and places the transit Moon very close to natal Jupiter in the 9th sign.
+
+Thursday, November 12 has Jupiter-day, Sukarma Yoga and favorable Kshema Tara, but Shukla Chaturthi is Rikta and Mula is sharper; Friday has unfavorable Pratyak Tara from Vishakha; Sunday loses the combined favorable Tara/Chandra overlap. Saturday therefore ranks first. If the institution's real deadline is earlier, or if the application is not accurate by the muhurta, submit when it is correct and safely before the deadline rather than forcing the symbolic time.
+
+### 9. Conclusion
+
+Use **Saturday, November 14, 2026, 8:30–8:40 AM PST in Bothell** for the final review and Submit click; the broader acceptable interval is **8:29–8:44 AM PST**. Complete all writing and uploads beforehand, verify the exact college, campus and intended major, generate the final PDF, and save the confirmation receipt. The institution and subject remain unrecorded until the user supplies them, and the event remains planned until successful submission is reported.
+
+This timing is a traditional symbolic preference, not scientific evidence or a guarantee of admission, direct entry to the desired subject, scholarship, or long-term fit. Academic preparation, essays, prerequisites, institutional capacity, cost and official rules determine the real outcome. At many U.S. institutions, “pre-med” is an advising track rather than an undergraduate major, so the actual major and any direct-admit process must be checked for the specific college.
+
+**References:** [Seattle Lahiri panchang for November 14](https://thetelugucalendar.com/panchangam/2026/seattle/november/14/); [Seattle Choghadiya for November 14](https://panchangtime.com/choghadiya/seattle?date=2026-11-14); [Astrodienst 2026 Lahiri ephemeris](https://www.astro.com/swisseph/slae/2000/slae_2026d.pdf); [Lahiri November transit stations](https://jagannathhora.com/vedic-planetary-positions-november-2026/).

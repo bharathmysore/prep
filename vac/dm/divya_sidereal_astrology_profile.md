@@ -908,6 +908,8 @@ From natal Virgo / Aquarius Moon / Scorpio AL, Jupiter moves `11/6/9 → 12/7/10
 
 This reading separates five different things that must not be conflated: Divya's salary or recurring professional income, franchise gross receipts, accounting operating profit, free cash flow after debt service and capital expenditure, and cash actually distributed to Divya. The official iSMASH Everett contact page still showed **“Coming Soon”** on 18 October 2026, with hours and a grand-opening date unannounced. Public marketing status does not prove the City's permit or occupancy position, but there is no confirmed opening or first-revenue event in the saved record. Franchise operating revenue is therefore treated as **zero until legal opening and actual sales are confirmed**.
 
+**Outcome update — 16 November 2026:** Employees are now reported hired by 9 November, training began 11 November, and opening occurred during 13–15 November. This supersedes the 18 October assumption that the store remained unopened. Actual sales, operating profit, free cash flow, and owner distributions are still unreported and must not be inferred from opening alone.
+
 The reconciled astrological outlook is **mixed and cash-tight through most of January; more constructive for customers, collections, and gross-income opportunity from late January through about 21 April; and more volatile and expense-sensitive from 21/25 April through most of May**. This is a revenue-building pattern, not a guarantee of profitability. Earned or salary income looks steadier than franchise cash. There is no clear signature of unavoidable financial ruin; the main vulnerability is a timing mismatch in which contractor, rent, payroll, tax, insurance, debt, marketing, and operating obligations arrive before cash becomes repeatable.
 
 | Financial layer | Outlook through May 2027 | Graded judgment |
@@ -1017,29 +1019,33 @@ Strict KP caution: natal Mercury and Saturn do not carry a direct 11th-house con
 
 This timeline is invalidated or pushed later if landlord/Carney work is not actually completed, an applicable final inspection fails or remains unscheduled, the permit cannot be finaled, written CO is not issued, insurance/staffing/franchisor clearance is incomplete, or working capital is insufficient. Astrology cannot authorize occupancy or scientifically guarantee an opening date.
 
+### Readiness update — 11 November 2026
+
+The City Certificate of Occupancy is now **reported obtained**. Its actual issuance date/time, identifier, conditions, and document have not been supplied or independently inspected. This supersedes the 25 October forecast's assumption that CO remained pending. The current plan—friends/family on 13 November and public opening on 14 November—falls at the leading edge of the forecast's 14–30 November band, but a planned date is not evidence that astrology predicted an event; actual admission and first revenue remain to be recorded after they occur. The December and 2027 windows are no longer operative opening targets if genuine operations begin on 13 or 14 November.
+
 ## Current business context and dated event anchor
 
-**Status date:** 25 October 2026 for the ownership/investment/execution-role clarification and the latest user-supplied approval/construction-closeout status; public listing rechecked 25 October 2026
+**Status date:** 16 November 2026 for the latest user-reported hiring, training, and launch outcomes; official iSMASH pages retrieved 16 November 2026
 
 **Residence context:** As of 18 October 2026, Divya currently lives in Bothell, Washington. The move date and exact residence coordinates were not supplied. Bothell changes only the optional relocated annual-chart overlay; it does not change Divya's natal chart, exact Tithi Pravesha instant, or canonical birthplace chart.
 
-**Source distinction:** The project phase, contractor issues, ownership/investment roles, and permitting status below are user-supplied. The iSMASH business model, Everett location, and address were corroborated from the company's public pages on 8 July 2026; the “Coming Soon/Opening Soon” public-listing status was rechecked on 25 October 2026. Public marketing status does not establish permit or occupancy status.
+**Source distinction:** The project phase, contractor issues, ownership/investment roles, CO status, staffing/training milestones, and launch outcomes below are user-supplied. The iSMASH business model, Everett location, and address were corroborated from the company's public pages on 8 July 2026. In the official pages retrieved on 16 November, the Everett homepage published weekly hours and booking actions and the locations directory showed “Buy Tickets,” while the Everett contact and experience pages still retained “Coming Soon” language. This public-site inconsistency neither overrides the user's completed-event report nor independently establishes working checkout, first revenue, attendance, or profitability.
 
 | Field | Saved context |
 |---|---|
 | Venture | The iSMASH Everett franchise is reportedly in Divya's name. |
 | Ownership, funding, and execution roles | Divya is the named franchise holder. Bharath supplies investment capital and manages permits and construction. The investment amount, legal ownership percentage, financing structure, and exact division of responsibilities have not been supplied. |
 | Public business context | iSMASH describes its venues as experiential entertainment businesses offering rage/smash rooms, splatter painting, axe throwing, parties, and corporate events. |
-| Project phase | The City has reportedly issued the permit/authorization needed to proceed with revision work. This is not the CO. The project is in physical correction/closeout, with remaining landlord and Carney work, applicable finals, permit final, and written CO still preceding public opening. The location has not been reported open. |
-| Current operational issue | The landlord reportedly has a couple of days of work remaining. Carney has pending work that Carney claims requires about half a day. Scope, committed start/finish dates, actual completion, evidence of completion, final-inspection dates/results, permit final, and CO issuance remain unconfirmed. |
-| Coordination | Bharath manages the permit/construction process and is dependent on the landlord and Carney completing their remaining work. Earlier contractor Change Orders were reported cleared. |
+| Project phase | The City Certificate of Occupancy is reported obtained. Employees were hired by 9 November, training started 11 November, the Friends & Family opening occurred 13 November from 5:30–8:00 PM PST, and public operation occurred during 14–15 November. The venture has moved into initial operations. CO details, the precise first-public-admission time, first-sale time, and operating results remain unreported. |
+| Current operational issue | Employees were hired by 9 November and training began 11 November; exact headcount, roles, and training completion were not supplied. Initial operations require ongoing attention to staffing, safety, waivers, POS/refunds, supplies, insurance, working capital, and customer experience. No specific operating deficiency or result has been reported. |
+| Coordination | Bharath managed the permit/construction process and earlier contractor Change Orders were reported cleared. The landlord/Carney completion dates were not supplied, but CO and opening are now reported; coordination shifts toward initial operations, staff development, customer experience, and cash-flow control. |
 | Exact location | 607 SE Everett Mall Way, Everett, WA 98208. |
-| Public listing | The official iSMASH Everett contact page said “Coming Soon” and the locations page said “Opening Soon” when rechecked on 25 Oct 2026; hours and a grand-opening date were not announced. |
-| Planned opening date | No current public-opening date is confirmed. The working forecast is 14–30 Nov 2026, strongest 22–30 Nov, but actual opening depends on completed landlord/Carney work, passed applicable finals, permit final, written CO, and operating readiness. If closeout slips, 1–15 Dec is the next planning band. |
+| Public listing | In the official pages retrieved 16 Nov 2026, the Everett homepage published weekly hours—Monday closed; Tuesday–Thursday noon–8:00 PM; Friday noon–10:00 PM; Saturday 10:00 AM–10:00 PM; Sunday 11:00 AM–9:00 PM—and booking actions. The locations directory showed “Buy Tickets” without an opening-soon label, but the contact and experience pages still said “Coming Soon.” The website remains internally inconsistent and does not independently verify working checkout, first revenue, or operating results. |
+| Reported launch milestones | Friends & Family opening occurred Friday, 13 Nov 2026, 5:30–8:00 PM PST. Public operation occurred during 14–15 Nov 2026. The precise first-public-admission date/time within that span and first paid transaction remain unspecified; the earlier planned Saturday 10:00 AM start is not a confirmed actual time. |
 
 For future questions about this venture, treat it as a real operating-business and premises/permit matter rather than a generic career question. The primary Parashara/KP topics are capital and cash flow (`2/8/11/12`), premises and build-out (`4/11/12`), vendors/contracts (`3/7`), permits/compliance and obstacles (`6/9/10/11`), operations (`6/10`), customers/revenue (`7/10/11`), and business success (`2/6/10/11`). Review D2, D4, and D10; the Bhava Chalit shifts; KP cusp significators; the BNN chain; and the event-date MD/AD/PD and transits before drawing any timing conclusion.
 
-Useful missing anchors for later rectification or launch analysis are the franchise-agreement date, lease-signing date, construction start, contractor-delay dates, permit-application and correction dates, final inspection date, confirmed opening date, and actual first-revenue date. Do not invent these dates.
+Useful missing anchors for later rectification or launch analysis are the franchise-agreement date, lease-signing date, construction start, contractor-delay dates, permit-application and correction dates, final inspection date, actual CO issuance date/time, exact first public-admission date/time, and actual first-revenue time. Do not invent these dates.
 
 Official context: [iSMASH Everett](https://ismashusa.com/wa-everett/contact-us/), the [official locations page](https://ismashusa.com/locations/), and [City of Everett construction and inspection guidance](https://www.everettwa.gov/2693/STEP-5-Construction-inspections).
 
@@ -1071,6 +1077,8 @@ The best division of responsibility is for Divya to control customer experience,
 This election is usable **only after written CO/TCO or other explicit City authorization permits public occupancy**, all required life-safety and inspection items have passed, and insurance, staffing, POS and franchisor readiness are complete. Everett states that required administrative items precede permit final and that a required CO follows an approved permit final; the election cannot replace those conditions. If authorization is not safely in hand before 4 December, skip the date rather than rush. **Monday, 14 December 2026 around 10:20 AM PST** is the next calculated operational fallback; if December is missed, the broader KP fallback is **30 January–8 February 2027**, with a fresh exact muhurta to be calculated after the real CO date is known.
 
 This is a traditional symbolic planning judgment, not a guarantee of profitability or timing. The primary references for the local calendar and occupancy gate are the [Seattle panchanga for 4 December 2026](https://panchangtime.com/panchang/seattle?date=2026-12-04) and the [City of Everett construction and inspection guidance](https://www.everettwa.gov/2693/STEP-5-Construction-inspections).
+
+**Superseding note, 11 November 2026:** The CO is now reported obtained and the November launch plan is operationally earlier than this conditional December election. Do not keep the business closed merely to preserve the 4 December muhurta. If guests are genuinely admitted or real sales occur on 13 or 14 November, that is the commencement; 4 December cannot later be relabeled the first opening. The December calculation is retained only as dated decision history.
 
 ## 15I. Sudden-wealth, lottery, and litigation outlook — 25 October 2026
 
@@ -1157,6 +1165,81 @@ Sources used for the practical and transit checks: [Powerball official prize cha
 
 This is a traditional symbolic planning assessment, not a statistical financial forecast, gambling strategy, or legal opinion. Recalculate the annual chart, exact dasha level, ruling planets, and transits if a specific claim, settlement conference, judgment, asset sale, or payment date actually arises.
 
+## 15J. CO milestone and 13–14 November 2026 launch review — 11 November 2026
+
+### Recorded status and bottom line
+
+The City CO is **reported obtained**; its issuance date and certificate details were not supplied. This subsection preserves the pre-opening assessment made on 11 November. The launches subsequently occurred: Friends & Family on **13 November 2026, 5:30–8:00 PM PST**, followed by public operation on **14–15 November**. The exact first paid-transaction and first public-admission times remain unreported, so only the documented 5:30 PM Friends & Family commencement has a defensible exact event chart.
+
+### Completed Friends & Family commencement chart — 13 November 2026, 5:30 PM PST
+
+Using Lahiri sidereal longitudes and the iSMASH Everett coordinates, the documented start gives **Taurus 17°36′ rising in Rohini pada 3**. Sun is Libra 27°27′; Moon Sagittarius 20°05′ in Purva Ashadha pada 3; Mars Leo 0°40′; Mercury newly direct at Libra 10°49′; Jupiter Leo 1°28′; Venus newly direct at Virgo 28°38′; Saturn retrograde at Pisces 14°20′; and Rahu/Ketu at Aquarius/Leo 1°09′. The panchanga is Friday, Shukla Panchami, Bava Karana and Shoola Yoga.
+
+The chart is **commercially viable but operationally high-maintenance**. Taurus rising supports a customer-facing leisure venue; yogakaraka/10th lord Saturn in the 11th and Rahu in the 10th support visibility and eventual gains. The Venus–Mercury dispositor exchange links entertainment, bookings, service and receipts, and both planets turning direct fits forward motion after the build-out delays. The main risk is the close Mars–Jupiter–Ketu grouping in Leo in the 4th/premises field, reinforced by the Moon in the 8th and Shoola Yoga: safety, equipment, fire/egress, insurance, incidents, breakage, waste and volatile cash consumption require unusually strict control. Debilitated Venus entering the working 6th bhava makes service quality, staffing, cleaning, maintenance and complaint recovery the route to better results rather than passive foot traffic.
+
+The public opening on 14–15 November still lacks an exact door-open or first-paid-receipt timestamp. No exact public-opening Lagna, Bhava Chalit or KP sub-lord result should be claimed until that time is supplied.
+
+**Comparative conclusion:** Saturday is stronger than Friday for public commencement. Friday is suitable for a controlled friends/family rehearsal. The cleanest Friday ceremonial or first-paid-transaction pocket is approximately **7:05–7:45 PM PST**. On Saturday, **10:00 AM itself is inside Rahu Kalam**; if the customer promise can honestly be changed, begin public admission after approximately **10:44 AM**, with **11:35–11:50 AM** the strongest compact election inside the supplied hours. These are symbolic comparisons, not success probabilities.
+
+| Milestone | Relative assessment | Best use inside the supplied schedule |
+|---|---|---|
+| Fri 13 Nov, 5:30–8:00 PM friends/family | **6/10, useful rehearsal** | Arrival, waiver/POS testing, staff flow, safety briefing, feedback, and a restrained preview. Approximately **7:05–7:45 PM** combines Venus hora with Gemini rising. |
+| Sat 14 Nov at exactly 10:00 AM | **5.5/10, workable but avoidable weakness** | Late-Scorpio rising has useful 2/10/11 links, but 10:00 is within Rahu Kalam. Do not call a later time the opening if customers were genuinely admitted at 10:00. |
+| Sat 14 Nov, about 10:45 AM–1:03 PM | **7/10, strongest broad public band** | Rahu Kalam has ended; the Moon remains Sagittarius, 11th from Divya's Moon. Avoid initiating a new milestone after Yamaganda begins near 1:03 PM. |
+| Sat 14 Nov, about 11:35–11:50 AM | **7.5/10, preferred compact initiation** | Mercury hora overlaps Abhijit Muhurta with Sagittarius rising. Use for first genuine public admission/paid receipt, ribbon cut, register opening, or booking confirmation only if it is factually the milestone being elected. |
+
+### Panchanga and station check for Everett/Seattle
+
+| Factor | Friday evening, 13 Nov | Saturday late morning, 14 Nov |
+|---|---|---|
+| Tithi | Shukla Panchami | Shukla Shashthi after about 9:54 AM |
+| Nakshatra | Purva Ashadha | Uttara Ashadha after about 6:54 AM |
+| Yoga / karana | Shula / Bava | Shula / Kaulava |
+| Moon | Sagittarius throughout the soft-launch window | Sagittarius until about 1:40 PM, then Capricorn |
+| Avoid intervals material to the plan | No Rahu/Yamaganda overlap with 5:30–8:00 PM; Shula yoga remains | Rahu about **9:34–10:44 AM**; Yamaganda about **1:03–2:13 PM**; Shula yoga to about 4:52 PM |
+| Supportive interval | Venus hora approximately **7:00–8:14 PM** | Venus hora about **10:20–11:07 AM**; Mercury hora about **11:07–11:54 AM**; Abhijit about **11:35 AM–12:12 PM** |
+
+Mercury's commonly tabulated tropical apparent station-direct time is **7:53:53 AM PST on 13 November**. Venus stations direct at about **4:27:28 PM PST**, roughly one hour before the friends/family window. Both are direct by 5:30 PM, but Venus remains nearly stationary; Saturday gives the commerce/relationship planet more separation from the station. A strict Lahiri speed-zero calculation can differ by a minute or two because ayanamsha slowly changes, which does not affect the recommended windows.
+
+From Divya's Purva Bhadrapada natal Moon, Friday's Purva Ashadha is a mixed Pratyak-tara relationship, while Saturday's Uttara Ashadha is Sadhaka-tara and comparatively more supportive. The Moon in Sagittarius is `4/11/2` from Virgo Lagna/Aquarius Moon/Scorpio Arudha—premises, fulfillment, and visible resources. After its move to Capricorn it becomes `5/12/3`; the Moon-frame expense signal increases, reinforcing the preference for late morning.
+
+### Election-chart comparison
+
+The ascendants below are approximate Lahiri calculations for the store coordinates `47.9098, -122.2246`, using the November 2026 Lahiri ayanamsha near 24°13′55″. They are adequate for sign-level comparison, not second-level KP cusp work.
+
+- **Friday around 7:05 PM: Gemini rising.** Moon is in the 7th, Mercury in the 5th, Venus in the 4th, and Saturn in the 10th. This suits invited guests, feedback, premises testing, scripts, waivers, POS and staff learning. Venus is newly direct and in Virgo, so keep the preview controlled rather than treating enthusiasm as proven profitability.
+- **Saturday around 11:40 AM: Sagittarius rising.** Moon is in the 1st; Sun and Mercury are in the 11th; Venus is in the 10th; Mars–Jupiter–Ketu are in the 9th; Saturn is in the 4th; Rahu is in the 3rd. This more directly connects the public event with customers, receipts, profession, premises, publicity, and enterprise. Retrograde Saturn and the Mars/Ketu emphasis retain operating-pressure and safety-discipline warnings.
+
+### Required natal-method reconciliation
+
+- **Parashara and vargas:** D1 2nd/9th lord Venus in the 11th and Jupiter's aspect support customer goodwill and earning capacity; exalted Saturn in the 2nd supports durable accumulation but also rules the 6th, tying gains to labor, overhead, and problem-solving. D10 supports public ownership and customers; D4 supports premises after expenditure and correction; D2 warns that startup and family/business outflow can absorb early receipts.
+- **Bhava Chalit:** Venus `11 → 10` makes gains depend on professional delivery; Jupiter `3 → 2` supports resources through partners/customers; Saturn `2 → 1` makes the responsibility personally heavy; Mercury remains in the 8th, keeping risk, insurance, tax, debt, and shared capital central.
+- **Strict KP:** Opening/operation houses `2/4/6/7/10/11` connect, especially through the 4th cusp Moon and 11th cusp Jupiter. The active Mercury and Saturn principal star/self sets do not carry a clean direct 11th connection, so this is not an effortless-profit period. Venus at the fourth dasha level adds `2/9/10` commerce and reputation, while its Saturn star retains `1/5/6` work and systems. KP supports establishment and customer activity more strongly than immediate retained profit.
+- **BNN:** `Mercury → Mars/Sun → Venus → Moon → Saturn` describes documents and decisions becoming action/authority response, then customer experience and disciplined routines. CO resolves the authority gate; the chain now moves to service quality, repeatability, and resource control.
+- **Vimshottari:** Both launches fall in **Mercury/Saturn/Saturn/Venus**, with the Venus fourth level running approximately 11 November–7 December. This is a useful commercial and customer-facing subperiod inside a slower Saturn establishment phase; dasha boundaries retain about ±1-day uncertainty.
+- **Tithi Pravesha:** Under the profile's saved annual-chart convention, the annual Mars period continues to about 21 November. It supports decisive physical commencement and execution, but can make the first operating days sharp, tiring, or correction-heavy. The annual Mercury period after 21 November is more supportive for documentation, pricing, POS and routines; this does not justify delaying an otherwise ready opening.
+
+### Verified response-date transit frame
+
+Jupiter, Mars, and Ketu are in sidereal Leo (`12/7/10` from Virgo/Moon/Arudha), emphasizing public visibility, customers and startup expenditure. Saturn remains retrograde in Pisces (`7/2/5`), keeping agreements, cash discipline and durable strategy central. Rahu remains in Aquarius (`6/1/4`), increasing workload and emotional intensity while helping obstacle-fighting. Sun and Mercury in Libra activate the 2nd from Virgo, and newly direct Venus in Virgo activates the natal ascendant and the 11th from Arudha. The combined picture supports opening and attention, but **visible traffic can precede retained cash**.
+
+### Honest initiation rule and operating priorities
+
+If friends/family are genuinely admitted at 5:30 PM on Friday, that is the private operational commencement; a 7:05 PM ceremony cannot erase it. If real payments occur Friday, Friday is also the first commercial transaction. Saturday can still be separately recorded as first admission of the general public. Likewise, if advertised customers enter at 10:00 AM Saturday, 10:00 is the public opening; do not relabel 11:40 merely to obtain a better chart.
+
+If the schedule is still flexible, the cleanest truthful plan is:
+
+1. Friday 5:30–7:00 PM: private arrivals, waivers, safety walkthroughs, staff/POS rehearsal and free feedback.
+2. Friday about 7:05 PM: brief inauguration and first genuine soft-launch transaction, if payments are part of the preview.
+3. Saturday: staff preparation before 10:44 AM; public admission from about **10:45 AM** if customers have been clearly told the correct time.
+4. Saturday about **11:40 AM**: featured ribbon cut, first scheduled paid session, or first formal booking only if that description is factually true.
+
+The CO is a major success milestone, not a profitability result. Before opening, confirm insurance, trained staffing, waivers, safety/PPE, room-reset and debris procedures, POS/refunds, emergency process, supplies, booking capacity, payroll/tax handling, and working capital. After launch, record actual first admission and first paid receipt, then track gross sales, contribution margin, labor, refunds, downtime, debt service, operating cash flow and owner distributions separately.
+
+Timing sources: [Astrodienst Mercury phenomena](https://www.astro.com/swisseph/ae/mercury2000.pdf), [Astrodienst Venus phenomena](https://www.astro.com/swisseph/ae/venus2000.pdf), [Astrodienst Lahiri ephemeris for 2026](https://www.astro.com/swisseph/slae/2000/slae_2026.pdf), [Seattle panchanga for 13 November](https://www.mypanchang.com/en/panchang/2026/11/13/loc/5809844), [Seattle panchanga for 14 November](https://www.mypanchang.com/en/panchang/2026/11/14/loc/5809844), [Everett property coordinates](https://properties.zoomprospector.com/cba/property/607-SE-Everett-Mall-Way-Everett-Washington/976B69DB-23A5-4E00-BD0E-35D98A82180D), [iSMASH Everett contact page](https://ismashusa.com/wa-everett/contact-us/), and [iSMASH locations page](https://ismashusa.com/locations/).
+
+This is a traditional symbolic election analysis, not a guarantee of attendance, revenue, safety, profitability, or ease. Real operational readiness and truthful customer communication override the muhurta.
+
 ## Permanent event log
 
 Append new entries chronologically. A status snapshot is not the same as a completed event; update it only when a later outcome is known.
@@ -1187,6 +1270,14 @@ Append new entries chronologically. A status snapshot is not the same as a compl
 | 25 Oct 2026; ownership/investment/execution-role clarification | The iSMASH Everett franchise is reportedly in Divya's name. Bharath supplies investment capital and manages permits and construction. | User-supplied role clarification | Current role statement. The investment amount, legal ownership percentage, financing structure, and exact division of operational responsibilities remain unspecified. This does not establish completed permits, passed inspections, occupancy authorization, or an opening date. |
 | 25 Oct 2026; revision permit and construction-closeout status | The City permit/authorization to proceed with revision work has been obtained. Public opening is currently blocked by remaining landlord work expected to take a couple of days and pending Carney work that Carney claims requires about half a day. After completion, the City must still issue the CO before the doors open. | User-supplied project-status update | Material progress from waiting for revision authorization to physical correction/closeout. The permit identifier, exact scope, committed work dates, actual completion, applicable final-inspection dates/results, permit final, and CO issuance remain unconfirmed. Contractor duration claims are estimates, not completed facts or calendar commitments. |
 | 25 Oct 2026; public-status check | The official iSMASH Everett contact page still said “Coming Soon,” while the locations page listed Everett as “Opening Soon”; hours and a grand-opening date remained unannounced. The public City permit search redirected to login, so no address-specific permit final or CO was independently verified. | [Official iSMASH Everett contact page](https://ismashusa.com/wa-everett/contact-us/), [locations page](https://ismashusa.com/locations/), and [Everett permit portal](https://onlinepermits.everettwa.gov/eTRAKiT/Search/permit.aspx), checked 25 Oct 2026 | Public marketing and search-access status only. It does not prove whether plans were accepted, corrections completed, finals passed, or occupancy authorized; an unavailable public record is not evidence that no permit or CO exists. |
+| Reported 11 Nov 2026; CO issuance date not supplied | The City Certificate of Occupancy for iSMASH Everett is reported obtained. | User-supplied completed approval/status report | CO obtained as reported; the issuance date/time, certificate identifier, conditions, and document have not been independently verified or supplied. This is the Certificate of Occupancy, not contractor Change Orders or the earlier revision-work permit. It supersedes the prior current-status assumption that CO issuance remained pending; it does not establish that opening or first revenue has occurred. |
+| Reported 11 Nov 2026; planned for Friday, 13 Nov 2026, 5:30–8:00 PM PST | A friends-and-family soft launch is planned at iSMASH Everett. | User-supplied planned schedule; PST applied to the Everett local times supplied | Planned, not completed. The interval is the operating window, not an observed first-admission or first-paid-transaction time. Whether payments will occur has not been supplied. Actual attendance, commencement, sales, and outcome remain unconfirmed. |
+| Reported 11 Nov 2026; planned for Saturday, 14 Nov 2026, 10:00 AM–8:00 PM PST | Public opening is planned at iSMASH Everett. | User-supplied planned schedule; PST applied to the Everett local times supplied | Planned, not completed. This replaces earlier candidate opening schedules as the current plan. Actual lawful customer admission, first paid transaction, first-revenue time, and opening outcome must be recorded after confirmation; the planned 10:00 AM start is not an observed event time. |
+| 11 Nov 2026; public-status check | The iSMASH locations page presented a “Buy Tickets” link for Everett, while the linked Everett experience/contact pages still said “Coming Soon” and did not publish operating hours. | [Official iSMASH locations page](https://ismashusa.com/locations/), [Everett experience page](https://ismashusa.com/wa-everett/experiences/), and [Everett contact page](https://ismashusa.com/wa-everett/contact-us/), checked 11 Nov 2026 | Transitional marketing status only. The link led to an experience/pricing page that still directed users to contact the venue rather than independently proving live bookings, opening, sales, or hours. |
+| Reported 16 Nov 2026; hired by 9 Nov 2026 | Employees were hired for iSMASH Everett by 9 November. | User-supplied staffing milestone | Completed hiring milestone as reported. “By 9 November” is not an exact individual hire date; headcount, roles, payroll/onboarding status, and staffing sufficiency were not supplied. |
+| Reported 16 Nov 2026; 11 Nov 2026 | Employee training began at iSMASH Everett. | User-supplied training milestone | Training commencement reported. Curriculum, attendance, completion, certifications, and readiness results were not supplied. |
+| 13 Nov 2026, 5:30–8:00 PM PST; 14–15 Nov 2026 | iSMASH of Everett completed its Friends & Family opening on Friday evening and opened to the public over the following Saturday–Sunday weekend. | User-supplied completed operating milestone | This supersedes the earlier “planned” status and establishes commencement of store operations. The exact first lawful customer-admission time, first paid-transaction time, attendance, sales, refunds, contribution margin, operating cash flow and owner distribution remain unreported and must not be inferred. |
+| 16 Nov 2026; official-site retrieval | The Everett homepage published weekly hours and booking actions, and the locations directory listed “Buy Tickets” without an opening-soon label; the Everett contact and experience pages still retained “Coming Soon” language. | [Official Everett homepage](https://ismashusa.com/wa-everett/), [locations directory](https://ismashusa.com/locations/), [contact page](https://ismashusa.com/wa-everett/contact-us/), and [experience page](https://ismashusa.com/wa-everett/experiences/), retrieved 16 Nov 2026 | Transitional and internally inconsistent public-site representation. The retrieved pages may reflect different publication/crawl times. They do not override the user-supplied opening report or independently verify working checkout, first revenue, attendance, sales, or profitability. |
 
 ## 16. How to use this profile for later questions
 
@@ -1208,4 +1299,4 @@ Interpretations use common Parashari whole-sign, graha-aspect, varga, and Vimsho
 
 ---
 
-Generated on 8 July 2026; last materially updated 25 October 2026. Recalculate if the recorded birth time or birthplace changes.
+Generated on 8 July 2026; last materially updated 16 November 2026. Recalculate if the recorded birth time or birthplace changes.
