@@ -1,0 +1,61 @@
+{
+  "title": "Six-item comparison of owner's November 9 closeout request and Troy's November 16 response",
+  "reviewed_at_utc": "2026-11-18T01:25:37Z",
+  "display_date": "2026-11-17",
+  "display_timezone": "America/Los_Angeles",
+  "request": "Does Troy address all the 6 items called out in the email?",
+  "source_snapshot": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-16_late_refresh.json",
+  "source_record": "E001",
+  "source_snapshot_sha256": "37996b0b54a84bfd4a8a272f796fcc07bbc80143716445a2ba56e8726d161912",
+  "request_date_local": "2026-11-09 12:26 PM PST",
+  "reply_date_local": "2026-11-16 4:46 PM PST",
+  "conclusion": "Not fully. Items 1–5 receive partial responses; item 6 receives no substantive warranty/handover response. Based on the email body and currently verified evidence, none of the six requests is established as fully satisfied.",
+  "rows": [
+    {
+      "item": 1,
+      "title": "Punch-list closeout",
+      "status": "Partial",
+      "troy_response": "Refers to last week's punch list and says remaining items will be scheduled after payment.",
+      "unresolved": "No current item-by-item completed/open status, revised dates, dates for previously undated items, or specific arrangements to minimize disruption after opening."
+    },
+    {
+      "item": 2,
+      "title": "HVAC closeout records",
+      "status": "Partial",
+      "troy_response": "Describes Omni Mechanical's June 8 balance report and says the working HVAC unit was balanced.",
+      "unresolved": "No current room-by-room confirmation addressing November uneven heat, identified diagnostic/service records, clear statement of all remaining HVAC-scope work or completion dates. Historical balancing is not confirmation current complaint is resolved."
+    },
+    {
+      "item": 3,
+      "title": "Final account reconciliation",
+      "status": "Partial; documents unverified",
+      "troy_response": "Describes invoice/AIA G702 and states $521,026.69 total, $468,842.25 previous payment certificates and $52,184.44 balance.",
+      "unresolved": "Arithmetic matches but original sum/change-order breakdown/payment receipts/credits require verification. Latest change-order itemized receipts and supplier/subcontractor invoices are not identified in his reply. Payment certificates alone do not verify funds paid."
+    },
+    {
+      "item": 4,
+      "title": "Lien documentation",
+      "status": "Partial; documents unverified",
+      "troy_response": "Lists Carney conditional final waiver, Onesta unconditional final waiver and 27 subcontractor waivers.",
+      "unresolved": "No complete subcontractor/supplier payment-status list identifying each outstanding balance and arrangements to obtain remaining releases. Actual release types, signatories, scope and amounts not verified."
+    },
+    {
+      "item": 5,
+      "title": "Final-disbursement process",
+      "status": "Partial",
+      "troy_response": "Listed waivers overlap with this request.",
+      "unresolved": "Does not expressly confirm every subcontractor/supplier accounting, applicable conditional final waivers for all remaining payees, unconditional final releases after cleared payment from all relevant parties, or exceptions needed for a lender-controlled payment process."
+    },
+    {
+      "item": 6,
+      "title": "Warranty and handover package",
+      "status": "Not substantively addressed",
+      "troy_response": "No express warranty/handover response; a balance report is mentioned under HVAC.",
+      "unresolved": "No written warranty package, equipment manuals, Substantial Completion certificate, warranty start/end dates, designated Carney warranty contact or local service contractors. Full inspection/testing handover is not established."
+    }
+  ],
+  "attachment_limitation": "Outlook previously returned one attachment, 2A.Unconditional Final Payment Waiver[64].pdf (194598 bytes), although Troy lists multiple document groups. Local download failed due DNS; contents have not been reviewed. The PDF could bundle documents. Absence from Troy's body is not proof no such document exists. Review does not equate claimed attachment delivery with verified contents.",
+  "payment_scheduling_quote": "Please send payment per our contract at CO and we will schedule the final few items.",
+  "scope": "Factual comparison of archived correspondence; no new mailbox refresh, payment-due determination, contract interpretation, draft sending or other external action."
+}
+

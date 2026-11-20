@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-19",
+  "task": "Review CO forms for any express cost nondisclosure or overriding disclosure terms; not main agreement interpretation",
+  "forms_reviewed": [
+    {
+      "file": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/COs_1-4_signed_source.pdf",
+      "pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_pages": [
+        3
+      ]
+    },
+    {
+      "file": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/CO5_structural_steel_signed.pdf",
+      "pages": [
+        1
+      ],
+      "visual_pages": [
+        1
+      ]
+    },
+    {
+      "file": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/CO6_revised_drilling_signed.pdf",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "file": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/COs_7-9_permits_signed.pdf",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "visual_pages": [
+        1
+      ]
+    }
+  ],
+  "finding": "No express cost nondisclosure, audit prohibition, receipt waiver or override of main-agreement itemized/support-documentation language found in reviewed CO1\u20139 forms. Standard forms have a blank Backup Attached? field inside CCS Use Only. This field alone is not an owner audit or full-invoice-access right.",
+  "pricing": "Standard forms show scope description and fixed total, not actual-cost reimbursement mechanism. Flooring CO shows quantity1 and fixed price $16,870 with express written authorization for additional flooring conditions. It does not waive expense-documentation requests or claim confidentiality.",
+  "CO10": {
+    "signed_form_located": false,
+    "scope": "Bounded local search, not proof it does not exist",
+    "source": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/iSMASH_Everett_Closeout_Revised_Final.pdf",
+    "pages": [
+      2,
+      3
+    ],
+    "visual_pages": [
+      2
+    ],
+    "finding": "PDF2 includes CO10 $3,356.40 within total final invoice $52,184.44; PDF3 aggregates $3,356.40 as this-month approved changes. Neither is CO10 executed scope form or supporting receipts."
+  },
+  "troy_nov19": {
+    "source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-19_refresh.json",
+    "receivedDateTime": "2026-11-19T17:50:34Z",
+    "section": "4. Change Order Documentation",
+    "quote": "This project was contracted on a lump sum basis. The approved change orders and contract reconciliation establish the adjustments to the contract price.\n\nCarney is not obligated under the agreement to disclose its internal subcontractor invoices, vendor pricing, or proprietary cost information.\n\nThe request for individual subcontractor quotations, detailed labor and material breakdowns, vendor contacts, and internal invoices is excessive and unnecessary to determine the cost of completing the remaining agreed punch list items.\n\nWe will provide the reasonable completion-cost estimate contemplated by Sections 9.1.7 and 9.1.12, but we will not produce internal subcontractor invoices or require our vendors to prepare additional quotations solely to support withholding payment.",
+    "interpretation": "This is Troy\u2019s position in correspondence; it is not itself a cited nondisclosure clause or executed CO amendment."
+  },
+  "actions": "Read-only sources; temporary report and render files only. No messages sent externally or originals modified."
+}

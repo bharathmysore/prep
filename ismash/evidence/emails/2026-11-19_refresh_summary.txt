@@ -1,0 +1,41 @@
+Email refresh — November 19, 2026, 12:35 PM PST
+
+Reviewed the mailbox from November 17 at 7:00 PM PST through this refresh:333 messages across10 complete pages. Preserved25 relevant messages with complete bodies and metadata. Prior archives remain unchanged.
+
+CARNEY — Troy, November19 9:50AM PST
+- Offers $300 fan-switch credit, taking his requested balance from $52,184.44 to $51,884.44 before any agreed unfinished-work adjustment. Owner acceptance of this proposed resolution is not established.
+- Schedules Smash Room3 door installation and paint-room lever replacement for the week of November30. No exact appointment supplied.
+- Acknowledges the agreement's150% completion-cost mechanism under Sections9.1.7/9.1.12 and promises Carney's estimate. No dollar estimate supplied. Rejects requests for independent vendor quotations and internal vendor/subcontractor invoices.
+- Says working HVAC unit was balanced and balancing of repaired previously nonoperational unit should be done by the repair vendor. This is an unresolved scope position, not resolution of uneven heating.
+- Attached Substantial Completion Certificate11.18.2026.pdf and Warranty Letter11.18.2026.pdf. Email asserts effective Substantial CompletionNovember5 and a one-year warranty letter datedNovember18. PDF contents, signatures and exact coverage periods are not verified.
+- Offers jointcloseout review and says remaining applicable manuals/testing documents will be coordinated; no delivery date.
+- Repeats allsubcontractorspaid assertion. No new independent confirmation of every final release.
+- Latest reply supplies no signedCO ledger or explanation of the $998.64 CO5-9 payment difference.
+Source:https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJIJSAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem
+
+ALEX / NW PRIME — November19 12:00PM PST
+- Denies requested further base-rent relief and further lease-modification negotiations.
+- Says prior6month extension brought total free-rent period to15months.
+- States base rent beginsDecember1,2026.
+- Says if tenant cannot fulfill agreement he will list space forlease and initiate legalprocess. This is a conditional statement, not proof proceedings have commenced or lease terminated.
+- Owner's11:47AM request asked for at least3months throughFebruary28 while requestingApril1 start; those dates leaveMarch unaccountedfor. Request was not edited.
+Source:https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJIJVwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem
+
+QUAINT OAK — November18
+- Rose13:57PST reports inspection received and everythinglooks good.
+- Requests invoice reflecting all outstanding balance/changeorder and finalCarney lienwaiver before directCarney payment.
+- Remainingloan proceeds/workingcapital documentation:BusinessInterruption, BusinessPersonalProperty andWorkersCompensation insurance; allpurchasedequipmentlist withmake/model/serial foritems>=5000; construction/subcontractorliendocuments.
+- EarlierRose reply says bank specifies no minimum insurance amounts and asks for appropriatecoverage.
+- Owner16:38PST explicitly instructed no paymentrelease until ownerconfirmation. No bank acknowledgment ofthat hold or completedCarney disbursement found.
+- Automated$800 scrap-metal ACH alerts do not identify aCarney payment.
+Bank source:https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJII7gAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem
+Owner hold source:https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJMJcgAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem
+
+No new directmessages from OnestaLLC,iSmashcorporate or CityofEverett found in thiswindow.
+
+EVIDENCE
+Email bodies andattachmentmetadata savedin2026-11-19_refresh.json.
+Four relevantPDFattachments were materialized byOutlookconnector; all localdownloads failed withDNS resolutionerror. Remote attachmentIDs/fileIDs preserved; originals remain inOutlook. No claim that PDFpayloads were locallysaved orread.
+Downloadmanifest:attachments/2026-11-19/download_manifest.json
+No email sent,no payment authorized,no proposedcredit accepted,no recordsdeleted.
+

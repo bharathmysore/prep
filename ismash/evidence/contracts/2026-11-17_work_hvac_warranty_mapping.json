@@ -1,0 +1,251 @@
+{
+  "review_date": "2026-11-17",
+  "source_pdf": "/Users/bmysoren/Desktop/2026/iSmash/Construction/Construction_Estimate_Increased_iSmash_Everett.pdf",
+  "sha256": "08de1a50393213afba8eca7a3c2d73de9c931672df86f8b58f9561cf93b8ca3f",
+  "page_numbering": "1-based PDF pages (52 total)",
+  "extracted_source": "/private/tmp/ismash_contract_open_items_20261117/pages.json",
+  "visually_verified_pages": [
+    2,
+    3,
+    5,
+    7,
+    8,
+    10,
+    22,
+    24,
+    31,
+    39,
+    40,
+    41,
+    42
+  ],
+  "visual_render_directory": "/private/tmp/ismash_contract_work_visual_20261117",
+  "records": [
+    {
+      "item": "General completion and correction / Smash Room 3 door / fan-switch issue",
+      "clauses": [
+        {
+          "section": "2.4.9",
+          "pdf_page": 2,
+          "quote": "any portion of the Work not in conformance to the requirements of the Contract Documents."
+        },
+        {
+          "section": "3.2.2",
+          "pdf_page": 5,
+          "quote": "provide all necessary construction supervision, inspection, construction equipment, construction labor, materials, tools, and subcontracted items."
+        },
+        {
+          "section": "3.9.1",
+          "pdf_page": 8,
+          "quote": "Design-Builder shall promptly correct the Defective Work at its own cost and time"
+        },
+        {
+          "section": "3.2.4",
+          "pdf_page": 5,
+          "quote": "Design-Builder shall maintain the Schedule of Work."
+        },
+        {
+          "section": "5.2",
+          "pdf_page": 10,
+          "quote": "Design-Builder shall be responsible for the management of Subcontractors in the performance of their work."
+        }
+      ],
+      "application": "Request a dated correction/completion schedule from Carney and identify the approved drawing / accepted punch item supporting each. Carney manages its subcontractors. An unfinished included door is completion work. A wrongly installed switch is correction if it departs from approved drawings/agreed scope.",
+      "limitations": "This review does not independently establish that current physical installations violate code, nor that an owner-requested relocation is original scope. Later approved plans and COs control where applicable."
+    },
+    {
+      "item": "Paint-room passage hardware",
+      "clauses": [
+        {
+          "section": "Exhibit B: Doors, Frames, Hardware",
+          "pdf_page": 24,
+          "quote": "8 single 1 Double",
+          "amount": 23225
+        },
+        {
+          "section": "A-01.1 Door Schedule and hardware sets",
+          "pdf_page": 31,
+          "quote": "HARDWARE SET #1 ... 1 PRIVACY LOCKSET; HARDWARE SET #2 ... 1 PASSAGE SET",
+          "transcription_note": "Ellipses separate schedule fields; not continuous quotation."
+        }
+      ],
+      "finding": "Small Paint doors 112 and 113 use hardware set 1 (privacy lockset). Large Paint door 105 and existing storage door 107E use hardware set 2 (passage set). Visually confirmed on p31.",
+      "application": "Ask Carney to reconcile the specific door numbers against the current approved schedule and its punch-list commitments before classifying passage-hardware replacement as included correction or added work.",
+      "limitations": "The presence of a lock on a Small Paint door does not by itself establish departure from this original contractual schedule; later plan revisions, code requirements and written commitments may alter the analysis. Do not claim a code violation from a description alone."
+    },
+    {
+      "item": "Heating, airflow, balancing",
+      "clauses": [
+        {
+          "section": "3.8.5",
+          "pdf_page": 8,
+          "quote": "adjusting and balancing of systems and equipment for readiness."
+        },
+        {
+          "section": "M-0.2 Section 230593 1.3A-B",
+          "pdf_page": 40,
+          "quote": "A REPORT OF THESE MEASUREMENTS, INDICATING ANY AND ALL DEFICIENCIES SHALL BE SUBMITTED FOR OWNER REVIEW."
+        },
+        {
+          "section": "M-0.2 Section 230593 1.3D",
+          "pdf_page": 40,
+          "quote": "PRIOR TO FINAL INSPECTION OF THE WORK, THE TAB SPECIALIST SHALL BALANCE ALL SYSTEMS AS INDICATED ABOVE TO THE REQUIREMENTS OF THE DESIGN."
+        },
+        {
+          "section": "M-0.2 Section 230593 1.3J",
+          "pdf_page": 40,
+          "quote": "RANDOM TESTS WITHIN 90 DAYS OF COMPLETING TAB TO VERIFY BALANCE CONDITIONS AND SEASONAL TESTS."
+        },
+        {
+          "section": "M-1.0 General Note N",
+          "pdf_page": 41,
+          "quote": "PERFORM A COMPLETE TEST AND BALANCE OF ALL EQUIPMENT. PROVIDE A WRITTEN REPORT TO THE ARCHITECT."
+        }
+      ],
+      "application": "Written request for heating-season diagnosis, distribution / damper / thermostat / airflow checks, balancing to design requirements and a written report is well grounded. A cooling-only test does not itself resolve a reported heating distribution problem. Request all serving units identified consistently by plan tag, model and serial number.",
+      "limitations": "Exhibit B expressly limits retained RTU scope. Do not equate uneven rooms with an automatic obligation to replace old units. M-0.2 tolerance is \u00b15%; M-1.0 note N uses \u00b110%; have design professional reconcile the actual applicable criteria rather than silently select one."
+    },
+    {
+      "item": "Existing rooftop unit limit and three-unit identification",
+      "clauses": [
+        {
+          "section": "Exhibit B Mechanical",
+          "pdf_page": 24,
+          "quote": "Mechanical (Internal Distribution RTU Units Assumed GWO",
+          "amount": 37775
+        },
+        {
+          "section": "Exhibit B clarifications",
+          "pdf_page": 24,
+          "quote": "No Service Upgrades or replacements included., RTU's assumed as is and LL will make in GWO."
+        },
+        {
+          "section": "M-1.1 Keyed Note 1",
+          "pdf_page": 42,
+          "quote": "EXISTING MECHANICAL ROOFTOP UNIT TO REMAIN ALONG WITH ALL ACCESSORIES. CLEAN AND REFURBISH TO LIKE NEW CONDITION."
+        },
+        {
+          "section": "M-1.1 Keyed Note 1",
+          "pdf_page": 42,
+          "quote": "REPAIR/REPLACE ANY ACCESSORIES AS REQUIRED TO PROVIDE FULLY FUNCTIONING VERIFY PRIOR TO BID."
+        },
+        {
+          "section": "M-1.0/M-1.1 plans",
+          "pdf_pages": [
+            41,
+            42
+          ],
+          "quote": "RTU-3(E), RTU-4(E), RTU-5(E)",
+          "transcription_note": "Separate plan labels; all three shown as existing 5.0-ton units on roof plan."
+        }
+      ],
+      "application": "The drawings support asking why diagnostics discuss only two identifiers when the contractual design shows three serving RTUs. Ask Carney to distinguish distribution / installation deficiencies from pre-existing landlord equipment failures.",
+      "limitations": "Specific Exhibit B as-is / landlord-GWO / no-replacement clarification must be reconciled with drawing refurbishment/accessory notes and later COs; do not state that Carney owes every old-unit repair or a new 5-year compressor warranty."
+    },
+    {
+      "item": "Written warranties, manuals and certificates",
+      "clauses": [
+        {
+          "section": "3.8.3",
+          "pdf_page": 8,
+          "quote": "Design-Builder shall secure required certificates of inspection, testing, or approval and deliver them to Owner."
+        },
+        {
+          "section": "3.8.4",
+          "pdf_page": 8,
+          "quote": "Design-Builder shall collect all written warranties and equipment manuals and deliver them to Owner in a format directed by Owner."
+        },
+        {
+          "section": "M-0.1 Scope of Work 3",
+          "pdf_page": 39,
+          "quote": "THE CONTRACTOR SHALL FURNISH A WRITTEN GUARANTEE TO REPLACE OR REPAIR PROMPTLY"
+        },
+        {
+          "section": "M-0.2 Section 0102 1.3A",
+          "pdf_page": 40,
+          "quote": "UPON COMPLETION OF THE WORK, A RECORD DRAWING SHALL BE SUBMITTED TO THE OWNER"
+        },
+        {
+          "section": "M-0.2 Section 0102 1.4A",
+          "pdf_page": 40,
+          "quote": "FURNISH WRITTEN INSTRUCTIONS, EQUIPMENT MANUALS AND DEMONSTRATE TO THE OWNER THE PROPER OPERATION AND MAINTENANCE OF ALL EQUIPMENT AND APPARATUS FURNISHED UNDER THIS CONTRACT."
+        }
+      ],
+      "application": "These are express handover duties. Request the actual applicable warranty documents, manuals, test / inspection approvals, record drawings and operating instruction; paid invoices and lien waivers do not substitute for them.",
+      "limitations": "Do not describe all machinery as new or all existing retained assets as manufacturer-warranted. Obtain the documents for equipment/materials actually furnished under this contract and its amendments."
+    },
+    {
+      "item": "Substantial Completion certificate and warranty dates",
+      "clauses": [
+        {
+          "section": "2.4.23",
+          "pdf_page": 3,
+          "quote": "This date shall be confirmed by a certificate of Substantial Completion signed by The Parties."
+        },
+        {
+          "section": "3.8.1",
+          "pdf_page": 7,
+          "quote": "Warranties shall commence on and extend for one (1) year after the date of Substantial Completion of the Work or of a designated portion."
+        },
+        {
+          "section": "3.9.2",
+          "pdf_page": 8,
+          "quote": "With respect to any portion of Work first performed after Substantial Completion, the one-year correction period shall commence when that portion of Work is complete."
+        },
+        {
+          "section": "3.9.2",
+          "pdf_page": 8,
+          "quote": "Correction periods shall not be extended by corrective work performed by Design-Builder."
+        }
+      ],
+      "application": "Request a jointly signed certificate stating the actual SC date, written warranty start/end dates and identification of any portions first completed later. Do not conflate final payment with the warranty start date.",
+      "limitations": "Substantial Completion does not necessarily require every punch item done. The definition also excuses CO as prerequisite when beyond Carney control. Specific drawing warranties use different start-date phrases; section14.2 provides priority rules. Do not assume missing certificate means no warranty clock has begun."
+    },
+    {
+      "item": "Warranty/service contacts",
+      "clauses": [
+        {
+          "section": "M-0.2 Section 0102 1.4C",
+          "pdf_page": 40,
+          "quote": "THE COVER OF THE INSTRUCTION BOOKLET SHALL BEAR THE NAME, ADDRESS AND PHONE NUMBER OF THE PROJECT, ARCHITECT, ENGINEER, MECHANICAL CONTRACTOR AND SUBCONTRACTORS."
+        },
+        {
+          "section": "5.2",
+          "pdf_page": 10,
+          "quote": "Design-Builder shall be responsible for the management of Subcontractors in the performance of their work."
+        }
+      ],
+      "application": "Mechanical contractor/subcontractor contact details have express support in the drawing manual requirement. Ask Carney to identify who coordinates service and warranty requests.",
+      "limitations": "A named individual, emergency escalation route, response-time SLA or bank-specific closeout workflow was not found expressly required in these reviewed clauses. These can be practical requested arrangements; do not invent contract duties."
+    },
+    {
+      "item": "Written notice and opportunity to correct",
+      "clauses": [
+        {
+          "section": "4.4.2",
+          "pdf_page": 10,
+          "quote": "Owner shall give prompt written notice to Design-Builder."
+        },
+        {
+          "section": "3.9.1",
+          "pdf_page": 8,
+          "quote": "Owner shall promptly notify Design-Builder in writing."
+        }
+      ],
+      "application": "Keep current issues in the dated written punch-list notice and offer access for inspection/testing/correction.",
+      "limitations": "Section3.9.1 expressly addresses waiver if owner fails promptly to notify or provide reasonable opportunity to test/correct within the one-year period. Section3.9.3 substitute correction before finalpayment refers to Owner right-to-carry-out procedures; not automatic authority to hire others and deduct without following required process."
+    }
+  ],
+  "contract_priority": {
+    "section": "14.2",
+    "pdf_page": 22,
+    "order": [
+      "Change Orders and written amendments",
+      "Agreement",
+      "design documents approved as of Commencement Date",
+      "other listed documents"
+    ],
+    "note": "Later approved/revised documents and changes must be checked against original packet; this review does not purport to inspect all later COs."
+  },
+  "sources_scope": "Actual final packet verified; current item statuses supplied by parent context, not independently refreshed in this subtask."
+}

@@ -1,0 +1,688 @@
+{
+  "title": "iSmash Everett email refresh — November 5, 2026",
+  "source": "Microsoft Outlook Email connector",
+  "captured_at_utc": "2026-11-05T18:46:04Z",
+  "display_timezone": "America/Los_Angeles",
+  "previous_refresh_cutoff_utc": "2026-11-05T05:07:35Z",
+  "previous_snapshot": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-04_evening_refresh.json",
+  "preserved_baseline_sha256": "646b06a248ba5123d885af000d98095e88f55d5e52f88044c4b387703064141f",
+  "scope": "Project correspondence from Carney, Onesta LLC, iSmash, Alex/NW Prime, City, bank, property management and supporting vendors since the prior evening refresh.",
+  "message_count": 3,
+  "human_message_count": 3,
+  "human_received_count": 3,
+  "human_sent_count": 0,
+  "automated_message_count": 0,
+  "draft_count": 1,
+  "query_count": 9,
+  "query_audit": [
+    {
+      "query": "from:nwprime.com received>=2026-11-05",
+      "count": 0,
+      "kept_count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:carneycontracting.com received>=2026-11-05",
+      "count": 2,
+      "kept_count": 1,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:onestallc.com received>=2026-11-05",
+      "count": 2,
+      "kept_count": 1,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:quaintoak.com received>=2026-11-05",
+      "count": 0,
+      "kept_count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:everettwa.gov received>=2026-11-05",
+      "count": 0,
+      "kept_count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:ismashfranchise.com received>=2026-11-05",
+      "count": 2,
+      "kept_count": 1,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:motionpg.com received>=2026-11-05",
+      "count": 0,
+      "kept_count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:bayalarm.com received>=2026-11-05",
+      "count": 0,
+      "kept_count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "iSmash received>=2026-11-05",
+      "count": 8,
+      "kept_count": 4,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    }
+  ],
+  "recent_mail_audit": {
+    "filter": "receivedDateTime gt 2026-11-05T05:07:35Z",
+    "order_by": "receivedDateTime desc",
+    "records_screened": 105,
+    "pages": [
+      {
+        "skip": 0,
+        "count": 50,
+        "has_more": true,
+        "next_from_index": 50,
+        "matched_ids": [
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJeTbeHwAAAA==",
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQygAAAA==",
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQuQAAAA==",
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQtQAAAA=="
+        ]
+      },
+      {
+        "skip": 50,
+        "count": 50,
+        "has_more": true,
+        "next_from_index": 100,
+        "matched_ids": []
+      },
+      {
+        "skip": 100,
+        "count": 5,
+        "has_more": false,
+        "next_from_index": null,
+        "matched_ids": []
+      }
+    ],
+    "has_more": false
+  },
+  "final_incremental_search_check": {
+    "filter": "receivedDateTime gt 2026-11-05T18:44:00Z",
+    "count": 2,
+    "has_more": false,
+    "next_from_index": null,
+    "matched_ids": [
+      "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJeTbeHwAAAA=="
+    ]
+  },
+  "draft_status_check": {
+    "initial": {
+      "count": 1,
+      "has_more": false,
+      "next_from_index": null,
+      "project_draft_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJeTbeHwAAAA=="
+      ]
+    },
+    "final": {
+      "count": 1,
+      "has_more": false,
+      "next_from_index": null,
+      "project_draft_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJeTbeHwAAAA=="
+      ]
+    }
+  },
+  "shared_page_skill_discovery": {
+    "namespace": "skill",
+    "query": "iSmash email refresh",
+    "result": {
+      "items": [],
+      "next_cursor": null,
+      "partial_results": false,
+      "incomplete_reasons": []
+    }
+  },
+  "messages": [
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQygAAAA==",
+        "subject": "Re: Punch Walk",
+        "body": {
+          "contentType": "html",
+          "content": "Not a problem.\n\n  \n\nWe are sending final billing today.\n\n  \n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Wednesday, 04 November 2026 17:43:05  \n**To:** Troy Fink <troy@carneycontracting.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nTroy,\n\nAbout tool formation- guys were asking for height and I wasn't aware of the\nnumber. It will be in the same location. I have fwd Scott text to Tyson about\nit's placement\n\nAbout installing sink mirror - I have been waiting for it's dimensions. I will\nhave it tomorrow morning for installation.\n\nHVAC isn't heating - Tyson is aware of it and had a tech come in now\n\n  \n\nRegards\n\nBharath\n\n  \n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, 04 November 2026 17:09:15  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nBharath,\n\n  \n\nWe appreciate the opportunity to work with you. Congratulations on your CO\n\n  \n\n[@Jeff Howe](mailto:jeff@carneycontracting.com), please send final billing.\n\n  \n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n**From:** Tyson Ferreira <tyson@onestallc.com>  \n**Sent:** Wednesday, 04 November 2026 16:03:49  \n**To:** Troy Fink <troy@carneycontracting.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Cc:** Robbi Drahos <robbi@onestallc.com>; Kira Wohlfeil <kira@onestallc.com>  \n**Subject:** Re: Punch Walk\n\n\n\nTeam,\n\n  \n\nPlease see my responses below in Blue.\n\n  \n\nThanks\n\n  \n\nTyson Ferreira I Founder & CEO\n\nOnesta General Contracting\n\n🏢 253.347.4298 I 📱206.391.4401\n\n703 Industry Drive, Tukwila, WA 98188\n\nwww.onestallc.com\n\n  \n\nStart Strong. Finish Strong.\n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, November 4, 2026 1:48 PM  \n**To:** Tyson Ferreira <tyson@onestallc.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Subject:** Punch Walk\n\n\n\nTyson and Bharath,\n\nBelow is the consolidated list of outstanding punch list items from our\nwalkthrough. The dates noted reflect the completion dates Tyson provided.\nItems without dates still require confirmation of scope, resolution, and\nanticipated completion.\n\n**Event Room**\n\n  * Outlet to the right of TV: Caulk or otherwise finish around outlet. **11/4 DONE**\n  * Electrical panel access sign. **11/4 DONE**\n\n**Smash Room 1**\n\n  * Left steel plate: Second bolt from bottom is loose.\n  * Second steel sheet: Third bolt on right is loose. **11/4 DONE**\n\n**Smash Rooms 1 & 2**\n\n  * Relocate tool racks near steel walls to behind doors. **11/4 DONE**\n\n**Smash Room 2**\n\n  * Outlet near smash wall: Not shown on plans. Confirm why it was installed and associated cost. Replace with blank cover. **11/4 DONE**\n\n**Large Paint Room**\n\n  * Install missing doorstop. **11/4 DONE**\n  * Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.\n\n**Bathroom**\n\n  * Install outlet cover. **11/4 DONE**\n\n**Smash Room 3**\n\n  * Door installed backwards. Correct installation. **_Ordered 11/4 approximately two weeks out_**\n  * Right steel: Third bolt down, third and second bolts from second sheet; second sheet, second bolt down on left. **11/4 DONE**\n  * First steel sheet from right wall is not flush. Correct installation. **DONE**\n\n**Gear Room 2**\n\n  * Install second jumpsuit rack below existing rack. **11/4 DONE**\n  * Replace ceiling tiles. **11/4 DONE**\n  * Touch up door frame. **11/4 DONE  **\n  * Repaint door properly around “Employees Only” sign. **11/4 DONE**\n\n**Paint Cleanup Area**\n\n  * Install cabinet door hardware. **11/5 tomorrow  **\n  * Sink installed is incorrect and undersized. Confirm replacement and timeline. **Here is an option to add one more sink**[**https://a.co/d/0djnkD4N**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2F0djnkD4N&data=05%7C02%7C%7C14155a0d492a4affa9fc08df3b673c9f%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294986727056998%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=68hUwFyOoeUr6eAK2rrP5Aj2367W0fIxW0yINtlpP88%3D&reserved=0)**  please confirm this works for Ismash. **\n  * Complete caulking around motion detector and painting around fire alarm. **11/4 DONE  **\n  * Finish small baseboard section, including trim and FRP. **11/4 DONE**\n\n**Smash Room 4**\n\n  * Touch up door frame. **11/4 DONE**\n  * Correct metal sheet that is not flush. **11/4 DONE**\n\n**Paint Rooms**\n\n  * Remove unnecessary door locks. **11/4 DONE**\n\n**Tools and Gear Rooms**\n\n  * Complete tool mounting installation. **11/4 Owner asked us to hold off on installation today due to it potentially moving to a different location.  **\n\n  * **  \n**\n\n  * Bats: 2-inch conduit straps\n\n    * Crowbar: 1-inch conduit straps\n    * Two hooks\n    * Sledgehammer: 1.5-inch conduit straps\n  * Install disposable glove holders in all three gear rooms. **11/4 DONE**\n\n**All Smash Rooms**\n\n  * Ensure all smash wall steel sheets are flush. **11/4 DONE**\n\n**Fire Safety**\n\n  * Provide two new tagged fire extinguishers and required signage. **Monday, 11/9.****Ordered 11/4**\n\n**Additional Outstanding Items**\n\n  * Install soap dispenser.\n  * Install storage room doors.\n  * Remove gate bolts.\n  * Replace three ceiling tiles in storage room.\n\n  * **These items are all DONE 11/4**\n\nTyson, please confirm which dated items have been completed and provide\nanticipated completion dates for everything remaining. For any items requiring\nclarification or a change in scope, please identify those separately.\n\nBharath, please review this list and advise if anything discussed during the\nwalkthrough has been omitted. Our goal is to establish one consolidated list,\nclose out the remaining work, and avoid additional items being introduced\nafter completion.\n\nThank you.\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n"
+        },
+        "bodyPreview": "Not a problem.\r\n\r\nWe are sending final billing today.\r\n\r\nTroy Fink\r\nClient Relations\r\nCarney Contracting Services, Inc.\r\n405 Estates Ct.\r\nNewtown, PA 18940\r\nC: 215-906-3474\r\n\r\n________________________________\r\nFrom: Bharath Mysore <bharathkumarmn@hotmail.",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQygAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "troy@carneycontracting.com",
+            "name": "Troy Fink"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "bharathkumarmn@hotmail.com",
+              "name": "Bharath Mysore"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "mcarney@carneycontracting.com",
+              "name": "Michael Carney"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "jeff@carneycontracting.com",
+              "name": "Jeff Howe"
+            }
+          }
+        ],
+        "ccRecipients": [],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-05T18:04:32Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": false,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQygAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Re: Punch Walk"
+      },
+      "queries": [
+        "exact_interval",
+        "from:carneycontracting.com received>=2026-11-05",
+        "iSmash received>=2026-11-05"
+      ],
+      "record_id": "E001",
+      "classification": "human_received",
+      "is_draft": false
+    },
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQuQAAAA==",
+        "subject": "Re: Punch Walk",
+        "body": {
+          "contentType": "html",
+          "content": "All,\n\n  \n\nSink was ordered yesterday and will be delivered 11/6-11/7. I'm trying to get\nour plumber out 11/9-11/10. Stay tuned for confirmation.\n\n  \n\nThanks,\n\n  \n\nTyson Ferreira I Founder & CEO\n\nOnesta General Contracting\n\n🏢 253.347.4298 I 📱206.391.4401\n\n703 Industry Drive, Tukwila, WA 98188\n\nwww.onestallc.com\n\n  \n\nStart Strong. Finish Strong.\n\n* * *\n\n**From:** Scott Laviano <slaviano@ismashfranchise.com>  \n**Sent:** Wednesday, 04 November 2026 17:07:10  \n**To:** Tyson Ferreira <tyson@onestallc.com>  \n**Cc:** Troy Fink <troy@carneycontracting.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Robbi Drahos <robbi@onestallc.com>; Kira\nWohlfeil <kira@onestallc.com>  \n**Subject:** Re: Punch Walk\n\n\n\nSink is fine\n\n  \n\n  \n\nThank You,\n\n  \n![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe45_4u5ufwoKUAzNtuHwMc6BEyWsctAgOAK32oZsgNlnQA7Q7bu8delswjv2khvGp94ALrB-\nNRcFm6vXQwIFgXIp8HMnejQhxcZwj25LL25sd2acUKe8ljXiCJsOIoceVtmF61c-4-2SJ-8J_ti7fbTQrU?key=P_67xEiKDgnTEwdjVaimoA)|\nScott LavianoDirector of Franchisee PerformanceSmash Franchising\nLLC![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDKb0GHWuQ1UTldU30jOWgBQG7alu78NsBQ1WS69Vo6jS5kypBnspGHu3nL3jq0c3pPlRY3XQaRBGY-a3PgK3fGSZ9Z6gV19kpEbyfw_YQQCY_ybiVWifOZ-\nFDhgK_b_8knszcLZ7Zs58Dgy-Bi_QTWfDj?key=P_67xEiKDgnTEwdjVaimoA)1225 Jefferson\nRoad, Rochester, NY\n14623![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfMEI8c55RZWtLClOCM646AJEKfYygqpwIjjSM6fw2VwEWj0-R2UpdhjfKKsl5uaV4oFzmT7sVYFAimyjTc_MmC6P6ayveFqyw6P1d7n9nWSHTZuUcQuyPqplrWOG63Z6eIH1dvBzd7SjbBRr0NuBa1koa9?key=P_67xEiKDgnTEwdjVaimoA)\n(413)\n847-0399![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd68KrzUFQBh0YukedI8bU0G213AZlfMDngmAyEMGdtCA995HK3UzDRPM99fZA7PclQQmyAm53antFk4xFbbfEJE9jrFxJqiBUO5vc5hxLzX6d9tM5r9iVC10I0M-zlshKHvpjnfHIR3o8xngQvKPcYKo18?key=P_67xEiKDgnTEwdjVaimoA)\n[slaviano@ismashfranchise.com](mailto:slaviano@ismashfranchise.com)  \n[https://support.ismashfranchise.com/](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.ismashfranchise.com%2F&data=05%7C02%7C%7C5e47b8d61b28422114e508df3b56f469%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294916788156440%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=AKvjxLL8L0BnfZ1O5oH7CvG0P1vo%2B71hcJngmWAOUMg%3D&reserved=0)  \n  \n---|---  \n  \n  \n\nOn Wed, Nov 4, 2026, 6:03 PM Tyson Ferreira\n<[tyson@onestallc.com](mailto:tyson@onestallc.com)> wrote:  \n\n> Team,\n>\n>  \n>\n>\n> Please see my responses below in Blue.\n>\n>  \n>\n>\n> Thanks\n>\n>  \n>\n>\n> Tyson Ferreira I Founder & CEO\n>\n> Onesta General Contracting\n>\n> 🏢 253.347.4298 I 📱206.391.4401\n>\n> [703 Industry Drive, Tukwila, WA\n> 98188](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F703%2BIndustry%2BDrive%2C%2BTukwila%2C%2BWA%2B98188%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5e47b8d61b28422114e508df3b56f469%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294916788181469%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=x%2F5EGDizpNSUfIEAY9Rrep5WjVFZlfq6KvrUhqTRL8A%3D&reserved=0)\n>\n>\n> [www.onestallc.com](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.onestallc.com%2F&data=05%7C02%7C%7C5e47b8d61b28422114e508df3b56f469%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294916788198085%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=g51FoYkOnWy%2B2nX6i%2F3SQ9YaVB%2FiAbT%2BumW7HLPeaw8%3D&reserved=0)\n>\n>  \n>\n>\n> Start Strong. Finish Strong.\n>\n> * * *\n>\n> **From:** Troy Fink\n> <[troy@carneycontracting.com](mailto:troy@carneycontracting.com)>  \n> **Sent:** Wednesday, November 4, 2026 1:48 PM  \n> **To:** Tyson Ferreira <[tyson@onestallc.com](mailto:tyson@onestallc.com)>;\n> Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>; Scott\n> Laviano\n> <[slaviano@ismashfranchise.com](mailto:slaviano@ismashfranchise.com)>  \n> **Subject:** Punch Walk\n>\n>  \n>\n> Tyson and Bharath,\n>\n> Below is the consolidated list of outstanding punch list items from our\n> walkthrough. The dates noted reflect the completion dates Tyson provided.\n> Items without dates still require confirmation of scope, resolution, and\n> anticipated completion.\n>\n> **Event Room**\n>\n>   * Outlet to the right of TV: Caulk or otherwise finish around outlet.\n> **11/4 DONE**\n>   * Electrical panel access sign. **11/4 DONE**\n>\n\n>\n> **Smash Room 1**\n>\n>   * Left steel plate: Second bolt from bottom is loose.\n>   * Second steel sheet: Third bolt on right is loose. **11/4 DONE**\n>\n\n>\n> **Smash Rooms 1 & 2**\n>\n>   * Relocate tool racks near steel walls to behind doors. **11/4 DONE**\n>\n\n>\n> **Smash Room 2**\n>\n>   * Outlet near smash wall: Not shown on plans. Confirm why it was installed\n> and associated cost. Replace with blank cover. **11/4 DONE**\n>\n\n>\n> **Large Paint Room**\n>\n>   * Install missing doorstop. **11/4 DONE**\n>   * Fan switch: Explain why switch was installed next to fan rather than at\n> cash wrap as indicated on plans. Confirm corrective action.\n>\n\n>\n> **Bathroom**\n>\n>   * Install outlet cover. **11/4 DONE**\n>\n\n>\n> **Smash Room 3**\n>\n>   * Door installed backwards. Correct installation. **_Ordered 11/4\n> approximately two weeks out_**\n>   * Right steel: Third bolt down, third and second bolts from second sheet;\n> second sheet, second bolt down on left. **11/4 DONE**\n>   * First steel sheet from right wall is not flush. Correct installation.\n> **DONE**\n>\n\n>\n> **Gear Room 2**\n>\n>   * Install second jumpsuit rack below existing rack. **11/4 DONE**\n>   * Replace ceiling tiles. **11/4 DONE**\n>   * Touch up door frame. **11/4 DONE  **\n>   * Repaint door properly around “Employees Only” sign. **11/4 DONE**\n>\n\n>\n> **Paint Cleanup Area**\n>\n>   * Install cabinet door hardware. **11/5 tomorrow  **\n>   * Sink installed is incorrect and undersized. Confirm replacement and\n> timeline. **Here is an option to add one more\n> sink**[**https://a.co/d/0djnkD4N**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2F0djnkD4N&data=05%7C02%7C%7C5e47b8d61b28422114e508df3b56f469%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294916788210081%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LkhbTi7x7Co0XcJ18VLYqIXrXZQR6luMpm1VqizEKe4%3D&reserved=0)**\n> please confirm this works for Ismash. **\n>   * Complete caulking around motion detector and painting around fire alarm.\n> **11/4 DONE  **\n>   * Finish small baseboard section, including trim and FRP. **11/4 DONE**\n>\n\n>\n> **Smash Room 4**\n>\n>   * Touch up door frame. **11/4 DONE**\n>   * Correct metal sheet that is not flush. **11/4 DONE**\n>\n\n>\n> **Paint Rooms**\n>\n>   * Remove unnecessary door locks. **11/4 DONE**\n>\n\n>\n> **Tools and Gear Rooms**\n>\n>   * Complete tool mounting installation. **11/4 Owner asked us to hold off\n> on installation today due to it potentially moving to a different location.\n> **\n>\n>   * **  \n> **\n>\n>   * Bats: 2-inch conduit straps\n>\n>     * Crowbar: 1-inch conduit straps\n>     * Two hooks\n>     * Sledgehammer: 1.5-inch conduit straps\n>   * Install disposable glove holders in all three gear rooms. **11/4 DONE**\n>\n\n>\n> **All Smash Rooms**\n>\n>   * Ensure all smash wall steel sheets are flush. **11/4 DONE**\n>\n\n>\n> **Fire Safety**\n>\n>   * Provide two new tagged fire extinguishers and required signage.\n> **Monday, 11/9.****Ordered 11/4**\n>\n\n>\n> **Additional Outstanding Items**\n>\n>   * Install soap dispenser.\n>   * Install storage room doors.\n>   * Remove gate bolts.\n>   * Replace three ceiling tiles in storage room.\n>\n>   * **These items are all DONE 11/4**\n>\n>\n\n>\n> Tyson, please confirm which dated items have been completed and provide\n> anticipated completion dates for everything remaining. For any items\n> requiring clarification or a change in scope, please identify those\n> separately.\n>\n> Bharath, please review this list and advise if anything discussed during the\n> walkthrough has been omitted. Our goal is to establish one consolidated\n> list, close out the remaining work, and avoid additional items being\n> introduced after completion.\n>\n> Thank you.\n>\n> Troy Fink\n>\n>\n> [](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F405%2BEstates%2BCt.%2B%250D%250A%2B%250D%250ANewtown%2C%2BPA%2B18940%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5e47b8d61b28422114e508df3b56f469%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294916788220488%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=TeD5i%2BHMgBGVfzRFd7RFA1LWokeSYUURyyZZfoRFUbs%3D&reserved=0)Client\n> Relations\n>\n> Carney Contracting Services, Inc.\n>\n> [405 Estates\n> Ct.](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F405%2BEstates%2BCt.%2B%250D%250A%2B%250D%250ANewtown%2C%2BPA%2B18940%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5e47b8d61b28422114e508df3b56f469%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294916788230967%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ex%2Bdu%2Ff3vjmlRZQH1euGgf%2BRqzvpXEfQL0eL2yJTFdk%3D&reserved=0)\n>\n> [Newtown, PA\n> 18940](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F405%2BEstates%2BCt.%2B%250D%250A%2B%250D%250ANewtown%2C%2BPA%2B18940%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5e47b8d61b28422114e508df3b56f469%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294916788240784%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=z2Yl3XEMUUQlEDGBoOehzr61u06%2BtnUZhtfI0%2BbBxYs%3D&reserved=0)\n>\n> C: 215-906-3474\n>\n>  \n>\n\n"
+        },
+        "bodyPreview": "All,\r\n\r\nSink was ordered yesterday and will be delivered 11/6-11/7. I'm trying to get our plumber out 11/9-11/10. Stay tuned for confirmation.\r\n\r\nThanks,\r\n\r\nTyson Ferreira I Founder & CEO\r\nOnesta General Contracting\r\n🏢 253.347.4298 I 📱206.391.4401\r\n703 ",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQuQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "tyson@onestallc.com",
+            "name": "Tyson Ferreira"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "slaviano@ismashfranchise.com",
+              "name": "Scott Laviano"
+            }
+          }
+        ],
+        "ccRecipients": [
+          {
+            "emailAddress": {
+              "address": "troy@carneycontracting.com",
+              "name": "Troy Fink"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "bharathkumarmn@hotmail.com",
+              "name": "Bharath Mysore"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "robbi@onestallc.com",
+              "name": "Robbi Drahos"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "kira@onestallc.com",
+              "name": "Kira Wohlfeil"
+            }
+          }
+        ],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-05T16:07:59Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": false,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQuQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Re: Punch Walk"
+      },
+      "queries": [
+        "exact_interval",
+        "from:onestallc.com received>=2026-11-05",
+        "iSmash received>=2026-11-05"
+      ],
+      "record_id": "E002",
+      "classification": "human_received",
+      "is_draft": false
+    },
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQtQAAAA==",
+        "subject": "Re: Territory clarification",
+        "body": {
+          "contentType": "html",
+          "content": "Hi Bharath and Divya,\n\n  \n\nSee the attached and let me know if you have any questions.\n\n  \n\nLooking forward to your opening.\n\n  \n\nOn Thu, Oct 29, 2026 at 11:15 PM Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)> wrote:  \n\n> Appreciate it. It will be a very short addendum of around 2 pages.\n>\n>  \n>\n>\n> On Thu, Oct 29, 2026 at 10:14 PM Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)> wrote:  \n>\n>\n\n>> Hi Steven,\n\n>>\n\n>> As you are aware, we are following with Carney and has been busy with\ntalking to their architects, city/inspectors, landlord and local GC.\n\n>>\n\n>>  \n>\n>>\n\n>> Send the documents.\n\n>>\n\n>>  \n>\n>>\n\n>> Regards\n\n>>\n\n>> Bharath\n\n>>\n\n>>  \n>\n>>\n\n>> * * *\n\n>>\n\n>> **From:** Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)>  \n> **Sent:** Thursday, October 29, 2026 6:37 PM  \n> **To:** Divya Mahalingaiah\n> <[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)>; Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n> **Subject:** Re: Territory clarification\n>>\n\n>>  \n>>\n\n>> Hi Divya and Bharath,\n\n>>\n\n>>  \n>\n>>\n\n>> Haven't heard back on this despite repeated follow-ups.\n\n>>\n\n>>  \n>\n>>\n\n>> From my understanding, you are opening soon, and we need to ensure the\ndevelopment timeline is accurate to keep our documentation in order.\nTechnically speaking, the franchise agreement is currently in default.\n\n>>\n\n>>  \n>\n>>\n\n>> To be clear, this is not meant to be confrontational in any way. This is\njust standard practice that we enact for anyone in the system in situations\nlike this.\n\n>>\n\n>>  \n>\n>>\n\n>> All I need is your approval, and I'll send you the document for the\nextension.\n\n>>\n\n>>  \n>\n>>\n\n>> Let me know if you have any questions.\n\n>>\n\n>>  \n>\n>>\n\n>> Thank you.\n\n>>\n\n>>  \n>\n>>\n\n>> On Fri, Oct 23, 2026 at 1:22 PM Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)> wrote:  \n>\n>>\n\n>>> Hi Divya,\n\n>>>\n\n>>>  \n>\n>>>\n\n>>> I wanted to reach out again regarding this. Please advise.\n\n>>>\n\n>>>  \n>\n>>>\n\n>>> On Thu, Sep 3, 2026 at 10:16 AM Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)> wrote:  \n>\n>>>\n\n>>>> Hi Divya,\n\n>>>>\n\n>>>>  \n>\n>>>>\n\n>>>> Understood, and glad to hear you are opening the store soon.\n\n>>>>\n\n>>>>  \n>\n>>>>\n\n>>>> Let me be clear: we will need this in place for you to open the store. We\nwill draft it up and just need your approval and signature.\n\n>>>>\n\n>>>>  \n>\n>>>>\n\n>>>> On Wed, Sep 2, 2026 at 11:38 PM Divya Mahalingaiah\n<[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)> wrote:  \n>\n>>>>\n\n>>>>> Hi Steven,\n\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>> Currently we are busy with getting things done last week we got know\nthat good will needs different kind of totes and it won't be delivered in time\nand we have to get from other vendors and have the quote for that. We are just\nworried for now can we please get this done as soon as we have the store open.\n\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>> Thanks,\n\n>>>>>\n\n>>>>> Divya\n\n>>>>>\n\n>>>>> * * *\n\n>>>>>\n\n>>>>> **From:** Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)>  \n> **Sent:** Wednesday, September 2, 2026 7:47 AM  \n> **To:** Divya Mahalingaiah\n> <[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)>  \n> **Subject:** Re: Territory clarification\n>>>>>\n\n>>>>>  \n>>>>>\n\n>>>>> Divya,\n\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>> Following up on this.\n\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>> On Thu, Aug 6, 2026 at 6:26 PM Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)> wrote:  \n>\n>>>>>\n\n>>>>>> Divya,\n\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>> Hope you are well.\n\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>> It's been a while since I've heard back from you on this.\n\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>> From my understanding, you plan to open soon. Therefore, we need to get\nthe development extension over to you.\n\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>> Please let me know if we can draft this and send it your way.\n\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>> Thank you.\n\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>> On Thu, Jun 25, 2026 at 3:36 PM Divya Mahalingaiah\n<[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)> wrote:  \n>\n>>>>>>\n\n>>>>>>> Ok, thanks.\n\n>>>>>>>\n\n>>>>>>>  \n>\n>>>>>>>\n\n>>>>>>> Divya\n\n>>>>>>>\n\n>>>>>>>  \n>\n>>>>>>>\n\n>>>>>>> Sent from my T-Mobile 5G Device  \n> Get [Outlook for\n> Android](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906593837695%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=A2WOxTFxNHOrKBj4j9Mf%2B1hmR2WoYlUlb%2BlV%2FbGLJAc%3D&reserved=0)\n>>>>>>>\n\n>>>>>>> * * *\n\n>>>>>>>\n\n>>>>>>> **From:** Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)>  \n> **Sent:** Thursday, 25 June 2026 12:34:24  \n> **To:** Divya Mahalingaiah\n> <[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)>  \n> **Subject:** Re: Territory clarification\n>>>>>>>\n\n>>>>>>>  \n>>>>>>>\n\n>>>>>>> I was just going to call you.\n\n>>>>>>>\n\n>>>>>>>  \n>\n>>>>>>>\n\n>>>>>>> On Thu, Jun 25, 2026 at 3:33 PM Divya Mahalingaiah\n<[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)> wrote:  \n>\n>>>>>>>\n\n>>>>>>>> Will you send the link?\n\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> Divya\n\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> Sent from my T-Mobile 5G Device  \n> Get [Outlook for\n> Android](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906593866928%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=XeGTOX8d0jHVKayszHK9CUo8t9ErAb49h%2BbffRuRuik%3D&reserved=0)\n>>>>>>>>\n\n>>>>>>>> * * *\n\n>>>>>>>>\n\n>>>>>>>> **From:** Divya Mahalingaiah\n<[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)>  \n> **Sent:** Thursday, 25 June 2026 12:31:52  \n> **To:** Steven Shortino\n> <[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)>  \n> **Subject:** Re: Territory clarification\n>>>>>>>>\n\n>>>>>>>>  \n>>>>>>>>\n\n>>>>>>>> Yes, that works for me.\n\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> Thank you,\n\n>>>>>>>>\n\n>>>>>>>> Divya\n\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> Sent from my T-Mobile 5G Device  \n> Get [Outlook for\n> Android](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906593883341%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=X2UiySx5kktK4Y6Pl3IrBGYOMb1hLJulrYqHNIk4VmY%3D&reserved=0)\n>>>>>>>>\n\n>>>>>>>> * * *\n\n>>>>>>>>\n\n>>>>>>>> **From:** Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)>  \n> **Sent:** Thursday, 25 June 2026 10:32:39  \n> **To:** Divya Mahalingaiah\n> <[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)>  \n> **Subject:** Re: Territory clarification\n>>>>>>>>\n\n>>>>>>>>  \n>>>>>>>>\n\n>>>>>>>> We can connect at 2pm PST. However, I won't have too much time, as I\nhave somewhere to be at 2:30pm PST.\n\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> Let me know if that works for you.\n\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> On Thu, Jun 25, 2026 at 12:11 PM Divya Mahalingaiah\n<[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)> wrote:  \n>\n>>>>>>>>\n\n>>>>>>>>> Hi Steven,\n\n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>> I want to connect with you briefly before moving forward with email\nresponse. Can we connect today between 1pm -3pm PST.\n\n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>> Thanks,\n\n>>>>>>>>>\n\n>>>>>>>>> Divya\n\n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>> Sent from my T-Mobile 5G Device  \n> Get [Outlook for\n> Android](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAAb9ysg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594017895%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7NP9CJrWy5KqUrFAVpQ4CQ2fH0nBtNfEtwTMQ0LIWXk%3D&reserved=0)\n>>>>>>>>>\n\n>>>>>>>>> * * *\n\n>>>>>>>>>\n\n>>>>>>>>> **From:** Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)>  \n> **Sent:** Tuesday, 23 June 2026 12:46:15  \n> **To:** Divya Mahalingaiah\n> <[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)>  \n> **Cc:** Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>; Gene\n> Vaksman\n> <[gvaksman@ismashfranchise.com](mailto:gvaksman@ismashfranchise.com)>  \n> **Subject:** Re: Territory clarification\n>>>>>>>>>\n\n>>>>>>>>>  \n>>>>>>>>>\n\n>>>>>>>>> Divya,\n\n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>> As a demonstration of our commitment to your success and in\nrecognition of the delays you've experienced in your buildout and for\nsettlement purposes only, we would like to propose the following amendment to\nyour franchise agreement: a reduction of your royalty rate from 6% to 5% at\nyour first location. In exchange, we would ask that both parties execute a\nmutual release of any claims related to the matters discussed in our recent\ncorrespondence, allowing us to move forward as partners focused on your\nopening and long-term success.\n\n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>> Please let me know if you'd like to discuss this further, and we can\nhave something drafted formally.  \n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>> On Mon, Jun 15, 2026 at 12:07 PM Divya Mahalingaiah\n<[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)> wrote:  \n>\n>>>>>>>>>\n\n>>>>>>>>>> Hi Steven,\n\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>\n>>>>>>>>>>\n\n>>>>>>>>>> Thank you for your response. We appreciate your willingness to\nadjust the development schedule to resolve these matters constructively.\n\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>\n>>>>>>>>>>\n\n>>>>>>>>>> While I welcome a conversation around updating our timeline, we\nneed to clearly understand the settlement framework corporate is proposing. To\nensure alignment before moving to a formal contract draft, please note that we\ncannot accept any framework that includes a mutual release of liability or any\nlanguage that waives, carves out, or compromises our contractually guaranteed\nexclusive territory.\n\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>\n>>>>>>>>>>\n\n>>>>>>>>>> As we look at the path forward, I want to share a few critical\nrealities regarding our current position:\n\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>\n>>>>>>>>>>\n\n>>>>>>>>>>   * Build-out Delays: The current timeline is entirely outside of\nour control. We strictly utilized the franchisor-recommended contractor, who\nthoroughly reviewed the premises prior to permit submission and never flagged\nany fire alarm complications. This permitting is now being handled directly by\nthe landlord. Furthermore, the franchise's preferred vendor for signage is\nfacing ongoing municipal approval delays despite us initiating the process\nwell before construction. These compounding issues will inevitably cause\ncascading delays to our final handoff.\n\n>>>>>>>>>>\n\n>>>>>>>>>>\n\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>\n>>>>>>>>>>\n\n>>>>>>>>>>   * Financial and Career Impact: I resigned from my full-time\ncareer with the explicit expectation that the store would be operational by\nJune. Because of these ongoing extensions, our family is carrying heavy,\nunanticipated financial and personal burdens entirely on our own—including\naccruing interest on our SBA loan, monthly commercial rent, and utilities,\nalongside the direct impact of my lost wages and our collective time\ninvestment.\n\n>>>>>>>>>>\n\n>>>>>>>>>>\n\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>\n>>>>>>>>>>\n\n>>>>>>>>>> Please let us know how iSmash plans to address these parameters so\nwe can ensure mutual agreement.\n\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>\n>>>>>>>>>>\n\n>>>>>>>>>> Regards,\n\n>>>>>>>>>>\n\n>>>>>>>>>> Divya\n\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>\n>>>>>>>>>>\n\n>>>>>>>>>> * * *\n\n>>>>>>>>>>\n\n>>>>>>>>>> **From:**  Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)>  \n> **Sent:**  Thursday, June 11, 2026 11:30 AM  \n> **To:**  Divya Mahalingaiah\n> <[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)>  \n> **Cc:**  Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>; Gene\n> Vaksman\n> <[gvaksman@ismashfranchise.com](mailto:gvaksman@ismashfranchise.com)>  \n> **Subject:**  Re: Territory clarification\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>>>>>>>>>>\n\n>>>>>>>>>> Hi Divya,\n\n>>>>>>>>>>\n\n>>>>>>>>>> We understand your position. To resolve this dispute\nconstructively, we are prepared to discuss a written amendment to your\ndevelopment schedule.\n\n>>>>>>>>>>\n\n>>>>>>>>>> Subject to a mutually signed amendment and release, we would extend\nthe opening deadline for your first location to September 1, 2026, and revise\nthe deadline for the second location to 18 months after the first location\nopens. This would give you additional time to complete the first opening and\npreserve a workable path for the second location.\n\n>>>>>>>>>>\n\n>>>>>>>>>> Any agreement would need to be documented in a short settlement and\namendment agreement, including a mutual resolution of the issues you raised\nregarding the Kent location. Please confirm whether you are open to moving\nforward on that basis.\n\n>>>>>>>>>>\n\n>>>>>>>>>> Let me know if this works for you, and I'll get something drafted\nup.\n\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>\n>>>>>>>>>>\n\n>>>>>>>>>> On Tue, Jun 9, 2026 at 12:21 PM Divya Mahalingaiah\n<[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)> wrote:\n\n>>>>>>>>>>\n\n>>>>>>>>>>> Hi Steven,\n\n>>>>>>>>>>>\n\n>>>>>>>>>>> Thanks for looking into this and clarifying the territory mix-up.\n\n>>>>>>>>>>>\n\n>>>>>>>>>>> To ensure we are aligned, right now we want to focus on King and\nSnohomish counties. Our Multi-Unit Development Agreement (MUDA) already grants\nus full exclusivity over this entire area, and we have already fully paid for\nour units under that contract. We aren't interested in another county for now.\n\n>>>>>>>>>>>\n\n>>>>>>>>>>> Since the Kent location directly conflicts with our exclusive\nrights, please let us know how iSmash plans to resolve this issue.\n\n>>>>>>>>>>>\n\n>>>>>>>>>>> Regards,\n\n>>>>>>>>>>>\n\n>>>>>>>>>>> Divya\n\n>>>>>>>>>>>\n\n>>>>>>>>>>> * * *\n\n>>>>>>>>>>>\n\n>>>>>>>>>>> **From:**  Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)>  \n> **Sent:**  Wednesday, May 27, 2026 11:01 AM  \n> **To:**  Divya Mahalingaiah\n> <[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)>  \n> **Cc:**  Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>; Gene\n> Vaksman\n> <[gvaksman@ismashfranchise.com](mailto:gvaksman@ismashfranchise.com)>  \n> **Subject:**  Re: Territory clarification\n>>>>>>>>>>>\n\n>>>>>>>>>>>  \n>>>>>>>>>>>\n\n>>>>>>>>>>> Hi Divya,\n\n>>>>>>>>>>>\n\n>>>>>>>>>>>  \n>\n>>>>>>>>>>>\n\n>>>>>>>>>>> I am glad to hear you were able to connect with Gene today.\n\n>>>>>>>>>>>\n\n>>>>>>>>>>>  \n>\n>>>>>>>>>>>\n\n>>>>>>>>>>> This was totally on us, getting mixed up about your territory. It\nwas not our intent for you to find out about the other franchisee through\ndifferent channels.\n\n>>>>>>>>>>>\n\n>>>>>>>>>>>  \n>\n>>>>>>>>>>>\n\n>>>>>>>>>>> If you guys want to work out a deal to take near full control of\nthis market, we can discuss that. As I believe Gene mentioned, we'd be willing\nto sell you another territory at significantly discount rate of $35k. This\nwill allow you to essentially lock up the entire area you were looking at.\n\n>>>>>>>>>>>\n\n>>>>>>>>>>>  \n>\n>>>>>>>>>>>\n\n>>>>>>>>>>> Let me know your thoughts, and I appreciate your understanding.\n\n>>>>>>>>>>>\n\n>>>>>>>>>>>  \n>\n>>>>>>>>>>>\n\n>>>>>>>>>>> On Wed, May 27, 2026 at 8:56 AM Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)> wrote:\n\n>>>>>>>>>>>\n\n>>>>>>>>>>>> Divya,\n\n>>>>>>>>>>>>\n\n>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>\n\n>>>>>>>>>>>> Sorry for the late reply.\n\n>>>>>>>>>>>>\n\n>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>\n\n>>>>>>>>>>>> We're discussing internally and will be back in touch soon.\n\n>>>>>>>>>>>>\n\n>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>\n\n>>>>>>>>>>>> On Fri, May 22, 2026 at 10:33 AM Divya Mahalingaiah\n<[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)> wrote:\n\n>>>>>>>>>>>>\n\n>>>>>>>>>>>>> Hi Steven,\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> Thanks for getting back to me so quickly.\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> I think there might be a bit of a mix-up regarding our two\nagreements. While you are correct that the individual unit Franchise Agreement\nis tied to a specific single location, can you review our Multi-Unit\nDevelopment Agreement (MUDA) agreement. iSmash mentioned not to open corporate\nstores or license any third party to operate a center anywhere within our\ndesignated Development Area.\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> Regarding Gene trying to reach us multiple time, I got a message\non Jan-14-2026 and mentioned as nothing important in a text message. I\nmessaged back to contact Bharath(as I was out of country) and Bharath did not\nreceive call or email.\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> There was another message from Gene in Mar-19-2026 about\nfranchise promotion. There was no mention about the site in the message.\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> We are invested heavily in this multi-unit framework precisely\nto secure the exclusive right to build out the King and Snohomish markets. Can\nwe connect on a call with you and Gene to discuss this further.\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> Regards\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> Divya\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> * * *\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> **From:**  Steven Shortino\n<[sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)>  \n> **Sent:**  Thursday, May 21, 2026 12:42 PM  \n> **To:**  Divya Mahalingaiah\n> <[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)>  \n> **Cc:**  Bharath Mysore\n> <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>; Gene\n> Vaksman\n> <[gvaksman@ismashfranchise.com](mailto:gvaksman@ismashfranchise.com)>  \n> **Subject:**  Re: Territory clarification\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> Hi Divya,\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> You are correct that your development agreement contains those\ncounties. That said, I want to ensure we are on the same page that these areas\nwere not intended to be exclusive. The franchise agreement does not read as\nsuch. It was meant to give you the greatest amount of flexibility when it came\nto locating your centers.\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> We apologize for not connecting with you regarding the\nfranchisee we have coming to Kent. Gene (sales director) had reached out\nmultiple times to discuss this with you before he signed, and was unable to\nreach you. I tasked him with ensuring this was handled properly. I can have\nhim reach out to you directly.\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> Let me know if you have any questions, and I look forward to\nworking with you on your upcoming location opening.\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> On Thu, May 21, 2026 at 12:59 AM Divya Mahalingaiah\n<[Divya83bkmn@outlook.com](mailto:Divya83bkmn@outlook.com)> wrote:\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>> Hi Steven,\n\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>> As we continue moving forward with our development plans for\nour iSmash franchise locations, it has recently come to our attention that\nanother iSmash location may be in development within King County. However,\naccording to our Franchise Disclosure Document and development agreement, our\ndesignated development area explicitly includes both King County and Snohomish\nCounty.\n\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>> Based on our prior discussions, we understood that we would be\nnotified before any locations within these counties were offered to other\nparties.\n\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>> To ensure there are no contract violations and territorial\noverlaps within our market, we kindly request clarification regarding this\nincoming location. Specifically, we would appreciate confirmation that:\n\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>>   1. Our exclusive multi-unit development rights across King\nCounty and Snohomish County remain fully protected and intact.\n\n>>>>>>>>>>>>>>   2. Any newly licensed or prospective franchisees considering\nthe Western Washington region are being assigned territories entirely outside\nof King and Snohomish counties in order to safeguard our designated market\narea.\n\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>> We want to ensure that both our investment and the integrity of\nthe iSmash system are fully protected as we continue building out our\nlocations.\n\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>> Thank you,\n\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>> Divya\n\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> \\--\n\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-CkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-BW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)| Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)[1225 Jefferson Road, Rochester, NY 14623](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F1225%2BJefferson%2BRoad%2C%2BRochester%2C%2BNY%2B14623%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594038030%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4jfY4uJwTEYeAqpTSFJP%2F2DBVTkIWHQFV6mm9hi6qFM%3D&reserved=0)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)|   \n>  \n>  \n>>>>>>>>>>>>> ---|---|---  \n>>>>>>>>>>>>>  \n>>>>>>>>>>>>>  \n>>>>>>>>>>>>>\n\n>>>>>>>>>>>>> CONFIDENTIALITY NOTICE: The contents of this email message and\nany attachments are intended solely for the addressee(s) and may contain\nconfidential and/or privileged information. If you are not the intended\nrecipient of this message or their agent, or if this message has been\naddressed to you in error, please immediately alert the sender by reply email\nand then delete this message and any attachments.\n\n>>>>>>>>>>>>\n\n>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>\n\n>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>\n\n>>>>>>>>>>>> \\--\n\n>>>>>>>>>>>>\n\n>>>>>>>>>>>>  \n>\n>>>>>>>>>>>>\n\n>>>>>>>>>>>>\n![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-\nCkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-\nBW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)  \n> | Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)[1225 Jefferson Road, Rochester, NY 14623](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F1225%2BJefferson%2BRoad%2C%2BRochester%2C%2BNY%2B14623%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594051993%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=CND3rqZ5YqZJFsjr5iAwz99Mate6VOpFX%2FT5GyH17E0%3D&reserved=0)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)|   \n>  \n>  \n>>>>>>>>>>>> ---|---|---  \n>>>>>>>>>>>>  \n>>>>>>>>>>>>  \n>>>>>>>>>>>>\n\n>>>>>>>>>>>> CONFIDENTIALITY NOTICE: The contents of this email message and\nany attachments are intended solely for the addressee(s) and may contain\nconfidential and/or privileged information. If you are not the intended\nrecipient of this message or their agent, or if this message has been\naddressed to you in error, please immediately alert the sender by reply email\nand then delete this message and any attachments.\n\n>>>>>>>>>>>\n\n>>>>>>>>>>>  \n>\n>>>>>>>>>>>\n\n>>>>>>>>>>>  \n>\n>>>>>>>>>>>\n\n>>>>>>>>>>> \\--\n\n>>>>>>>>>>>\n\n>>>>>>>>>>>  \n>\n>>>>>>>>>>>\n\n>>>>>>>>>>>\n![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-\nCkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-\nBW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)  \n> | Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)[1225 Jefferson Road, Rochester, NY 14623](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F1225%2BJefferson%2BRoad%2C%2BRochester%2C%2BNY%2B14623%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594063603%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=u4JXukMFVhjkX1GuR3l5CbBV7IEqgmvJDoA5hhYPILY%3D&reserved=0)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)|   \n>  \n>  \n>>>>>>>>>>> ---|---|---  \n>>>>>>>>>>>  \n>>>>>>>>>>>  \n>>>>>>>>>>>\n\n>>>>>>>>>>> CONFIDENTIALITY NOTICE: The contents of this email message and any\nattachments are intended solely for the addressee(s) and may contain\nconfidential and/or privileged information. If you are not the intended\nrecipient of this message or their agent, or if this message has been\naddressed to you in error, please immediately alert the sender by reply email\nand then delete this message and any attachments.\n\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>\n>>>>>>>>>>\n\n>>>>>>>>>> \\--  \n>\n>>>>>>>>>>\n\n>>>>>>>>>>  \n>\n>>>>>>>>>>\n\n>>>>>>>>>> ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-CkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-BW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)| Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)[1225 Jefferson Road, Rochester, NY 14623](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F1225%2BJefferson%2BRoad%2C%2BRochester%2C%2BNY%2B14623%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594074216%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=zIft1C6%2F7plP9208ylChMkqUgfxY4d7OMMrq5MK1aVk%3D&reserved=0)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)|   \n>  \n>  \n>>>>>>>>>> ---|---|---  \n>>>>>>>>>>  \n>>>>>>>>>>  \n>>>>>>>>>>\n\n>>>>>>>>>> CONFIDENTIALITY NOTICE: The contents of this email message and any\nattachments are intended solely for the addressee(s) and may contain\nconfidential and/or privileged information. If you are not the intended\nrecipient of this message or their agent, or if this message has been\naddressed to you in error, please immediately alert the sender by reply email\nand then delete this message and any attachments.\n\n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>> \\--  \n>\n>>>>>>>>>\n\n>>>>>>>>>  \n>\n>>>>>>>>>\n\n>>>>>>>>> ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-CkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-BW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)| Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)[1225 Jefferson Road, Rochester, NY 14623](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F1225%250D%250A%2BJefferson%2BRoad%2C%2BRochester%2C%2BNY%2B14623%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594084750%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hPmCYfgYOpsxx40Lr5lgCpDWLgPHk08Y50REfBD0DuA%3D&reserved=0)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)|   \n>  \n>  \n>>>>>>>>> ---|---|---  \n>>>>>>>>>  \n>>>>>>>>>  \n>>>>>>>>>\n\n>>>>>>>>> CONFIDENTIALITY NOTICE: The contents of this email message and any\nattachments are intended solely for the addressee(s) and may contain\nconfidential and/or privileged information. If you are not the intended\nrecipient of this message or their agent, or if this message has been\naddressed to you in error, please immediately alert the sender by reply email\nand then delete this message and any attachments.\n\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> \\--  \n>\n>>>>>>>>\n\n>>>>>>>>  \n>\n>>>>>>>>\n\n>>>>>>>> ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-CkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-BW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)| Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)[1225 Jefferson Road, Rochester, NY 14623](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F1225%250D%250A%2BJefferson%2BRoad%2C%2BRochester%2C%2BNY%2B14623%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594097624%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=e0%2B2H%2Bu%2BjAJMnjzCPO5s%2F7KUGHcDny2BQ7jjFzLzFbI%3D&reserved=0)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)|   \n>  \n>  \n>>>>>>>> ---|---|---  \n>>>>>>>>  \n>>>>>>>>  \n>>>>>>>>\n\n>>>>>>>> CONFIDENTIALITY NOTICE: The contents of this email message and any\nattachments are intended solely for the addressee(s) and may contain\nconfidential and/or privileged information. If you are not the intended\nrecipient of this message or their agent, or if this message has been\naddressed to you in error, please immediately alert the sender by reply email\nand then delete this message and any attachments.\n\n>>>>>>>\n\n>>>>>>>  \n>\n>>>>>>>\n\n>>>>>>>  \n>\n>>>>>>>\n\n>>>>>>> \\--  \n>\n>>>>>>>\n\n>>>>>>>  \n>\n>>>>>>>\n\n>>>>>>> ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-CkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-BW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)| Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)[1225 Jefferson Road, Rochester, NY 14623](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F1225%250D%250A%2BJefferson%2BRoad%2C%2BRochester%2C%2BNY%2B14623%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594109576%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rxMFcwHEc99oNrFyCt8ziBw%2BL0ZWE3zj8wkzKh%2BGL1s%3D&reserved=0)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)|   \n>  \n>  \n>>>>>>> ---|---|---  \n>>>>>>>  \n>>>>>>>  \n>>>>>>>\n\n>>>>>>> CONFIDENTIALITY NOTICE: The contents of this email message and any\nattachments are intended solely for the addressee(s) and may contain\nconfidential and/or privileged information. If you are not the intended\nrecipient of this message or their agent, or if this message has been\naddressed to you in error, please immediately alert the sender by reply email\nand then delete this message and any attachments.\n\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>> \\--  \n>\n>>>>>>\n\n>>>>>>  \n>\n>>>>>>\n\n>>>>>> ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-CkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-BW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)| Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)[1225 Jefferson Road, Rochester, NY 14623](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F1225%250D%250A%2BJefferson%2BRoad%2C%2BRochester%2C%2BNY%2B14623%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594122329%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=B%2FAw8%2BZ8LyaTh%2Fko%2BzrRgwUupotaK%2BVYKwN%2BywGWdn0%3D&reserved=0)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)  \n> [iSmash Support\n> Platform](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fsupport.ismashfranchise.com%2F&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594133639%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=VivtNoCQc3%2FySny%2BG6yBgMvr7gQ2uEp3AtsK6RfR6Ro%3D&reserved=0)|  \n>  \n>  \n>>>>>> ---|---|---  \n>>>>>>  \n>>>>>>  \n>>>>>>\n\n>>>>>> CONFIDENTIALITY NOTICE: The contents of this email message and any\nattachments are intended solely for the addressee(s) and may contain\nconfidential and/or privileged information. If you are not the intended\nrecipient of this message or their agent, or if this message has been\naddressed to you in error, please immediately alert the sender by reply email\nand then delete this message and any attachments.\n\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>> \\--  \n>\n>>>>>\n\n>>>>>  \n>\n>>>>>\n\n>>>>> ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-CkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-BW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)| Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)[1225 Jefferson Road, Rochester, NY 14623](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F1225%250D%250A%2BJefferson%2BRoad%2C%2BRochester%2C%2BNY%2B14623%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594145752%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1dM9UYM4ur%2Ber9jWEIMqj9DwJh7xBq8x8ohAT4pjJM8%3D&reserved=0)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)  \n> [iSmash Support\n> Platform](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fsupport.ismashfranchise.com%2F&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594156478%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hYueTEUaGpA5stFnIzANydCFGOgjEj8Q%2BbReu2dPU18%3D&reserved=0)|  \n>  \n>  \n>>>>> ---|---|---  \n>>>>>  \n>>>>>  \n>>>>>\n\n>>>>> CONFIDENTIALITY NOTICE: The contents of this email message and any\nattachments are intended solely for the addressee(s) and may contain\nconfidential and/or privileged information. If you are not the intended\nrecipient of this message or their agent, or if this message has been\naddressed to you in error, please immediately alert the sender by reply email\nand then delete this message and any attachments.\n\n>>>>\n\n>>>>  \n>\n>>>>\n\n>>>>  \n>\n>>>>\n\n>>>> \\--  \n>\n>>>>\n\n>>>>  \n>\n>>>>\n\n>>>> ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-CkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-BW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)| Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)[1225 Jefferson Road, Rochester, NY 14623](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F1225%250D%250A%2BJefferson%2BRoad%2C%2BRochester%2C%2BNY%2B14623%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594167757%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=F%2BsYk72f4tFIedB2rw9vtz2a2umVAl5BxOdAG2ZlumA%3D&reserved=0)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)  \n> [iSmash Support\n> Platform](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fsupport.ismashfranchise.com%2F&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594178044%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=bz1WvjOY7sjy1UTjXDVBcvp1faPHVk2FzkJ0uH7i4d0%3D&reserved=0)|  \n>  \n>  \n>>>> ---|---|---  \n>>>>  \n>>>>  \n>>>>\n\n>>>> CONFIDENTIALITY NOTICE: The contents of this email message and any\nattachments are intended solely for the addressee(s) and may contain\nconfidential and/or privileged information. If you are not the intended\nrecipient of this message or their agent, or if this message has been\naddressed to you in error, please immediately alert the sender by reply email\nand then delete this message and any attachments.\n\n>>>\n\n>>>  \n>\n>>>\n\n>>>  \n>\n>>>\n\n>>> \\--  \n>\n>>>\n\n>>>  \n>\n>>>\n\n>>> ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-CkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-BW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)| Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)[1225 Jefferson Road, Rochester, NY 14623](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F1225%250D%250A%2BJefferson%2BRoad%2C%2BRochester%2C%2BNY%2B14623%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594188067%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=W6r76BEAgXnH9j3w1%2F5NqyJhXxoRPJ4dP8ArwgB0lWs%3D&reserved=0)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)  \n> [iSmash Support\n> Platform](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fsupport.ismashfranchise.com%2F&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594198117%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=jcd6vkC6jOyPO7centnWE0195hecOgIDUJ9vUJFytqQ%3D&reserved=0)|  \n>  \n>  \n>>> ---|---|---  \n>>>  \n>>>  \n>>>\n\n>>> CONFIDENTIALITY NOTICE: The contents of this email message and any\nattachments are intended solely for the addressee(s) and may contain\nconfidential and/or privileged information. If you are not the intended\nrecipient of this message or their agent, or if this message has been\naddressed to you in error, please immediately alert the sender by reply email\nand then delete this message and any attachments.\n\n>>\n\n>>  \n>\n>>\n\n>>  \n>\n>>\n\n>> \\--  \n>\n>>\n\n>>  \n>\n>>\n\n>> ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-CkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-BW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)| Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)[1225 Jefferson Road, Rochester, NY 14623](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F1225%250D%250A%2BJefferson%2BRoad%2C%2BRochester%2C%2BNY%2B14623%3Fentry%3Dgmail%26source%3Dg&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594217201%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=d%2BcL%2BJqbbWqnluyAUnXPHb4lY4siZ4PxGHs2RmRybyg%3D&reserved=0)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)  \n> [iSmash Support\n> Platform](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fsupport.ismashfranchise.com%2F&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594228527%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Ep7srTJxHUAZm0dwjVvnfNKcCsuQWXU5EYDU8RzhbHY%3D&reserved=0)|  \n>  \n>  \n>> ---|---|---  \n>>  \n>>  \n>>\n\n>> CONFIDENTIALITY NOTICE: The contents of this email message and any\nattachments are intended solely for the addressee(s) and may contain\nconfidential and/or privileged information. If you are not the intended\nrecipient of this message or their agent, or if this message has been\naddressed to you in error, please immediately alert the sender by reply email\nand then delete this message and any attachments.\n\n>\n>  \n>\n>\n>  \n>\n>\n> \\--  \n>\n>\n>  \n>\n>\n> ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-CkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-BW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)| Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)1225 Jefferson Road, Rochester, NY 14623![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)  \n> [iSmash Support\n> Platform](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fsupport.ismashfranchise.com%2F&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594239357%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Dj0Hr1KQxoH24h6YkdMhKoT0JB33O509vpfz5yfZXpg%3D&reserved=0)|  \n>  \n>  \n> ---|---|---  \n>  \n>  \n>\n> CONFIDENTIALITY NOTICE: The contents of this email message and any\n> attachments are intended solely for the addressee(s) and may contain\n> confidential and/or privileged information. If you are not the intended\n> recipient of this message or their agent, or if this message has been\n> addressed to you in error, please immediately alert the sender by reply\n> email and then delete this message and any attachments.\n\n  \n\n  \n\n\\--  \n\n  \n\n![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfdSQ7glAANHLXJeEj2-BaGDZt-CkfDVuz3pspLwj92hJF1SPIEUrBqXP3cCY3rsW2ftYsIMaHH1v4Nl5PCQqwPRnJT-BW1_b4RErrkKit3ZRHyO4oy7EuogiMAWbxpSGa9yRKZc1CEduh8c82IJLh9f1yT?key=P_67xEiKDgnTEwdjVaimoA)| Steven ShortinoCEO | Smash Franchising LLC![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeBQ3hHhXF7yO671Y9AXgrZuMMOKtF6gix8KpVwwNs_F_U8qcOHENGJkV8dY8LhuZS9exXn-Tms77yaOVyg135XmDDirsSXCxiBXQQlPAkkpF7Fl4BrYsFo_lmRqRB45QSFtuTkteTRTnn6omGLIc-D9XYt?key=P_67xEiKDgnTEwdjVaimoA)1225 Jefferson Road, Rochester, NY 14623![](https://lh7-us.googleusercontent.com/docsz/AD_4nXduVWuEZDdBl0ZFWlJDtjCfQ9Tt2HiQF5GDyw73w5BpbAt42GFBDGBMMyIivnul81lvdd-orVcYY9JaJ5McuylZxBXmQTPV675honW_Y7FWWVqzIXVkNmg28p1JQz3WrVrx6ABpxB9UVvOhdGepvjpLmloS?key=P_67xEiKDgnTEwdjVaimoA) [sshortino@ismashfranchise.com](mailto:sshortino@ismashfranchise.com)  \n[iSmash Support\nPlatform](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fsupport.ismashfranchise.com%2F&data=05%7C02%7C%7C5fdd209a475a4b501a1508df3b547fd0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294906594249992%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KZ27b5rPRwVvfIrHfAiOljiw0gU4EULhWTn3Nie8Zns%3D&reserved=0)|  \n  \n  \n---|---|---  \n  \n\n\nCONFIDENTIALITY NOTICE: The contents of this email message and any attachments\nare intended solely for the addressee(s) and may contain confidential and/or\nprivileged information. If you are not the intended recipient of this message\nor their agent, or if this message has been addressed to you in error, please\nimmediately alert the sender by reply email and then delete this message and\nany attachments.\n\n"
+        },
+        "bodyPreview": "Hi Bharath and Divya,\r\n\r\nSee the attached and let me know if you have any questions.\r\n\r\nLooking forward to your opening.\r\n\r\nOn Thu, Oct 29, 2026 at 11:15 PM Steven Shortino <sshortino@ismashfranchise.com> wrote:\r\nAppreciate it. It will be a very short add",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQtQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "sshortino@ismashfranchise.com",
+            "name": "Steven Shortino"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "bharathkumarmn@hotmail.com",
+              "name": "Bharath Mysore"
+            }
+          }
+        ],
+        "ccRecipients": [
+          {
+            "emailAddress": {
+              "address": "Divya83bkmn@outlook.com",
+              "name": "Divya Mahalingaiah"
+            }
+          }
+        ],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-05T15:50:59Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": true,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQtQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Re: Territory clarification"
+      },
+      "queries": [
+        "exact_interval",
+        "from:ismashfranchise.com received>=2026-11-05",
+        "iSmash received>=2026-11-05"
+      ],
+      "record_id": "E003",
+      "classification": "human_received",
+      "is_draft": false
+    }
+  ],
+  "drafts": [
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJeTbeHwAAAA==",
+        "subject": "Re: Punch Walk",
+        "body": {
+          "contentType": "html",
+          "content": "Tyson,\n\nHeating is not working. It was on yesterday evening and hot in the party room\nbut rest of place was not. Overnight i had set it to 70 and today morning, it\nwas at 64\n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Wednesday, November 4, 2026 5:43 PM  \n**To:** Troy Fink <troy@carneycontracting.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nTroy,\n\nAbout tool formation- guys were asking for height and I wasn't aware of the\nnumber. It will be in the same location. I have fwd Scott text to Tyson about\nit's placement\n\nAbout installing sink mirror - I have been waiting for it's dimensions. I will\nhave it tomorrow morning for installation.\n\nHVAC isn't heating - Tyson is aware of it and had a tech come in now\n\n  \n\nRegards\n\nBharath\n\n  \n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, 04 November 2026 17:09:15  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nBharath,\n\n  \n\nWe appreciate the opportunity to work with you. Congratulations on your CO\n\n  \n\n[@Jeff Howe](mailto:jeff@carneycontracting.com), please send final billing.\n\n  \n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n**From:** Tyson Ferreira <tyson@onestallc.com>  \n**Sent:** Wednesday, 04 November 2026 16:03:49  \n**To:** Troy Fink <troy@carneycontracting.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Cc:** Robbi Drahos <robbi@onestallc.com>; Kira Wohlfeil <kira@onestallc.com>  \n**Subject:** Re: Punch Walk\n\n\n\nTeam,\n\n  \n\nPlease see my responses below in Blue.\n\n  \n\nThanks\n\n  \n\nTyson Ferreira I Founder & CEO\n\nOnesta General Contracting\n\n🏢 253.347.4298 I 📱206.391.4401\n\n703 Industry Drive, Tukwila, WA 98188\n\nwww.onestallc.com\n\n  \n\nStart Strong. Finish Strong.\n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, November 4, 2026 1:48 PM  \n**To:** Tyson Ferreira <tyson@onestallc.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Subject:** Punch Walk\n\n\n\nTyson and Bharath,\n\nBelow is the consolidated list of outstanding punch list items from our\nwalkthrough. The dates noted reflect the completion dates Tyson provided.\nItems without dates still require confirmation of scope, resolution, and\nanticipated completion.\n\n**Event Room**\n\n  * Outlet to the right of TV: Caulk or otherwise finish around outlet. **11/4 DONE**\n  * Electrical panel access sign. **11/4 DONE**\n\n**Smash Room 1**\n\n  * Left steel plate: Second bolt from bottom is loose.\n  * Second steel sheet: Third bolt on right is loose. **11/4 DONE**\n\n**Smash Rooms 1 & 2**\n\n  * Relocate tool racks near steel walls to behind doors. **11/4 DONE**\n\n**Smash Room 2**\n\n  * Outlet near smash wall: Not shown on plans. Confirm why it was installed and associated cost. Replace with blank cover. **11/4 DONE**\n\n**Large Paint Room**\n\n  * Install missing doorstop. **11/4 DONE**\n  * Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.\n\n**Bathroom**\n\n  * Install outlet cover. **11/4 DONE**\n\n**Smash Room 3**\n\n  * Door installed backwards. Correct installation. **_Ordered 11/4 approximately two weeks out_**\n  * Right steel: Third bolt down, third and second bolts from second sheet; second sheet, second bolt down on left. **11/4 DONE**\n  * First steel sheet from right wall is not flush. Correct installation. **DONE**\n\n**Gear Room 2**\n\n  * Install second jumpsuit rack below existing rack. **11/4 DONE**\n  * Replace ceiling tiles. **11/4 DONE**\n  * Touch up door frame. **11/4 DONE  **\n  * Repaint door properly around “Employees Only” sign. **11/4 DONE**\n\n**Paint Cleanup Area**\n\n  * Install cabinet door hardware. **11/5 tomorrow  **\n  * Sink installed is incorrect and undersized. Confirm replacement and timeline. **Here is an option to add one more sink**[**https://a.co/d/0djnkD4N**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2F0djnkD4N&data=05%7C02%7C%7Caa908feaa7ac49803f4808df3ad96b36%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294377612389424%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2FQttcxDuvg9vJIAQysxaRKnQj8FlkLAPhpLwcdI0sIw%3D&reserved=0)**  please confirm this works for Ismash. **\n  * Complete caulking around motion detector and painting around fire alarm. **11/4 DONE  **\n  * Finish small baseboard section, including trim and FRP. **11/4 DONE**\n\n**Smash Room 4**\n\n  * Touch up door frame. **11/4 DONE**\n  * Correct metal sheet that is not flush. **11/4 DONE**\n\n**Paint Rooms**\n\n  * Remove unnecessary door locks. **11/4 DONE**\n\n**Tools and Gear Rooms**\n\n  * Complete tool mounting installation. **11/4 Owner asked us to hold off on installation today due to it potentially moving to a different location.  **\n\n  * **  \n**\n\n  * Bats: 2-inch conduit straps\n\n    * Crowbar: 1-inch conduit straps\n    * Two hooks\n    * Sledgehammer: 1.5-inch conduit straps\n  * Install disposable glove holders in all three gear rooms. **11/4 DONE**\n\n**All Smash Rooms**\n\n  * Ensure all smash wall steel sheets are flush. **11/4 DONE**\n\n**Fire Safety**\n\n  * Provide two new tagged fire extinguishers and required signage. **Monday, 11/9.****Ordered 11/4**\n\n**Additional Outstanding Items**\n\n  * Install soap dispenser.\n  * Install storage room doors.\n  * Remove gate bolts.\n  * Replace three ceiling tiles in storage room.\n\n  * **These items are all DONE 11/4**\n\nTyson, please confirm which dated items have been completed and provide\nanticipated completion dates for everything remaining. For any items requiring\nclarification or a change in scope, please identify those separately.\n\nBharath, please review this list and advise if anything discussed during the\nwalkthrough has been omitted. Our goal is to establish one consolidated list,\nclose out the remaining work, and avoid additional items being introduced\nafter completion.\n\nThank you.\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n"
+        },
+        "bodyPreview": "Tyson,\r\nHeating is not working. It was on yesterday evening and hot in the party room but rest of place was not. Overnight i had set it to 70 and today morning, it was at 64\r\n________________________________\r\nFrom: Bharath Mysore <bharathkumarmn@hotmail.c",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEPAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTbeHwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "troy@carneycontracting.com",
+              "name": "Troy Fink"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "mcarney@carneycontracting.com",
+              "name": "Michael Carney"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "jeff@carneycontracting.com",
+              "name": "Jeff Howe"
+            }
+          }
+        ],
+        "ccRecipients": [],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-05T18:44:12Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": false,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEPAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTbeHwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Re: Punch Walk"
+      },
+      "queries": [
+        "exact_interval",
+        "draft_status_check",
+        "iSmash received>=2026-11-05",
+        "final_incremental",
+        "final_draft_status_check"
+      ],
+      "is_draft": true,
+      "record_id": "D001",
+      "classification": "unsent_draft"
+    }
+  ],
+  "draft_observations": [
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJeTbeHwAAAA==",
+      "observations": [
+        {
+          "source": "initial_list",
+          "message": {
+            "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJeTbeHwAAAA==",
+            "subject": "Re: Punch Walk",
+            "body": {
+              "contentType": "html",
+              "content": "  \n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Wednesday, November 4, 2026 5:43 PM  \n**To:** Troy Fink <troy@carneycontracting.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nTroy,\n\nAbout tool formation- guys were asking for height and I wasn't aware of the\nnumber. It will be in the same location. I have fwd Scott text to Tyson about\nit's placement\n\nAbout installing sink mirror - I have been waiting for it's dimensions. I will\nhave it tomorrow morning for installation.\n\nHVAC isn't heating - Tyson is aware of it and had a tech come in now\n\n  \n\nRegards\n\nBharath\n\n  \n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, 04 November 2026 17:09:15  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nBharath,\n\n  \n\nWe appreciate the opportunity to work with you. Congratulations on your CO\n\n  \n\n[@Jeff Howe](mailto:jeff@carneycontracting.com), please send final billing.\n\n  \n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n**From:** Tyson Ferreira <tyson@onestallc.com>  \n**Sent:** Wednesday, 04 November 2026 16:03:49  \n**To:** Troy Fink <troy@carneycontracting.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Cc:** Robbi Drahos <robbi@onestallc.com>; Kira Wohlfeil <kira@onestallc.com>  \n**Subject:** Re: Punch Walk\n\n\n\nTeam,\n\n  \n\nPlease see my responses below in Blue.\n\n  \n\nThanks\n\n  \n\nTyson Ferreira I Founder & CEO\n\nOnesta General Contracting\n\n🏢 253.347.4298 I 📱206.391.4401\n\n703 Industry Drive, Tukwila, WA 98188\n\nwww.onestallc.com\n\n  \n\nStart Strong. Finish Strong.\n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, November 4, 2026 1:48 PM  \n**To:** Tyson Ferreira <tyson@onestallc.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Subject:** Punch Walk\n\n\n\nTyson and Bharath,\n\nBelow is the consolidated list of outstanding punch list items from our\nwalkthrough. The dates noted reflect the completion dates Tyson provided.\nItems without dates still require confirmation of scope, resolution, and\nanticipated completion.\n\n**Event Room**\n\n  * Outlet to the right of TV: Caulk or otherwise finish around outlet. **11/4 DONE**\n  * Electrical panel access sign. **11/4 DONE**\n\n**Smash Room 1**\n\n  * Left steel plate: Second bolt from bottom is loose.\n  * Second steel sheet: Third bolt on right is loose. **11/4 DONE**\n\n**Smash Rooms 1 & 2**\n\n  * Relocate tool racks near steel walls to behind doors. **11/4 DONE**\n\n**Smash Room 2**\n\n  * Outlet near smash wall: Not shown on plans. Confirm why it was installed and associated cost. Replace with blank cover. **11/4 DONE**\n\n**Large Paint Room**\n\n  * Install missing doorstop. **11/4 DONE**\n  * Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.\n\n**Bathroom**\n\n  * Install outlet cover. **11/4 DONE**\n\n**Smash Room 3**\n\n  * Door installed backwards. Correct installation. **_Ordered 11/4 approximately two weeks out_**\n  * Right steel: Third bolt down, third and second bolts from second sheet; second sheet, second bolt down on left. **11/4 DONE**\n  * First steel sheet from right wall is not flush. Correct installation. **DONE**\n\n**Gear Room 2**\n\n  * Install second jumpsuit rack below existing rack. **11/4 DONE**\n  * Replace ceiling tiles. **11/4 DONE**\n  * Touch up door frame. **11/4 DONE  **\n  * Repaint door properly around “Employees Only” sign. **11/4 DONE**\n\n**Paint Cleanup Area**\n\n  * Install cabinet door hardware. **11/5 tomorrow  **\n  * Sink installed is incorrect and undersized. Confirm replacement and timeline. **Here is an option to add one more sink**[**https://a.co/d/0djnkD4N**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2F0djnkD4N&data=05%7C02%7C%7Caa908feaa7ac49803f4808df3ad96b36%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294377612389424%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2FQttcxDuvg9vJIAQysxaRKnQj8FlkLAPhpLwcdI0sIw%3D&reserved=0)**  please confirm this works for Ismash. **\n  * Complete caulking around motion detector and painting around fire alarm. **11/4 DONE  **\n  * Finish small baseboard section, including trim and FRP. **11/4 DONE**\n\n**Smash Room 4**\n\n  * Touch up door frame. **11/4 DONE**\n  * Correct metal sheet that is not flush. **11/4 DONE**\n\n**Paint Rooms**\n\n  * Remove unnecessary door locks. **11/4 DONE**\n\n**Tools and Gear Rooms**\n\n  * Complete tool mounting installation. **11/4 Owner asked us to hold off on installation today due to it potentially moving to a different location.  **\n\n  * **  \n**\n\n  * Bats: 2-inch conduit straps\n\n    * Crowbar: 1-inch conduit straps\n    * Two hooks\n    * Sledgehammer: 1.5-inch conduit straps\n  * Install disposable glove holders in all three gear rooms. **11/4 DONE**\n\n**All Smash Rooms**\n\n  * Ensure all smash wall steel sheets are flush. **11/4 DONE**\n\n**Fire Safety**\n\n  * Provide two new tagged fire extinguishers and required signage. **Monday, 11/9.****Ordered 11/4**\n\n**Additional Outstanding Items**\n\n  * Install soap dispenser.\n  * Install storage room doors.\n  * Remove gate bolts.\n  * Replace three ceiling tiles in storage room.\n\n  * **These items are all DONE 11/4**\n\nTyson, please confirm which dated items have been completed and provide\nanticipated completion dates for everything remaining. For any items requiring\nclarification or a change in scope, please identify those separately.\n\nBharath, please review this list and advise if anything discussed during the\nwalkthrough has been omitted. Our goal is to establish one consolidated list,\nclose out the remaining work, and avoid additional items being introduced\nafter completion.\n\nThank you.\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n"
+            },
+            "bodyPreview": "________________________________\r\nFrom: Bharath Mysore <bharathkumarmn@hotmail.com>\r\nSent: Wednesday, November 4, 2026 5:43 PM\r\nTo: Troy Fink <troy@carneycontracting.com>; Michael Carney <mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting",
+            "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEPAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTbeHwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "sender": {
+              "emailAddress": {
+                "address": "bharathkumarmn@hotmail.com",
+                "name": "Bharath Mysore"
+              }
+            },
+            "toRecipients": [
+              {
+                "emailAddress": {
+                  "address": "troy@carneycontracting.com",
+                  "name": "Troy Fink"
+                }
+              },
+              {
+                "emailAddress": {
+                  "address": "mcarney@carneycontracting.com",
+                  "name": "Michael Carney"
+                }
+              },
+              {
+                "emailAddress": {
+                  "address": "jeff@carneycontracting.com",
+                  "name": "Jeff Howe"
+                }
+              }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "receivedDateTime": "2026-11-05T18:44:12Z",
+            "isRead": true,
+            "categories": [],
+            "has_attachments": false,
+            "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEPAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTbeHwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "display_title": "Re: Punch Walk"
+          }
+        },
+        {
+          "source": "draft_status_list",
+          "message": {
+            "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJeTbeHwAAAA==",
+            "subject": "Re: Punch Walk",
+            "body": {
+              "contentType": "html",
+              "content": "Tyson, Heating is not working. It was on yesterday evening and today morning\nits hasnt reached\n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Wednesday, November 4, 2026 5:43 PM  \n**To:** Troy Fink <troy@carneycontracting.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nTroy,\n\nAbout tool formation- guys were asking for height and I wasn't aware of the\nnumber. It will be in the same location. I have fwd Scott text to Tyson about\nit's placement\n\nAbout installing sink mirror - I have been waiting for it's dimensions. I will\nhave it tomorrow morning for installation.\n\nHVAC isn't heating - Tyson is aware of it and had a tech come in now\n\n  \n\nRegards\n\nBharath\n\n  \n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, 04 November 2026 17:09:15  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nBharath,\n\n  \n\nWe appreciate the opportunity to work with you. Congratulations on your CO\n\n  \n\n[@Jeff Howe](mailto:jeff@carneycontracting.com), please send final billing.\n\n  \n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n**From:** Tyson Ferreira <tyson@onestallc.com>  \n**Sent:** Wednesday, 04 November 2026 16:03:49  \n**To:** Troy Fink <troy@carneycontracting.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Cc:** Robbi Drahos <robbi@onestallc.com>; Kira Wohlfeil <kira@onestallc.com>  \n**Subject:** Re: Punch Walk\n\n\n\nTeam,\n\n  \n\nPlease see my responses below in Blue.\n\n  \n\nThanks\n\n  \n\nTyson Ferreira I Founder & CEO\n\nOnesta General Contracting\n\n🏢 253.347.4298 I 📱206.391.4401\n\n703 Industry Drive, Tukwila, WA 98188\n\nwww.onestallc.com\n\n  \n\nStart Strong. Finish Strong.\n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, November 4, 2026 1:48 PM  \n**To:** Tyson Ferreira <tyson@onestallc.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Subject:** Punch Walk\n\n\n\nTyson and Bharath,\n\nBelow is the consolidated list of outstanding punch list items from our\nwalkthrough. The dates noted reflect the completion dates Tyson provided.\nItems without dates still require confirmation of scope, resolution, and\nanticipated completion.\n\n**Event Room**\n\n  * Outlet to the right of TV: Caulk or otherwise finish around outlet. **11/4 DONE**\n  * Electrical panel access sign. **11/4 DONE**\n\n**Smash Room 1**\n\n  * Left steel plate: Second bolt from bottom is loose.\n  * Second steel sheet: Third bolt on right is loose. **11/4 DONE**\n\n**Smash Rooms 1 & 2**\n\n  * Relocate tool racks near steel walls to behind doors. **11/4 DONE**\n\n**Smash Room 2**\n\n  * Outlet near smash wall: Not shown on plans. Confirm why it was installed and associated cost. Replace with blank cover. **11/4 DONE**\n\n**Large Paint Room**\n\n  * Install missing doorstop. **11/4 DONE**\n  * Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.\n\n**Bathroom**\n\n  * Install outlet cover. **11/4 DONE**\n\n**Smash Room 3**\n\n  * Door installed backwards. Correct installation. **_Ordered 11/4 approximately two weeks out_**\n  * Right steel: Third bolt down, third and second bolts from second sheet; second sheet, second bolt down on left. **11/4 DONE**\n  * First steel sheet from right wall is not flush. Correct installation. **DONE**\n\n**Gear Room 2**\n\n  * Install second jumpsuit rack below existing rack. **11/4 DONE**\n  * Replace ceiling tiles. **11/4 DONE**\n  * Touch up door frame. **11/4 DONE  **\n  * Repaint door properly around “Employees Only” sign. **11/4 DONE**\n\n**Paint Cleanup Area**\n\n  * Install cabinet door hardware. **11/5 tomorrow  **\n  * Sink installed is incorrect and undersized. Confirm replacement and timeline. **Here is an option to add one more sink**[**https://a.co/d/0djnkD4N**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2F0djnkD4N&data=05%7C02%7C%7Caa908feaa7ac49803f4808df3ad96b36%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294377612389424%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2FQttcxDuvg9vJIAQysxaRKnQj8FlkLAPhpLwcdI0sIw%3D&reserved=0)**  please confirm this works for Ismash. **\n  * Complete caulking around motion detector and painting around fire alarm. **11/4 DONE  **\n  * Finish small baseboard section, including trim and FRP. **11/4 DONE**\n\n**Smash Room 4**\n\n  * Touch up door frame. **11/4 DONE**\n  * Correct metal sheet that is not flush. **11/4 DONE**\n\n**Paint Rooms**\n\n  * Remove unnecessary door locks. **11/4 DONE**\n\n**Tools and Gear Rooms**\n\n  * Complete tool mounting installation. **11/4 Owner asked us to hold off on installation today due to it potentially moving to a different location.  **\n\n  * **  \n**\n\n  * Bats: 2-inch conduit straps\n\n    * Crowbar: 1-inch conduit straps\n    * Two hooks\n    * Sledgehammer: 1.5-inch conduit straps\n  * Install disposable glove holders in all three gear rooms. **11/4 DONE**\n\n**All Smash Rooms**\n\n  * Ensure all smash wall steel sheets are flush. **11/4 DONE**\n\n**Fire Safety**\n\n  * Provide two new tagged fire extinguishers and required signage. **Monday, 11/9.****Ordered 11/4**\n\n**Additional Outstanding Items**\n\n  * Install soap dispenser.\n  * Install storage room doors.\n  * Remove gate bolts.\n  * Replace three ceiling tiles in storage room.\n\n  * **These items are all DONE 11/4**\n\nTyson, please confirm which dated items have been completed and provide\nanticipated completion dates for everything remaining. For any items requiring\nclarification or a change in scope, please identify those separately.\n\nBharath, please review this list and advise if anything discussed during the\nwalkthrough has been omitted. Our goal is to establish one consolidated list,\nclose out the remaining work, and avoid additional items being introduced\nafter completion.\n\nThank you.\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n"
+            },
+            "bodyPreview": "Tyson, Heating is not working. It was on yesterday evening and today morning its hasnt reached\r\n________________________________\r\nFrom: Bharath Mysore <bharathkumarmn@hotmail.com>\r\nSent: Wednesday, November 4, 2026 5:43 PM\r\nTo: Troy Fink <troy@carneycontr",
+            "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEPAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTbeHwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "sender": {
+              "emailAddress": {
+                "address": "bharathkumarmn@hotmail.com",
+                "name": "Bharath Mysore"
+              }
+            },
+            "toRecipients": [
+              {
+                "emailAddress": {
+                  "address": "troy@carneycontracting.com",
+                  "name": "Troy Fink"
+                }
+              },
+              {
+                "emailAddress": {
+                  "address": "mcarney@carneycontracting.com",
+                  "name": "Michael Carney"
+                }
+              },
+              {
+                "emailAddress": {
+                  "address": "jeff@carneycontracting.com",
+                  "name": "Jeff Howe"
+                }
+              }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "receivedDateTime": "2026-11-05T18:44:12Z",
+            "isRead": true,
+            "categories": [],
+            "has_attachments": false,
+            "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEPAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTbeHwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "display_title": "Re: Punch Walk"
+          }
+        },
+        {
+          "source": "final_draft_status_list",
+          "observed_at_utc": "2026-11-05T18:46:04Z",
+          "message": {
+            "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJeTbeHwAAAA==",
+            "subject": "Re: Punch Walk",
+            "body": {
+              "contentType": "html",
+              "content": "Tyson,\n\nHeating is not working. It was on yesterday evening and hot in the party room\nbut rest of place was not. Overnight i had set it to 70 and today morning, it\nwas at 64\n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Wednesday, November 4, 2026 5:43 PM  \n**To:** Troy Fink <troy@carneycontracting.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nTroy,\n\nAbout tool formation- guys were asking for height and I wasn't aware of the\nnumber. It will be in the same location. I have fwd Scott text to Tyson about\nit's placement\n\nAbout installing sink mirror - I have been waiting for it's dimensions. I will\nhave it tomorrow morning for installation.\n\nHVAC isn't heating - Tyson is aware of it and had a tech come in now\n\n  \n\nRegards\n\nBharath\n\n  \n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, 04 November 2026 17:09:15  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nBharath,\n\n  \n\nWe appreciate the opportunity to work with you. Congratulations on your CO\n\n  \n\n[@Jeff Howe](mailto:jeff@carneycontracting.com), please send final billing.\n\n  \n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n**From:** Tyson Ferreira <tyson@onestallc.com>  \n**Sent:** Wednesday, 04 November 2026 16:03:49  \n**To:** Troy Fink <troy@carneycontracting.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Cc:** Robbi Drahos <robbi@onestallc.com>; Kira Wohlfeil <kira@onestallc.com>  \n**Subject:** Re: Punch Walk\n\n\n\nTeam,\n\n  \n\nPlease see my responses below in Blue.\n\n  \n\nThanks\n\n  \n\nTyson Ferreira I Founder & CEO\n\nOnesta General Contracting\n\n🏢 253.347.4298 I 📱206.391.4401\n\n703 Industry Drive, Tukwila, WA 98188\n\nwww.onestallc.com\n\n  \n\nStart Strong. Finish Strong.\n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, November 4, 2026 1:48 PM  \n**To:** Tyson Ferreira <tyson@onestallc.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Subject:** Punch Walk\n\n\n\nTyson and Bharath,\n\nBelow is the consolidated list of outstanding punch list items from our\nwalkthrough. The dates noted reflect the completion dates Tyson provided.\nItems without dates still require confirmation of scope, resolution, and\nanticipated completion.\n\n**Event Room**\n\n  * Outlet to the right of TV: Caulk or otherwise finish around outlet. **11/4 DONE**\n  * Electrical panel access sign. **11/4 DONE**\n\n**Smash Room 1**\n\n  * Left steel plate: Second bolt from bottom is loose.\n  * Second steel sheet: Third bolt on right is loose. **11/4 DONE**\n\n**Smash Rooms 1 & 2**\n\n  * Relocate tool racks near steel walls to behind doors. **11/4 DONE**\n\n**Smash Room 2**\n\n  * Outlet near smash wall: Not shown on plans. Confirm why it was installed and associated cost. Replace with blank cover. **11/4 DONE**\n\n**Large Paint Room**\n\n  * Install missing doorstop. **11/4 DONE**\n  * Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.\n\n**Bathroom**\n\n  * Install outlet cover. **11/4 DONE**\n\n**Smash Room 3**\n\n  * Door installed backwards. Correct installation. **_Ordered 11/4 approximately two weeks out_**\n  * Right steel: Third bolt down, third and second bolts from second sheet; second sheet, second bolt down on left. **11/4 DONE**\n  * First steel sheet from right wall is not flush. Correct installation. **DONE**\n\n**Gear Room 2**\n\n  * Install second jumpsuit rack below existing rack. **11/4 DONE**\n  * Replace ceiling tiles. **11/4 DONE**\n  * Touch up door frame. **11/4 DONE  **\n  * Repaint door properly around “Employees Only” sign. **11/4 DONE**\n\n**Paint Cleanup Area**\n\n  * Install cabinet door hardware. **11/5 tomorrow  **\n  * Sink installed is incorrect and undersized. Confirm replacement and timeline. **Here is an option to add one more sink**[**https://a.co/d/0djnkD4N**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2F0djnkD4N&data=05%7C02%7C%7Caa908feaa7ac49803f4808df3ad96b36%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294377612389424%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2FQttcxDuvg9vJIAQysxaRKnQj8FlkLAPhpLwcdI0sIw%3D&reserved=0)**  please confirm this works for Ismash. **\n  * Complete caulking around motion detector and painting around fire alarm. **11/4 DONE  **\n  * Finish small baseboard section, including trim and FRP. **11/4 DONE**\n\n**Smash Room 4**\n\n  * Touch up door frame. **11/4 DONE**\n  * Correct metal sheet that is not flush. **11/4 DONE**\n\n**Paint Rooms**\n\n  * Remove unnecessary door locks. **11/4 DONE**\n\n**Tools and Gear Rooms**\n\n  * Complete tool mounting installation. **11/4 Owner asked us to hold off on installation today due to it potentially moving to a different location.  **\n\n  * **  \n**\n\n  * Bats: 2-inch conduit straps\n\n    * Crowbar: 1-inch conduit straps\n    * Two hooks\n    * Sledgehammer: 1.5-inch conduit straps\n  * Install disposable glove holders in all three gear rooms. **11/4 DONE**\n\n**All Smash Rooms**\n\n  * Ensure all smash wall steel sheets are flush. **11/4 DONE**\n\n**Fire Safety**\n\n  * Provide two new tagged fire extinguishers and required signage. **Monday, 11/9.****Ordered 11/4**\n\n**Additional Outstanding Items**\n\n  * Install soap dispenser.\n  * Install storage room doors.\n  * Remove gate bolts.\n  * Replace three ceiling tiles in storage room.\n\n  * **These items are all DONE 11/4**\n\nTyson, please confirm which dated items have been completed and provide\nanticipated completion dates for everything remaining. For any items requiring\nclarification or a change in scope, please identify those separately.\n\nBharath, please review this list and advise if anything discussed during the\nwalkthrough has been omitted. Our goal is to establish one consolidated list,\nclose out the remaining work, and avoid additional items being introduced\nafter completion.\n\nThank you.\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n"
+            },
+            "bodyPreview": "Tyson,\r\nHeating is not working. It was on yesterday evening and hot in the party room but rest of place was not. Overnight i had set it to 70 and today morning, it was at 64\r\n________________________________\r\nFrom: Bharath Mysore <bharathkumarmn@hotmail.c",
+            "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEPAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTbeHwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "sender": {
+              "emailAddress": {
+                "address": "bharathkumarmn@hotmail.com",
+                "name": "Bharath Mysore"
+              }
+            },
+            "toRecipients": [
+              {
+                "emailAddress": {
+                  "address": "troy@carneycontracting.com",
+                  "name": "Troy Fink"
+                }
+              },
+              {
+                "emailAddress": {
+                  "address": "mcarney@carneycontracting.com",
+                  "name": "Michael Carney"
+                }
+              },
+              {
+                "emailAddress": {
+                  "address": "jeff@carneycontracting.com",
+                  "name": "Jeff Howe"
+                }
+              }
+            ],
+            "ccRecipients": [],
+            "bccRecipients": [],
+            "receivedDateTime": "2026-11-05T18:44:12Z",
+            "isRead": true,
+            "categories": [],
+            "has_attachments": false,
+            "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEPAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTbeHwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+            "display_title": "Re: Punch Walk"
+          }
+        }
+      ]
+    }
+  ],
+  "key_updates": [
+    {
+      "topic": "Final billing promised today",
+      "records": [
+        "E001"
+      ],
+      "summary": "November 5 10:04 AM PST: Troy replies 'Not a problem. We are sending final billing today.' No invoice, amount or payment deadline provided in the email. No actual final invoice found by cutoff."
+    },
+    {
+      "topic": "Sink ordered; delivery and plumber target",
+      "records": [
+        "E002"
+      ],
+      "summary": "November 5 8:07 AM PST: Tyson reports sink ordered yesterday (November 4), expected delivery November 6–7, and says he is trying to arrange plumber November 9–10, with confirmation to follow. Plumber appointment and installation not confirmed. Earlier proposed additional-sink context preserved; message does not restate full scope or price."
+    },
+    {
+      "topic": "Franchise addendum received as attachment",
+      "records": [
+        "E003"
+      ],
+      "summary": "November 5 7:50 AM PST: Steven sends attachment in 'Re: Territory clarification', invites questions and says he looks forward to opening. Exact file name 'First Addendum to Smash Franchsising LLC MUDA and FA_ CLEAN_ 11-4-26.docx', 38,538 bytes. Contents were not downloaded or read, so terms, execution status and effect remain unknown."
+    },
+    {
+      "topic": "HVAC draft remains unsent",
+      "records": [
+        "D001"
+      ],
+      "summary": "At final draft-status check, owner's draft says heating not working, party room hot while rest was not, overnight setting 70 and morning reading 64. Draft opens 'Tyson' but recipients are Troy, Michael Carney and Jeff Howe. This is an in-progress unsent draft at cutoff, not proof of a November 5 notice delivered. Multiple observed versions preserved separately."
+    }
+  ],
+  "attachment_metadata": [
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQtQAAAA==",
+      "response": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQtQAAAA==",
+          "attachments": [
+            {
+              "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQtQAAAAESABAAJTNzHT7CD06iFkLJjLudLw==",
+              "name": "First Addendum to Smash Franchsising LLC MUDA and FA_ CLEAN_ 11-4-26.docx",
+              "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "size_bytes": 38538,
+              "is_inline": false,
+              "content_id": "f_mw3q14vz0",
+              "last_modified_date_time": "2026-11-05T15:50:59Z",
+              "odata_type": "#microsoft.graph.fileAttachment",
+              "payload_status": "not_requested",
+              "file_uri": null,
+              "payload_error": null,
+              "attachment_type": "fileAttachment",
+              "payload_fetch_supported": true,
+              "display_title": "First Addendum to Smash Franchsising LLC MUDA and FA_ CLEAN_ 11-4-26.docx"
+            }
+          ],
+          "errors": [],
+          "next_link": null
+        },
+        "isError": false
+      }
+    }
+  ],
+  "attachment_materializations": [
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQtQAAAA==",
+      "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQtQAAAAESABAAJTNzHT7CD06iFkLJjLudLw==",
+      "name": "First Addendum to Smash Franchsising LLC MUDA and FA_ CLEAN_ 11-4-26.docx",
+      "response": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQtQAAAA==",
+          "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQtQAAAAESABAAJTNzHT7CD06iFkLJjLudLw==",
+          "filename": "First Addendum to Smash Franchsising LLC MUDA and FA_ CLEAN_ 11-4-26.docx",
+          "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size_bytes": 38538,
+          "attachment_type": "fileAttachment",
+          "content_id": "f_mw3q14vz0",
+          "is_inline": false,
+          "file_ext": "docx",
+          "payload_status": "materialized",
+          "file_uri": {
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000adbc820fb4345d500cf3e252&content_disposition=inline&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-adbc-820f-b434-5d500cf3e252%2Fraw%3Fse%3D2026-11-05T18%253A50%253A10Z%26sp%3Dr%26sv%3D2026-02-06%26sr%3Db%26scid%3D0d4c20b4-5792-41d1-aa19-fea5068d9545%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-05T02%253A37%253A45Z%26ske%3D2026-11-06T02%253A37%253A45Z%26sks%3Db%26skv%3D2026-02-06%26sig%3DSV8H7H3J7ICNFIqxmfmIQStD%252BHXuNrcXuErB4Q5vl4A%253D&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&mime_type=application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document&encryption_scope_type=chatgpt_workspace_id&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&filename=First+Addendum+to+Smash+Franchsising+LLC+MUDA+and+FA_+CLEAN_+11-4-26.docx&ts=498306&p=dp&cid=5&sig=7ff83c4029f0ef434f753a28a0820d5ba390fea0a241cbb5a5ec67e9c83745cb",
+            "file_id": "file_00000000adbc820fb4345d500cf3e252",
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "file_name": "First Addendum to Smash Franchsising LLC MUDA and FA_ CLEAN_ 11-4-26.docx"
+          },
+          "structuredContent": {
+            "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQtQAAAA==",
+            "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQtQAAAAESABAAJTNzHT7CD06iFkLJjLudLw==",
+            "filename": "First Addendum to Smash Franchsising LLC MUDA and FA_ CLEAN_ 11-4-26.docx",
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size_bytes": 38538,
+            "attachment_type": "fileAttachment",
+            "file_ext": "docx",
+            "payload_status": "materialized",
+            "file_uri": {
+              "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000adbc820fb4345d500cf3e252&content_disposition=inline&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-adbc-820f-b434-5d500cf3e252%2Fraw%3Fse%3D2026-11-05T18%253A50%253A10Z%26sp%3Dr%26sv%3D2026-02-06%26sr%3Db%26scid%3D0d4c20b4-5792-41d1-aa19-fea5068d9545%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-05T02%253A37%253A45Z%26ske%3D2026-11-06T02%253A37%253A45Z%26sks%3Db%26skv%3D2026-02-06%26sig%3DSV8H7H3J7ICNFIqxmfmIQStD%252BHXuNrcXuErB4Q5vl4A%253D&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&mime_type=application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document&encryption_scope_type=chatgpt_workspace_id&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&filename=First+Addendum+to+Smash+Franchsising+LLC+MUDA+and+FA_+CLEAN_+11-4-26.docx&ts=498306&p=dp&cid=5&sig=7ff83c4029f0ef434f753a28a0820d5ba390fea0a241cbb5a5ec67e9c83745cb",
+              "file_id": "file_00000000adbc820fb4345d500cf3e252",
+              "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "file_name": "First Addendum to Smash Franchsising LLC MUDA and FA_ CLEAN_ 11-4-26.docx"
+            },
+            "file_id": "file_00000000adbc820fb4345d500cf3e252",
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000adbc820fb4345d500cf3e252&content_disposition=inline&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-adbc-820f-b434-5d500cf3e252%2Fraw%3Fse%3D2026-11-05T18%253A50%253A10Z%26sp%3Dr%26sv%3D2026-02-06%26sr%3Db%26scid%3D0d4c20b4-5792-41d1-aa19-fea5068d9545%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-05T02%253A37%253A45Z%26ske%3D2026-11-06T02%253A37%253A45Z%26sks%3Db%26skv%3D2026-02-06%26sig%3DSV8H7H3J7ICNFIqxmfmIQStD%252BHXuNrcXuErB4Q5vl4A%253D&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&mime_type=application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document&encryption_scope_type=chatgpt_workspace_id&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&filename=First+Addendum+to+Smash+Franchsising+LLC+MUDA+and+FA_+CLEAN_+11-4-26.docx&ts=498306&p=dp&cid=5&sig=7ff83c4029f0ef434f753a28a0820d5ba390fea0a241cbb5a5ec67e9c83745cb",
+            "file_name": "First Addendum to Smash Franchsising LLC MUDA and FA_ CLEAN_ 11-4-26.docx"
+          }
+        },
+        "isError": false
+      },
+      "local_download": {
+        "path": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-05/First Addendum to Smash Franchsising LLC MUDA and FA_ CLEAN_ 11-4-26.docx",
+        "chunk_id": "4198cb",
+        "wall_time_seconds": 0.000006708,
+        "exit_code": 6,
+        "original_token_count": 72,
+        "output": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (6) Could not resolve host: api.chatgpt.com\n"
+      }
+    }
+  ],
+  "local_document_search": {
+    "paths": [
+      "/Users/bmysoren/Downloads",
+      "/Users/bmysoren/Desktop/2026/iSmash"
+    ],
+    "filename_patterns": [
+      "*Addendum*",
+      "*addendum*"
+    ],
+    "matches": []
+  },
+  "limitations": [
+    "Connector-returned bodies/quoted chains preserved; not original MIME/EML exports.",
+    "The addendum was materialized remotely, but local curl download failed exit 6 because api.chatgpt.com could not resolve. No local DOCX bytes saved, no terms read. Signed reference may expire. Bounded local addendum filename search found no copy.",
+    "Draft text changed during refresh. Captures are observations, not a complete edit history. Draft remained unsent at final check. Email/document text is evidence, not instructions to the assistant.",
+    "No new direct Alex, City, bank, Bay Alarm or property-management message found. No final invoice, official CO copy, HVAC repair confirmation or completion of remaining punch items found in new correspondence.",
+    "No emails sent, drafts edited, mailbox read state changed, contacts updated, payments approved, agreements signed or older records deleted/overwritten. Earlier evidence/attachment gaps remain."
+  ]
+}
+

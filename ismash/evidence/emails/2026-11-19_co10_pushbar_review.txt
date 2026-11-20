@@ -1,0 +1,21 @@
+CO10 push-bar installation — November 19, 2026
+
+User: "In CO10, there is a item for push bar installation which is not being done ?"
+
+Finding: User identifies possible unperformed push-bar scope. Ron's October14 email independently confirms panic hardware was discussed as additional scope. Exact CO10 push-bar line description, allocated price and physical completion are not independently verified. No located record establishes a credit or agreed deletion.
+
+Confirmed evidence:
+- Ron October14,2026 12:09 PM PDT: "We are working on the additional scope of coving the door, panic hardware and the em lights."
+- Owner October4 questioned building-door panic hardware, quoting City inspection referring to storage room115 and alternative egress.
+- Docusign completed email October19 15:23 PDT attaches Carney_Contracting_CO-iSmash-0017_Corrected.pdf (128208 bytes). Candidate related change order; not yet verified as invoice CO10.
+- Owner October19 and October21 requested original receipts; Jeff October21 referred request to Troy.
+- Final invoice confirms CO10 aggregate $3,356.40, not push-bar-specific allocation.
+- Outlook materialized candidate PDF to file ID file_000000007008820fa17ff9b00d77770c. Web access failed; no local PDF saved or content reviewed. Preserve metadata without treating it as read.
+
+Recommended reconciliation:
+If approved CO10 includes supply/installation and it is unfinished, identify the exact door/location and completion date. If omitted from approved scope or no longer required under approved plans, request an agreed deductive change order/credit and revised invoice. If already performed, ask location/date/evidence. Ask allocation of price to this item and explanation/support for any retained charge. Do not assume entire CO10 is unearned or automatically deduct an unverified amount. Keep egress push-bar separate from SmashRoom3 replacement and paint-room lever work.
+
+Suggested email paragraph (based on user's on-site confirmation):
+"The push-bar installation included in CO #10 has not been completed. Please identify the door/location covered by this item and confirm whether Carney will complete it, with a firm date. If this work has been removed from the approved scope, please provide the corresponding credit and revised invoice. Please also identify the amount allocated to the push-bar work within the $3,356.40 change order, including any associated materials, labor, markup and tax, and explain any portion you believe remains payable."
+
+No message sent, payment or deletion authorized, credit agreed, or prior evidence changed.

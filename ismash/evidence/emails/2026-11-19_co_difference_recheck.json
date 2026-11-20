@@ -1,0 +1,115 @@
+{
+  "as_of": "2026-11-19",
+  "question": "Does evidence support over $1000 already paid in excess of approved changes?",
+  "conclusion": "No. Verified figures show an unreconciled $998.64 difference between the $27,967 receipt acknowledged for COs5\u20139 and the signed forms totaling $26,968.36. Ledger confirmation is needed to identify an unapplied credit; do not assert proven overall overpayment/refund or greater-than-$1000 excess.",
+  "verified_arithmetic": {
+    "received_cash_acknowledged": "27967.00",
+    "signed_co5": "9175.00",
+    "signed_co6_revised_drilling": "8700.00",
+    "signed_co7_hvac": "4428.92",
+    "signed_co8_electrical": "2450.00",
+    "signed_co9_plumbing": "2214.44",
+    "signed_co5_9_total": "26968.36",
+    "difference": "998.64",
+    "old_six_item_sum": "27967.96",
+    "wing_wall_removed": "999.60",
+    "old_sum_minus_wing_wall": "26968.36",
+    "cash_less_old_six_item_sum": "-0.96",
+    "paid_invoice_filename_only": "26967.00",
+    "cash_minus_filename": "1000.00",
+    "signed_total_minus_filename": "1.36"
+  },
+  "verified_sources": [
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-18_co_payment_sources.json",
+      "location": "messages[0].body.content",
+      "fact": "Jeff confirms second$12967 received and total$27967 towardCO5\u20139 in September24 email; independently reviewed archived message body."
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/CO5_structural_steel_signed.pdf",
+      "pages": [
+        1
+      ],
+      "amount": "9175",
+      "sha256": "9e5992e27c36c0417aa7d95a9f712393a9151c6c2235dfd0dde55458cbf893c5",
+      "review": "Full PDF text extracted today; parent visually verified previously."
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/CO6_revised_drilling_signed.pdf",
+      "pages": [
+        1
+      ],
+      "amount": "8700",
+      "sha256": "c22545b2eef629d462d1a6f7d20ed92f695dce70925c35c7ad461c400cdb3ad9",
+      "review": "Full PDF text extracted today; parent visually verified previously."
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/COs_7-9_permits_signed.pdf",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "amount": "9093.36",
+      "sha256": "fcf0aa4901c573a0f941fb36e05a78f9b6a333aada057c0a4f8666ac776b4c0e",
+      "review": "Full PDF text extracted today; parent visually verified previously."
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/July_progress_invoice_73140.39.pdf",
+      "pages": [
+        1,
+        2
+      ],
+      "fact": "Cumulative totalearned $441873.89 after requested$73140.39; remaining$48828.04; invoice alone is not proof funds settled."
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/iSMASH_Everett_Closeout_Revised_Final.pdf",
+      "pages": [
+        1,
+        3,
+        4
+      ],
+      "fact": "Final priorpaymentcertificates$468842.25; currentrequest$52184.44; signedconditionalwaiver recognizesprevious$468842.25."
+    }
+  ],
+  "allocation_test": {
+    "final_previous_certificates": "468842.25",
+    "july_cumulative": "441873.89",
+    "difference": "26968.36",
+    "result": "Final previous-payment figure adds exactly the signed CO5\u20139 values, rather than the cash receipt acknowledgement. If the earlier$441873.89 cumulativepayment is confirmed, the additional$998.64 appears not credited in that final figure.",
+    "hypothetical_total_previous_cash": "469840.89",
+    "hypothetical_corrected_final_balance": "51185.80",
+    "caution": "The hypothetical figures are not final payable amounts. Obtain complete ledger, bank settlement/payment confirmations and allocation/credit evidence. Avoid deducting$998.64 twice if a credit or other application already exists."
+  },
+  "unsupported_or_nonadditive_figures": [
+    "The $27,959.01 number came from user-pasted Gemini context, not a verified original CO. It differs by$8.95 from the six listed items and should not drive the reconciliation.",
+    "The $1000 paid-invoice filename difference and$998.64 signed-form difference describe the same payment batch, not two additive excess payments. Invoice-body amount remains unverified.",
+    "Removed wing-wall$999.60 is already reflected in revisedCOtotal; do not add another wing-wall credit to the$998.64 without ledger evidence.",
+    "The earlier$242.15 percentage mismatch is not a proven additional overpayment and should not be added to$998.64.",
+    "Latest pushbar$450 is within a new final-balance CO not established paid; any credit for unperformed scope is separate from excess cash already paid."
+  ],
+  "latest_co": {
+    "path": "/Users/bmysoren/Desktop/2026/iSmash/Construction/Carney_Contracting_CO-iSmash-0017_Corrected.pdf",
+    "page": 1,
+    "size_bytes": 127768,
+    "sha256": "85a67d2ed5c01056d23f5f5935708351e7b8340521692d73783565fda6b796d4",
+    "internal_number": "CO-iSmash-0017",
+    "date": "2026-10-19",
+    "total": "3356.40",
+    "line_items": {
+      "general_conditions": "780.00",
+      "board_up_rear_door_warehouse": "771.43",
+      "move_exit_sign_to_double_door_leading_into_warehouse": "750.00",
+      "install_push_bar_left_double_door_leading_to_warehouse": "450.00",
+      "overhead_and_fees_label_15pct": "343.93",
+      "sales_tax_label_WSST_9_9pct": "261.04"
+    },
+    "qualification": "Scope required as result of revisions to landlord work.",
+    "signatures_text": "DocuSign envelope06EC5DE0-96CE-8085-835A-548B6D4D4EE1; extracted names Jeffrey Jordan Howe/Carney Contracting Services INC and Bharath Kumarmn, both10/19/2026.",
+    "verification": "Complete one-page text extracted by child; root independently visually verified page1, including apparent Bharath and Jeff signatures dated October19. Root-reported SHA256 matches child.",
+    "payment_status": "Matches$3356.40 latestCO in final invoice; not independently shown paid; customer confirmed this is latestCO.",
+    "percentage_bases": "Line amounts sum correctly to$3356.40. OH&P labeled15% ($343.93) is not15% of the$2751.43 direct-item subtotal ($412.71); tax labeled9.9% ($261.04) also has an unspecified base. Request calculation bases; neither observation proves an overcharge."
+  },
+  "suggested_wording": "Your September24 email confirms receipt of$27,967 toward COs#5\u20139, while the signed forms total$26,968.36. Please show how the$998.64 difference was applied and identify any resulting credit in the final balance.",
+  "no_original_edits": true
+}

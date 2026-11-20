@@ -1,0 +1,149 @@
+{
+  "review_date": "2026-11-19",
+  "scope": "Read-only local transcripts, archived emails and actual balance report. No live mailbox search performed by this subagent.",
+  "search_scope": {
+    "raw_export_txt_files": 60,
+    "transcript_txt_files": 5,
+    "terms": [
+      "HVAC",
+      "RTU",
+      "thermostat",
+      "air conditioning",
+      "air balance",
+      "heating",
+      "furnace",
+      "PCB",
+      "control board",
+      "compressor",
+      "nonoperational",
+      "inoperable"
+    ]
+  },
+  "construction_transcripts": [
+    {
+      "date": "2026-04-02",
+      "speaker": "Ron Tobiasz",
+      "time": "00:25",
+      "quote": "So all HVAC RUF 100% tied up complete.",
+      "source": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-02-everett-weekly-meeting.txt",
+      "line": 23,
+      "interpretation": "Likely transcription of HVAC rough; do not treat as final HVAC/heating performance certification."
+    },
+    {
+      "date": "2026-04-02",
+      "speaker": "Ron Tobiasz",
+      "time": "02:37",
+      "quote": "So the next time the HVAC guys will be back is when we put the ceiling grid in. All they would have to do that point is put the diffusers in",
+      "source": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-04-02-everett-weekly-meeting.txt",
+      "line": 37
+    },
+    {
+      "date": "2026-05-29",
+      "speaker": "Ronald Tobiasz",
+      "quote": "all the HVAC stuff is in the ceiling",
+      "source": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-29-everett-weekly-calls.txt",
+      "line": 105
+    },
+    {
+      "date": "2026-08-28",
+      "speaker": "Ronald Tobiasz",
+      "time": "06:28",
+      "quote": "we are closed out on every single MEP final inspection. So Electric, Plumbing, HVAC, all finaled out.",
+      "source": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-08-28-everett-weekly-calls.txt",
+      "line": 79,
+      "interpretation": "GC report of inspection status, not evidence every unit operated in heating mode."
+    }
+  ],
+  "preconstruction_context": {
+    "date": "2025-06-19",
+    "source": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2025-06-19-smash-district-ismash-lease-review.txt",
+    "events": [
+      {
+        "speaker": "Troy Fink",
+        "time": "17:46",
+        "line": 119,
+        "quote": "Brian, have we got an HVAC report? I understand that this deal is being taken as is. Have we had the opportunity to do some investigation?"
+      },
+      {
+        "speaker": "Carrie Walker",
+        "time": "18:41",
+        "line": 127,
+        "quote": "I'm trying to go back through to see if we received any HVAC reports. I don't believe we have, but we had the age of it."
+      },
+      {
+        "speaker": "Bharath Mysore",
+        "time": "24:16",
+        "line": 169,
+        "quote": "I think we have not gotten any report of HVAC or the plumbing things working and all those stuff."
+      },
+      {
+        "speaker": "Carrie Walker",
+        "time": "25:44",
+        "line": 182,
+        "quote": "landlord will guarantee the HVAC in good working condition and systems throughout the term and options."
+      }
+    ],
+    "limits": "Planning/due-diligence and LOI discussion, not specific failed-unit notice or definitive final lease interpretation. Full lease agent verifies executed lease."
+  },
+  "balance_report": {
+    "source": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/iSMASH_Everett_Closeout_Revised_Final.pdf",
+    "pages": [
+      35,
+      36,
+      37
+    ],
+    "visual_checked": true,
+    "date_printed": "06/08/2026 07:00am",
+    "technician": "Josh Beggs",
+    "company": "Omni Mechanical",
+    "project_number": "26105",
+    "mode_selected": "Cooling",
+    "construction_selected": [
+      "Existing",
+      "Commercial"
+    ],
+    "observations": [
+      "RTU-3, RTU-4 and RTU-5 headings each show design airflow2000; no measured unit-total values in those three heading rows.",
+      "Branch/room rows beneath each unit have Test1/Test2/Final numeric readings.",
+      "No narrative deficiency note, failed PCB notice, excluded unit, incomplete balancing explanation or identification of an inoperable unit appears on these three pages.",
+      "No heating-mode test, current room-temperature survey or repair diagnosis shown."
+    ],
+    "delivery_limit": "Report is visibly present in corrected closeout packet received November17. Earlier email delivery of this report not established by this local review; a June8 date does not prove it was sent June8.",
+    "interpretation_limit": "Do not infer all heating components worked from cooling airflow readings, or call report fraudulent/contradictory. Ask GC to map RTU1/2 to RTU3/4/5 and identify which branches were allegedly unbalanced."
+  },
+  "later_email_evidence": [
+    {
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-09_closeout_reply_draft.json",
+      "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZRSwAAAA==",
+      "subject": "Re: Punch Walk",
+      "date": "2026-11-06T23:55:02Z",
+      "url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZRSwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "top_body": "Bharath,\n\n  \n\nI'm looking into the timelines but your landlord should be delivering to you a\nworking unit.\n\n  \n\nWe can repair the PCB for $3500\n\n  \n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n"
+    },
+    {
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-09_closeout_reply_draft.json",
+      "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZRGgAAAA==",
+      "subject": "Re: Punch Walk",
+      "date": "2026-11-06T15:56:57Z",
+      "url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZRGgAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "top_body": "Bharath,\n\n  \n\nWe investigated the issue below is our finding:\n\n**  \n**\n\n**RTU #1 \u2013 Heating Diagnosis**\n\n  * Checked the thermostats to confirm they were set to heating mode and sending a call for heat. Verified 24V control voltage was present.\n\n  * Accessed the roof and observed RTU #1 running, with the igniter repeatedly clicking for an extended period.\n\n  * Opened the unit's access panel and detected a strong gas odor. Observed a small flame at the far-right burner.\n\n  * While troubleshooting over the phone with Tim, the remaining burners ignited, and the unit began operating normally.\n\n  * Confirmed the flame sensor activated and the unit continued running without further apparent issues.\n\n  * Took temperature readings to verify heating performance. Recorded a return/room temperature of approximately 55\u00b0F and a supply-air temperature of 63\u00b0F, resulting in a temperature differential (Delta T) of approximately 8\u00b0F.\n\n**RTU #2 \u2013 Heating Diagnosis**\n\n  * Contacted Josh, who previously diagnosed RTU #2 and identified a faulty printed circuit board (PCB). The recommended repair had previously been declined.\n\n  * Checked voltage at the control board and confirmed incoming power from the thermostat.\n\n  * Verified that the control board was not sending the required output signal to activate the rooftop unit.\n\n**Summary of Findings**\n\nRTU #1 was operational at the conclusion of the service visit; however,\ndelayed burner ignition, the presence of a strong gas odor, and the low\ntemperature differential indicate that further evaluation is necessary.\n\nRTU #2 remains inoperable due to the previously identified control board\nissue. Replacement of the faulty PCB is recommended to restore heating\noperation.\n\nAll access panels were secured upon completion of the inspection.\n\nLet me know what you want to do here.\n\n  \n\n  \n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n"
+    },
+    {
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-09_closeout_reply_draft.json",
+      "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJexdQQwAAAA==",
+      "subject": "Re: Punch Walk",
+      "date": "2026-11-08T07:57:21Z",
+      "url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJexdQQwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "top_body": "Troy,\n\nLandlord has arranged their tech to look into this, they will be at the site\non Monday 8AM. When the work started earlier in the year, heater was working.\n\n  \n\nIf this turns out to be caused by Onesta, then they need to take care of this.\nIt will be good for Onesta rep to be there and sort out the issue.\n\n  \n\nRegards\n\nBharath\n\n  \n\n  \n\n* * *\n\n"
+    },
+    {
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-09_refresh.json",
+      "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJeTbmAgAAAA==",
+      "subject": "Re: Punch Walk",
+      "date": "2026-11-06T18:25:34Z",
+      "url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTbmAgAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "top_body": "Troy,\n\nWhen was the below identified :\n\n  \n\n\"Contacted Josh, who previously diagnosed RTU #2 and identified a faulty\nprinted circuit board (PCB). The recommended repair had previously been\ndeclined.\"\n\n  \n\n  \n\n* * *\n\n"
+    }
+  ],
+  "conclusion": "Found earlier construction progress/completion statements and later November specific diagnostic notices. No contemporaneous local transcript/email proof that the failed unit or inability to complete balancing was reported to owner around the June8 balancing date. This is a bounded negative finding, not proof no notice existed. November6 claim that prior repair had been declined does not identify who declined, when, or evidence of notice; owner asked timing that day, and Troy said he was looking into it."
+}

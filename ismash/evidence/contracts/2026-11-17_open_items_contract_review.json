@@ -1,0 +1,35 @@
+{
+  "review_date_local": "2026-11-17",
+  "recorded_at_utc": "2026-11-18T05:49:27.044957+00:00",
+  "user_request": "How does agreemtn with carney cover all these aspects of open item",
+  "source_pdf": "/Users/bmysoren/Desktop/2026/iSmash/Construction/Construction_Estimate_Increased_iSmash_Everett.pdf",
+  "source_archive": "/Users/bmysoren/prep/ismash/evidence/contracts/2026-01-19_signed_carney_agreement.pdf",
+  "source_sha256": "08de1a50393213afba8eca7a3c2d73de9c931672df86f8b58f9561cf93b8ca3f",
+  "review": "/Users/bmysoren/prep/ismash/evidence/contracts/2026-11-17_open_items_contract_review.txt",
+  "audit_files": [
+    "2026-11-17_payment_release_mapping.json",
+    "2026-11-17_work_hvac_warranty_mapping.json",
+    "2026-11-17_final_agreement_extracted_pages.json"
+  ],
+  "additional_root_verified_pages": [
+    12,
+    13,
+    22
+  ],
+  "external_sources": [
+    {
+      "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=60.04.071",
+      "finding": "Release of lien rights for paid amounts upon payment/acceptance and demand."
+    },
+    {
+      "url": "https://www.lni.wa.gov/licensing-permits/contractors/problems-with-a-contractor/about-liens",
+      "finding": "L&I recommends signed releases from major contractors/subcontractors/suppliers before final payment."
+    }
+  ],
+  "preservation": "Original source and prior records unchanged. New byte-identical source archive and derived review added.",
+  "actions_not_taken": [
+    "No email sent",
+    "No payment authorized",
+    "No legal conclusion as to current amount due"
+  ]
+}

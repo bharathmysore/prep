@@ -1,0 +1,51 @@
+Carney change-order payment reconciliation — as of November 18, 2026
+
+Confirmed specifically paid: COs5-9, acknowledged by Jeff Howe on September24,2026.
+COs1-4 were included in earlier progress billing and aggregate payments, but the records do not allocate the paid balance separately to each CO.
+Latest CO10 is included in the pending final invoice.
+
+CO | Description | CO VALUE (not individual cash payment) | Status
+1 | Building review fees | $2,643.56 | Included in earlier progress-payment billing; individually fully paid amount not established
+2 | Building permit fee | $6,243.63 | Included in earlier progress-payment billing; individually fully paid amount not established
+3 (inferred sequence; form mislabeled CO1) | Rubber flooring removal, preparation and sealing | $16,870.00 | Included in earlier progress-payment billing; individually fully paid amount not established
+4 | Additional flooring/glue removal and substrate preparation | $5,074.74 | Included in earlier progress-payment billing; individually fully paid amount not established
+5 | Structural steel for smash-room walls | $9,175.00 | Carney confirmed COs5-9 batch paid September24,2026
+6 (revised) | Steel plate drilling | $8,700.00 | Carney confirmed COs5-9 batch paid September24,2026
+7 | HVAC permit review/fees | $4,428.92 | Carney confirmed COs5-9 batch paid September24,2026
+8 | Electrical permit review/fees | $2,450.00 | Carney confirmed COs5-9 batch paid September24,2026
+9 | Plumbing permit review/fees | $2,214.44 | Carney confirmed COs5-9 batch paid September24,2026
+10 (latest) | Latest additional work; detailed scope not established from final invoice | $3,356.40 | Not confirmed paid; included in $52,184.44 pending final invoice
+
+TOTALS
+Original COs1-4: $30,831.93.
+Revised COs5-9: $26,968.36.
+COs1-9 approved value: $57,800.29.
+Latest CO10: $3,356.40, not confirmed paid.
+All approved change orders: $61,156.69 — this is not a fully-paid total.
+
+PAYMENT CONFIRMATION AND DIFFERENCE
+Jeff September24,2026: "Thanks for signing the CO’s this AM. We received the 2nd payment today for $12,967.00" and "Attached is a copy of the Invoice marked ‘Paid’ to cover your $27,967 payment towards the Change Orders 5-9."
+$27,967 acknowledged cash minus $26,968.36 signed CO value = $998.64 requiring ledger reconciliation.
+Attachment filename separately says $26,967.00. Its actual contents were not successfully retrieved; filename is not proof of invoice-body value.
+Do not count any discrepancy as a confirmed overpayment without Carney's itemized ledger.
+
+EARLY PAYMENTS
+Rose Moran's April24,2026 email confirms $238,641 payment, corresponding to progress billing that includes COs1-4. Later closeout records acknowledge $468,842.25 prior payments in aggregate. Neither establishes each early CO's fully-paid amount.
+July invoice004B requests $73,140.39 and shows $48,828.04 balance; its waiver is conditional, not a paid receipt. Do not apply an assumed 90% to each CO.
+
+NUMBERING
+The rubber-flooring form is mislabeled CO1 (third item in original CO1-4 grouping).
+Revised September CO6 covers drilling. Do not add August CO6 wing-wall or old August CO10 drilling as extra paid items.
+Latest CO10 for $3,356.40 is distinct from old August drilling CO10.
+
+LATEST BALANCE
+November18 owner/bank thread still treats $52,184.44 final balance as pending. Final invoice includes latest CO10 $3,356.40. No completed final disbursement confirmed.
+
+SOURCES
+Each row's PDF and page are in change_order_payment_reconciliation.json. Source copies with SHA256 hashes are in source_manifest.json.
+Live email bodies/metadata:
+../../emails/2026-11-18_co_payment_sources.json
+../../emails/2026-11-18_co_payment_progress_confirmation.json
+
+No original evidence deleted or altered. No email sent or payment authorized.
+

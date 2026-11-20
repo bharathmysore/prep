@@ -1,0 +1,46 @@
+{
+  "title": "iSmash Everett incremental email refresh — October 28, 2026, late evening",
+  "source": "Microsoft Outlook Email connector; read-only mailbox listing and recent search cross-check",
+  "captured_at_utc": "2026-10-29T04:45:19Z",
+  "display_timezone": "America/Los_Angeles",
+  "previous_refresh_cutoff_utc": "2026-10-29T04:20:26Z",
+  "previous_snapshot": "/Users/bmysoren/prep/ismash/evidence/emails/2026-10-28_refresh.json",
+  "preserved_baseline_sha256": "d32f6e937446897b34a30fe1eb983a1483a571045165c3e86c00bfcd93c8b971",
+  "scope": "New project-related correspondence since the October 28 9:20:26 PM PDT refresh; screened Carney, Onesta LLC, Alex/NW Prime, iSmash corporate, City of Everett, lender/servicer and relevant vendor domains and project subjects.",
+  "message_count": 0,
+  "human_message_count": 0,
+  "automated_message_count": 0,
+  "messages": [],
+  "mailbox_list_audit": {
+    "filter": "receivedDateTime gt 2026-10-29T04:20:26Z",
+    "count": 1,
+    "newest": "2026-10-29T04:23:57Z",
+    "oldest": "2026-10-29T04:23:57Z",
+    "has_more": false,
+    "next_from_index": null,
+    "candidate_ids": []
+  },
+  "recent_mail_search_audit": {
+    "query": "received>=2026-10-29",
+    "count": 25,
+    "newest": "2026-10-29T04:23:57Z",
+    "oldest": "2026-10-29T01:31:00Z",
+    "has_more": true,
+    "next_from_index": 25,
+    "candidate_ids": []
+  },
+  "screening_result": "One new mailbox item was returned in the exact interval; it was unrelated to the project and was not archived. Recent search independently returned the same latest received timestamp and extended before the previous cutoff. No new project email found.",
+  "unchanged_checkpoints": [
+    "Alex's latest stated finish target remains Thursday October 29, with Friday October 30 proposed for inspection.",
+    "Owner has requested coordination of landlord and TI inspections Friday; no new booking confirmation found.",
+    "Carney completion/electrical status and City's response to the interim-inspection/store-setup request remain unconfirmed in searched email.",
+    "No new passed inspection report or issued CO found."
+  ],
+  "limitations": [
+    "No unrelated email body or personal data retained in this snapshot.",
+    "No attachment fetch/download performed; earlier retrieval gaps remain unchanged.",
+    "This is an email check only, not onsite or City permit-portal verification.",
+    "No email sent, draft edited, mailbox/payment/booking/signature/agreement state changed, or earlier evidence deleted/rewritten."
+  ]
+}
+

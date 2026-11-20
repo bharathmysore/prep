@@ -1531,3 +1531,1046 @@ This file is the running record for conversations related to Carney Consulting a
 * **Completion versus walkthrough:** The new exchange does not revise Ron's earlier Wednesday, October 28 EOD statement for Tyson's remaining items. The November 2 punch walk is separate from that completion target. Neither the visit coordination nor Scott's earlier expectation of having CO by then establishes completed work, punch-list acceptance, passed inspections, or CO issuance.
 * **Unchanged/open:** No newer Alex or City reply was found. Alex's latest position remains that one installation item is expected this week, with no firm completion/inspection date. The owner's sent request for interim inspection and store setup remains without a City response in the searched mail. The City-confirmed dependency remains final approval of B2609-071 before B2512-031 final approval. No passed stair-inspection report or issued CO was located.
 * **Preservation/limits:** All three new emails report no non-inline attachments. Historical images and signature/remote images were not redownloaded, and earlier attachment gaps remain. The 4:00 PM snapshot remains unchanged (SHA-256 9e96c39a335a4fd6e32b1bcc0817dbb200ffd8c85b4b98198995ebd49825dc2a). Earlier notes and evidence were preserved. No emails sent, no drafts edited, no mailbox/payment/booking/signature/agreement state changed, and no records deleted.
+
+## 2026-10-28 — Email refresh: Alex targets Thursday completion; Friday inspections requested
+
+* **Scope/archive:** Refreshed through 9:20:26 PM PDT October 28 (2026-10-29T04:20:26Z), after the October 27 6:00:11 PM cutoff. Six exact-interval mailbox pages screened 251 records; sixteen targeted queries, a draft-status check, and an incremental final recent-mail check found eight new project emails (six owner-sent and two from Alex). Saved complete returned bodies/quoted chains, IDs, recipients, timestamps and links in [the October 28 snapshot](evidence/emails/2026-10-28_refresh.json). E001–E008 apply only to this snapshot. One general Quaint Oak marketing newsletter was excluded from case evidence; no new project-specific bank/servicing communication found.
+* **Landlord's new completion target — 3:42 / 4:56 PM PDT (E005, E004):** After Bharath's 3:17 PM request for Friday final inspection (E007), Alex initially says he will confirm details tomorrow and believes the separate permits allow the tenant inspection to be scheduled. At 4:56 PM he writes, “The team just confirmed that we will finish tomorrow, so you can schedule the inspection for Friday.” Tomorrow is Thursday, October 29, and Friday is October 30. This is a new landlord-reported completion target and scheduling suggestion, not proof the work is complete, an inspection is booked, or either permit has passed.
+* **Friday same-day inspection coordination requested — 5:07 / 5:09 / 6:31 PM PDT (E003, E002, E001):** Bharath permits use of water inside the store with no spillage, tells Alex the City requires stair-permit final approval before TI final approval, and asks for Friday inspections together. He clarifies that the two inspections could be scheduled the same day, then asks Ron to coordinate the TI final alongside the landlord permit on Friday. These are sent owner requests/proposals. No later reply confirming a booking or written City confirmation of same-day approvals was found. The City's prior B2609-071-before-B2512-031 final-approval requirement remains unchanged; Alex's belief about separate permits is not City authorization.
+* **Carney completion and electrical status still unconfirmed — 3:18 PM PDT request (E006):** Bharath asks Ron what work remains and whether electrical work is complete. No newer Carney reply or written completion confirmation was located through 9:20 PM. Ron's earlier October 28 EOD target for Tyson's remaining items remains unverified in the searched mail. Lack of an email reply does not establish what physically occurred onsite.
+* **Cabinets evidence — 9:33 AM PDT (E008):** Bharath sends Ron a “Cabinets” email containing one inline image and no explanatory top-body text. The attachment is image.png, 134,846 bytes, content ID 85686667-c3d3-4ec3-a630-e9df77e9bcd1. Its metadata and connector materialization reference are saved. Local download failed with curl exit 6 because api.chatgpt.com could not be resolved; no local image copy was created and image contents were not visually verified. Do not infer installation, a defect, or completion from the subject alone.
+* **Other open checkpoints:** No new direct City, Onesta or iSmash corporate update found. No written City response to the interim-inspection/store-setup request, confirmed Friday inspection booking, passed stair report or issued CO was located. Scott's November 2 visit and Ron's afternoon punch-walk arrangement remain unchanged and separate from construction completion.
+* **Preservation/limits:** All eight emails report no non-inline attachments; the substantive inline cabinet image is handled separately above. Previous attachment retrieval gaps remain. The October 27 6:00 PM snapshot remains unchanged (SHA-256 be52c839aae3e5733d64f43d50208f0f5b17fc5dfa885fd13760e7a199ef2ad8). Earlier notes and evidence were preserved. No emails sent, drafts edited, mailbox/payment/booking/signature/agreement state changed, or records deleted by the assistant.
+
+## 2026-10-28 — 9:45 PM email refresh: no new project correspondence
+
+* **Check/archive:** Refreshed through 9:45:19 PM PDT (2026-10-29T04:45:19Z), after the 9:20:26 PM cutoff. Exact-interval mailbox listing returned one unrelated item and no further page. A 25-record recent-mail search cross-check reached before the prior cutoff and found no additional project email. Saved [the incremental refresh record](evidence/emails/2026-10-28_late_refresh.json); no unrelated message body retained.
+* **Status unchanged:** Alex's stated finish target remains October 29, with October 30 proposed for inspections. No new Friday booking confirmation, Carney completion/electrical update, City response to the interim-inspection/setup request, passed-inspection report, or CO found.
+* **Preservation:** The preceding October 28 snapshot remains unchanged (SHA-256 d32f6e937446897b34a30fe1eb983a1483a571045165c3e86c00bfcd93c8b971). Earlier notes and evidence were preserved. No attachments downloaded, records deleted, emails sent, drafts edited, or mailbox/payment/booking/signature/agreement state changed. Earlier attachment gaps remain.
+
+## 2026-10-29 — 8:44 AM email refresh: Ron agrees to arrange Friday inspection
+
+* **Scope/archive:** Refreshed through 8:44:25 AM PDT (2026-10-29T15:44:25Z), after the October 28 9:45:19 PM cutoff. Two exact-interval mailbox pages screened 76 records; eleven targeted searches, a draft-status check and a final incremental check found three new sent/received project emails (two owner-sent and one from Ron), plus one unsent draft. Saved complete returned bodies/quoted chains, IDs, recipients, timestamps and source links in [the October 29 snapshot](evidence/emails/2026-10-29_refresh.json). E001–E003 and D001 apply only to this snapshot; unrelated correspondence excluded.
+* **Ron agrees to arrange inspection — 5:43 AM PDT (E003):** Responding to the owner's request for Friday final inspection alongside the landlord permit, Ron writes, “Ok ill schedule ours and the landlord can do his”. This is a new commitment to arrange the tenant inspection for the proposed Friday, October 30 path. It does not establish that either inspection has been booked, give a time, or confirm work completion.
+* **Owner's Carney follow-up — 8:31 AM PDT (E002):** Bharath asks Ron to confirm once tomorrow's inspection is scheduled, provide today's technician/contractor arrival time, and ensure the marked area from the plan is painted before inspection per the City-approved plan. No later reply confirming those items was located. The request includes a substantive inline image; its contents were not visually verified.
+* **Owner's landlord follow-up — 8:32 AM PDT (E001):** Bharath tells Alex the tenant inspection is being scheduled for tomorrow, asks for prompt notice once the landlord inspection is scheduled, and includes the City's October 27 written requirement: B2609-071 must receive final approval before B2512-031 can receive final approval. No new Alex or City response was found. The copied City email is historical evidence, not a new City determination today.
+* **Unsent draft distinguished — 8:30 AM PDT (D001):** The forward of the October 27 City eTRAKiT thread has no recipients and is confirmed in the isDraft=true listing. Retained separately as an unsent draft; not counted as correspondence sent to Alex or a new City reply.
+* **Still open:** No confirmed Friday booking, written completion/electrical update, passed-inspection report or issued CO was located. Alex's prior October 29 finish target and Ron's earlier October 28 EOD target remain unverified in the searched mail; silence does not establish what physically occurred onsite. Scott's November 2 visit and afternoon punch-walk arrangement remain separate. No new direct Onesta, franchisor or project-specific bank/servicing response found.
+* **Attachment/preservation limits:** E002's image.png is 487,273 bytes, inline content ID 0e2986b0-9eba-40a5-b2e5-134374d4d295. Attachment metadata and the connector materialization reference are saved; local download failed with curl exit 6 because api.chatgpt.com could not be resolved. No local image was created. Earlier attachment gaps remain. The October 28 late snapshot remains unchanged (SHA-256 d4b321173b05a3cbeba151964860ae29fba0c21d4757ebd5f03e511b7b51d2d8). Earlier notes and evidence were preserved. No emails sent, drafts edited, records deleted, or mailbox/payment/booking/signature/agreement state changed by the assistant.
+
+## 2026-10-29 — 2:10 PM email refresh: Friday inspections reported scheduled; deck cleanup unresolved
+
+* **Scope/archive:** Refreshed through 2:10:42 PM PDT (2026-10-29T21:10:42Z), after the 8:44:25 AM cutoff. Two exact-interval mailbox pages screened 61 records; nine successful targeted searches and a final incremental check found twelve new project emails (five owner-sent, four from Ron, two from Alex and one from Divya/iSmash Everett). The draft check found no new drafts. Saved complete returned bodies/quoted chains, IDs, recipients, timestamps, links and attachment metadata/materialization references in [the afternoon snapshot](evidence/emails/2026-10-29_afternoon_refresh.json). E001–E012 apply only to this snapshot. Displayed times below are connector receivedDateTime converted to PDT; quoted headers may differ and remain preserved.
+* **Alex qualifies completion target — 8:55 AM (E012):** Alex says they cannot guarantee everything will be completed today, that contractors are finalizing the job, and that he wants to verify the work and pass inspection before wrapping up. This qualifies the prior October 29 finish target. His later readiness message does not establish a passed inspection or complete item-by-item verification.
+* **Friday inspection scheduling — 10:46 / 11:20 / 11:44 AM (E011, E010, E009):** Bharath reports the landlord inspection is scheduled for tomorrow and asks where the tenant inspection stands. Ron says, “I request it to be schedule by Tyson for tomorrow”. Bharath thanks Ron/Tyson and asks that all necessary work be done for inspection. These messages progress from a scheduling request to participant-reported scheduling, without an independently retrieved City booking confirmation.
+* **Both inspections reported for October 30; time unknown — 11:57 AM / 12:05 PM (E008, E007):** Alex requests deck cleanup ahead of “our inspection tomorrow”, asks the tenant inspector's arrival time and says his contractor is ready. Bharath replies, “We have also scheduled for tomorrow but dont know when the inspector arrives”. He adds that the tenant contractor may not come today because no work is scheduled, but he will convey the cleanup request. This is not confirmation of contractor absence, completed work or completed cleanup. No arrival time was found.
+* **Deck/lumber correction and latest Ron reply — 12:05 / 1:56 / 2:06 / 2:09 PM (E006, E003, E002, E001):** Bharath's initial wording about moving “our stuffs in the deck” prompts Ron to ask whether he wants to move his things onto the loading dock before the landlord inspection. Bharath explicitly corrects the typo: “NOT my stuff. There is some lumbers in the deck, we need to keep it clear for deck inspection”, attaching Lumbar.jpeg. Ron's latest reply is “From the stair and railing repair”, apparently identifying the lumber's source in this context. This does not establish who agreed to clear it or that cleanup occurred. The correction and original messages are all preserved.
+* **Landlord-work photographs requested — 12:35 PM (E005):** Ron asks for photos of the landlord's completed work. The request does not independently establish completion. The newly retrieved images could not be downloaded or viewed, so no conclusion about their depicted condition is made.
+* **Roller billing and booking requests — 12:53 PM (E004):** Divya asks Kevin/Scott for help with this month's Roller charge, to change Raymond Cunningham's booking to December 5, and to refund other bookings until “the 14th”. The month for the 14th is not stated. No corporate response, completed refund or completed booking change was found; these are requests only.
+* **Unchanged/open:** No new direct City, Onesta or corporate reply, project-specific bank/servicing update, passed-inspection report or issued CO found. The City's prior requirement remains final approval of B2609-071 before final approval of B2512-031. The November 2 visit and afternoon punch walk remain separate from the October 30 inspections. Cleanup responsibility/completion, inspection arrival times and outstanding-work completion remain unconfirmed in the searched mail.
+* **Attachment and preservation limits:** Inventoried attachments on five emails and materialized five selected new substantive attachments: Lumbar.jpeg and inline images associated with the 10:46 AM, 11:44 AM, 12:05 PM and 1:56 PM messages. Every local download failed with curl exit 6 because api.chatgpt.com could not be resolved; no local bytes were created and none were visually verified. Metadata and remote references are saved, but signed references may expire. Quoted copies were not all materialized again; earlier gaps remain. The morning snapshot remains unchanged (SHA-256 da8056385844eb16b1aaa8ef432783c66a430cfac9cf87b6cb9e7404faa614b0). Earlier notes and evidence were preserved. No emails sent, drafts edited, records deleted, or mailbox/payment/booking/refund/signature/agreement state changed by the assistant.
+
+## 2026-10-29 — 8:02 PM email refresh: Tyson's inspection plan; corporate extension/default assertion
+
+* **Scope/archive:** Refreshed through 8:02:16 PM PDT (2026-10-30T03:02:16Z), after the 2:10:42 PM cutoff. Two exact-interval mailbox pages screened 82 records; nine targeted searches, a draft-status check and a final incremental check found nine new project emails (six owner-sent, two from Tyson and one from Steven). One Onesta search was rate-limited and successfully retried after its required delay. Saved complete returned bodies/quoted chains, IDs, recipients, timestamps and links in [the evening snapshot](evidence/emails/2026-10-29_evening_refresh.json). E001–E009 apply only to this snapshot. No new drafts found; unrelated correspondence excluded. Times below use connector receivedDateTime converted to PDT.
+* **Corporate extension and claimed default — 6:38 / 7:14 PM (E006, E004):** In the “Territory clarification” thread, Steven says the development timeline needs updating and asserts, “Technically speaking, the franchise agreement is currently in default.” He calls this standard practice and asks for approval before sending an extension document. Bharath replies that they have been busy coordinating Carney, architects, City/inspectors, landlord and local GC, then says, “Send the documents.” No extension document is attached to the new messages, and no signed extension or accepted specific terms is located. Steven's assertion is recorded as his position, not a verified legal conclusion. The reply requests documents; it does not itself document a signed agreement or an admission of default. The quoted September 3 statement that an extension must be in place to open is historical, not a newly issued document.
+* **Tyson's plan for October 30 inspection — 7:12 / 7:17 / 7:22 PM (E005, E003, E001):** Bharath asks about next-day availability, inspection timing, attendance and prompt handling of minor issues. Tyson says he is available 11 AM–3 PM, will call at 7:30 AM to coordinate with the inspector and learn arrival time, plans to be onsite at some point, and his team will be there early to wrap up remaining items before the inspector arrives. Bharath proposes connecting after inspection, says he will try to stop by around 2 PM, and asks that any issues be addressed promptly. No exact inspection time, guarantee that Tyson will be present during inspection, completed remaining work or passed inspection is established by these messages.
+* **Landlord timing follow-up — 7:19 PM (E002):** Bharath tells Alex that calling the City at 7:30 can obtain a tentative inspection time. No new Alex acknowledgment or City confirmation was found after the afternoon cutoff.
+* **Owner disputes lumber attribution — 3:17 PM (E008):** Bharath responds to Ron's earlier statement that the lumber came from stair/railing repair: “Those are NOT from the stair/deck work. This stuff is left over from the earlier(TI) work. Please save it and after inspection i will try to repurpose it.” Preserve this correction alongside Ron's differing account. The material's source, responsibility for moving it and actual cleanup remain unverified; the owner's instruction is to save it, not discard it.
+* **Onesta introduction/Kent inquiry — 2:17 / 3:18 PM (E009, E007):** Tyson introduces himself as owner of Onesta General Contracting, says they are wrapping up Everett and asks whether Bharath is building Kent or whether it has another owner. Bharath says they can connect once the work is finished. He does not answer Kent ownership in this reply; the inquiry establishes no new ownership fact or Kent construction agreement.
+* **Still open:** No new direct Carney, Alex or City response after the 2:10 PM cutoff, and no new bank/servicing update found. October 30 inspections remain participant-reported as scheduled, without a confirmed arrival time, passed-inspection report or CO. The City's B2609-071 final-approval requirement before B2512-031 and the November 2 punch-walk arrangement remain unchanged. Extension-document terms have not yet been received in the retrieved new mail.
+* **Preservation/limits:** All nine messages report no non-inline attachments, and no new authored inline image was located. No new attachment download was needed; quoted historical/signature images were not redownloaded, and previous retrieval gaps remain. The afternoon snapshot remains unchanged (SHA-256 9ca19a49468538b7f741faf83916164f1681cb4bd325a4d1b17596f2f0489f7f). Earlier notes and evidence were preserved. No emails sent, drafts edited, records deleted or mailbox/payment/booking/refund/signature/agreement state changed by the assistant.
+
+## 2026-10-30 — 9:30 AM email refresh: Ron plans to take supplies; addendum still pending
+
+* **Scope/archive:** Refreshed through 9:30:14 AM PDT (2026-10-30T16:30:14Z), after the October 29 8:02:16 PM cutoff. Three exact-interval mailbox pages screened 115 records; nine targeted searches, a draft-status check and a final incremental check found three new received project emails: one from Ron this morning and replies from Steven and Tyson last evening. Saved complete returned bodies/quoted chains, IDs, recipients, timestamps, links and attachment metadata/materialization reference in [the October 30 snapshot](evidence/emails/2026-10-30_refresh.json). E001–E003 apply only to this snapshot. No new drafts found. Times below use connector receivedDateTime converted to PDT; quoted headers are preserved unchanged.
+* **Extra supplies — October 30, 6:06 AM (E001):** Ron writes, “The team will be taking the extra supplies with them.” This follows Bharath's October 29 request to save material left over from earlier TI work for possible repurposing after inspection. Ron's stated plan needs clarification against that request. It does not establish ownership, agreement to removal, completed removal or a cleared deck. Earlier opposing accounts of the material's source remain preserved.
+* **Extension addendum — October 29, 8:16 PM (E002):** Steven responds to the request for documents: “Appreciate it. It will be a very short addendum of around 2 pages.” No addendum is attached and no specific terms are provided in the new message. The document, its terms and acceptance remain unconfirmed. Steven's earlier default assertion remains his stated position, not an independently verified legal conclusion.
+* **Tyson acknowledgment — October 29, 8:12 PM (E003):** Tyson replies, “We will do our best!!!” to Bharath's request to get through inspection and address issues promptly. This acknowledges the request without confirming an inspection time, guaranteed pass or completed remaining work.
+* **Still open:** No newer Alex or direct City reply, confirmed inspection arrival time, passed-inspection report, CO, project-specific bank/servicing update or actual extension document found. Tyson's previously stated 7:30 AM call and early-team work plan are not verified as performed in the new correspondence. October 30 inspections remain participant-reported as scheduled. The City's B2609-071-before-B2512-031 final-approval requirement and the November 2 walkthrough remain unchanged.
+* **Attachment/preservation limits:** Ron's new authored inline image.png is 235,792 bytes, content ID 94446733-1dd5-4902-aed5-b2630999c5a9. Metadata and a connector materialization reference are saved; local download failed with curl exit 6 because api.chatgpt.com could not be resolved. No local image was created or visually verified. Quoted historical images were inventoried but not downloaded again; prior gaps remain. The October 29 evening snapshot remains unchanged (SHA-256 06029cae4d6f11176af738243c627d45f5413a72b9cf229c576cbba995e32e13). Earlier notes and evidence were preserved. No emails sent, drafts edited, records deleted or mailbox/payment/booking/refund/signature/agreement state changed by the assistant.
+
+## 2026-10-30 — 11:18 PM email refresh: handrail/gate corrections; Onesta proposal captured
+
+* **Scope/archive:** Refreshed through 11:18:37 PM PDT (2026-10-31T06:18:37Z), after the 9:30:14 AM cutoff. Three exact-interval mailbox pages screened 140 records; ten targeted searches, a draft-status check and a final incremental check found 21 new sent/received project emails (15 human emails: ten owner-sent and five received; six automated notices) plus one unsent draft. Complete returned bodies/quoted chains, IDs, recipients, timestamps, links and attachment records are saved in [the late snapshot](evidence/emails/2026-10-30_late_refresh.json). E001–E021 and D001 apply only to this snapshot. Times below use connector receivedDateTime converted to PDT.
+* **Inspection corrections reported by Alex — 12:59 / 1:14 PM (E018, E013):** Alex says the inspector requested handrail-extension revisions and did not approve the fence lock because it does not hold the fence securely on each side. He suggests wooden backing, a longer/stronger part, or securing it closer to the bottom, and attaches a photo. He later says NW Prime handles only the stair handrail revision, asks the tenant to fix the fence lock, and has no immediate contractor scheduling slot. These are Alex's report and stated scope position, not an independently retrieved City report or a determination of lease responsibility. No firm handrail completion/reinspection date was supplied.
+* **Owner's next steps and Monday target — 1:03 / 1:24 / 1:33 PM (E017, E012, E011):** Bharath says they will work on their changes and, as discussed with the inspector, schedule another inspection Monday, November 2. He tells Alex he will handle the fence door lock and asks when the stair revision will be inspected so opening appointments can be planned. He separately asks Rakeeb for the specific gate correction requirements and attaches IMG_9923.jpeg. No later direct City response or confirmed Monday appointment was found. The blank-top-body reply to Alex at 1:06 PM is confirmed as an unsent draft (D001), not a sent request.
+* **Direct Onesta gate work and price discussion — 1:05–2:55 PM (E016, E015, E010, E006, E005, E004):** Bharath asks Tyson for an estimate to fix the docking gate Monday before inspection and expressly says the work will be between them, without Carney. Tyson asks whether the fence must remain operational or a sheet of plywood could secure it. Bharath requests about $300 and passing inspection. Tyson later offers regular plywood for $400 plus sales tax; Bharath asks what installing a sheet of plywood means. No accepted final scope/price, completed repair or City acceptance appears in the retrieved exchange.
+* **Buildertrend proposal captured — notices at 1:39 / 1:47 / 1:48 PM (E009, E008, E007):** The linked public proposal was inspected read-only. It shows “Proposal for Ismash Fence Gate repairs”, dated October 30, with status Pending and Bharath's approval Pending. Scope: marine-grade plywood backing secured with heavy-duty hardware and structural screws, plus a cane bolt anchored in existing concrete. Price: $510 + $50.49 tax = $560.49. This differs from Tyson's later $400-plus-tax regular-plywood email offer; both versions are preserved. Full visible terms/pricing are in [the proposal text capture](evidence/emails/attachments/2026-10-30/onesta_buildertrend_proposal_2026-10-30.txt), SHA-256 9a8cbbfef8462230ce558f303190497439c72fb1f35ef1ece6fe5948730c9ab3. No PDF was generated. The displayed qualifications exclude permits, design/engineering, special inspections, discovered code violations, hidden conditions and unlisted scope, among other items. Displayed acceptance language calls for full payment on substantial completion and references “AIA 101 Owner-Contractor contract”; this is recorded without legal interpretation. Signature fields remain blank. No account activation, proposal approval, decline or signing action was taken.
+* **Read AI inspection recap — 11:56 AM (E020):** The automated email recap says the hallway, water cooler and other reviewed areas passed, with floor paint and back-ramp/stair modifications outstanding. It says the inspector preferred painted floor markings and planned to review a completion photo; it lists Ron's follow-up about a possible TCO after the inspection report and Scott's November 2 visit. This is an AI-generated emailed recap, not an official City inspection report, full transcript, TCO or CO. The full transcript was not retrieved as part of this email refresh.
+* **Quaint Oak alerts — 7:48 PM (E001–E003):** Three notices report the same October 30 amount of $3,773.84 on account ending 1461; one description is “LN PyXXXXXX0613 1”. The matching alerts likely describe one debit/withdrawal event, not three independently established debits. No principal/interest breakdown or duplicate-payment conclusion is established by the emails.
+* **Still open:** No new direct Carney reply after the morning cutoff, no City response giving detailed gate requirements, no issued CO/TCO or official final-approval report, and no actual franchise extension addendum found. Monday inspection remains a stated scheduling plan. Landlord correction timing, acceptable gate design, repair authorization/completion and remaining floor-paint status need confirmation.
+* **Preservation/limits:** Metadata and materialization references for the gate photos sent by Alex and forwarded to the City are saved. Both local downloads failed with curl exit 6 because api.chatgpt.com could not be resolved; no local image bytes were created or visually reviewed. Quoted signature/historical images were not redownloaded; earlier gaps remain. The morning snapshot remains unchanged (SHA-256 21480cc656c7da081066800006238e6d4f77a3f41440f195e219772482ae47e7). Earlier evidence and notes were preserved. No emails sent, drafts edited, records deleted or mailbox/payment/booking/refund/proposal/signature/agreement state changed by the assistant.
+
+## 2026-11-04 — 9:25 AM email refresh: Alex reports final approval; construction punch list and gate invoice
+
+* **Request/scope/archive:** User requested “refresh emails.” Refreshed through 9:25:15 AM PST (2026-11-04T17:25:15Z), after the October 30 11:18:37 PM PDT cutoff. Seventeen exact-interval mailbox pages screened 828 records; 18 targeted searches, a draft-status check and a final incremental check found 37 project messages: 23 human messages (seven owner-sent and 16 received) and 14 automated notices. No new drafts found. Complete connector-returned bodies/quoted chains, IDs, recipients, timestamps, links, query audit and attachment records are saved in [the November 4 snapshot](evidence/emails/2026-11-04_refresh.json). E001–E037 apply only to this snapshot. These are connector exports, not original EML/MIME files. Local times use America/Los_Angeles: October 31 is PDT; November 1 daytime onward is PST.
+* **Alex reports City final approval/CO — November 3, 1:40 PM PST (E001):** Alex writes, “We just received city approval and now you have the Certificate of Occupancy.” He lists site 607 SE Everett Mall Way, inspection type BLDG 16-FINAL, result APPRVD-PERMIT FINAL, completed November 3, inspector Rakeeb Khan. His email goes to Bharath alone. At 12:54 PM he had said the inspector did not require another on-site inspection (E003), following Bharath's status request (E004); Bharath acknowledged that earlier update (E002). This materially advances the reported status, but no actual CO, City final-approval document or permit number accompanies Alex's email. The archive therefore records Alex's statement without independently declaring B2512-031 or B2609-071 finally approved. The earlier City's dependency between those permits remains preserved.
+* **Direct City guard requirement — November 2, 3:05 PM PST (E021–E020):** Rakeeb directs Bharath to corrections online, says the guard should support a 200 lb load, and says he stopped by that day and discussed the proposed solution. Bharath acknowledges. This direct City email precedes Alex's later approval report; it is not itself a passed-inspection report. Alex's October 31 8:01 AM PDT email (E035) had stated his crew would start Monday, November 2, allowing an inspection Tuesday.
+* **Franchisor construction punch list — November 2, 2:41 PM PST (E022):** Scott sends 25 bullets covering event-room outlet finishing; electrical-panel access sign; loose bolts/nonflush steel in smash rooms; tool racks; an unexplained outlet; missing door stop; fan-switch location differing from the plan; bathroom outlet cover; slow hot water; room 3 door orientation; jumpsuit rack; ceiling tiles; door/frame touch-ups and an employees-only sign painted around; cabinet hardware; the paint-cleanup sink described as incorrect and very small; caulking/paint/baseboard; locking paint-room doors; tool formation; and disposable-glove holders. Preserve the exact list in the email because several descriptions are shorthand or questions, not independently verified defects. No later completion schedule or completed punch-list sign-off appears in this refresh.
+* **Fire extinguishers and dispensers — November 2–3 (E019, E007, E006, E005):** Scott asks about fire-extinguisher installation at 4:58 PM PST November 2, then adds paper-towel and soap dispensers for paint cleanup at 10:10 AM November 3. Ron replies at 10:25 AM, “We dont provide them. Cintas does.” Scott responds at 10:27 AM that this applies only when ordered from Cintas; otherwise “we provide & your team installs.” This records the exchange and Scott's stated division of responsibility; no subsequent Carney acceptance or installation confirmation was retrieved.
+* **Onesta gate change approved, completion reported, invoice outstanding in correspondence (E032, E023, E024):** On October 31 at 7:21 PM PDT, Bharath tells Tyson he approved the change order in Buildertrend and requests completion before the landlord's Tuesday inspection. The subject remains “Ismash Kent,” but the work concerns Everett. On November 2 at 1:54 PM PST, Kira says the gate repair was completed that day and attaches INV-iSmashGate-0001.pdf. Buildertrend's 1:52 PM notice requests $560.49, due November 9 at 11:59 PM (timezone unspecified), with label “Final.” The amount matches the previously captured $510 plus $50.49 tax proposal, rather than the earlier $400-plus-tax discussion. Owner's approval statement is now documented; no gate-payment confirmation is found. “Final” on the invoice does not establish acceptance of all project work.
+* **Bay Alarm / opening target — November 2–3 (E029, E028, E008):** Bharath requests remaining protective cages and restoration of ceiling tiles, stating a November 13 opening. Marius says Bay Alarm can attend November 3. Alex forwards a November 3 technician-en-route notice and requests account contact details changed to Bharath because Alex still receives notifications. Dispatch supports an intended visit, not completed work. No contact change was performed by the assistant.
+* **Building inspection scheduled today — E025:** Motion Property Group says Insight Energy Consulting will visit November 4 at approximately 12:15 PM for the Clean Buildings Performance Standard, with management accompanying brief tenant-space checks of lighting, HVAC, thermostats and water fixtures. This is a separate scheduled energy/building visit, not proof of an occupancy inspection or completed visit.
+* **NNN/account receipt — November 1, 7:16 PM PST (E030):** The receipt acknowledges $3,708.18 paid, and its ledger shows $3,605.18 NNN + $100 utilities + $3 EFT fee, ending balance due $0.00. Its generic “remaining balance” banner conflicts with the detailed ledger. Record the ledger result without asserting independently verified bank settlement.
+* **SBA collateral property-tax evidence — E037, E036, E034, E033, E031:** IFS's October 31 request seeks 2026 property-tax payment evidence/latest YTD for the Bothell collateral property, parcel 005193-001-006-06, loan ending 89102, with a reply requested within seven days (approximately November 7 by inference). Divya forwards it; Bharath asks whether it concerns the entire mall. On November 1 at 8:30 AM PST, Willard clarifies it concerns the property collateralizing the loan. No evidence-submission response is found. His automatic reply says he returns November 9 and directs urgent assistance to the main office.
+* **Other records / still open:** Eight Quaint Oak alerts (E010–E013, E015–E018) likely describe two transaction amounts, $53.53 and $335.24, on account ending 1461; they do not establish eight separate debits. Two Amazon Business delivery notices explicitly naming Smash District LLC are preserved (E009, E014), without linking them to particular punch items. No actual franchise-extension addendum, official CO/TCO copy, gate-payment confirmation or completed construction punch-list sign-off was found in this refresh. No new project correspondence dated November 4 was found through the cutoff.
+* **Attachment limits:** The Onesta PDF (157,685 bytes) and four non-inline PNG attachments to Scott's message were materialized by the connector; metadata and remote references are preserved. The invoice's local download failed with curl exit 6 because api.chatgpt.com could not be resolved; the PNG downloads were not repeated after that same-host failure. No local PDF/PNG bytes were saved or visually reviewed. Five quoted-chain inline images in Scott's email are inventoried but were not rematerialized. Other signature/logo and historical images were not redownloaded; earlier gaps remain. An independent read-only attempt to capture the linked invoice page was initially rejected by automatic approval review because the clean-fork agent lacked visible user authorization. After the existing documentary-evidence authorization was supplied, the retry failed “Browser is not available: iab.” No invoice page was accessed and no invoice-page text capture was created.
+* **Preservation:** The October 30 late snapshot remains unchanged (SHA-256 3dd9c7007fe5320c9d125855dee0803a22b1398b5fc723117ae184d96947481b); the prior 379,819-byte conversation log prefix is preserved (SHA-256 fb9341f4272adbb6b90153a26272ca851a8a925076a512e68d21bf372ba6d2e3). Earlier records were not deleted or overwritten. No emails sent, drafts edited, mailbox read state altered, contacts changed, or payments, bookings, proposals, signatures or agreements acted on by the assistant.
+
+
+## 2026-11-04 — 9:07 PM email refresh: final billing requested while punch items remain
+
+* **Request/scope/archive:** User requested “refresh emails.” Refreshed through 9:07:35 PM PST (2026-11-05T05:07:35Z), after the 9:25:15 AM PST cutoff. Three exact-interval mailbox pages screened 109 records; nine targeted searches, a draft-status check and a final incremental check found five new human project emails (one owner-sent, four received), all in “Punch Walk.” No new drafts found. Full connector-returned bodies/quoted chains, IDs, recipients, timestamps, links and query audit are in [the evening snapshot](evidence/emails/2026-11-04_evening_refresh.json). E001–E005 apply only to this snapshot. All times below are November 4, PST.
+* **Final billing requested — 5:09 PM (E002):** Troy congratulates Bharath on the CO and asks Jeff Howe to send final billing. This is an instruction to issue billing, not an invoice received, stated amount due, owner payment approval or proof that all punch work is complete. No actual CO document accompanies the message.
+* **Consolidated punch list and reported completions — 1:48 / 4:03 PM (E005, E004):** Troy circulates the list and asks Tyson to confirm completion dates and unresolved scope. Tyson replies with inline responses, marking many items DONE November 4: event-room outlet finishing/electrical access sign, identified steel repairs, room 1–2 rack relocation, blank outlet cover, doorstop, bathroom cover, gear-room racks/tiles/finishes, cleanup-area caulk/baseboard, room 4 work, paint-room locks, glove holders, all sheets flush, soap dispenser, storage-room doors, removal of gate bolts and three storage-room ceiling tiles. These are Tyson's completion reports, not independently inspected findings. Original and annotated versions are both saved; connector text does not preserve the blue response font.
+* **Outstanding dated work — E004:** Paint-cleanup cabinet hardware moves from November 4 to November 5 (“tomorrow”). Smash Room 3 door is ordered November 4, “approximately two weeks out”; around November 18 is an inference, not a firm installation commitment, and falls after the previously stated November 13 opening target. Two new tagged fire extinguishers and required signage are ordered November 4 and scheduled for Monday, November 9. No subsequent completion confirmation appears.
+* **Sink ambiguity — 5:07 PM (E003, E004):** In response to the original incorrect/undersized-sink item, Tyson proposes adding one more sink and supplies a product link. Scott replies only “Sink is fine.” The reply does not clearly distinguish acceptance of the existing sink from approval of the proposed additional sink, or confirm replacement/addition scope, ordering, timing, cost or installation. Preserve the exact wording rather than treating the sink issue as fully closed.
+* **Tool placement, mirror and HVAC — 5:43 PM (E001):** Bharath corrects Tyson's account that tool mounting was held for possible relocation: the location stays the same; workers asked for height and Bharath had forwarded Scott's placement text to Tyson. He says he had been waiting for sink-mirror dimensions and will have it November 5 morning for installation. He reports HVAC is not heating, Tyson knows, and a technician is attending “now.” Tool mounting, mirror installation and heating repair remain unconfirmed. This email is addressed to Troy, Michael Carney and Jeff Howe; Tyson is not a recipient of this particular message.
+* **Other unclosed questions — E004/E005:** Smash Room 1's left-plate second bolt from bottom has no specific DONE annotation; the separate second-sheet bolt is marked done. The general sheets-flush statement does not specifically close that loose bolt. The large-paint-room fan-switch placement still lacks an explanation/corrective action/date. The Smash Room 2 outlet item is marked done, but why it was installed and its associated cost remain unanswered in the text.
+* **Still open / preservation:** No new Alex, direct City, bank, Bay Alarm or property-management correspondence found after the morning cutoff. No final invoice, official CO copy, full punch-list sign-off or HVAC repair result found. All five messages report no attachments and have no cid image references; no new attachment download was needed. External signature images and the product suggestion were not downloaded; the full product link is preserved in the source email. Earlier attachment gaps remain. The morning snapshot remains unchanged (SHA-256 1690a556a54cb221f0bf0da831a4c29d4eca28103bf15470d13fbab71ac95bee); prior 388,379-byte log prefix preserved (SHA-256 566eb9eaf33cf1ac2719900a12b1d99bfec7c5e3d917237131e2dfd0597cc324). No emails sent, drafts edited, mailbox read state altered, payments approved, agreements signed or records deleted by the assistant.
+
+
+## 2026-11-05 — 10:46 AM email refresh: sink delivery target; franchise addendum received
+
+* **Request/scope/archive:** User requested “refresh emails.” Refreshed through 10:46:04 AM PST (2026-11-05T18:46:04Z), after the November 4 9:07:35 PM PST cutoff. Three exact-interval mailbox pages screened 105 records; nine targeted searches, two draft-status checks and a final incremental check found three new received human project messages and one in-progress unsent owner draft. Complete connector-returned bodies/quoted chains, IDs, recipients, timestamps, links, attachment metadata/materialization reference and query audit are saved in [the November 5 snapshot](evidence/emails/2026-11-05_refresh.json). E001–E003 and D001 apply only to this snapshot. These are connector exports, not original EML/MIME files. All times below are November 5, PST.
+* **Final billing promised today — 10:04 AM (E001):** Troy replies, “Not a problem. We are sending final billing today.” This follows Bharath's November 4 tool-placement, mirror and HVAC email. No invoice, amount or payment deadline appears in this new email, and no actual final invoice was found through the cutoff. The acknowledgment does not by itself confirm completion of all remaining work or a repaired HVAC system.
+* **Sink ordered; delivery and plumber target — 8:07 AM (E002):** Tyson says the sink was ordered yesterday (November 4), will be delivered November 6–7, and he is trying to get the plumber out November 9–10, adding “Stay tuned for confirmation.” The plumber appointment and installation remain unconfirmed. The earlier proposal to add another sink and Scott's “Sink is fine” wording remain preserved; this message does not restate the complete addition/replacement scope or price.
+* **Franchise addendum received — 7:50 AM (E003):** Steven sends an attachment in “Re: Territory clarification,” invites questions and says he looks forward to the opening. The exact attached filename is “First Addendum to Smash Franchsising LLC MUDA and FA_ CLEAN_ 11-4-26.docx” (38,538 bytes). This changes the earlier status from promised document to an attachment received in Outlook. The file's substantive terms were not read, so no extension terms, execution status, waiver/release or legal effect is established by this refresh.
+* **HVAC follow-up remains an unsent draft — D001:** At the final draft-status check, Bharath's draft says heating is not working, the party room was hot while the rest was not, and an overnight setting of 70 yielded a morning reading of 64. The draft opens “Tyson” but its recipient metadata lists Troy, Michael Carney and Jeff Howe. It is preserved as an in-progress, unsent draft at the cutoff, not evidence that a November 5 notice was delivered. Earlier observed versions are saved separately; these observations are not a complete edit history. The assistant did not edit or send it.
+* **Attachment/preservation limits:** The connector materialized the addendum and its reference is saved. Local download failed with curl exit 6 because api.chatgpt.com could not resolve; no local DOCX bytes were created and no document terms reviewed. A bounded addendum filename search in Downloads and the franchise Desktop folder found no local copy. Signed retrieval references may expire. No new direct Alex, City, bank, Bay Alarm or property-management email, official CO copy, HVAC repair result or remaining-punch completion confirmation was found. Earlier attachment gaps remain.
+* **Preservation:** The November 4 evening snapshot remains unchanged (SHA-256 646b06a248ba5123d885af000d98095e88f55d5e52f88044c4b387703064141f); prior 393,241-byte conversation log prefix preserved (SHA-256 73df7308b02b658f24c52a685065460e308c0b2c5c07ab0024aecb6513f8df7e). No emails sent, drafts edited, mailbox read state altered, contacts changed, payments approved, agreements signed or earlier records deleted/overwritten by the assistant.
+
+
+## 2026-11-05 — 11:11 PM email refresh: Carney final invoice $52,184.44; HVAC follow-up sent
+
+* **Request/scope/archive:** User requested “refresh emails.” Refreshed through 11:11:47 PM PST (2026-11-06T07:11:47Z), after the November 5 10:46:04 AM PST cutoff. Two exact-interval mailbox pages screened 92 records; nine targeted searches, a draft-status check covering the prior draft's date range and a final incremental check found three new project messages: one owner-sent, one human received and one automated bank alert. No project drafts remained in the checked interval. Complete connector-returned bodies/quoted chains, IDs, recipients, timestamps, links, query audit and attachment records are saved in [the late November 5 snapshot](evidence/emails/2026-11-05_late_refresh.json). E001–E003 apply only to this snapshot. All times below are November 5, PST. Exports are connector records, not original EML/MIME.
+* **Final invoice received — 12:17 PM (E002):** Jeff Howe sends “Final Invoice and Billing (NEW INVOICE 11.5.2026)” to Bharath, copying Troy and Michael. His body says the attached final invoice is “to close out the job” and states **$52,184.44**. He invites questions/concerns or a request for wire information again. The exact attached filename is “CCS Invoice #5 iSmash Seattle  $ 52,184.44.pdf” (1,211,046 bytes). This advances the earlier promised-billing status to an invoice email actually received. The email body supplies no due date, itemized reconciliation, new wire details, owner approval or proof of completed punch work. The amount is verified from Jeff's message, not from a review of the PDF's pages or contract/payment ledger.
+* **HVAC follow-up now sent — 10:46:17 AM (E003):** Thirteen seconds after the morning refresh cutoff, Bharath sends the heating follow-up. He says the party room was hot but the rest was not, the overnight setting was 70 and the morning temperature was **61**, and asks for it to be fixed. The final sent wording changes the prior in-progress draft's 64 reading to 61 and adds the explicit repair request and closing. Both observations are preserved in their respective snapshots; the sent statement is 61. Although addressed “Tyson” in the body, To contains Troy, Michael Carney and Jeff Howe, with no CC; Tyson is not a direct recipient of this message. No contractor response confirming diagnosis or repair was found.
+* **Bank alert — 7:55 PM (E001):** Quaint Oak reports a $4.85 debit dated November 5 on account ending 1461. The email does not state merchant or purpose. No connection to the final construction invoice or loan payment is established.
+* **Still open:** No new Onesta, iSmash corporate, Alex, direct City, Bay Alarm or property-management message after the morning cutoff. No new completion confirmations for HVAC, cabinet hardware, mirror/tool mounting, fan-switch correction, the separately unannotated loose bolt, extinguishers/signage or the replacement door. Earlier reported sink delivery November 6–7 and tentative plumber November 9–10 remain unchanged. Actual CO document and franchise-addendum terms remain unverified from the earlier refresh; a final invoice alone does not establish project closeout or acceptance.
+* **Attachment/preservation limits:** The final-invoice PDF was materialized by the connector, and its metadata/reference are saved. Local curl download failed with exit 6 because api.chatgpt.com could not resolve; no local PDF bytes were created and invoice pages/line items were not read. A bounded invoice-filename search in Downloads and the franchise Desktop folder found no matching current invoice. Earlier attachment gaps remain; signed references may expire. The morning snapshot remains unchanged (SHA-256 cb8de3f93f3aeaf6ddfd959f7f547487090d75149835f63ba01eac7979493a1d), and the prior 397,206-byte conversation log prefix is preserved (SHA-256 e4b1b3804b47d3888a7ede671f0287aa6ba0d3c187101052f1bade9c00652e0e). No emails sent, drafts edited, mailbox read state altered, payments approved, agreements signed or earlier records deleted/overwritten by the assistant.
+
+## 2026-11-09 — 11:27 AM email refresh: CO correspondence, bank closeout, HVAC and gate payment
+
+* **Request/scope/archive:** User requested “refresh emails.” Refreshed through **11:27:39 AM PST (2026-11-09T19:27:39Z)** after the November 5 late-refresh cutoff, 2026-11-06T07:11:47Z. Twelve fully paginated exact-interval mailbox pages screened 556 records; twelve targeted searches, a draft check and a final incremental check supplemented discovery. Saved **45 new project messages: 24 human (13 owner-sent, 11 received) and 21 automated**. No drafts were returned. The final incremental check returned one unrelated message and no new project match. Complete connector-returned bodies/quoted chains, message IDs, recipients, timestamps, source links, search audit and attachment records are in [the November 9 snapshot](evidence/emails/2026-11-09_refresh.json). E001–E045 below identify records only within this snapshot. All times below are PST. Connector exports are not original EML/MIME.
+* **Bank closeout checklist — November 9, 11:22 AM (E001, responding to E019):** Rose Moran asks for a copy of the CO; a final inspection, with Bharath to tell her when she can order it; evidence of Business Interruption, Business Personal Property and Workers’ Compensation insurance; and a complete list of equipment purchased using loan proceeds. For equipment valued at $5,000 or more, she requests make, model and serial numbers if applicable. She attaches four equipment invoices and asks whether anything should be added. In his November 8, 12:04 AM message, Bharath reported receiving the CO “last thursday,” said opening was planned for November 13 and asked whether the bank collects final unconditional subcontractor lien releases before the final draw. **Rose’s reply does not answer the lien-release question.** It does not establish that the final inspection has been ordered, closeout documents accepted, final draw authorized or construction loan closed.
+* **CO correspondence now includes a PDF — November 6 (E043, E040, E033):** At 7:57 AM, Tyson forwards “CERTIFICATE OF OCCUPANCY” to Troy and Ron, copying Bharath and Kira, saying the CO is attached for their records. Its quoted header identifies cbergsma@everettwa.gov sending to Tyson at 07:52:56 that morning. Attachment: “20261106070547412.pdf,” 622,749 bytes. Bharath asks at 8:29 AM whether it should be in the tenant’s name, then forwards it to Scott at 10:51 AM asking whether it is sufficient because it is not in the tenant’s name. That forwarded attachment is listed as 622,754 bytes; byte identity has not been established. **No answer to the tenant-name or sufficiency question was found.** The PDF itself could not be downloaded or reviewed, so the named entity, premises, permit references, conditions and actual certificate contents remain unverified. Preserve the owner’s separate “last Thursday” statement without inferring an issuance date from it.
+* **HVAC findings and repair proposal — November 6 (E045, E044, E035, E029):** Bharath explicitly adds Tyson to the heating thread at 7:50 AM, resolving the prior email’s recipient omission. At 7:56 AM, Troy reports RTU1 had thermostat heat calls and 24V present, prolonged igniter clicking, a strong gas odor and a small flame at the far-right burner before the remaining burners ignited during phone troubleshooting with Tim. He reports 55°F return/room and 63°F supply, approximately an 8°F difference. Although running at the end of that visit, Troy says the delayed ignition, odor and low temperature rise require further evaluation; this is **not a completed-repair confirmation**. For RTU2, he reports a faulty PCB receiving thermostat input without the required output, says Josh previously diagnosed it and says a previously recommended repair was declined. **The date and person who declined are not established.** Bharath asks at 10:25 AM when this occurred. At 3:55 PM, Troy says he is looking into the timeline, says the landlord should deliver a working unit and offers PCB repair for **$3,500**. No accepted authorization, repair completion or quote covering both units was found.
+* **Landlord HVAC service arranged, result not found (E042, E039, E038, E036, E032, E030, E020):** November 6, Bharath reports prolonged lack of heat to Alex and Katie, then confirms PSE service and thermostat/wiring checks. Alex says Katie will arrange a technician and asserts tenant responsibility if the contractor caused damage. Katie confirms JH Kelly for **Monday, November 9 at 8 AM**, and Bharath confirms access. On November 7 at 11:57 PM, Bharath tells Troy about the visit, says the heater worked before construction earlier in the year, says Onesta should address any issue it caused and requests an Onesta representative at the visit. These are reported observations and parties’ conditional positions, **not determined causation or a lease-responsibility finding**. No November 9 service report, findings or repair-completion email was found by the cutoff.
+* **Onesta gate payment confirmed — November 9 (E021, E018, E008, E002):** Bharath requests ACH to avoid card fees on November 7. A November 8 reminder lists INV-iSmashGate-0001, $560.49, due November 9. At 7:31 AM on November 9, Kira confirms ACH is enabled with no fees. At **9:48 AM**, Buildertrend reports payment complete for invoice 0001: **$560.49 by ACH**. This supersedes the pending reminder. It is an email payment confirmation, not an independent bank-settlement check. The connector redacted a one-time code in Kira’s message; that redaction is preserved. The assistant did not initiate or approve a payment.
+* **Loading dock parking and transition (E041, E037, E022, E023, E007):** Alex approves having a worker mark **one space** “Loading Dock Only” on November 6. Bharath subsequently reports that a delivery truck used 3–4 spaces, requests keeping the whole area clear and notes regular Friday deliveries conflict with full parking around noon. No expanded approval was found. Separately, Bharath asks iSmash about an approximately **7-inch gap** caused by the posts; on November 9 at 7:46 AM, Kevin Macmaster suggests a standard dock plate sized for the use case, available new or used. This is a product suggestion, not a verified design, capacity, fit or code approval. No purchase was made by the assistant.
+* **Franchise addendum follow-up (E028):** Steven asks on November 7 at 10:10 AM whether the owners have reviewed the addendum. No response or execution was found. The November addendum’s terms remain unreviewed because its earlier attachment retrieval failed. Older quoted proposals are not treated as the terms of the current document.
+* **Read.ai and ancillary records (E031, E034, E013 and bank-alert records):** The November 6 automated recap of the 11:30 AM meeting reports approximately 35–39 bookings, unchanged advertising spend, mostly complete setup and pending paint shipments/canvas trays. The paint-pump sentence is truncated; only two of the advertised eleven action items are exposed: Everett dashboard setup and Scott removing the message option from the Omega Smash listing. This is an **AI-generated email recap, not a full transcript or independently verified completion report**. The pre-read refers to the historical October 30 meeting. An Amazon message reports delayed shipment of Brsazee twelve-pack 16 oz spray bottles without a revised delivery date. Sixteen Quaint Oak alerts appear to concern four transactions/amounts: $44.07 Amazon on November 7 (E024–E027), $23.40 Walmart (E014–E017) and $28.72 Amazon (E009–E012) on November 8, and $23.46 Amazon on November 9 (E003–E006). They are not counted as sixteen distinct debits or linked to the Carney final invoice or gate payment without evidence.
+* **Still open:** No new sink-delivery/installation or plumber-appointment confirmation, extinguisher/signage completion, replacement-door completion, cabinet hardware/tool mounting/mirror/fan-switch/outstanding-bolt completion, final Carney invoice payment or project-closeout confirmation was found. The last Carney final invoice remains **$52,184.44**, received November 5; no new invoice terms were reviewed. The previously discussed sink/plumber and punch-list dates remain scheduling reports, not confirmed completion.
+* **Attachment capture and limits:** Three attachment inventories returned eight records: the two CO PDFs, four bank equipment PDFs and two signature images. Six PDFs were successfully materialized as remote attachment references: both CO attachments; “UCS Inv# 23496 $3,412.80 Equipment.pdf” (168,495 bytes); “Amazon $1,651.97- Equipment.pdf” (43,250 bytes); “Sound  Mettle $7,162.30- Equipment.pdf” (24,595 bytes); and “Spinning Design Ord# S10409 $1,761.00.pdf” (171,327 bytes). The attempted CO download failed with **curl exit 6: could not resolve api.chatgpt.com**. Downloads of the other five references were not retried against the same unavailable host. **No new local PDF bytes were saved and no PDF contents were reviewed.** The November 9 attachment directory is empty. Metadata and remote references are saved in the snapshot, but signed links may expire. A bounded local search found only an existing “Finances/Invoice #23496.pdf” candidate under the franchise Desktop folder; it was not read or verified identical to the bank attachment. No local CO copy was found.
+* **Preservation and actions:** The previous November 5 late snapshot remains unchanged: 36,995 bytes, SHA-256 **4f9d61a854c68cbdac484941159578568c8b746980da0ea6fd0cd33b5ab43442**. The prior 401,330-byte conversation-log prefix is preserved, SHA-256 **d77f376791bbde260dce4af93c0f825242559bd84afba5ef269bfc205e0c23f8**. No earlier records were deleted or overwritten. No email was sent, mailbox draft or read state changed, agreement signed, payment authorized, item purchased or inspection ordered by the assistant.
+
+
+## 2026-11-09 — TI warranty responsibility and handover review
+
+* **Question:** “For the TI how/who does Carney provide to warranty the work.”
+* **Primary source:** Executed 52-page Everett agreement, “Construction_Estimate_Increased_iSmash_Everett.pdf,” DocuSign envelope A8DCE057-B73D-4E01-992E-44B496C24B7F. The agreement identifies Smash District, LLC as Owner and Carney Contracting Services as Design-Builder. Relevant source-page extracts, source hash and review limitations are preserved in [the warranty review record](evidence/contracts/2026-11-09_warranty_review.json). Page references below are 1-based PDF pages.
+* **Responsible party and practical contact:** Carney provides the contractual warranty and correction obligation for covered Work (§§3.8–3.9), and is responsible for managing its subcontractors (§5.2, p.10). §4.4.3 (p.10) says Owner has no contractual obligations to the subcontractors, suppliers or Design Professional under this agreement. §3.12 (p.9) names **Michael Carney** as Carney’s authorized representative. Direct a warranty request to Carney, copying Michael, Troy and Ron, and ask Carney to identify its warranty administrator and the local contractor/trades that will perform service. This does not establish a separate direct warranty contract with Onesta or coverage for work independently contracted by the owner/landlord.
+* **General coverage and duration:** §3.8.1 (p.7) warrants materials/equipment furnished under the agreement as new unless otherwise specified, good quality, conforming to Contract Documents and free of defective workmanship/materials, for **one year after Substantial Completion** of the Work or designated portion. Exclusions include abuse, alterations not executed by Carney, improper/insufficient maintenance, improper operation and normal usage/wear and tear. §3.8.2 (pp.7–8) limits owner-specified and owner-purchased products/equipment/systems/materials to the manufacturer’s warranty; for certain owner-specified items purchased by Carney, Carney must assist with warranty claims. Product failure, defective installation and existing-building defects require separate scope/causation analysis; do not treat all existing HVAC faults as automatically covered.
+* **Required handover:** §3.8.3 (p.8) requires Carney to secure and deliver required inspection/testing/approval certificates. §3.8.4 requires Carney to collect **all written warranties and equipment manuals** and deliver them in the Owner-directed format. §3.8.5 requires Carney, with Owner maintenance assistance, to direct utility checkout, startup and system/equipment adjustment and balancing. A requested PDF closeout package should identify covered items/trades, exclusions, start/end dates, warranty contacts/local servicing firms, manufacturer warranties/manuals and applicable startup/test records. The request for a single consolidated Carney warranty confirmation/service-contact sheet is a practical handover request, not a claim that §3.8.4 expressly prescribes a particular letter template.
+* **Correction process:** §3.9.1 (p.8) requires prompt written notice to Carney and an opportunity to inspect/test/correct; Carney must promptly correct Defective Work for which it is responsible at its own cost and time unless Owner accepts the condition in writing. The clause states that failure to notify promptly or give the reasonably requested opportunity can waive correction/warranty/contract rights for that defect. §3.9.2 starts the correction period for portions first performed after Substantial Completion when those portions are complete; corrective repairs do not restart the period. §3.9.6 (p.9) says the one-year correction period is not a limitation period for enforcement of other contractual obligations.
+* **Start-date documentation:** §2.4.23 (p.3) says Substantial Completion is to be confirmed by a certificate signed by both parties; the CO date is not automatically the same date. The definition permits Substantial Completion without a CO when lack of the CO is due to factors outside Carney’s control. No signed Substantial Completion certificate or exact warranty start date was verified in this review. Request the certificate/date and separate dates for work first completed later.
+* **Trade-specific provisions and conflicts:** Plumbing sheet P-0.2 (p.34) uses one year from final acceptance/final approval. Mechanical sheet M-0.1 (p.39), general note 17, states one-year parts/labor and five years on compressors from project acceptance; its scope note 3 also calls for a written guarantee. Mechanical p.41 uses one year from architect/engineer acceptance. Electrical E-0.1 (p.45), note 8, states one year from final acceptance, and E-0.2 (p.46), §2.C, calls for a written guarantee with final-certificate-for-payment/use/occupancy wording. These are specific provisions within the attached drawings, not proof of a new manufacturer warranty on retained existing rooftop equipment. **Do not silently substitute any drawing’s start date for §3.8.1:** §14.2 (p.22) places written amendments/Change Orders first, this agreement next and approved design documents after it. Request itemized written confirmation/reconciliation.
+* **Final-payment distinction:** §9.4.2 (p.16) expressly excepts improper workmanship/defective materials appearing within one year after Substantial Completion, nonconforming Work and special warranties from its final-payment waiver. This supports continued warranty protection for those specified categories; it is not advice that all other disputed claims survive final payment.
+* **Correspondence search result:** Independent review of local saved email evidence and targeted Outlook searches found no separate Carney/Onesta workmanship warranty handover, named warranty administrator or local warranty-provider commitment. Carney warranty/workmanship keyword hits involved plan attachments, with no warranty promise in the email body. Onesta warranty search returned zero. A separate UCS camera/recorder warranty was found but is not Carney’s TI warranty. This bounded search does not prove that no warranty document exists elsewhere.
+* **External reference and status:** Washington L&I’s [Hire Smart guidance](https://www.lni.wa.gov/licensing-permits/contractors/hiring-a-contractor/hire-smart-step-by-step) recommends written warranty terms and a subcontractor/supplier list; the duration and obligations above come from the actual agreement. No email was sent, payment changed, warranty accepted, contract amended or earlier evidence removed.
+
+
+## 2026-11-09 — Draft reply to Troy/Jeff on final invoice and closeout
+
+* **User request:** “Help me respond to Troy/Jeff email on closing.”
+* **Sources checked:** Four targeted Outlook searches, all returned without continuation, rechecked Jeff's November 5 final invoice email ($52,184.44), Troy's final-billing/punch-list/HVAC messages and Onesta's latest sink scheduling/CO forwarding. Review cutoff 11:54 AM PST. Jeff's quoted chain retains Tyson's annotated November 4 punch list. No newer final-billing instruction or completion confirmation appeared in these results. This is a focused draft review, not a full mailbox refresh.
+* **Proposed response:** Acknowledge receipt and review of the invoice, request updated punch-list completion status and firm dates, final account reconciliation, the contractual conditional final lien waiver and subcontractor/supplier payment/release information, and warranty/manual/inspection handover with Substantial Completion certificate, dates and named warranty/service contacts. Ask for the outstanding RTU #2 diagnostic/declined-repair timeline and service records without authorizing the $3,500 proposal or assigning liability. Coordinate lender final inspection/payment under the agreement; do not treat CO/invoice receipt as acceptance of unresolved work.
+* **Limitations:** The invoice PDF remains unread, and its balance has not been reconciled. Missing completion confirmation is not proof every listed item remains incomplete. Bank has not confirmed that it requires final unconditional subcontractor releases before final draw. The draft does not purport to override §9.4.2's final-payment waiver or decide payment entitlement.
+* **Preservation/status:** Exact draft, full connector-returned source messages, source links and query scope are saved in [the closeout reply draft record](evidence/emails/2026-11-09_closeout_reply_draft.json). **Draft only: not sent and no Outlook draft created.** Earlier records remain preserved.
+
+
+## 2026-11-09 — Closeout draft revised to request latest change-order receipts
+
+* **User clarification:** Receipts for the latest change order have not been received; include a request in the response to Troy and Jeff.
+* **Draft revision:** Item 2 now requests the final account reconciliation plus itemized receipts and supplier/subcontractor invoices supporting the latest change order. The remaining draft is unchanged. The missing-receipts statement is user-reported; this edit does not determine the change-order amount or reopen its approval status.
+* **Saved version/status:** [Revised complete draft, version 2](evidence/emails/2026-11-09_closeout_reply_draft_v2.json). The original draft and its source messages remain unchanged. Draft only; no email sent or mailbox draft changed.
+
+## 2026-11-09 — Closeout draft revised to address uneven heating and balancing
+
+* **User clarification:** Heat is not distributed evenly among rooms; ask Carney about rebalancing.
+* **Draft revision:** Expanded the heating paragraph to ask Carney to coordinate room-by-room temperature/airflow checks, confirm prior testing and balancing, arrange necessary adjustments or rebalancing, and supply findings, any test-and-balance report and a proposed schedule. Ask whether equipment repairs are prerequisites. Retained the RTU #2 history/service-record request and the version 2 request for latest change-order receipts.
+* **Evidence boundary:** Uneven heating is user-reported. The draft does not diagnose a cause, promise that balancing will solve it, allocate responsibility for existing HVAC faults or accept the separate $3,500 repair proposal.
+* **Saved version/status:** [Revised complete draft, version 3](evidence/emails/2026-11-09_closeout_reply_draft_v3.json). Earlier drafts and records remain unchanged. Draft only; no email sent or mailbox draft changed.
+
+## 2026-11-09 — 2:23 PM email refresh: closeout response sent; counterpart replies pending
+
+* **Request/scope/archive:** User requested “refresh emails.” Refreshed through **2:23:57 PM PST (2026-11-09T22:23:57Z)**, after the morning cutoff at 11:27:39 AM. One complete exact-interval mailbox page screened 26 records; eight targeted searches covered Carney, Onesta, iSmash corporate, NW Prime, Quaint Oak, City of Everett and project names. All returned without continuation. A final incremental check returned zero messages, and a draft check returned zero drafts. **One new project email was found, owner-sent; no new received project messages.** The complete connector body/quoted chain, metadata, source link and search audit are saved in [the November 9 afternoon snapshot](evidence/emails/2026-11-09_afternoon_refresh.json). E001 applies only to this snapshot. Non-iSmash correspondence was excluded.
+* **Closeout response now sent — 12:26 PM PST (E001):** Bharath replies to Jeff’s final invoice thread, To Jeff Howe, CC Troy Fink and Michael Carney. He acknowledges the **$52,184.44** invoice as under review, requests status of scheduled punch work and dates for undated items, and asks that post-opening work be coordinated to minimize disruption. This advances the closeout requests from local drafts to actual owner-sent correspondence.
+* **HVAC balancing and records requested:** The sent email separates the immediate component failures being investigated from Carney’s HVAC closeout duties. It requests Carney/Onesta diagnostic and service records, any test-and-balance report, confirmation whether final adjustment/balancing within Carney’s scope has been completed, and a completion date for anything remaining. Bharath says he raised unbalanced heat last week and requests checks across all rooms. It does not approve the $3,500 PCB repair proposal, determine causation or repeat the earlier explicit question about when the prior PCB repair was declined.
+* **Financial records and latest change-order receipts requested:** The sent email requests original contract amount, approved change orders, payments received, credits and the remaining-balance calculation, plus itemized receipts and supplier/subcontractor invoices supporting the latest change order, which Bharath states he has not received. No invoice-balance acceptance or receipt delivery is established.
+* **Lien process requested, not yet accepted:** Sent items 4 and 5 overlap on lien documentation. Bharath requests Carney’s contractual conditional final waiver under §9.4.1/Exhibit E; an accounting of every subcontractor/supplier, paid amounts and outstanding balances; unconditional releases for amounts already paid; and conditional final waivers from parties to be paid in the final disbursement. He asks for confirmation that unconditional final releases from Carney, Onesta and other final-disbursement payees will follow cleared payment, and for identification of any party/amount unable to provide the applicable release so the lender can arrange a joint-check or other controlled-payment process. These are the **owner’s requests**, not verified bank requirements, lender approval of a payment mechanism, Carney acceptance or actual releases received.
+* **Warranty and acceptance position:** Bharath requests written warranties/manuals, inspection/testing records, Substantial Completion certificate, warranty dates, Carney’s warranty contact and local servicing contractors. He says lender inspection/payment coordination will follow document review and confirmation of outstanding-work status under the agreement and lender requirements. His closing paragraph expressly states that receipt of the CO and invoice does not constitute acceptance of unresolved work, approval of the balance, confirmation final payment is presently due or waiver of rights/claims. This records his position; it is not a conclusion that this email overrides the agreement’s final-payment waiver.
+* **Draft preservation/differences:** Preserve versions 1–3 as draft history. The actual sent text uses a consolidated punch-status request instead of listing every item, omits the November 13 opening date, expands the lien-release process and reframes the HVAC request around closeout records and balancing. The actual sent message, rather than a draft, is the evidence of what was communicated. No new mailbox draft was returned.
+* **Still open:** No newer reply from Carney, Onesta, iSmash corporate, Alex/NW Prime, City or Quaint Oak after the morning cutoff. No new HVAC technician outcome, balancing report, remaining-punch completion confirmation, latest change-order receipts, warranty package, final-draw approval or answer to the bank’s subcontractor-release question was found. This does not establish that unconfirmed physical work has not occurred.
+* **Attachments/preservation:** E001 reports no attachments and contains no cid references; no new attachment download was required. Prior PDF/addendum download gaps remain. The morning snapshot remains unchanged (366,615 bytes; SHA-256 c6eb2e059559a60a8a748995f97f0eeab4d18ca40aeeb63ded0bfbc799ff373f). The preceding 421,754 bytes of this log are preserved (SHA-256 d0000f1d93af007096384798d5713d1c295f41662d3502a28ef256dec8d31eb5). No earlier record was deleted/overwritten, and no email was sent, draft/read state changed, payment authorized, inspection ordered or agreement signed by the assistant.
+
+
+## 2026-11-10 — 8:37 AM email refresh: territory/royalty response, management routing and drafts
+
+* **Capture/evidence:** Refreshed from November 9, 2026, 2:23:57 PM PST through November 10, 2026, 8:37:20 AM PST. Saved [full connector-returned message bodies and evidence audit](evidence/emails/2026-11-10_refresh.json): 12 actual emails (5 owner-sent, 5 human-received, 2 automated notices) and 2 separately identified unsent drafts. The initial 139-record scan was fully paginated across three pages; a final four-record incremental check added one project draft and no actual project correspondence. Ten targeted searches were fully paginated, including independent Carney/Onesta searches. All new actual correspondence in this capture is from November 9 afternoon/evening in Pacific time.
+* **Carney / Onesta — no new closeout response:** No new reply after the prior cutoff to Bharath's November 9, 12:26 PM closeout email. No new HVAC technician outcome or balancing report, latest change-order receipts, warranty handover/start-date/service-contact confirmation, or remaining punch-list completion confirmation was found. No new bank/City correspondence, final-draw approval or answer to the bank's subcontractor-release question. Missing confirmation does not establish that physical work has not occurred.
+* **Territory / royalty negotiations (E001, E006, E007, E009):** At 5:35 PM November 9, Bharath said the addendum was awaiting attorney review, requested clarification of Kent's territory and asked about inability to find a feasible second location within the described 18-month period. At 5:41 PM, Steven said Kent's territory had not been determined and was looking to be around a six-mile radius; he said additional extensions could be provided. These are preliminary statements, not a defined boundary or a specific new extension/deadline. At 5:46 PM, Bharath requested the Kent agreement and proposed zero royalties for year one and 5% thereafter. At 6:19 PM, Steven said he would need to ask counsel whether he could share Kent's agreement, reiterated that Kent's territory remained undefined, and declined zero first-year royalties, saying the 5% was already a meaningful concession. No accepted/executed amendment or Kent agreement delivery is established by this exchange. The 18-month period is the owner's description, not independent verification of the unread addendum.
+* **Property management / loading dock (E010, E008):** Alex's November 9, 5:06 PM email directs future management requests to Katie and asks that Alex's email be removed from future property-management correspondence. This records Alex's routing request; it does not establish a change in lease responsibility or authorize the assistant to change contacts. At 5:37 PM, Bharath wrote Katie Kalamakis (katie@motionpg.com), requesting that the loading dock remain clear because delivery times vary, including a delivery “tomorrow” (November 10). No Katie response or confirmation of dock clearance was found.
+* **Website address (E005, E004, E003, E002):** Bharath requested the website address include “607 SE Everett Mall Way Ste 1 Everett WA 98208.” Scott directed use of support tickets/owner website access and noted available Cybermark training. At 6:04 PM, Kevin said “It's been updated” and that Scott would demonstrate website updates during the site visit. Bharath thanked Kevin at 6:07 PM. This is email-reported completion; the website itself was not checked, and no visit date was provided.
+* **UNSENT rent draft (D001):** “Base-Rent Commencement date” is confirmed as a draft, not a sent request. It seeks at least three additional months' base-rent relief from December 1, 2026 through February 28, 2027, yet proposes April 1, 2027 commencement, leaving March unexplained. Reconcile these dates before sending. It says NNN/utilities/additional rent would continue. References to a November 3 final CO and approximately 142 days of fire-alarm work are owner-draft assertions, not independently verified new findings. No landlord approval or lease amendment was found. The draft was not edited.
+* **UNSENT Punch Walk draft (D002):** A “Re: Punch Walk” draft appeared at November 10, 8:35:56 AM, addressed to Tyson/Troy/Scott with Robbi/Kira copied. It contains the older quoted November 4 thread and no newly authored text. It is not a new contractor update or a sent owner message.
+* **Ancillary automated deliveries (E011–E012):** Amazon notices report delivery of acrylic brochure holders (order 112-2715202-4077863) and water guns (order 112-7904322-1733863) near the front door/porch in Bothell, on behalf of Smash District LLC. These are email delivery reports, not proof of delivery to the Everett store.
+* **Attachments / limitations:** Although the four new Store-thread messages reported no ordinary attachments, cid references led to five inline PNG attachment records. Metadata and remote materialization/retrieval references are saved in the snapshot. Local download of the original address screenshot failed with curl exit 6: “Could not resolve host: api.chatgpt.com.” No image bytes were saved or reviewed; other same-host records were not retried. The attachment directory for this capture is empty. Earlier PDF/CO/addendum download gaps remain. Connector-returned body redactions are preserved exactly; this archive is not an original MIME/EML export.
+* **Preservation/action boundary:** The previous afternoon snapshot remains unchanged (19,800 bytes; SHA-256 06963ec676b0f9e76d258bc28a3b7c7143957745ba28df15f815471920d16366). The preceding 427,218 bytes of this log are preserved (SHA-256 015494d1328cf5a81d17c9c39ca530dbc61a182ad9ec50f6c65b9319b5798ffd). No earlier evidence was deleted or overwritten. No email sent, draft/read state intentionally changed, payment authorized, inspection ordered or agreement signed by the assistant.
+
+
+## 2026-11-16 — 2:08 PM email refresh: supplemental punch list, closeout follow-up and property operations
+
+* **Capture/evidence:** Refreshed from November 10, 2026, 8:37:20 AM PST through November 16, 2026, 2:08:59 PM PST. Saved [November 16 email evidence](evidence/emails/2026-11-16_refresh.json): **76 actual emails** (24 business messages: 10 owner-sent and 14 received; plus 52 automated purchase/bank notices), **one new unsent bank draft**, and the **existing unsent rent draft** as current context. The exact interval scan covered 923 mailbox records across 27 pages; ten targeted searches and final incremental scan were fully paginated. The final incremental scan returned zero records. Forty-three truncated automated listing bodies were replaced with complete batch-fetch bodies. E/A/D identifiers below refer only to this snapshot.
+* **Carney closeout follow-up (E001):** November 16 at 1:26 PM, Bharath followed up Jeff/Troy, copying Michael, on pending items in the November 9 final-invoice thread. No new reply addressing account reconciliation, latest change-order receipts, lien releases or warranty handover was found. No new approval of the $52,184.44 balance, final payment, or acceptance of all remaining work is established.
+* **Sink and supplemental punch items (E024, E023, E022):** November 10 at 9:01 AM, Tyson reported the sink installed and planned fire extinguishers, storage-room passage lever and cash-wrap work. Bharath confirmed sink installation and sent supplemental items at 9:17/9:20 AM, including iSmash signoff on steel/bolts, tools, uneven heating/rebalancing, deep cleaning, lobby exit direction, paint-room lever pins, cash-wrap access, mirrors, dispenser keys, fan-switch location, fountain flow, Gear Room 2 sign/paint and soap dispenser. Tyson's earlier “wrap everything up” statement preceded this supplemental list.
+* **Tyson's 3:28 PM November 10 response (E017):** Reports bolts retightened; tools, lobby exit sign and cash-wrap work done; cleaning happening that day. HVAC rebalancing and fan-switch correction are directed to Troy with “what do you want to do here?” New passage levers must be ordered, with a claimed added cost (not owner-approved in this email). Mirrors were not onsite; dispenser keys were being worked on. Gear Room 2 sign/painting and soap dispenser were targeted for November 11. Fountain flow is said to adjust from underneath. No later confirmation resolving the open items was found.
+* **Smash Room 3 steel/bolt concern (E018, E017, E016):** Scott's November 10, 10:03 AM onsite email reports three loose bolts and a huge gap. Tyson's later reply reports retightening and cautions that excessive tightening can compress/crush metal studs and compromise wall integrity. On November 11 at 4:13 AM, Ron asks whether there is anything else and requests a picture. No subsequent Scott signoff or specific confirmation that the gap was resolved was found. These are attributed email statements, not an independent engineering assessment.
+* **Loading dock and parking (E021, E020, E019):** Katie says shared parking cannot be guaranteed clear; permits one marked loading space at tenant expense and temporary cones for deliveries, removed afterward. She expressly says no permanent blocking of stalls. Bharath explains one car space is insufficient for the delivery truck and will try dates other than Friday. No guarantee of exclusive access or confirmation of repainting is established.
+* **Property operations / pallets (E010–E013, E005, E004, E003, E002):** Katie states garbage pickup is Monday, Wednesday and Friday. Following Bharath's November 14 report that bins were full and the other gate locked, Katie supplied west-enclosure access information and said the north enclosure has no code. November 16 at 10:26 AM she asked that all pallets be removed and supplied Everett Pallets' contact; at 11:51 AM Bharath said they would be removed that evening. Removal is promised, not verified complete. The November 11 building notice announces Yale Energy cooking-oil containers; it is retained as building correspondence.
+* **Franchisor / e-waste (E015, E009, E007):** Steven followed up the territory/addendum discussion on November 11 at 7:47 AM without new substantive terms. No defined Kent boundary, accepted amendment or signed agreement was found. November 13, Bharath requested local e-waste providers; Scott redirected requests to the support portal and said Divya had found someone, with a truck rental or hired drop-off needed. No booking or completed disposal is established.
+* **Operational insurance proposal (E008):** November 13 at 12:48 PM, Insurance Allies/SPG sent a proposal email with binding prerequisites and expressly stated **workers' compensation is not included**. Attachment metadata lists five PDFs: general liability, excess, property, finance agreement and insurance proposal. Although the email mentions an accident quote, no separately named Accident Quote file was returned. File contents could not be downloaded/reviewed, so this refresh makes no finding about actual coverage limits beyond the email's description, premiums, policy effectiveness or whether coverage has been bound.
+* **Loan-servicer request (E006):** November 14 at 12:53 AM PST, IFS servicing sent a second request on behalf of Quaint Oak for 2026/latest-year-to-date real-estate tax payment evidence for the Bothell collateral, loan ending 89102, asking for a response within seven days. This is a request for evidence, not proof the tax is unpaid. No response or upload was verified.
+* **Unsent bank reply and rent draft (D001, D002):** D001 is a current **unsent** reply to Ro/Quaint Oak. It says documents/invoices through November 5 have been uploaded and asks what to include and values for business interruption, business personal property and workers' compensation insurance. The upload statement is not independently verified. D002 remains the previously archived unsent base-rent-relief request, with February 28 relief end versus April 1 commencement leaving March unexplained. Neither draft was sent or edited by the assistant. Other unrelated/older unchanged drafts were excluded from the archive.
+* **CO forward (E014):** November 11 at 8:20 AM, Bharath forwarded the existing CO to Divya to print. This is not a new City issuance. Attached 20261106070547412.pdf was remotely materialized but remains unread locally.
+* **Ancillary evidence:** The 52 automated notices preserve purchases/shipping/delivery and bank transaction alerts. Multiple bank alerts may describe the same transaction. They do not establish contractor payment, delivery to a particular project area, installation or acceptance.
+* **Attachments / limitations:** Thirteen attachment records across six messages/drafts were listed and remotely materialized: five insurance PDFs, one CO PDF, five non-inline photos and two inline bank-draft images. Metadata and expiring retrieval references are preserved. A local CO download attempt failed with curl exit 6, “Could not resolve host: api.chatgpt.com”; the other same-host files were not retried. **No attachment bytes were downloaded or reviewed.** Earlier download gaps remain. Complete connector-returned message bodies/quoted chains are preserved with existing connector redactions; these are not original MIME/EML exports.
+* **Preservation/action boundary:** The November 10 snapshot is preserved (368,299 bytes; SHA-256 afce7fd5bd491fd323a78c5d25fbbd85beb75b0fef16f04ee7796ebe3ceaeb2a). The preceding 433,113 bytes of this log are preserved (SHA-256 34dd0276feed7b2da02c7599bd223f20a7d9dbb06fa57682f0af8f86c0f6dae9). No earlier record was deleted or overwritten; no email sent, mailbox draft edited, payment authorized, policy bound, document signed or outside party contacted. Absence of new completion evidence does not establish that unconfirmed work did not occur.
+
+
+## 2026-11-16 — 11:14 PM email refresh: Troy closeout response and payment-linked scheduling
+
+* **Capture/evidence:** Refreshed from November 16, 2026, 2:08:59 PM PST through **11:14:08 PM PST** (2026-11-17T07:14:08Z). Saved [late November 16 evidence](evidence/emails/2026-11-16_late_refresh.json): three new actual emails (one owner-sent, two received), two new unsent drafts and the existing rent draft as current context. The exact interval scan covered 63 records across two pages; ten targeted searches were fully paginated. Final incremental check found one new blank bank reply draft. Full Troy body replaced the truncated list/search version using independent-review retrieval.
+* **Troy now responds — November 16, 4:46 PM (E001):** He describes an available closeout package: Invoice #5/AIA G702 for $52,184.44; Carney conditional final waiver for that balance; Onesta signed/notarized unconditional final waiver reportedly confirming $433,979.97 paid; 27 subcontractor waivers reportedly documenting $195,455.26; and Omni Mechanical's June 8, 2026 air-balance report. These are **Troy's descriptions**, not verified attachment contents. Onesta and subcontractor figures must not be added as independent payments because overlap/scope is unverified.
+* **Payment linked to scheduling:** Exact new sentence: **“Please send payment per our contract at CO and we will schedule the final few items.”** This records Troy's payment/scheduling position. It does not determine whether the agreement makes payment presently due or permits withholding remaining work. He refers to last week's punch list but supplies no new itemized completion dates.
+* **Financial/HVAC statements:** Troy states total contract value $521,026.69, previous payment certificates $468,842.25 and final balance $52,184.44. The subtraction matches, but certificates and amounts have not been reconciled against actual payments or signed change orders in this refresh. He says, “We balanced the working Hvac unit and attached it.” The email identifies a June 8 report; this alone does not verify resolution of November uneven heating, faulty equipment, or balancing of all rooms. No explicit warranty/manual/Substantial Completion package or latest change-order receipts is listed in the new body.
+* **Important attachment limitation:** Outlook returned **one PDF only**, named **2A.Unconditional Final Payment Waiver[64].pdf**, 194,598 bytes, with no next page or listing error. It was remotely materialized, but local download failed with curl exit 6: “Could not resolve host: api.chatgpt.com.” It is unknown whether that PDF bundles other documents. Signatures, notarization, parties, sums, release scope/exceptions and the claimed HVAC report remain unverified. Do not record all five described document groups as received/verified, or infer from the filename that it is Carney's or Onesta's waiver.
+* **Bank questions now sent — 2:50 PM (E002):** Bharath sent Rosemarie Moran and Steven Willard the message previously captured as an unsent draft. It says documents/invoices through November 5 have been uploaded, more will follow that week, and asks what to include and values for business interruption, business personal property and workers' compensation insurance. The upload statement is not independently verified. No new bank reply or inspection authorization found.
+* **Katie — 2:44 PM (E003):** “Thank you for addressing this” acknowledges the owner's pallet-removal response. It does not explicitly confirm physical removal.
+* **Draft status (D001–D003):** A new 11:12 PM bank reply draft contains only quoted sent correspondence, with no new authored text. The 2:49 PM “eWaste bin” draft to Katie is incomplete (“Katie, we have Ewaste tr”) and unsent. The existing rent-relief draft remains unsent with the previously noted February 28/April 1 date mismatch. No draft was edited or sent by the assistant.
+* **Insurance-financing reminder — 10:17 PM:** First Insurance Funding sent a reminder to e-complete premium-finance quote/application **504267303** through Insurance Allies. This is an administrative financing request, not evidence that the operational policies have been bound, that the quoted coverages satisfy the lender, or that Workers' Compensation has been obtained. Confirm the binding status directly with the insurance agent and separately address Workers' Compensation if applicable.
+* **Recruiting check:** No direct recruiter, interviewer, hiring-manager, scheduling, feedback, decision or offer email was found in this refresh from Microsoft, NVIDIA, Google, CoreWeave, Apple or Snap. Microsoft/Oracle/Snap LinkedIn recommendations are automated job-discovery alerts and do not represent pipeline movement. The November 19 Microsoft Azure Storage loop remains unchanged by this mailbox refresh.
+* **Security event:** Ring reported an alarm at approximately **10:30:32 PM PST**, followed by a disarm notice about six seconds later and a later Home/Armed notice. The mailbox does not identify whether the event was expected or independently verify the physical location; check Ring event history/cameras if this was not recognized.
+* **Other attachments/preservation:** Four inline bank-thread image records were also remotely materialized, bringing the total to five attachment records. Metadata and expiring retrieval references are saved; **zero local attachment files downloaded or reviewed**. The afternoon snapshot remains unchanged (1,951,817 bytes; SHA-256 9c576d0023ec44a0697ea9b69c41c3fcb8934d041f5a4a6d2e2046199d36a083). The preceding 441,018 bytes of this log are preserved (SHA-256 62ae21d568514b6d41880c8a7e78d56fd6b04a85f1ebf907dc78e829068df068). No earlier evidence deleted/overwritten, email sent, payment authorized, final acceptance made, policy bound, agreement signed or inspection ordered. Connector-returned bodies are preserved, not original MIME/EML exports.
+
+
+
+## 2026-11-17 — Review of Troy's response against the six closeout requests
+
+* **User request:** Does Troy address all six items called out in the email?
+* **Sources:** Owner's November 9, 12:26 PM request and Troy's November 16, 4:46 PM reply, both in [late November 16 snapshot E001](evidence/emails/2026-11-16_late_refresh.json). [Detailed six-item comparison](evidence/emails/2026-11-17_closeout_six_item_review.json).
+* **Finding:** Not fully. Items 1–5 are partial; item 6 is not substantively addressed. None is established as fully satisfied from the reply and currently verified evidence.
+* **1. Punch-list closeout — Partial:** No current item-by-item completed/open status, revised dates, dates for previously undated items, or specific arrangements to minimize disruption after opening.
+* **2. HVAC closeout records — Partial:** No current room-by-room confirmation addressing November uneven heat, identified diagnostic/service records, clear statement of all remaining HVAC-scope work or completion dates. Historical balancing is not confirmation current complaint is resolved.
+* **3. Final account reconciliation — Partial; documents unverified:** Arithmetic matches but original sum/change-order breakdown/payment receipts/credits require verification. Latest change-order itemized receipts and supplier/subcontractor invoices are not identified in his reply. Payment certificates alone do not verify funds paid.
+* **4. Lien documentation — Partial; documents unverified:** No complete subcontractor/supplier payment-status list identifying each outstanding balance and arrangements to obtain remaining releases. Actual release types, signatories, scope and amounts not verified.
+* **5. Final-disbursement process — Partial:** Does not expressly confirm every subcontractor/supplier accounting, applicable conditional final waivers for all remaining payees, unconditional final releases after cleared payment from all relevant parties, or exceptions needed for a lender-controlled payment process.
+* **6. Warranty and handover package — Not substantively addressed:** No written warranty package, equipment manuals, Substantial Completion certificate, warranty start/end dates, designated Carney warranty contact or local service contractors. Full inspection/testing handover is not established.
+* **Verification boundary:** Only one PDF was returned by Outlook. Its contents could not be downloaded, so Troy's document list is a description rather than verified receipt/completeness. One PDF could bundle multiple documents. No conclusion that final payment is due, no payment/waiver/closeout approval and no new mailbox refresh were made. No email sent. Earlier evidence preserved.
+
+
+
+## 2026-11-17 — Pending punch-list and closeout reconciliation; corrected attachment received
+
+* **User request:** Check everything pending from the checklist. Reviewed the original November 4 list, November 10 supplement/responses and November 16 closeout email, then ran four fully paginated live searches covering Carney, Onesta, Punch Walk and iSmash. [Complete pending checklist and evidence references](evidence/emails/2026-11-17_pending_checklist.json).
+* **New material development — 5:25 PM PST:** Troy emailed, “Wrong attachment. Forgive me! Please see corrected.” Outlook returns iSMASH_Everett_Closeout_Revised_Final.pdf, 2,261,093 bytes. This supersedes the earlier wrong-waiver attachment as his intended closeout package. Metadata and remote retrieval reference saved. Local retrieval failed with DNS curl exit 6; browser fallback was blocked with net::ERR_BLOCKED_BY_CLIENT. No PDF contents reviewed. Paperwork now belongs in **received for review / unverified**, not a blanket missing-document finding.
+* **Physical work — 13 open or completion-unconfirmed groups:**
+  * **Smash Room 3 backward-installed door:** Replacement ordered November 4, approximately two weeks out. No install confirmation found.
+  * **Steel-wall/bolt correction and iSmash signoff:** Scott found three loose bolts and a huge gap in Smash Room 3 on Nov10 10:03 AM. Tyson later said retightened, warning metal studs can compress/crush with excess tightening. Ron Nov11 asked for picture. No later Scott signoff. Original Smash1 left plate second bolt from bottom had no individual DONE annotation; include that bolt in final verification rather than assert it remains physically loose.
+  * **Uneven heating / HVAC final adjustment:** Tyson deferred balancing to Troy Nov10. Troy Nov16 says working unit balanced and cites Omni June8 report. No confirmed current room-by-room resolution. Nov6 diagnostic summary WAS delivered; RTU1 further evaluation and RTU2 PCB replacement were recommended. Landlord JH Kelly visit scheduled Nov9, result not found in supplied snapshots.
+  * **Fan-switch location/correction:** Original list calls this Large Paint Room; Nov10 supplement labels Smash Rooms. Switch next to fan versus specified cash wrap. Tyson asks Troy what to do. Confirm exact affected location rather than count as separate defects.
+  * **Paint-room door handle pins / new passage levers:** Tyson says new passage levers need ordering and asserts added cost. No approved amount/order/date or install confirmation found. Lock removal Nov4 was a separate completed step.
+  * **Sink mirror installation:** Owner expected delivery Nov10–12; Tyson said not onsite Nov10. Later Amazon shipping notices do not prove installation.
+  * **Paper towel dispenser keys, paint-cleanup/restrooms:** Tyson says 'Working on this' Nov10.
+  * **Deep cleaning:** Tyson says 'Happening today' Nov10, not explicit finished.
+  * **Gear Room 2 employee sign removal and repainting:** Nov4 repaint marked DONE, but owner Nov10 again requests sign removal/paint and Tyson gives 11/11 target. Use later response.
+  * **Soap dispenser installation:** Grouped DONE Nov4, but Nov10 supplement repeats it and Tyson gives 11/11 target. No later done confirmation.
+  * **Paint-cleanup cabinet door hardware:** Tyson Nov4 says '11/5 tomorrow'; no subsequent explicit finished status found.
+  * **Two tagged fire extinguishers and required signage:** Ordered Nov4/target Nov9. Nov10 morning Tyson still says 'will also be installing the fire extinguishers'; no subsequent explicit completion/signage confirmation found.
+  * **Storage-room passage lever:** Nov10 Tyson says will install; no subsequent completion confirmation. Do not confuse with storage-room doors marked done Nov4.
+* **Reported completed:** Sink installation (Tyson and owner), tool mounting, lobby exit-sign direction and cash-wrap cable/access work; original November 4 completed items include storage-room doors, gate-bolt removal, specified ceiling tiles, outlet covers, racks, glove holders and assorted finishing. Complete attributed list in the saved checklist. No assistant onsite inspection.
+* **Information follow-ups:** Fountain-flow adjustment instruction was answered (“under the unit”); demonstration only if still needed. Smash Room 2 unplanned outlet's explanation/cost remains unanswered even though blank cover is reported done.
+* **HVAC precision:** Troy DID provide a detailed diagnostic summary November 6 (November 9 snapshot E044). The later repair outcome/underlying service records and current all-room heating resolution remain unconfirmed. Do not state that no diagnostic information was ever provided.
+* **Closeout paperwork:** Verify corrected PDF for latest-change-order receipts/invoices, actual payment/credit reconciliation, parties/amounts/conditions in lien releases, complete supplier/subcontractor accounting and warranty/handover material. Still need clear completion dates, current HVAC confirmation and an explicit final-release process. No legal conclusion on payment timing or sufficiency of waivers. Earlier evidence retained; no email sent, payment approved or final acceptance made.
+
+
+
+
+## 2026-11-17 — Corrected 37-page Carney closeout PDF reviewed
+
+* **User:** “Correct attachment was sent.” User supplied Desktop/2026/iSmash/Construction/iSMASH_Everett_Closeout_Revised_Final.pdf.
+* **Preserved source:** [Corrected PDF](evidence/emails/attachments/2026-11-17/iSMASH_Everett_Closeout_Revised_Final.pdf), 2,260,677 bytes, SHA256 daaf7a4c8119309c9d37bd48e57091ff0ad11dfe3dda09966922bd35ad55bd25. Local original/copy match; Outlook metadata previously reported 2,261,093 bytes, so exact remote-binary identity is unverified. Earlier access failure is historical; supplied local PDF now reviewed.
+* **Detailed assessment:** [Revised six-item checklist, financial audit and page-by-page waiver audit](evidence/emails/2026-11-17_corrected_closeout_review.json). All 37 pages covered by visual review and extraction; image-only page6 read visually.
+* **1. Punch list:** No revised list, item-level completion confirmations or dates in packet. Prior 13 open/completion-unconfirmed groups remain for follow-up, not a claim that all13 are physically unfinished.
+* **2. HVAC:** Pages35–37 now supply Omni June8,2026 balance report. Test mode is **Cooling**, with RTU3/4/5 headings, not current heating-mode/room-temperature results. Current uneven heating and later repair outcome remain unconfirmed; reconcile unit numbering with November RTU1/2 diagnostic email. Troy's November6 diagnostic summary was already supplied.
+* **3. Financials:** Pages1–3 reconcile $459,870 original + $61,156.69 changes = $521,026.69 revised − $468,842.25 previous payment certificates = $52,184.44 requested. CO10 $3,356.40 included, but latest CO itemized receipts/supplier-sub invoices, transaction ledger and explicit credits remain missing. G703 referenced but absent. Page2 says TAX NOT INCLUDED. Page3 PERIOD TO9/22/27 and CONTRACT DATE10/27/2026 need correction/confirmation. G702's zero retainage/zero balance-to-finish are Carney's assertions, not independent completion evidence.
+* **4. Releases:** Signed/notarized Carney conditional final waiver on p4; Onesta November16 final-application unconditional $433,979.97 on p6 (earlier October28 copy on p5); Omni November16 final-application unconditional $41,578.01 on p23. These documents are now verified present.
+* **5. All-party accounting/process:** 27 historical progress forms for10 downstream parties total $195,455.26; 26 unconditional progress and one older conditional Omni form on p21. All historical forms exclude retention and later work. New Omni final amount overlaps its three progress amounts; do not double count. Other9 named downstream parties have only older progress forms here. Complete current roster/balances/retention and final-release arrangements still need confirmation. Carney p4 uses cleared-check wording; clarify if ACH is intended. Cover's all-paid statement is recorded as Carney's assertion.
+* **6. Warranty/handover:** No written warranty package, manuals, Substantial Completion certificate, warranty dates or service-contact handover supplied in this packet; historical HVAC report is the testing material provided.
+* **Boundary:** This is a factual document/checklist review, not a finding that final payment is due or that waivers are legally sufficient. No new mailbox refresh, outgoing email, payment approval, signing or acceptance. All earlier records retained; conversation log appended only.
+
+
+## 2026-11-17 — Open punch list requested
+
+* **User:** Give the open punch list items.
+* **Basis:** Existing email review and corrected closeout package reviewed through November17. No new mailbox refresh. Thirteen groups are open or lack completion confirmation; this is not an assertion that all13 remain physically unfinished.
+* **P01 — Smash Room 3 backward-installed door:** Open; completion unconfirmed. Replacement ordered November 4, approximately two weeks out. No install confirmation found.
+* **P02 — Steel-wall/bolt correction and iSmash signoff:** Retightening reported; gap resolution/brand acceptance unconfirmed. Scott found three loose bolts and a huge gap in Smash Room 3 on Nov10 10:03 AM. Tyson later said retightened, warning metal studs can compress/crush with excess tightening. Ron Nov11 asked for picture. No later Scott signoff. Original Smash1 left plate second bolt from bottom had no individual DONE annotation; include that bolt in final verification rather than assert it remains physically loose.
+* **P03 — Uneven heating / HVAC final adjustment:** Current resolution unconfirmed. Tyson deferred balancing to Troy Nov10. Troy Nov16 says working unit balanced and cites Omni June8 report. No confirmed current room-by-room resolution. Nov6 diagnostic summary WAS delivered; RTU1 further evaluation and RTU2 PCB replacement were recommended. Landlord JH Kelly visit scheduled Nov9, result not found in supplied snapshots.
+* **P04 — Fan-switch location/correction:** Open; decision/date missing. Original list calls this Large Paint Room; Nov10 supplement labels Smash Rooms. Switch next to fan versus specified cash wrap. Tyson asks Troy what to do. Confirm exact affected location rather than count as separate defects.
+* **P05 — Paint-room door handle pins / new passage levers:** Open; order/install date absent. Tyson says new passage levers need ordering and asserts added cost. No approved amount/order/date or install confirmation found. Lock removal Nov4 was a separate completed step.
+* **P06 — Sink mirror installation:** Open; installation unconfirmed. Owner expected delivery Nov10–12; Tyson said not onsite Nov10. Later Amazon shipping notices do not prove installation.
+* **P07 — Paper towel dispenser keys, paint-cleanup/restrooms:** Open; delivery unconfirmed. Tyson says 'Working on this' Nov10.
+* **P08 — Deep cleaning:** Completion confirmation needed. Tyson says 'Happening today' Nov10, not explicit finished.
+* **P09 — Gear Room 2 employee sign removal and repainting:** Completion confirmation needed; reopened. Nov4 repaint marked DONE, but owner Nov10 again requests sign removal/paint and Tyson gives 11/11 target. Use later response.
+* **P10 — Soap dispenser installation:** Completion confirmation needed; reopened. Grouped DONE Nov4, but Nov10 supplement repeats it and Tyson gives 11/11 target. No later done confirmation.
+* **P11 — Paint-cleanup cabinet door hardware:** Completion confirmation needed. Tyson Nov4 says '11/5 tomorrow'; no subsequent explicit finished status found.
+* **P12 — Two tagged fire extinguishers and required signage:** Completion confirmation needed. Ordered Nov4/target Nov9. Nov10 morning Tyson still says 'will also be installing the fire extinguishers'; no subsequent explicit completion/signage confirmation found.
+* **P13 — Storage-room passage lever:** Completion confirmation needed. Nov10 Tyson says will install; no subsequent completion confirmation. Do not confuse with storage-room doors marked done Nov4.
+* **HVAC update from corrected PDF:** June8 report is marked Cooling (pages35–37); current heating resolution remains unconfirmed.
+* [Detailed checklist with evidence references](evidence/emails/2026-11-17_corrected_closeout_review.json). Prior records preserved; no messages sent or acceptance/payment approval made.
+
+
+## 2026-11-17 — Fan-switch conversation evidence
+
+* **User:** Give me conversation on “Fan-switch location”.
+* **Verified chronology:** Scott Nov2 2:41PM asked why fan switch was next to fan when plans called for cash wrap. Troy Nov4 1:48PM included the same issue under Large Paint Room in Punch Walk, without a date. Tyson Nov4 4:03PM left that line without correction/date/DONE. Owner Nov10 9:17AM and9:20AM repeated request under Smash Rooms. Tyson Nov10 3:28PM responded inline: “Troy what do you want to do here?”
+* **Finding:** No specific corrective-action commitment or completion date in this exchange. Room labels differ; confirm location. Plan requirements attributed to emails, not independently reverified against drawings this turn.
+* [Readable excerpts with original email links](evidence/emails/2026-11-17_fan_switch_conversation.txt); [structured provenance](evidence/emails/2026-11-17_fan_switch_conversation.json). Saved source messages are original sent/received records, not drafts. No live mailbox refresh or outgoing email. Earlier records preserved.
+
+
+## 2026-11-17 — Paint levers, soap dispenser and storage lever conversations
+
+* **User:** Asked for conversations supporting these three punch-list items.
+* **Paint-room handles:** Scott Nov2 asks why locking doors; Troy Nov4 lists removal, Tyson marks lock removal done. Owner Nov10 9:17AM requests covering handle pin removed11/4. Tyson3:28PM says “Will need to order new passage levers. This was on the plans so this will be an additional cost.” Literal wording preserved; no added-cost approval, order/install confirmation or date inferred.
+* **Soap dispenser:** Scott Nov3 identifies paint-cleanup dispensers. Ron10:25AM says “We dont provide them. Cintas does”; Scott10:28AM says “we provide & your team installs.” Troy Nov4 lists installation; Tyson grouped DONE11/4. Owner Nov10 requests it again; Tyson3:28PM gives11/11 target. No later completion confirmation identified in saved records.
+* **Storage passage lever:** Storage doors grouped DONE11/4; Tyson Nov10 9:01AM separately states they will install storage-room passage lever. Future-tense commitment, not proof of completion.
+* [Exact excerpts with original email links](evidence/emails/2026-11-17_handles_soap_storage_conversations.txt); [structured sources](evidence/emails/2026-11-17_handles_soap_storage_conversations.json). No new mailbox refresh or outgoing email. Earlier records preserved.
+
+
+## 2026-11-17 — Draft reply to corrected closeout email
+
+* **User:** How can i respond to the email?
+* **Assumption:** Reply to Troy’s November17 corrected closeout package in Final Invoice and Billing thread; draft only.
+* **Draft:** [Complete proposed response](evidence/emails/2026-11-17_closeout_followup_draft.txt); [structured record](evidence/emails/2026-11-17_closeout_followup_draft.json). Acknowledges documents received; asks item-by-item punch completion/dates, current heating/service outcome, CO10 support and reconciliation/form clarifications, current subcontractor accounting/final-release process, and warranty handover. Focuses on paint-room levers, soap and storage lever; does not assume all13 physical items remain undone or approve added cost/payment. Requests scheduling alongside lender/document review.
+* **Full draft text:**
+
+Hi Troy, Jeff, and Michael,
+
+Thank you for sending the corrected closeout package. I acknowledge receipt of the invoice and payment application, Carney’s conditional final waiver, the Onesta and Omni waivers, the other subcontractor waivers, and the June 8 air-balance report.
+
+I would like to complete the remaining work and closeout review promptly. Please address the following:
+
+1. Punch-list status and completion schedule
+Please return the consolidated punch list showing which items are completed, their completion dates, and firm dates for everything remaining. Please specifically confirm the paint-room passage levers, soap dispenser installation, storage-room passage lever, fan-switch correction, Smash Room 3 replacement door, and steel-wall/bolt corrections and iSmash signoff. Please also update the remaining mirrors, dispenser keys, cleaning, painting, cabinet hardware, and fire-extinguisher/signage items.
+
+For the paint-room passage levers, Tyson’s response states that this “was on the plans” but would be an additional cost. Please clarify the applicable plan/detail and the basis and amount of any proposed additional charge for review. This email does not approve an additional charge.
+
+The soap dispenser was given a November 11 target, and the storage-room passage lever was identified as planned work on November 10. Please confirm whether both have now been installed.
+
+2. Current HVAC performance
+Thank you for the diagnostic information already provided. The attached June 8 report records cooling-mode balancing. Please confirm the outcome of the more recent HVAC service and whether the uneven heating previously reported across the rooms has been checked and resolved. Identify any remaining adjustment or balancing within Carney’s scope and its completion date.
+
+3. Final account and latest change-order support
+Please provide the itemized receipts and supplier/subcontractor invoices supporting CO #10, along with the payments-received and credit reconciliation. Please also provide the G703 referenced in the payment application, confirm/correct the G702 period and contract dates, and clarify whether any tax is being claimed in addition to the stated final invoice amount.
+
+4. Subcontractor accounting and releases
+Thank you for the waivers supplied. Several are progress waivers limited to their stated dates and excluding retention. Please provide the current subcontractor/supplier accounting showing amounts paid, retention and any remaining balances, and identify any final releases still to be provided. Please confirm the arrangements for delivering the applicable unconditional final releases after final payment clears.
+
+5. Warranty and handover
+Please provide the written warranties, equipment manuals, remaining inspection/testing records and Substantial Completion certificate, together with the warranty start/end dates, Carney’s warranty contact and the local service contacts.
+
+Please provide the remaining-work schedule now so we can coordinate site access and the lender’s final review alongside the outstanding documentation. Please coordinate any site work with us to minimize disruption to operations.
+
+I appreciate your help bringing these items to completion. Please reply with the confirmed work dates and expected delivery dates for the remaining documents.
+
+Thank you,
+Bharath
+
+* **Action:** Saved locally only. No email sent and no external commitment or payment authorization. Earlier log content preserved.
+
+
+## 2026-11-17 — Owner confirms remaining work and refines closeout reply
+
+* **New owner reports:** Smash Room3 door remains incomplete; fan-switch correction has no update; paint-room pins removed but doors still lock from inside; uneven heating continues; landlord advises3 HVAC units whereas earlier Carney email discussed2; CO10 $3,356.40 receipts still not received. These are attributed owner reports, not assistant site inspection. Earlier two-unit email does not establish total unit count or whether all were inspected.
+* **Draft scope:** Focus on these work items, CO10 support, current subcontractor accounting/final releases and warranty handover. Requests work dates and document delivery dates. Other prior punch items are not marked complete merely because omitted.
+* [Revised draft](evidence/emails/2026-11-17_closeout_followup_draft_v2.txt); [user draft and provenance](evidence/emails/2026-11-17_closeout_followup_draft_v2.json). Draft only; not sent.
+
+Hi Troy,
+
+Thank you for sending the corrected closeout package. The following work and documentation remain outstanding:
+
+1. Punch-list work
+• Smash Room 3 door: Installation is still incomplete. Please confirm the installation date.
+• Fan switch: We have not received an update on correcting the switch location next to the fan. Please confirm the proposed correction and completion date.
+• Paint-room door handles: Although the pins were removed, the doors can still be locked from inside. Please confirm how this will be corrected and when.
+
+2. Uneven heating
+The June 8 report shows cooling-mode testing, but we continue to experience uneven heating across the rooms. The landlord has advised that there are three HVAC units, while your earlier email discussed two. Please identify all three units and the areas they serve, clarify which units have been inspected and serviced, and arrange a heating-performance and balancing check. Please provide the findings and a schedule for any remaining work within Carney’s scope.
+
+3. CO #10 receipts — $3,356.40
+I requested the supporting receipts in another thread, and the request was referred to you. I have not yet received them. Please provide the itemized receipts and supplier/subcontractor invoices supporting this change order.
+
+4. Subcontractor accounting and releases
+The packet contains 27 historical progress waivers covering 10 companies. Those forms exclude retention and later work. Although the packet includes a newer final waiver from Omni, the other nine companies have no newer final release included. Please provide current subcontractor/supplier accounting showing amounts paid, retention and any outstanding balances, together with the applicable final releases or arrangements and dates for obtaining them.
+
+5. Warranty and handover
+Please provide the written warranties, equipment manuals, Substantial Completion certificate, warranty start/end dates, and designated Carney warranty and local service contacts.
+
+Please reply with firm dates for the remaining work and expected delivery dates for the outstanding documents. I would like to bring this to completion promptly, with any site work coordinated with us to minimize disruption to operations.
+
+Thank you,
+Bharath
+
+
+## 2026-11-17 — Add Quaint Oak review coordination to closeout draft
+
+* **User:** Also mention to start any process with Quaint Oak.
+* **Added paragraph:** I would also like to begin the final inspection and payment-review process with Quaint Oak. Please coordinate with me on the documentation and contractor input needed so we can start the bank’s review while the remaining work and closeout items are being completed.
+* [Updated full draft](evidence/emails/2026-11-17_closeout_followup_draft_v3.txt). This wording begins bank review coordination; it does not authorize fund release. Saved locally only; no email or bank action. Earlier drafts and log preserved.
+
+
+## 2026-11-17 — Evening email refresh through7:46PM PST
+
+* **User:** refresh emails.
+* **Preservation:** Saved 18 new relevant messages (9 business; 9 automated/newsletter) plus2 existing thread-context messages, complete connector bodies, links and query audit. [Full snapshot](evidence/emails/2026-11-17_evening_refresh.json). No old records deleted or rewritten.
+* **Troy new reply:** Acknowledges owner email, asserts all subs paid per documents provided, says remaining work is being scheduled, asks for payment of balance. No firm dates, itemized response on heating, CO10 receipts, current all-party accounting/final releases or warranty package, and no new attachment.
+* **Owner closeout reply sent:** Actual sent email requests three punch corrections, heating check/all3units, CO10 receipts3356.40, current supplier/subcontractor accounting and releases, and warranty/handover. Unlike local v3 draft, the sent body does not include the added Quaint Oak coordination paragraph. A separate bank email followed.
+* **Quaint Oak reimbursement request:** Owner asks reimbursement while keeping53000 toward construction; says Carney will submit needed paperwork; asks minimum insurance coverage. No later bank acceptance or disbursement approval found.
+* **Bank final inspection coordination:** Owner requested inspection after2 and day-beforecall on Nov16 11:14PM. Rose asked contactpersonNov17 5:34AM andphone9:17AM; owner respondedphoneandavailabilityNov18orNov20at2:39PM. No confirmed appointment. Rose can request day-beforecall but thirdpartyvendor compliance not guaranteed.
+* **Bank insurance evidence:** RoseNov17 5:31AM requests evidence of business interruption, business personal property and workers compensation insurance. She asks whether submitted invoices are reimbursement or unpaid directpay. Monetary minimums not specified; owner question remains pending.
+* **Other threads:** No new substantive NWPrime/Alex, Onesta, Everett City or MotionPG reply found in checked interval. iSmash newsletter about Rochester digital rooms saved separately from project updates.
+* **Automated bank alerts:** 8notifications: four each for1021.11 Roller and79.20 Amazon card transactions, not8separate payments. Not evidence of Carney final payment.
+* **Outstanding status:** Latest reply acknowledges receipt but leaves firm punch dates, current heating findings, CO10 receipts, current subcontractor accounting/release details and warranty/handover requests unanswered. Carney payment assertion and request recorded without approval or legal conclusion. Bank coordination underway, appointment and insurance monetary minimums pending.
+* **Coverage:**8domain/topicsearches paginated to completion;162 recent-mail rows audited over5pages;8currentdrafts checked; final incremental check found no newprojectmessage. No new substantive attachments. No outgoing mail, payment authorization or external mutation.
+
+
+## 2026-11-17 — Draft emphasizing missing closeout items after Troy reply
+
+* **User:** Draft email for carney, emphasizing whats missing.
+* **Basis:** Troy7:37PM acknowledges owneremail, asserts paidsubs and scheduling but supplies no firm dates or newdocumentation. QuaintOak inspection/payment review coordination now underway per actualbankemails.
+* **Draft:** [Complete proposed follow-up](evidence/emails/2026-11-17_missing_closeout_followup_draft.txt). ProposedNovember18 deadline is for itemized response/status/dates, not completionofallwork. No legal/payment-due opinion or paymentauthorization; no email sent.
+
+Hi Troy, Jeff, and Michael,
+
+Thank you for the update. I acknowledge the closeout documents received and your statement that all subcontractors have been paid. The following specific requests remain unanswered, and we still need firm dates for the remaining work.
+
+1. Punch-list completion dates
+Please confirm the corrective action and completion date for each item:
+• Smash Room 3 door — installation remains incomplete.
+• Fan switch — no proposed correction or date has been provided for the switch installed next to the fan.
+• Paint-room door handles — the doors can still be locked from inside despite the pins being removed.
+
+Please provide the actual work schedule so we can arrange access and minimize disruption to operations.
+
+2. Current heating performance
+The June 8 cooling-mode report does not address the uneven heating we are experiencing now. Please confirm when heating performance and balancing will be checked across the rooms. The landlord has identified three HVAC units, while the earlier email discussed two; please identify all units, the areas they serve, their inspection/service status, and any remaining work within Carney’s scope.
+
+3. CO #10 supporting receipts — $3,356.40
+The itemized receipts and supplier/subcontractor invoices supporting this change order are still missing. Please provide the supporting documents and identify how they reconcile to the total charged.
+
+4. Current subcontractor accounting and final releases
+I acknowledge the Onesta and Omni final waivers provided. The remaining historical progress waivers exclude retention and work after their stated dates. Please provide current accounting identifying every subcontractor and supplier, amounts paid, retention and any remaining balances, including confirmation of zero balances where applicable.
+
+For the other nine companies represented by progress waivers, please provide the applicable final releases or identify the arrangements and dates for obtaining them. Please also confirm the process for providing Carney’s unconditional final release after final payment clears.
+
+5. Warranty and handover documents
+We still need the written warranties, equipment manuals, Substantial Completion certificate, warranty start/end dates, and designated Carney warranty and local service contacts. Please confirm when this package will be delivered.
+
+I am already coordinating the final inspection and review with Quaint Oak and will keep you updated on the payment process. Please continue coordinating the remaining work while that review proceeds.
+
+Please respond to each numbered item by Wednesday, November 18, with its status and confirmed work or document-delivery date. If any requested information has already been supplied, please identify the specific document and page so we can reconcile the records promptly.
+
+Thank you,
+Bharath
+
+
+## November 17, 2026 — Contract coverage of outstanding closeout items
+
+Carney agreement: outstanding closeout items — review dated November 17, 2026
+
+User question: How does agreemtn with carney cover all these aspects of open item
+
+Source: Construction_Estimate_Increased_iSmash_Everett.pdf, signed January 2026, 52 PDF pages. All page references below are physical PDF pages, starting at 1. Source SHA-256: 08de1a50393213afba8eca7a3c2d73de9c931672df86f8b58f9561cf93b8ca3f. Later change orders and written amendments may alter the baseline: section 14.2, PDF page 22.
+
+1. Punch-list completion and correction
+Sections 3.2.2 and 3.2.4 (p5) require necessary construction work and maintaining the schedule; section 3.1.2 (p4) requires construction according to approved Construction Documents. Section 3.9.1 (p8) requires prompt correction of Carney-responsible defective work at its cost and time following written notice. Section 5.2 (p10) makes Carney responsible for subcontractor management. These support an actual completion/correction schedule for the included unfinished Smash Room 3 door. For fan relocation, identify the current approved drawing or agreed punch-list commitment; an owner's newly requested location is not automatically a defect.
+
+Hardware qualification: A-01.1 (p31) specifies privacy locksets for Small Paint doors 112/113 and passage sets for Large Paint door 105 and storage 107E. Therefore the existence of small-paint locks alone does not prove departure from the original contract. Require reconciliation with later approved drawings, code requirements and Carney's written punch commitments before treating all passage-lever replacements as undisputed original-scope corrections. This review makes no independent code-compliance finding.
+
+2. Uneven heating and three-unit question
+Section 3.8.5 (p8) expressly requires startup, adjustment and balancing. M-0.2 section 230593 (p40) requires measurements/deficiency reports, balancing before final inspection and seasonal tests; M-1.0 note N (p41) requires complete testing/balancing and a written report. This supports current heating-season diagnosis and correction of distribution/installation deficiencies, rather than relying solely on the June cooling report. Plans p41-42 identify three existing units, RTU-3/4/5. Ask for consistent identification, areas served and status; do not infer five units from inconsistent tags in other records.
+
+Scope limit: Exhibit B (p24) includes mechanical internal distribution but assumes existing RTUs in good working order and says no service upgrades/replacements, with landlord to make existing RTUs operational. M-1.1 p42 includes refurbishment/accessory-repair language. These provisions need reconciliation with later changes; the agreement does not justify a blanket claim that all old-unit repairs/replacement are Carney's cost.
+
+3. CO #10, $3,356.40, supporting receipts
+Section 8.5.1 (p13) determines changes by mutually accepted itemized lump sum; section 8.6 (p13) requires written claim documentation, including appropriate supporting documentation. These support requesting the itemized basis and supporting invoices/receipts for CO #10. They do not clearly create an unlimited right to every underlying receipt after accepting a fixed-price CO. The actual executed CO terms and pricing method matter. Signing/clearing a CO is not treated here as undone by this request.
+
+4. Subcontractor accounting and releases
+Section 9.1.2 (p13) requires conditional progress waivers for those seeking payment. Sections 9.1.5/9.1.10 (pp14-15) guarantee lien-free title upon payment. Section 9.4.1 (p16) expressly requires Carney's conditional final waiver. The corrected closeout packet already contains a Carney conditional final waiver, Onesta and Omni final waivers, and older progress forms. The outstanding concern is current coverage, balances/retention and later work. No express clause requiring every subcontractor's unconditional final release before disbursement or a full all-party ledger was identified. Request these as verification of payment/release coverage.
+
+Washington RCW 60.04.071 separately provides for release of paid lien rights upon payment/acceptance and demand; it does not require releasing genuinely unpaid amounts unconditionally. WA L&I recommends signed releases from major contractors/subcontractors/suppliers before final payment. Sources:
+https://app.leg.wa.gov/rcw/default.aspx?cite=60.04.071
+https://www.lni.wa.gov/licensing-permits/contractors/problems-with-a-contractor/about-liens
+
+5. Warranty and handover
+Sections 3.8.3-3.8.4 (p8) expressly require inspection/testing/approval certificates, written warranties and equipment manuals. Section 2.4.23 (p3) requires a jointly signed Substantial Completion certificate. Section 3.8.1 (p7) gives the general one-year warranty from Substantial Completion; section 3.9.2 (p8) gives separate correction-period treatment to work first performed later. The missing certificate does not by itself establish that no warranty period has begun. M-0.2 section 0102 (p40) also requires record drawings, operating instructions/demonstration and mechanical contractor/subcontractor contact information. A designated individual warranty coordinator is a sensible extra arrangement; no response-time SLA was identified.
+
+6. Payment and Quaint Oak
+The clauses must be read together. Section 9.1 (p13) specifies the remaining 10% upon CO; section 9.2 (p15) says retainage not applicable. Sections 9.1.7/9.1.12 (pp14-15) require substantial-completion payment less 150% of Carney's estimated cost of unfinished items agreed as to extent/time. Section 9.4.1 (p16) makes final payment due when work fully completed and requires the conditional final waiver. Section 9.3 (p15) allows reasonable payment adjustment for specified Carney-responsible failures/uncorrected defects; this is not an automatic right to withhold the entire final balance for any unanswered request. Earlier blanket characterizations of the final 10% as retainage conditioned on all punch work and franchisor signoff do not match this wording.
+
+Sections 9.1.6/9.1.11 (pp14-15) say progress payment, occupancy and use do not accept nonconforming work. Section 9.4.2 (p16) contains a final-payment waiver of claims with exceptions for stated workmanship/material defects, nonconforming work and special warranties; it does not preserve every monetary/delay dispute. Bank inspection/review should be coordinated but these reviewed clauses do not create a general bank-review extension of contractual payment deadlines. No conclusion is reached here about the current amount due or enforceability of a withholding/waiver.
+
+Practical use: identify approved scope and the specific deficiency, request correction/delivery dates and a documented estimate for unfinished items, and reconcile any payment adjustment under the actual agreement. Preserve written notice and give reasonable access to inspect/test/correct. No email was sent and no payment was authorized.
+
+Review and source preserved in `evidence/contracts/`; detailed clause audits retained with the review.
+
+
+## November 17, 2026 — Late email refresh and contract-based response draft
+
+User request: "Refresh emails. I want to respond to the latest email appropriately and strongly. Ensure that i am not violating the agreemtn"
+
+Refreshed Outlook through November 17, 9:55 PM PST (November 18, 05:55 UTC). Two new substantive messages since the 7:46 PM refresh: owner sent the five-item missing-closeout email at 7:52 PM; Troy replied at 8:02 PM: "We’ll stand by for payment update details as the final payment was due upon you receiving CO." No new attachments, completion dates, itemized responses or explicit work-stoppage announcement in that reply. No newer substantive Alex, Onesta, iSmash corporate, Quaint Oak or City replies found. Full connector bodies retained; earlier list/search bodies were truncated, so both messages were fetched in full. These are connector representations, not native MIME.
+
+Evidence: `evidence/emails/2026-11-17_late_refresh.json`. Draft: `evidence/emails/2026-11-17_contract_based_closeout_reply_draft.txt`; contractual review notes in matching JSON. Prior snapshots and drafts retained.
+
+Response approach: acknowledge section9.1 CO milestone without conceding the full invoice is overdue; request Carney's itemized unfinished-work estimate/scope/dates to reconcile sections9.1.7/9.1.12 and9.4.1. Ask for point-by-point response and documents by November18, allow reasonable site access and continue bank coordination. No automatic withholding amount, bank-review extension, new-work approval, allegation of unpaid subcontractors or guarantee of preserved claims. Exact payment status still depends on invoice/application receipt, acceptance/rejection history, subsequent written modifications, Substantial Completion and unfinished-item agreement. Wording alone cannot ensure no existing payment breach.
+
+No outgoing email, Outlook draft, payment authorization or acceptance of completed work was made.
+
+Unsent proposed response:
+
+Subject: Re: Final Invoice and Billing (NEW INVOICE 11.5.2026)
+
+Hi Troy, Jeff, and Michael,
+
+I acknowledge the CO payment milestone in Section 9.1 and remain committed to paying amounts properly due under our agreement. Your latest reply does not address the outstanding work or the specific closeout requests in my earlier email.
+
+The agreement also addresses payment for unfinished work at Substantial Completion in Sections 9.1.7 and 9.1.12, and final payment when the work is fully completed in Section 9.4.1. We need to apply these provisions together.
+
+Please provide Carney’s itemized estimate of the cost to complete the remaining contract work, together with its scope and firm completion dates. This will allow us to agree on the unfinished items and completion timing, apply the 150% provision where applicable, and promptly reconcile the amount presently payable against the $52,184.44 invoice.
+
+Please respond point by point to the five items in my earlier email by Wednesday, November 18. In particular:
+
+1. Provide a confirmed completion date for the Smash Room 3 door and a written resolution for the fan-switch and paint-room hardware items. If Carney disputes the scope of a requested correction, identify the applicable approved drawing or change order and explain its position.
+
+2. Schedule a current heating-performance and balancing check within Carney’s scope, identify all units serving the premises and the areas they serve, and provide the findings and any proposed corrective work.
+
+3. Provide the written warranties, equipment manuals and applicable inspection/testing records required by Sections 3.8.3–3.8.4, along with the Substantial Completion certificate and proposed date for joint review, warranty dates and service contacts.
+
+4. Address the outstanding request for CO #10 supporting documents and current subcontractor/supplier payment and release coverage. I acknowledge the waivers already supplied; please identify any remaining balances or gaps in coverage and how they will be resolved.
+
+Please provide a delivery date for anything that is not yet available. A statement that work is “being scheduled” leaves us without the dates needed to arrange access and complete closeout.
+
+I have already contacted Quaint Oak to arrange its inspection and review, and I will provide a payment-process status update by November 18. Please identify Carney’s contact for any documentation the bank requests.
+
+Please continue coordinating the remaining agreed work while we reconcile payment. We will provide reasonable access for inspection, testing and completion.
+
+Thank you,
+Bharath
+
+
+
+
+## November 17, 2026 — Explanation of unfinished-work payment reconciliation sentence
+
+User asks what the draft sentence means: "This will allow us to agree on the unfinished items and completion timing, apply the 150% provision where applicable, and promptly reconcile the amount presently payable against the $52,184.44 invoice."
+
+Explanation: It proposes determining the amount payable now and any contract-permitted amount left unpaid for unfinished work. Carney supplies an itemized estimate of the remaining contract work; the parties agree on the unfinished scope and completion timing. Under sections9.1.7/9.1.12, the referenced amount is150% of Carney's estimated cost of completing those unfinished items, subject to the contractual conditions. Hypothetical only: if estimated unfinished work is$4,000,150% is$6,000; subtracting that from$52,184.44 gives$46,184.44, assuming no other adjustments and the mechanism applies. These are not actual approved figures. The sentence alone does not establish an agreed holdback, accept the invoice as correct, or resolve whether a payment is already due. No payment or outgoing message authorized.
+
+Clearer proposed wording: "Please provide your itemized estimate and completion dates for the remaining contract work so we can agree on any amount to be held under Sections9.1.7 and9.1.12 and confirm the amount payable now."
+
+
+## November 17, 2026 — Send timing for the response to Troy's 8:02 PM payment message
+
+* **Mailbox status:** A final refresh found no Carney message newer than Troy Fink's **8:02 PM PST** reply stating that Carney will wait for payment-update details and asserting that final payment was due upon receipt of the CO. The reply contains no new completion dates, point-by-point response, supporting records or attachment. The contract-based response remains an **unsent Outlook draft**; no email was sent or scheduled during this review.
+* **Practical decision:** Do not continue the late-evening exchange. Send the contract-based response on **Wednesday, November 18 at 7:52 AM PST**; usable band **7:45–8:03 AM PST**. This reaches Carney at approximately **10:52 AM EST**, gives the East Coast recipients most of their business day and stays within the November 18 response/status deadline already stated by Bharath.
+* **Electional basis:** The period remains **Jupiter–Saturn–Jupiter–Venus**. Wednesday and Mercury hora favor a precise written record; the early window also falls in Labh Choghadiya, before local Yamaganda, with a fixed Scorpio/Anuradha-type ascendant fitting Saturnian documentation and closeout. The Shatabhisha Moon is Pratyari tara from Bharath's natal Purvashadha Moon, so the message should remain factual, clause-based and non-accusatory. Avoid **9:48 AM**: although Amrit Kalam and Jupiter hora are supportive, the time overlaps Kaal Choghadiya and is near the Scorpio-to-Sagittarius/Mula ascendant transition. Do not delay to the stronger November 19 Abhijit election because the existing response deadline is November 18.
+* **Timing source:** Seattle panchang for November 18, 2026: https://www.mypanchang.com/en/panchang/2026/11/18/loc/5809844. Electional timing is symbolic guidance and does not change contractual deadlines, legal obligations or the need for counsel on a disputed final payment.
+
+
+## November 17, 2026 — Updated Carney closeout reply draft
+
+User request: "give me updated ddraft"
+
+Replaced the unfinished-work payment reconciliation sentence with clearer language. Prior draft retained; updated unsent draft saved at `evidence/emails/2026-11-17_contract_based_closeout_reply_draft_v2.txt`. No email sent or payment authorized.
+
+Subject: Re: Final Invoice and Billing (NEW INVOICE 11.5.2026)
+
+Hi Troy, Jeff, and Michael,
+
+I acknowledge the CO payment milestone in Section 9.1 and remain committed to paying amounts properly due under our agreement. Your latest reply does not address the outstanding work or the specific closeout requests in my earlier email.
+
+The agreement also addresses payment for unfinished work at Substantial Completion in Sections 9.1.7 and 9.1.12, and final payment when the work is fully completed in Section 9.4.1. We need to apply these provisions together.
+
+Please provide your itemized estimate of the cost to complete the remaining contract work, together with its scope and firm completion dates. This will help us agree on any amount to be held for unfinished work under Sections 9.1.7 and 9.1.12 and confirm the amount payable now against the $52,184.44 invoice.
+
+Please respond point by point to the five items in my earlier email by Wednesday, November 18. In particular:
+
+1. Provide a confirmed completion date for the Smash Room 3 door and a written resolution for the fan-switch and paint-room hardware items. If Carney disputes the scope of a requested correction, identify the applicable approved drawing or change order and explain its position.
+
+2. Schedule a current heating-performance and balancing check within Carney’s scope, identify all units serving the premises and the areas they serve, and provide the findings and any proposed corrective work.
+
+3. Provide the written warranties, equipment manuals and applicable inspection/testing records required by Sections 3.8.3–3.8.4, along with the Substantial Completion certificate and proposed date for joint review, warranty dates and service contacts.
+
+4. Address the outstanding request for CO #10 supporting documents and current subcontractor/supplier payment and release coverage. I acknowledge the waivers already supplied; please identify any remaining balances or gaps in coverage and how they will be resolved.
+
+Please provide a delivery date for anything that is not yet available. A statement that work is “being scheduled” leaves us without the dates needed to arrange access and complete closeout.
+
+I have already contacted Quaint Oak to arrange its inspection and review, and I will provide a payment-process status update by November 18. Please identify Carney’s contact for any documentation the bank requests.
+
+Please continue coordinating the remaining agreed work while we reconcile payment. We will provide reasonable access for inspection, testing and completion.
+
+Thank you,
+Bharath
+
+
+
+
+## November 17, 2026 — Local vendor quotes to substantiate unfinished-work estimate
+
+User request: "instead off agreeing on random price can we ask for quote from specific local vendir and the timeline of the quote being valid"
+
+Response: Yes, request dated itemized quotes from identified local vendors proposed to complete the work. Distinguish quote expiration from material lead times, work availability, and Carney committed completion dates. Quotes substantiate Carney estimate referenced by the agreement; they are not expressly required as a new payment prerequisite and do not themselves replace the agreed contractual mechanism. No vendor named or selected and no authority to hire one inferred.
+
+Replacement paragraphs:
+
+To support the completion-cost estimate, please obtain written, itemized quotes from the local subcontractor or vendor proposed to perform each remaining item. Each quote should identify the company and contact person, scope of work, labor and materials, applicable taxes, exclusions, quote date and expiration date, lead times, and earliest available start and completion dates. Please confirm whether those dates are reserved or subject to availability.
+
+Please reconcile these quotes to Carney’s itemized estimate, identify any additional charges separately, and confirm the completion schedule Carney will commit to. We can then use that documented estimate to determine any applicable unfinished-work amount under Sections 9.1.7 and 9.1.12 and reconcile the amount payable now. This request does not authorize additional work, approve a change order, or transfer Carney’s completion obligations to us.
+
+Full unsent v3 draft saved in `evidence/emails/2026-11-17_contract_based_closeout_reply_draft_v3.txt`; prior versions retained.
+
+
+## November 17, 2026 — Full updated vendor-quote draft provided
+
+User request: "give the updated draft"
+
+Provided the full unsent v3 response from `evidence/emails/2026-11-17_contract_based_closeout_reply_draft_v3.txt`, including itemized local-vendor quotes, price-expiration dates, lead times, availability and Carney committed completion dates. No further edits, email sending, payment authorization, vendor engagement or change-order approval. Earlier versions preserved.
+
+
+## November 17, 2026 — Night email refresh: lender inspection and reimbursement status
+
+* **Quaint Oak final inspection:** Rose Moran asked who the inspection contact would be and later requested the actual telephone number. Bharath supplied his contact number and stated that the inspection could occur Wednesday or Friday, after 2:00 PM, with advance notice preferred. This enables the bank to order the third-party inspection, but no appointment date, inspector assignment or completed inspection is yet confirmed.
+* **Reimbursement/payment allocation:** Rose asked whether the uploaded invoices were for reimbursement or still needed payment. At approximately **7:36 PM PST**, Bharath replied that he seeks reimbursement but wants approximately **$53,000** retained toward the remaining Carney construction cost, with Carney to provide required paperwork. This states the owner's requested allocation; it is not bank approval, a final disbursement authorization or acceptance of Carney's invoice.
+* **Insurance clarification:** Rose described Business Interruption as operating-expense coverage following fire/damage, Business Personal Property as coverage for equipment and other business property onsite, and Workers' Compensation as employee coverage. Bharath asked the bank for minimum coverage amounts. No response specifying limits or confirming that current policies satisfy the bank was found.
+* **Carney and recruiting:** No Carney email newer than Troy's **8:02 PM** payment-position reply was found. The contract-based reply remains an unsent draft. No new Microsoft scheduling/feedback email or other substantive recruiter/interview update was found; the November 19 Microsoft loop remains unchanged.
+* **Operational reminder:** Home Depot reports order **WN76952141** ready for in-store pickup through **Thursday, November 19**. The email is a pickup deadline reminder, not confirmation that the order has been collected.
+* **Action boundary:** No inspection was confirmed, reimbursement approved, final construction payment authorized, policy accepted, Carney response sent or mailbox draft changed during this refresh.
+
+
+## November 18, 2026 — Change orders paid: evidence reconciliation
+
+User request: "List all the COs paid so far"
+
+Carney change-order payment reconciliation — as of November 18, 2026
+
+Confirmed specifically paid: COs5-9, acknowledged by Jeff Howe on September24,2026.
+COs1-4 were included in earlier progress billing and aggregate payments, but the records do not allocate the paid balance separately to each CO.
+Latest CO10 is included in the pending final invoice.
+
+CO | Description | CO VALUE (not individual cash payment) | Status
+1 | Building review fees | $2,643.56 | Included in earlier progress-payment billing; individually fully paid amount not established
+2 | Building permit fee | $6,243.63 | Included in earlier progress-payment billing; individually fully paid amount not established
+3 (inferred sequence; form mislabeled CO1) | Rubber flooring removal, preparation and sealing | $16,870.00 | Included in earlier progress-payment billing; individually fully paid amount not established
+4 | Additional flooring/glue removal and substrate preparation | $5,074.74 | Included in earlier progress-payment billing; individually fully paid amount not established
+5 | Structural steel for smash-room walls | $9,175.00 | Carney confirmed COs5-9 batch paid September24,2026
+6 (revised) | Steel plate drilling | $8,700.00 | Carney confirmed COs5-9 batch paid September24,2026
+7 | HVAC permit review/fees | $4,428.92 | Carney confirmed COs5-9 batch paid September24,2026
+8 | Electrical permit review/fees | $2,450.00 | Carney confirmed COs5-9 batch paid September24,2026
+9 | Plumbing permit review/fees | $2,214.44 | Carney confirmed COs5-9 batch paid September24,2026
+10 (latest) | Latest additional work; detailed scope not established from final invoice | $3,356.40 | Not confirmed paid; included in $52,184.44 pending final invoice
+
+TOTALS
+Original COs1-4: $30,831.93.
+Revised COs5-9: $26,968.36.
+COs1-9 approved value: $57,800.29.
+Latest CO10: $3,356.40, not confirmed paid.
+All approved change orders: $61,156.69 — this is not a fully-paid total.
+
+PAYMENT CONFIRMATION AND DIFFERENCE
+Jeff September24,2026: "Thanks for signing the CO’s this AM. We received the 2nd payment today for $12,967.00" and "Attached is a copy of the Invoice marked ‘Paid’ to cover your $27,967 payment towards the Change Orders 5-9."
+$27,967 acknowledged cash minus $26,968.36 signed CO value = $998.64 requiring ledger reconciliation.
+Attachment filename separately says $26,967.00. Its actual contents were not successfully retrieved; filename is not proof of invoice-body value.
+Do not count any discrepancy as a confirmed overpayment without Carney's itemized ledger.
+
+EARLY PAYMENTS
+Rose Moran's April24,2026 email confirms $238,641 payment, corresponding to progress billing that includes COs1-4. Later closeout records acknowledge $468,842.25 prior payments in aggregate. Neither establishes each early CO's fully-paid amount.
+July invoice004B requests $73,140.39 and shows $48,828.04 balance; its waiver is conditional, not a paid receipt. Do not apply an assumed 90% to each CO.
+
+NUMBERING
+The rubber-flooring form is mislabeled CO1 (third item in original CO1-4 grouping).
+Revised September CO6 covers drilling. Do not add August CO6 wing-wall or old August CO10 drilling as extra paid items.
+Latest CO10 for $3,356.40 is distinct from old August drilling CO10.
+
+LATEST BALANCE
+November18 owner/bank thread still treats $52,184.44 final balance as pending. Final invoice includes latest CO10 $3,356.40. No completed final disbursement confirmed.
+
+SOURCES
+Each row's PDF and page are in change_order_payment_reconciliation.json. Source copies with SHA256 hashes are in source_manifest.json.
+Live email bodies/metadata:
+../../emails/2026-11-18_co_payment_sources.json
+../../emails/2026-11-18_co_payment_progress_confirmation.json
+
+No original evidence deleted or altered. No email sent or payment authorized.
+
+
+
+
+## November 18, 2026 — Request signed COs and payment ledger
+
+User request: "how to convey this to them, want them to provide signed cos"
+
+Prepared the following unsent draft. Requests signed COs, completion certificates where available, paid invoices, per-CO payment allocation, current CO10 support and reconciliation of the $998.64 difference. Does not impose a new payment prerequisite or assert a proven overpayment. No email sent, payment authorized or prior records altered.
+
+Subject: Request for Signed Change Orders and Payment Reconciliation – iSmash Everett
+
+Hi Troy and Jeff,
+
+To complete our records and reconcile the final billing, please provide a complete set of the change orders for iSmash Everett, from CO #1 through the latest CO.
+
+Please include:
+
+1. Fully executed copies showing the scope, amount, approval dates, and both parties’ signatures, along with the DocuSign completion certificates where available. If any change order is unsigned, please identify its status.
+2. A change-order ledger showing each CO number, description, approved amount, payments applied with payment dates, any credits or adjustments, and the remaining balance.
+3. The corresponding paid invoices or payment acknowledgments, and the outstanding supporting receipts and invoices for the latest CO #10 for $3,356.40.
+
+Please also clarify any revised or reused CO numbers so that superseded versions are clearly identified and each charge is counted only once.
+
+Your September 24 email confirmed receipt of $27,967 toward COs #5–9. The signed forms we have total $26,968.36, leaving a difference of $998.64. Please explain how that difference was applied and identify any credit due.
+
+For COs #1–4, please show how payments were allocated through the earlier progress invoices and whether any portion remains in the final balance. Please reconcile the complete ledger to the current $52,184.44 invoice.
+
+I would appreciate receiving this as one consolidated package so we can promptly resolve any discrepancies and complete the billing review. Please confirm when you can provide it.
+
+Thank you,
+Bharath
+
+
+
+
+## November 19, 2026 — Email refresh: Carney credit and schedule; landlord rent decision
+
+User request: "refresh email"
+
+Email refresh — November 19, 2026, 12:35 PM PST
+
+Reviewed the mailbox from November 17 at 7:00 PM PST through this refresh:333 messages across10 complete pages. Preserved25 relevant messages with complete bodies and metadata. Prior archives remain unchanged.
+
+CARNEY — Troy, November19 9:50AM PST
+- Offers $300 fan-switch credit, taking his requested balance from $52,184.44 to $51,884.44 before any agreed unfinished-work adjustment. Owner acceptance of this proposed resolution is not established.
+- Schedules Smash Room3 door installation and paint-room lever replacement for the week of November30. No exact appointment supplied.
+- Acknowledges the agreement's150% completion-cost mechanism under Sections9.1.7/9.1.12 and promises Carney's estimate. No dollar estimate supplied. Rejects requests for independent vendor quotations and internal vendor/subcontractor invoices.
+- Says working HVAC unit was balanced and balancing of repaired previously nonoperational unit should be done by the repair vendor. This is an unresolved scope position, not resolution of uneven heating.
+- Attached Substantial Completion Certificate11.18.2026.pdf and Warranty Letter11.18.2026.pdf. Email asserts effective Substantial CompletionNovember5 and a one-year warranty letter datedNovember18. PDF contents, signatures and exact coverage periods are not verified.
+- Offers jointcloseout review and says remaining applicable manuals/testing documents will be coordinated; no delivery date.
+- Repeats allsubcontractorspaid assertion. No new independent confirmation of every final release.
+- Latest reply supplies no signedCO ledger or explanation of the $998.64 CO5-9 payment difference.
+Source:https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJIJSAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem
+
+ALEX / NW PRIME — November19 12:00PM PST
+- Denies requested further base-rent relief and further lease-modification negotiations.
+- Says prior6month extension brought total free-rent period to15months.
+- States base rent beginsDecember1,2026.
+- Says if tenant cannot fulfill agreement he will list space forlease and initiate legalprocess. This is a conditional statement, not proof proceedings have commenced or lease terminated.
+- Owner's11:47AM request asked for at least3months throughFebruary28 while requestingApril1 start; those dates leaveMarch unaccountedfor. Request was not edited.
+Source:https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJIJVwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem
+
+QUAINT OAK — November18
+- Rose13:57PST reports inspection received and everythinglooks good.
+- Requests invoice reflecting all outstanding balance/changeorder and finalCarney lienwaiver before directCarney payment.
+- Remainingloan proceeds/workingcapital documentation:BusinessInterruption, BusinessPersonalProperty andWorkersCompensation insurance; allpurchasedequipmentlist withmake/model/serial foritems>=5000; construction/subcontractorliendocuments.
+- EarlierRose reply says bank specifies no minimum insurance amounts and asks for appropriatecoverage.
+- Owner16:38PST explicitly instructed no paymentrelease until ownerconfirmation. No bank acknowledgment ofthat hold or completedCarney disbursement found.
+- Automated$800 scrap-metal ACH alerts do not identify aCarney payment.
+Bank source:https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJII7gAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem
+Owner hold source:https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJMJcgAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem
+
+No new directmessages from OnestaLLC,iSmashcorporate or CityofEverett found in thiswindow.
+
+EVIDENCE
+Email bodies andattachmentmetadata savedin2026-11-19_refresh.json.
+Four relevantPDFattachments were materialized byOutlookconnector; all localdownloads failed withDNS resolutionerror. Remote attachmentIDs/fileIDs preserved; originals remain inOutlook. No claim that PDFpayloads were locallysaved orread.
+Downloadmanifest:attachments/2026-11-19/download_manifest.json
+No email sent,no payment authorized,no proposedcredit accepted,no recordsdeleted.
+
+
+
+
+## November 19, 2026 — HVAC notice history and responsibility review
+
+HVAC notice and responsibility review — November 19, 2026
+
+Question: Was there any communication about an HVAC issue when Carney performed the work, and who should handle it if no notice was given?
+
+FINDING
+Specific defect notices were found in November. No contemporaneous construction-period notice of an inoperable unit or inability to complete balancing was located in the searched mailbox history, available local transcripts and June 8 report. This is a bounded finding, not proof no notice existed. The September 17, 2025 site-inspection attachment was located by metadata but not reviewed.
+
+TIMELINE
+- April 2: Ron described HVAC rough as complete; diffusers still to be installed after ceiling grid.
+- May 29: Ron said all HVAC material was in the ceiling.
+- June 8: Omni cooling-mode airflow report shows RTU3/4/5 headings and branch readings, with no failure/excluded-unit/incomplete-balancing note. No heating test shown. Report appears in corrected November 17 closeout packet; earlier delivery is unverified.
+- August 28: Ron said all MEP finals, including HVAC, were complete. This does not certify heating performance.
+- November 4–5: Owner reports no/uneven heating; November 5 says party room hot but other rooms not, overnight setpoint 70 and morning 61.
+- November 6, 7:56 AM PST: Troy reports RTU1 delayed ignition, gas odor and low temperature rise requiring further evaluation. RTU2 has faulty PCB; says Josh had previously diagnosed it and repair had previously been declined. Does not identify original diagnosis date, notification date/recipient, or declining person.
+- November 6, 10:25 AM: Owner asks when identified.
+- November 6, 3:55 PM: Troy says he is looking into timelines, landlord should deliver working unit, offers PCB repair for $3,500. No dated earlier notice established.
+- November 7, 11:57 PM: Owner says landlord technician arranged for Monday and heating worked when construction began. This is owner's recollection, not independent causation evidence.
+- November 19: Troy claims one unit could not be balanced and repair vendor should now balance it. Unit identities remain unreconciled with June report.
+
+CONTRACT BASIS
+Signed January GC packet: Construction_Estimate_Increased_iSmash_Everett.pdf.
+- PDF40, M-0.2 §230593 1.3A: pre-work measurements of retained/incorporated existing systems and report of all deficiencies for owner review.
+- PDF40–41: complete balancing/reporting, testing and seasonal tests; notify architect of discrepancies before affected work.
+- PDF8 §3.8.5: Carney directs startup, adjustment and balancing.
+- PDF24 Exhibit B: internal distribution included ($37,775); existing RTUs as-is, no service upgrades/replacements included, landlord to make good working order.
+- PDF42 also contains retained-unit cleaning/refurbishment/accessory obligations. Reconcile with specific Exhibit B limitation and any later signed scope changes.
+- PDF7 §3.8.1 excludes defects CAUSED BY others' alterations; no blanket transfer of all balancing obligations upon third-party repair.
+- PDF8 §3.9.1 / PDF10 §5.2: written defect notice, correction opportunity, Carney subcontractor management.
+
+LEASE
+Lease-2025-SmashDistrictLLC.pdf.
+- PDF43 Exhibit D: landlord HVAC good-working-condition and system-performance guarantee throughout term.
+- PDF48 Exhibit E §6.7: tenant distribution/ducts/controls work.
+- PDF14 §§9.1–9.2: broad tenant maintenance/payment provisions; landlord arranges service and bears latent-defect responsibility. Landlord coordination does not automatically mean landlord pays every repair bill.
+
+PRACTICAL ALLOCATION
+Carney should investigate and finish in-scope commissioning/balancing and correct defective distribution/controls work it or its subcontractors furnished. Alex/NW Prime should coordinate existing rooftop equipment service under the lease. Ultimate equipment repair cost depends on cause and applicable lease/contract terms. If original balancing was complete and a subsequent repair changed operation, incremental rebalancing may be different from unfinished original work; request before/after records. Missing notice alone does not prove Carney caused equipment failure or owes all repair costs.
+
+REQUEST TO CARNEY
+Request the original dated diagnostic and pre-work deficiency reports; unit tags/model/serial and rooms served; when defect discovered and to whom notice was given; who declined which repair and when; identification of any deferred balancing; reconciliation of June RTU3/4/5 report with November RTU1/2 references; and a current heating/distribution check and plan for completing in-scope balancing.
+
+Preserved full source emails and search audit in 2026-11-19_hvac_notice_and_responsibility_review.json. Detailed local timeline and document review saved alongside. No email sent or originals changed/deleted.
+
+
+
+## November 19, 2026 — Original Smash Room 3 door schedule
+
+User: When was the door work scheduled originally in the punch list?
+
+Original Troy November 4 1:48 PM PST punch list had no completion date for this door. Tyson's November 4 4:03 PM PST reply added: 'Ordered 11/4 approximately two weeks out'. This points to around November 18 as an approximate lead-time/availability estimate; it is not an explicit firm installation appointment. Troy's November 19 reply later schedules installation for the week of November 30.
+
+Source records: /Users/bmysoren/prep/ismash/evidence/emails/2026-11-19_smash_room_3_door_schedule.json
+No email sent; earlier evidence preserved.
+
+
+## November 19, 2026 — Change-order expense disclosure
+
+Change-order expense disclosure — November 19, 2026
+
+User: Does the Carney contract mention that they will not disclose the CO expenses?
+
+Answer: No express blanket clause was located in the reviewed signed agreement stating that Carney will not disclose change-order expenses or may withhold all change-order support. The agreement also does not provide a blanket open-book audit right to every internal vendor/subcontractor invoice. Distinguish itemized agreed pricing and appropriate claim support from unrestricted actual-cost access.
+
+Primary source:
+/Users/bmysoren/Desktop/2026/iSmash/Construction/Construction_Estimate_Increased_iSmash_Everett.pdf
+52 pages; SHA256 08de1a50393213afba8eca7a3c2d73de9c931672df86f8b58f9561cf93b8ca3f.
+PDF pages 9, 12, 13 rendered and visually checked.
+
+Relevant provisions:
+1. Section 8.5.1, PDF13: "An increase or decrease in the Contract Price resulting from a change in the Work shall be determined by a mutually accepted, itemized lump sum."
+2. Section 8.6, PDF13: Following claim notice, Carney shall submit written documentation of the claim, "including appropriate supporting documentation", within ten days unless parties agree longer. Applies to claims for increased price/time; does not specify every supplier invoice or create unrestricted post-approval audit rights.
+3. Section 8.1.1, PDF12: Each price adjustment resulting from a CO must clearly separate the amount attributable to design services.
+4. Section 3.10, PDF9: Owner must keep Carney's estimating systems and historical/parameter cost data confidential when disclosed. Parties must specify and mark confidential items. This regulates confidential treatment of disclosed information; it does not expressly exempt COs from Article8 itemization/support.
+5. Section 9.1.1, PDF13: schedule of values consisting of breakdown of contract price.
+6. Sections 9.1.7/9.1.12 concern Carney's estimated cost of completing unfinished items; they do not expressly require independent vendor quotations. This punch-list estimate issue is separate from Article8 CO documentation.
+
+Troy November19 9:50AM PST, archived in 2026-11-19_refresh.json:
+"This project was contracted on a lump sum basis. The approved change orders and contract reconciliation establish the adjustments to the contract price.
+Carney is not obligated under the agreement to disclose its internal subcontractor invoices, vendor pricing, or proprietary cost information."
+He cites no specific nondisclosure clause there. This is his interpretation of lump-sum pricing, not a quoted blanket nondisclosure provision.
+
+Independent bounded form review:
+CO1–9 reviewed; no express nondisclosure, audit bar, receipt waiver or override of Article8 documentation found. Forms include blank 'Backup Attached?' field in CCS Use Only, which is not an unconditional open-book promise.
+Signed CO10 form not located in bounded local review. Corrected closeout PDF2–3 references $3,356.40 but is not the executed CO10 or supporting cost record. Later CO terms could affect analysis and should be checked when obtained.
+
+Suggested narrow request:
+"Troy, I understand that the agreement uses lump-sum pricing. Section8.5.1 nevertheless calls for a mutually accepted, itemized lump sum, and Section8.6 requires appropriate supporting documentation for a claim to increase the contract price. Please provide the executed CO10, its itemized scope and pricing, and the documentation supporting the additional charges. If Carney believes a contractual provision permits withholding that information, please identify the section and explain how it applies. Any information properly designated confidential can be handled under Section3.10."
+
+Limit: Do not equate absence of express nondisclosure with an unlimited invoice/audit right or a right to reopen all accepted fixed prices. No determination that CO10 price is invalid or that all final payment may be withheld.
+
+No original records deleted/altered, outgoing email sent, payment authorized, or proposed terms accepted.
+
+
+
+## November 19, 2026 — CO10 push-bar installation concern
+
+CO10 push-bar installation — November 19, 2026
+
+User: "In CO10, there is a item for push bar installation which is not being done ?"
+
+Finding: User identifies possible unperformed push-bar scope. Ron's October14 email independently confirms panic hardware was discussed as additional scope. Exact CO10 push-bar line description, allocated price and physical completion are not independently verified. No located record establishes a credit or agreed deletion.
+
+Confirmed evidence:
+- Ron October14,2026 12:09 PM PDT: "We are working on the additional scope of coving the door, panic hardware and the em lights."
+- Owner October4 questioned building-door panic hardware, quoting City inspection referring to storage room115 and alternative egress.
+- Docusign completed email October19 15:23 PDT attaches Carney_Contracting_CO-iSmash-0017_Corrected.pdf (128208 bytes). Candidate related change order; not yet verified as invoice CO10.
+- Owner October19 and October21 requested original receipts; Jeff October21 referred request to Troy.
+- Final invoice confirms CO10 aggregate $3,356.40, not push-bar-specific allocation.
+- Outlook materialized candidate PDF to file ID file_000000007008820fa17ff9b00d77770c. Web access failed; no local PDF saved or content reviewed. Preserve metadata without treating it as read.
+
+Recommended reconciliation:
+If approved CO10 includes supply/installation and it is unfinished, identify the exact door/location and completion date. If omitted from approved scope or no longer required under approved plans, request an agreed deductive change order/credit and revised invoice. If already performed, ask location/date/evidence. Ask allocation of price to this item and explanation/support for any retained charge. Do not assume entire CO10 is unearned or automatically deduct an unverified amount. Keep egress push-bar separate from SmashRoom3 replacement and paint-room lever work.
+
+Suggested email paragraph (based on user's on-site confirmation):
+"The push-bar installation included in CO #10 has not been completed. Please identify the door/location covered by this item and confirm whether Carney will complete it, with a firm date. If this work has been removed from the approved scope, please provide the corresponding credit and revised invoice. Please also identify the amount allocated to the push-bar work within the $3,356.40 change order, including any associated materials, labor, markup and tax, and explain any portion you believe remains payable."
+
+No message sent, payment or deletion authorized, credit agreed, or prior evidence changed.
+
+
+
+## November 19, 2026 — User confirms latest change-order filename
+
+User confirms: Carney_Contracting_CO-iSmash-0017_Corrected.pdf is the latest change order. Use its exact filename when requesting push-bar completion/pricing or a credit. The current invoice calls the latest $3,356.40 change CO10; the PDF internal numbering and line-item allocations remain unverified because its contents have not yet been read. Prior candidate uncertainty is superseded only regarding identity. No original evidence altered or deleted.
+
+
+## November 19, 2026 — Draft response to Troy on closeout, HVAC and latest CO
+
+User request: Draft a email response to Troy
+
+Draft only; not sent. Push-bar noncompletion and inclusion in latest CO are based on the user’s report; PDF line wording and allocation not independently verified. No acceptance of credit, payment authorization or alteration of prior evidence.
+
+Subject: Re: Final Invoice and Billing — Remaining Work and Reconciliation
+
+Hi Troy,
+
+Thank you for your response. I want to complete the remaining work and close out the account promptly and in accordance with our agreement. The following items still require specific answers and documented resolution.
+
+1. Punch-list work and completion dates
+
+Tyson’s November 4 update stated that the Smash Room 3 replacement door was ordered that day and was “approximately two weeks out.” Please explain why installation is now scheduled for the week of November 30 and confirm the exact installation date. Please also confirm that the paint-room levers installed during that visit will be passage/nonlocking hardware.
+
+I acknowledge the proposed $300 fan-switch credit, but have not agreed that it fully resolves the required correction. Please explain its basis and confirm the proposed correction or agreed scope of the credit.
+
+2. HVAC completion and earlier notice
+
+We continue to experience uneven heating. I have not located a notice provided when the HVAC work or balancing was performed stating that a unit was inoperable and balancing would remain incomplete.
+
+On November 6, you stated that a previously recommended PCB repair had been declined. I asked when the issue was identified, and you said you were looking into the timeline. Please provide the original dated diagnostic report, the notice provided to us, and identify who declined which repair and when.
+
+The June 8 report records cooling-mode airflow under RTU-3, RTU-4 and RTU-5, while your email describes two units. Please identify the units and areas served, explain what balancing remains, and arrange a heating-performance/distribution review.
+
+Section 3.8.5 and the mechanical specifications address startup, balancing and deficiency reporting. I do not agree that repair of a component by another vendor, by itself, establishes that Carney’s remaining balancing obligations have been completed or transferred to that vendor. Please explain the contractual and technical basis for your position.
+
+3. Latest change order and push-bar installation
+
+Please provide the fully executed Carney_Contracting_CO-iSmash-0017_Corrected.pdf, together with its itemized scope, pricing and appropriate supporting documentation for the $3,356.40 charge.
+
+The push-bar installation identified in that change order has not been completed. Please identify the door/location covered and confirm the completion date. If it has been removed from the approved scope, please identify the amount attributable to the omitted work and provide the corresponding credit and revised invoice.
+
+I understand the lump-sum pricing structure. However, Section 8.5.1 calls for an itemized lump sum, and Section 8.6 requires appropriate supporting documentation for a claim to increase the contract price. Please address these requirements and the outstanding request for supporting receipts. If you are withholding particular records, please identify the contractual basis and the alternative documentation supporting the charges.
+
+4. Warranty and handover
+
+Thank you for providing the Substantial Completion certificate and warranty letter. Please clarify the warranty start and end dates in light of the November 5 completion date and November 18 letter, and confirm Carney’s warranty contact and local service arrangements. Please provide delivery dates for the remaining applicable manuals and inspection/testing records.
+
+5. Subcontractor accounting and releases
+
+I acknowledge the Onesta and Omni final waivers and the other waivers already supplied. Several historical forms exclude retention and later work. Please provide current subcontractor/supplier payment accounting and identify any remaining gaps in final-release coverage and how they will be resolved.
+
+6. Completion-cost estimate and final reconciliation
+
+Please provide Carney’s estimated cost to complete each unfinished item, with the remaining scope and firm completion dates, so we can agree on the applicable adjustment under Sections 9.1.7 and 9.1.12.
+
+Please also provide the signed change-order set and a consolidated reconciliation showing approved changes, payments, credits and the revised balance. This should explain the previously identified $998.64 difference between the $27,967 payment acknowledged for COs #5–9 and the $26,968.36 total of the revised signed forms.
+
+Please distinguish credits for omitted work from the 150% withholding for unfinished work so amounts are not counted twice. The proposed $51,884.44 balance remains subject to this reconciliation.
+
+I remain ready to coordinate with Quaint Oak for payment of amounts properly due under the agreement, including undisputed amounts. This email does not authorize a payment release or accept the proposed credit as full resolution.
+
+Please respond by Friday, November 20, with the requested dates and estimate, or a specific delivery date for anything still being prepared, and propose a time for the joint closeout review.
+
+Thank you,
+Bharath
+
+
+
+## November 19, 2026 — Revised Troy response: earlier door notice, HVAC, fountain and verified CO
+
+User asks to add repeated door delays/Scott earlier notice, original TI HVAC balancing/no pre-November fault notice, warranty reporting and repair timelines, current fountain knocking/no-flow/spillage, missing storage push bar, and verify alleged >$1,000 CO overpayment.
+
+Verified: latest signed CO now locallyavailable and visuallyreviewed: $450 pushbar leftdoublewarehouse door; aggregate$3,356.40. ExactpaidCO5–9difference$998.64;allocation/creditnotyetconfirmed. Noassertionover$1,000paid. EarlydoorrecordsMay22/29,June5 andScottNov2; use repeateddeferrals ratherunverifiedexactcount. Service deadlinesrequestednotcontractSLA.
+
+Subject: Re: Final Invoice and Billing — Urgent Corrections, Warranty Service and Reconciliation
+
+Hi Troy,
+
+Thank you for your response. I want to complete the remaining work and resolve the final account promptly. The items below require specific answers, firm dates and reconciliation under our agreement.
+
+1. Smash Room 3 door — urgent correction
+
+This door remains a serious operational and safety concern. Its correction has been repeatedly deferred, and it needs immediate attention.
+
+The wrong-swing door issue was discussed during the May 29 call, when Ron said a replacement had been ordered. On June 5, he said the door was available and would be corrected the following week. Scott expressly identified the Room 3 door as installed backwards again on November 2, during the final walkthrough process.
+
+Tyson’s November 4 update then stated “ordered 11/4 approximately two weeks out,” and your latest email schedules installation for the week of November 30. Please reconcile these earlier commitments, explain the continued delay and prioritize the earliest possible installation appointment.
+
+Sections 3.8.1 and 3.9.1 address conforming workmanship and prompt correction of defective work for which Carney is responsible. Please provide an exact completion date and any interim measures needed pending correction. Also confirm the date for installing passage/nonlocking levers in the paint rooms.
+
+2. HVAC — complete the TI balancing and heating verification
+
+The first specific notice I received of the faulty/inoperable unit was during the first week of November. I have no record of an earlier notice during the HVAC work or June balancing that a unit could not operate and balancing would remain unfinished. Had this been communicated when identified, I would have promptly coordinated with the landlord to address it.
+
+My position is that completing the original TI testing, adjustment and balancing remains within Carney’s scope under Section 3.8.5, Exhibit B’s mechanical internal-distribution scope, and specification 230593, including its deficiency-reporting and seasonal-testing provisions.
+
+The June report records cooling-mode airflow readings; uneven heating remains unresolved. Please arrange a room-by-room heating/distribution review, complete the outstanding in-scope balancing and provide the results. Please also reconcile the report’s RTU-3/4/5 labels with your description of two units.
+
+On November 6, I asked when the PCB issue had been identified after you said the repair had previously been declined. Please provide the original dated report, any earlier written notice, and identify who declined which repair and when. Repair by another vendor does not, by itself, establish that Carney’s original balancing obligations were completed or transferred.
+
+3. Water fountain — written defect notice and warranty service
+
+Please treat this email as written notice under Section 3.9.1 of the following fountain problems:
+
+- During short operation, including activations of less than one minute, we hear knocking and at times no water is dispensed.
+- When water does dispense, the stream overshoots the basin and causes spillage.
+- We have not received the manual or instructions explaining operation, flow adjustment, maintenance and shutoff, including what requires a qualified technician.
+
+Please arrange for the responsible technician to inspect, diagnose and correct the installation or equipment issue. If a manufacturer warranty applies, please identify the coverage and coordinate the applicable service process.
+
+Section 3.8.4 requires delivery of written warranties and equipment manuals, and Section 3.9.1 requires prompt correction of defective work for which Carney is responsible. We will provide access for inspection and correction.
+
+Please acknowledge this report by Friday, November 20, and arrange an inspection by Monday, November 23. If that is not possible, explain the constraint and provide the earliest appointment. Please provide a repair plan and completion date following diagnosis.
+
+For ongoing warranty requests, please confirm the reporting email/phone number, designated Carney and local service contacts, urgent escalation process, and expected acknowledgment, attendance and repair timeframes.
+
+4. Latest change order — uninstalled push bar and supporting documentation
+
+The signed Carney_Contracting_CO-iSmash-0017_Corrected.pdf includes $450 to “Install push bar door hardware on the left double door leading to the warehouse.” There is no push bar installed on the storage door.
+
+Please identify the exact opening covered by this charge and confirm whether the work was performed. If it remains required, provide a firm completion date. If it has been removed from the approved scope, provide a credit for the omitted work and the corresponding overhead/profit and applicable tax adjustments, with a revised invoice.
+
+Sections 8.5.1 and 8.6 address itemized pricing and appropriate supporting documentation. Please provide the outstanding support for this change order and explain the calculation bases for the $343.93 overhead/profit and $261.04 sales-tax amounts. Please also reconcile this document’s CO-iSmash-0017 identifier with the invoice’s CO #10 reference.
+
+5. Payment discrepancy and final reconciliation
+
+Your September 24 email confirms receipt of $27,967 toward COs #5–9, while the revised signed forms total $26,968.36. Please show how the $998.64 difference was applied and identify any resulting credit in the final balance.
+
+Please provide the consolidated signed change-order set and ledger showing approved amounts, payments applied, credits and remaining balances. Keep the above payment difference separate from any credit for the unperformed push-bar work.
+
+Please also provide Carney’s itemized estimated cost to complete the unfinished work, together with the scope and completion dates, so we can apply Sections 9.1.7 and 9.1.12 without double-counting credits and unfinished-work withholding.
+
+I acknowledge the proposed $300 fan-switch credit, but have not accepted it as full resolution. Please explain its basis and confirm how the switch-location issue will be resolved. The proposed $51,884.44 balance remains subject to reconciliation.
+
+6. Remaining closeout records
+
+Thank you for the Substantial Completion certificate, warranty letter and waivers supplied. Please confirm the warranty start/end dates, provide delivery dates for remaining manuals/testing records, and identify any current subcontractor/supplier balances or final-release gaps not covered by the historical waivers.
+
+I remain ready to coordinate with Quaint Oak for amounts properly due, including undisputed amounts, in accordance with the agreement. This email does not authorize a payment release or accept unresolved work or proposed credits.
+
+Please respond by Friday, November 20, with firm dates and the requested reconciliation, or a specific delivery date for anything still being prepared. Please also propose a time for the joint closeout review.
+
+Thank you,
+Bharath
+

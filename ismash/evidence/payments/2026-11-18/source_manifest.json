@@ -1,0 +1,62 @@
+{
+  "as_of": "2026-11-18",
+  "originals_preserved": true,
+  "copies": [
+    {
+      "original_path": "/Users/bmysoren/Desktop/2026/iSmash/Finances/AdditionalPayments-CC.pdf",
+      "archived_path": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/COs_1-4_signed_source.pdf",
+      "sha256": "74c982044191cb7bc884dd2e426cbc29a3998da1fdd2caf5fdc55520f949e9ae",
+      "bytes": 506754,
+      "copied_bytes_verified": true
+    },
+    {
+      "original_path": "/Users/bmysoren/Desktop/2026/iSmash/Invoices/09242026_CC_StructSteel_9,175.00.pdf",
+      "archived_path": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/CO5_structural_steel_signed.pdf",
+      "sha256": "9e5992e27c36c0417aa7d95a9f712393a9151c6c2235dfd0dde55458cbf893c5",
+      "bytes": 242219,
+      "copied_bytes_verified": true
+    },
+    {
+      "original_path": "/Users/bmysoren/Desktop/2026/iSmash/Invoices/09242026_CC_DRILL_8,700.00.pdf",
+      "archived_path": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/CO6_revised_drilling_signed.pdf",
+      "sha256": "c22545b2eef629d462d1a6f7d20ed92f695dce70925c35c7ad461c400cdb3ad9",
+      "bytes": 266352,
+      "copied_bytes_verified": true
+    },
+    {
+      "original_path": "/Users/bmysoren/Desktop/2026/iSmash/Invoices/09242026_CC_PERMIT_TTL_9.093.36.pdf",
+      "archived_path": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/COs_7-9_permits_signed.pdf",
+      "sha256": "fcf0aa4901c573a0f941fb36e05a78f9b6a333aada057c0a4f8666ac776b4c0e",
+      "bytes": 321768,
+      "copied_bytes_verified": true
+    },
+    {
+      "original_path": "/Users/bmysoren/Desktop/2026/iSmash/Invoices/07092026_CC_73140.39.pdf",
+      "archived_path": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/July_progress_invoice_73140.39.pdf",
+      "sha256": "66723e8b4b92138774af3fefbbdfe3e14a12411ff5f2e45077d2b8dd48257ea3",
+      "bytes": 1156178,
+      "copied_bytes_verified": true
+    },
+    {
+      "original_path": "/private/tmp/ismash_co_payment_audit_20261118.json",
+      "archived_path": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/local_financial_audit.json",
+      "sha256": "6f4e7973105cb4fd627fcd54cf39de2659f7ab7b8b9a75129206026910544165",
+      "bytes": 7971,
+      "copied_bytes_verified": true
+    },
+    {
+      "original_path": "/private/tmp/ismash_early_co_evidence_20261118.json",
+      "archived_path": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/early_CO_payment_evidence.json",
+      "sha256": "10e80b755b49aacd1559c69c598065f06b57c42e607c091636ce4a8c1838aaa8",
+      "bytes": 3744,
+      "copied_bytes_verified": true
+    },
+    {
+      "original_path": "/private/tmp/ismash_revised_co_forms_20261118.json",
+      "archived_path": "/Users/bmysoren/prep/ismash/evidence/payments/2026-11-18/revised_CO_forms_extracted_text.json",
+      "sha256": "d00ae60272176885a710ac25d0ac0f80c992edda99154dbe2713ce6e7d1d2a9a",
+      "bytes": 5574,
+      "copied_bytes_verified": true
+    }
+  ]
+}

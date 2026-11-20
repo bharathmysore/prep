@@ -1,0 +1,204 @@
+{
+  "title": "iSmash November 9 afternoon email refresh",
+  "source": "Connected Microsoft Outlook Email; read-only connector search/list export",
+  "captured_at_utc": "2026-11-09T22:23:57Z",
+  "display_timezone": "America/Los_Angeles",
+  "previous_refresh_cutoff_utc": "2026-11-09T19:27:39Z",
+  "previous_snapshot": "2026-11-09_refresh.json",
+  "preserved_baseline": {
+    "snapshot_bytes": 366615,
+    "snapshot_sha256": "c6eb2e059559a60a8a748995f97f0eeab4d18ca40aeeb63ded0bfbc799ff373f",
+    "timeline_prefix_bytes": 421754,
+    "timeline_prefix_sha256": "d0000f1d93af007096384798d5713d1c295f41662d3502a28ef256dec8d31eb5"
+  },
+  "message_count": 1,
+  "human_message_count": 1,
+  "human_sent_count": 1,
+  "human_received_count": 0,
+  "automated_message_count": 0,
+  "draft_count": 0,
+  "query_count": 8,
+  "recent_mail_audit": [
+    {
+      "filter": "receivedDateTime gt 2026-11-09T19:27:39Z and receivedDateTime le 2026-11-09T22:23:01Z",
+      "skip": 0,
+      "count": 26,
+      "has_more": false,
+      "next_from_index": null,
+      "matched_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJfFPP6wAAAA=="
+      ]
+    }
+  ],
+  "query_audit": [
+    {
+      "query": "carneycontracting.com received>=2026-11-09",
+      "count": 1,
+      "has_more": false,
+      "next_from_index": null,
+      "new_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJfFPP6wAAAA=="
+      ]
+    },
+    {
+      "query": "onestallc.com received>=2026-11-09",
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null,
+      "new_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJfFPP6wAAAA=="
+      ]
+    },
+    {
+      "query": "ismashfranchise.com received>=2026-11-09",
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null,
+      "new_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJfFPP6wAAAA=="
+      ]
+    },
+    {
+      "query": "nwprime.com received>=2026-11-09",
+      "count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "new_ids": []
+    },
+    {
+      "query": "quaintoak.com received>=2026-11-09",
+      "count": 1,
+      "has_more": false,
+      "next_from_index": null,
+      "new_ids": []
+    },
+    {
+      "query": "everettwa.gov received>=2026-11-09",
+      "count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "new_ids": []
+    },
+    {
+      "query": "iSmash received>=2026-11-09",
+      "count": 5,
+      "has_more": false,
+      "next_from_index": null,
+      "new_ids": [
+        "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJfFPP6wAAAA=="
+      ]
+    },
+    {
+      "query": "\"Smash District\" received>=2026-11-09",
+      "count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "new_ids": []
+    }
+  ],
+  "final_incremental_search_check": {
+    "filter": "receivedDateTime gt 2026-11-09T22:23:01Z and receivedDateTime le 2026-11-09T22:23:57Z",
+    "count": 0,
+    "has_more": false,
+    "next_from_index": null
+  },
+  "draft_status_check": {
+    "filter": "isDraft eq true and lastModifiedDateTime ge 2026-11-09T00:00:00Z",
+    "count": 0,
+    "has_more": false
+  },
+  "shared_page_skill_discovery": {
+    "items": [],
+    "next_cursor": null,
+    "partial_results": false,
+    "incomplete_reasons": []
+  },
+  "messages": [
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJfFPP6wAAAA==",
+        "subject": "Re: Final Invoice and Billing  (NEW INVOICE 11.5.2026)",
+        "body": {
+          "contentType": "html",
+          "content": "Hi Jeff, Troy, and Michael,\n\nThank you for sending the final invoice for $52,184.44. I am reviewing it and\nwould like to coordinate the remaining work and closeout documentation.\n\n  \n\nPlease provide the following:\n\n  1. **Punch-list closeout.**  Thank you, Troy, for providing the updated punch-list dates. Please confirm which scheduled items have now been completed, flag any changes to the dates already provided, and confirm completion dates for any remaining undated items. Please coordinate any work after opening with us to minimize disruption.\n\n  2. **HVAC closeout records.** The immediate HVAC component failures is being looked into. Please provide any diagnostic or service records in Carney’s or Onesta’s possession, any test-and-balance report, and confirmation whether final HVAC adjustment and balancing under Carney’s scope has been completed. If anything remains, please provide the completion date. Last week, i had called out the heat is not balanced. Please have this checked across all the rooms\n\n  3. **Final account reconciliation.**  Please provide a statement showing the original contract amount, approved change orders, payments received, applicable credits, and calculation of the remaining balance. Please also provide the itemized receipts and supplier/subcontractor invoices supporting the latest change order, which I have not yet received.\n\n  4. **Lien documentation.** Please provide Carney’s conditional final lien waiver required under the agreement, together with subcontractor/supplier payment status and available releases for amounts already paid. Please identify any outstanding balances and the arrangements for obtaining the corresponding releases upon payment.\n\n  5. **Lien documentation and final-disbursement process.** Before final disbursement, please provide:\n\n     1. Carney’s conditional final lien waiver under §9.4.1 and Exhibit E;\n\n     2. a final accounting identifying every subcontractor and supplier, amounts paid, and balances remaining;\n\n     3. unconditional lien releases for all amounts already paid; and\n\n     4. conditional final lien waivers from each subcontractor or supplier whose balance will be paid through the final disbursement.\n\nPlease also confirm that, after the final payment clears, Carney will provide\nunconditional final lien releases from Carney, Onesta, and every subcontractor\nor supplier paid through that disbursement. If any party cannot provide the\napplicable waiver or release, please identify that party and amount now so the\nlender can arrange a joint-check or other controlled-payment process.\n\n  6. **Warranty and handover package.** Please provide all written warranties, equipment manuals, applicable inspection/testing records and the Substantial Completion certificate. Please confirm the warranty start/end dates, Carney’s warranty contact and the local contractors who will handle service requests.\n\n  \n\nAfter receiving and reviewing this documentation and confirming the status of\nthe outstanding work, I will coordinate the lender’s final inspection and\npayment process in accordance with our agreement and the lender’s\nrequirements.\n\nReceipt of the Certificate of Occupancy and final invoice does not constitute\nacceptance of unresolved work, approval of the stated balance, confirmation\nthat final payment is presently due, or waiver of any rights or claims.\n\nThanks,  \nBharath\n\n* * *\n\n**From:** Jeff Howe <jeff@carneycontracting.com>  \n**Sent:** Thursday, November 5, 2026 12:16 PM  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Cc:** Troy Fink <troy@carneycontracting.com>; Michael Carney\n<mcarney@carneycontracting.com>  \n**Subject:** Final Invoice and Billing (NEW INVOICE 11.5.2026)\n\n\n\nHi Bharath,  \n  \nAttached is the final Invoice to close out the job.  \n  \n**Invoice amount:    $52,184.44  \n**  \nPlease let me know if you have questions , concerns or you need the wire info\nagain.  \n  \nThanks\n\nJeffrey\n\n\n\n**Jeffrey Jordan Howe  \n****Carney Contracting Services******\n\n405 Estates Court,  \nNewtown, PA.   18940\n\n**Office: 215-267-6906****  \n****Email:   [Jeff@Carneycontracting.Com](mailto:Jeff@Carneycontracting.Com)**\n\n\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, November 4, 2026 8:09 PM  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nBharath,\n\n\n\nWe appreciate the opportunity to work with you. Congratulations on your CO\n\n\n\n[@Jeff Howe](mailto:jeff@carneycontracting.com), please send final billing.\n\n\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n\n\n* * *\n\n**From:** Tyson Ferreira <[tyson@onestallc.com](mailto:tyson@onestallc.com)>  \n**Sent:** Wednesday, 04 November 2026 16:03:49  \n**To:** Troy Fink\n<[troy@carneycontracting.com](mailto:troy@carneycontracting.com)>; Bharath\nMysore <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>;\nScott Laviano\n<[slaviano@ismashfranchise.com](mailto:slaviano@ismashfranchise.com)>  \n**Cc:** Robbi Drahos <[robbi@onestallc.com](mailto:robbi@onestallc.com)>; Kira\nWohlfeil <[kira@onestallc.com](mailto:kira@onestallc.com)>  \n**Subject:** Re: Punch Walk\n\n\n\nTeam,\n\n\n\nPlease see my responses below in Blue.\n\n\n\nThanks\n\n\n\nTyson Ferreira I Founder & CEO\n\nOnesta General Contracting\n\n🏢 253.347.4298 I 📱206.391.4401\n\n703 Industry Drive, Tukwila, WA 98188\n\n[www.onestallc.com](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.onestallc.com%2F&data=05%7C02%7C%7C6df6df54fc204503ec4908df3b79b807%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639295066432662854%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FaKwSf2m2gtClrGVo7mlqmXYvRiOQgmfx3Uu15o%2BE%2Bs%3D&reserved=0)\n\n\n\nStart Strong. Finish Strong.\n\n* * *\n\n**From:** Troy Fink\n<[troy@carneycontracting.com](mailto:troy@carneycontracting.com)>  \n**Sent:** Wednesday, November 4, 2026 1:48 PM  \n**To:** Tyson Ferreira <[tyson@onestallc.com](mailto:tyson@onestallc.com)>;\nBharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>; Scott\nLaviano <[slaviano@ismashfranchise.com](mailto:slaviano@ismashfranchise.com)>  \n**Subject:** Punch Walk\n\n\n\nTyson and Bharath,\n\nBelow is the consolidated list of outstanding punch list items from our\nwalkthrough. The dates noted reflect the completion dates Tyson provided.\nItems without dates still require confirmation of scope, resolution, and\nanticipated completion.\n\n**Event Room**\n\n  * Outlet to the right of TV: Caulk or otherwise finish around outlet. **11/4 DONE**\n  * Electrical panel access sign. **11/4 DONE**\n\n**Smash Room 1**\n\n  * Left steel plate: Second bolt from bottom is loose.\n  * Second steel sheet: Third bolt on right is loose. **11/4 DONE**\n\n**Smash Rooms 1 & 2**\n\n  * Relocate tool racks near steel walls to behind doors. **11/4 DONE**\n\n**Smash Room 2**\n\n  * Outlet near smash wall: Not shown on plans. Confirm why it was installed and associated cost. Replace with blank cover. **11/4 DONE**\n\n**Large Paint Room**\n\n  * Install missing doorstop. **11/4 DONE**\n  * Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.\n\n**Bathroom**\n\n  * Install outlet cover. **11/4 DONE**\n\n**Smash Room 3**\n\n  * Door installed backwards. Correct installation. **_Ordered 11/4 approximately two weeks out_**\n  * Right steel: Third bolt down, third and second bolts from second sheet; second sheet, second bolt down on left. **11/4 DONE**\n  * First steel sheet from right wall is not flush. Correct installation. **DONE**\n\n**Gear Room 2**\n\n  * Install second jumpsuit rack below existing rack. **11/4 DONE**\n  * Replace ceiling tiles. **11/4 DONE**\n  * Touch up door frame. **11/4 DONE  **\n  * Repaint door properly around “Employees Only” sign. **11/4 DONE**\n\n**Paint Cleanup Area**\n\n  * Install cabinet door hardware. **11/5 tomorrow  **\n  * Sink installed is incorrect and undersized. Confirm replacement and timeline. **Here is an option to add one more sink**[**https://a.co/d/0djnkD4N**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2F0djnkD4N&data=05%7C02%7C%7C6df6df54fc204503ec4908df3b79b807%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639295066432688129%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gtsToT01Vn4RxtzcyP%2FtA1Hje8ZQ8WQxkx0AUMvzcW0%3D&reserved=0)**  please confirm this works for Ismash. **\n  * Complete caulking around motion detector and painting around fire alarm. **11/4 DONE  **\n  * Finish small baseboard section, including trim and FRP. **11/4 DONE**\n\n**Smash Room 4**\n\n  * Touch up door frame. **11/4 DONE**\n  * Correct metal sheet that is not flush. **11/4 DONE**\n\n**Paint Rooms**\n\n  * Remove unnecessary door locks. **11/4 DONE**\n\n**Tools and Gear Rooms**\n\n  * Complete tool mounting installation. **11/4 Owner asked us to hold off on installation today due to it potentially moving to a different location.  **\n\n  *  \n\n  * Bats: 2-inch conduit straps\n\n    * Crowbar: 1-inch conduit straps\n    * Two hooks\n    * Sledgehammer: 1.5-inch conduit straps\n\n  * Install disposable glove holders in all three gear rooms. **11/4 DONE**\n\n**All Smash Rooms**\n\n  * Ensure all smash wall steel sheets are flush. **11/4 DONE**\n\n**Fire Safety**\n\n  * Provide two new tagged fire extinguishers and required signage. **Monday, 11/9.****Ordered 11/4**\n\n**Additional Outstanding Items**\n\n  * Install soap dispenser.\n  * Install storage room doors.\n  * Remove gate bolts.\n\n  * Replace three ceiling tiles in storage room.\n\n  * **These items are all DONE 11/4**\n\nTyson, please confirm which dated items have been completed and provide\nanticipated completion dates for everything remaining. For any items requiring\nclarification or a change in scope, please identify those separately.\n\nBharath, please review this list and advise if anything discussed during the\nwalkthrough has been omitted. Our goal is to establish one consolidated list,\nclose out the remaining work, and avoid additional items being introduced\nafter completion.\n\nThank you.\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n\n\n"
+        },
+        "bodyPreview": "Hi Jeff, Troy, and Michael,\r\nThank you for sending the final invoice for $52,184.44. I am reviewing it and would like to coordinate the remaining work and closeout documentation.\r\n\r\nPlease provide the following:\r\n\r\n  1.\r\nPunch-list closeout. Thank you, Tr",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJfFPP6wAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "jeff@carneycontracting.com",
+              "name": "Jeff Howe"
+            }
+          }
+        ],
+        "ccRecipients": [
+          {
+            "emailAddress": {
+              "address": "troy@carneycontracting.com",
+              "name": "Troy Fink"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "mcarney@carneycontracting.com",
+              "name": "Michael Carney"
+            }
+          }
+        ],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-09T20:26:08Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": false,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJfFPP6wAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Re: Final Invoice and Billing  (NEW INVOICE 11.5.2026)"
+      },
+      "queries": [
+        "exact_interval_mailbox_scan",
+        "carneycontracting.com received>=2026-11-09",
+        "onestallc.com received>=2026-11-09",
+        "ismashfranchise.com received>=2026-11-09",
+        "iSmash received>=2026-11-09"
+      ],
+      "record_id": "E001",
+      "classification": "owner_sent"
+    }
+  ],
+  "drafts": [],
+  "attachment_metadata": [],
+  "key_updates": [
+    {
+      "topic": "Owner closeout response now sent",
+      "records": [
+        "E001"
+      ],
+      "summary": "November 9 12:26:08 PM PST, owner replies to Jeff's $52,184.44 final invoice, with Troy and Michael copied. Requests updated punch-list status/dates; diagnostic/service and HVAC testing/balancing records and checks across all rooms; account reconciliation and latest change-order itemized receipts/supplier/subcontractor invoices; conditional Carney final waiver, all subcontractor/supplier accounting and releases; warranties/manuals/inspection records/Substantial Completion certificate, dates and warranty service contacts. Adds detailed conditional/unconditional final-disbursement release sequencing and possible joint-check/controlled-payment coordination if a party cannot supply appropriate release. These are owner requests, not accepted obligations or lender approval."
+    },
+    {
+      "topic": "Draft-to-sent differences",
+      "records": [
+        "E001"
+      ],
+      "summary": "Supersedes draft-only status for the substance of the closeout requests but preserve all prior draft versions. The sent message uses consolidated punch-status wording instead of enumerating every outstanding item, omits the November 13 opening date, expands lien documentation into items 4 and 5, separates HVAC closeout records/balancing from immediate equipment failures, and does not repeat the explicit question about when the prior PCB repair was declined. Sent message expressly does not accept unresolved work, stated balance, present final-payment entitlement, or waive rights/claims; this is the owner's stated position, not a legal determination that a future final-payment waiver is overridden."
+    },
+    {
+      "topic": "No new counterpart responses or completion evidence",
+      "records": [],
+      "summary": "No new Carney, Onesta, iSmash corporate, landlord/property management, City or bank reply found after morning cutoff. No service-visit outcome, final balancing report, remaining-punch completion confirmation, latest CO receipts, warranty handover or lender answer on subcontractor final releases located. No new payment authorization, approved final draw or project acceptance established."
+    }
+  ],
+  "limitations": [
+    "Connector records include full returned bodies/quoted chains and metadata; they are not original EML/MIME files.",
+    "Single new project message has no reported attachments and no cid references; no new attachment download needed. Prior attachment download gaps remain unchanged.",
+    "No qualifying Outlook drafts returned; local draft versions remain historical evidence.",
+    "No email sent, read state or draft changed, payment approved, inspection ordered or agreement signed by assistant.",
+    "Separate non-iSmash franchise correspondence was excluded from this project's archive."
+  ]
+}

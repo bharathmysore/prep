@@ -1,0 +1,235 @@
+{
+  "audit_date": "2026-11-17",
+  "source": "/Users/bmysoren/Desktop/2026/iSmash/Construction/Construction_Estimate_Increased_iSmash_Everett.pdf",
+  "source_sha256": "08de1a50393213afba8eca7a3c2d73de9c931672df86f8b58f9561cf93b8ca3f",
+  "source_pdf_pages": 52,
+  "page_numbering": "one-based physical PDF pages",
+  "envelope_id": "A8DCE057-B73D-4E01-992E-44B496C24B7F",
+  "visual_verification_pages": [
+    10,
+    13,
+    14,
+    15,
+    16,
+    20,
+    22,
+    23
+  ],
+  "signature_page": 23,
+  "owner_signature_date": "2026-01-26",
+  "contractor_signature_date": "2026-01-20",
+  "items": [
+    {
+      "clauses": [
+        "9.1"
+      ],
+      "pdf_pages": [
+        13
+      ],
+      "classification": "express payment schedule",
+      "quote": "The Owner shall pay the remaining 10% of the total contract price upon issuance of the Certificate of Occupancy for the completed project",
+      "meaning": "The schedule specifies 100% of A&E at execution plus 25% of remaining price at execution/mobilization; 45% total price on scheduling rough inspections; 20% total price on scheduling final inspection; 10% on CO. It does not expressly state a franchisor signoff requirement.",
+      "limit": "Read together with the substantial-completion and final-payment provisions below; do not conclude CO alone overrides all completion provisions."
+    },
+    {
+      "clauses": [
+        "9.2"
+      ],
+      "pdf_pages": [
+        15
+      ],
+      "classification": "express qualification",
+      "quote": "RETAINAGE: Not Applicable",
+      "meaning": "The contract does not label the final 10% milestone as retainage. Earlier Gemini context saying 10% retainage strictly conditioned on all punch items and brand signoff is not the actual wording."
+    },
+    {
+      "clauses": [
+        "9.1.7",
+        "9.1.12"
+      ],
+      "pdf_pages": [
+        14,
+        15
+      ],
+      "classification": "express unfinished-item payment mechanism; duplicated language",
+      "quote": "less a sum equal to one hundred fifty percent (150%) of Design-Builder's estimated cost of completing any unfinished items as agreed to between the Parties as to extent and time for completion",
+      "meaning": "At Substantial Completion, unpaid balance including retainage is to be paid less that amount. The retained unfinished-item amount is paid monthly as each item is completed.",
+      "limit": "Uses the Design-Builder estimate and party agreement as to extent/time; does not automatically authorize withholding the entire final 10% or any other fixed total."
+    },
+    {
+      "clauses": [
+        "9.4.1"
+      ],
+      "pdf_pages": [
+        16
+      ],
+      "classification": "express final payment and waiver obligation",
+      "quote": "Final payment, consisting of the unpaid balance of the Contract Price, shall be due and payable when the Work is fully completed.",
+      "additional_quote": "Before the issuance of final payment, Design-Builder shall submit a conditional lien waiver upon final payment in the form attached hereto as Exhibit E",
+      "meaning": "Explicit completion condition and conditional final waiver requirement for Design-Builder. It says conditional, not unconditional.",
+      "limit": "Read together with CO milestone and substantial-completion provision. The Exhibit E form was not located in the supplied 52-page package. Does not expressly demand unconditional final releases from every subcontractor before disbursement."
+    },
+    {
+      "clauses": [
+        "9.1.1",
+        "9.1.2"
+      ],
+      "pdf_pages": [
+        13,
+        14
+      ],
+      "classification": "express progress-payment documentation",
+      "quote": "shall submit executed conditional lien waivers upon progress payment for those seeking payment under the application for payment in the form attached hereto as Exhibit D",
+      "meaning": "Schedule of Values required before first payment application; subsequent applications based on completed work and suitably stored materials. Conditional progress waivers accompany requests for those seeking payment.",
+      "limit": "Stored-material bills of sale/insurance provisions are not a general requirement to produce receipts for every agreed lump-sum change order. Referenced Exhibit C payment application and Exhibit D waiver forms not located in this PDF."
+    },
+    {
+      "clauses": [
+        "9.1.5",
+        "9.1.10"
+      ],
+      "pdf_pages": [
+        14,
+        15
+      ],
+      "classification": "express lien-free-title warranty; duplicated language",
+      "quote": "free and clear of all liens, claims, security interests, or encumbrances",
+      "meaning": "Design-Builder warrants title to all work, materials and equipment covered by an application passes to owner upon receipt of payment free of those interests.",
+      "limit": "Supports requesting current payment/release verification, but does not itself prescribe an all-company final ledger or every subcontractor unconditional final release as a payment prerequisite."
+    },
+    {
+      "clauses": [
+        "5.1",
+        "5.2",
+        "4.4.3"
+      ],
+      "pdf_pages": [
+        10
+      ],
+      "classification": "express subcontractor management responsibility",
+      "quote": "Design-Builder shall be responsible for the management of Subcontractors in the performance of their work.",
+      "meaning": "Carney manages subcontractors; owner has no contractual obligations to subcontractors, suppliers or design professional under 4.4.3. Article 5 has only 5.1 and 5.2.",
+      "limit": "No Article 5 express final accounting/paid-and-unpaid ledger requirement was identified. A full ledger, balances/retention confirmation and release arrangements are reasonable verification requests, not verbatim duties specified there."
+    },
+    {
+      "clauses": [
+        "9.3",
+        "9.3.1",
+        "9.3.2",
+        "9.3.3"
+      ],
+      "pdf_pages": [
+        15
+      ],
+      "classification": "express conditional payment-adjustment grounds",
+      "quote": "as may reasonably be necessary to protect Owner from loss or damage",
+      "additional_quote": "to the extent that Design-Builder is responsible under this Agreement",
+      "meaning": "Grounds include repeated failure to perform required work; failure to pay subcontractor/supplier when due after owner payment, absent good-faith dispute and provided owner pays per contract; defective work not corrected or correction commenced timely after written owner notice.",
+      "limit": "Conditional, responsibility-limited, reasonable/proportionate mechanism. Not a blanket right to stop all payment over any open request."
+    },
+    {
+      "clauses": [
+        "9.1.2 continuation"
+      ],
+      "pdf_pages": [
+        14
+      ],
+      "classification": "express monthly application review procedure",
+      "meaning": "Written acceptance/rejection within 7 days of monthly application; reasons for rejection; payment within 30 days of acceptance; if revised amount not agreed, appropriate undisputed items paid within 15 days of initial partial rejection. Rejected amounts become due when reasons removed.",
+      "limit": "Text addresses monthly applications; do not assume without analysis that every final-payment situation is identical."
+    },
+    {
+      "clauses": [
+        "9.4.2",
+        "9.4.2.1",
+        "9.4.2.2",
+        "9.4.2.3"
+      ],
+      "pdf_pages": [
+        16
+      ],
+      "classification": "express final-payment claims waiver and exceptions",
+      "quote": "In making final payment Owner waives all claims except for:",
+      "meaning": "Exceptions: improper workmanship/defective materials appearing within one year after Substantial Completion; work not conforming to Contract Documents; special warranties required by Contract Documents.",
+      "limit": "Not a blanket survival of every dispute, delay or monetary claim. A unilateral reservation email is not stated to modify this clause. This audit does not opine on enforceability."
+    },
+    {
+      "clauses": [
+        "9.1.6",
+        "9.1.11"
+      ],
+      "pdf_pages": [
+        14,
+        15
+      ],
+      "classification": "express nonacceptance protection; duplicated language",
+      "quote": "Owner's progress payment, occupancy, or use of the Project, whether in whole or in part, shall not be deemed acceptance of any Work not conforming to the requirements of the Contract Documents.",
+      "meaning": "Opening/use/progress payment does not itself accept nonconforming work.",
+      "limit": "Distinguish progress payment/use from final-payment waiver in 9.4.2."
+    },
+    {
+      "clauses": [
+        "9.4.3"
+      ],
+      "pdf_pages": [
+        16
+      ],
+      "classification": "express Design-Builder final-payment waiver",
+      "quote": "In accepting final payment, Design-Builder waives all claims except those previously made in writing and which remain unsettled.",
+      "meaning": "Contractor waiver has a written-unsettled-claim exception, different from the owner exceptions."
+    },
+    {
+      "clauses": [
+        "9.1.3",
+        "9.1.8",
+        "12.1"
+      ],
+      "pdf_pages": [
+        14,
+        20
+      ],
+      "classification": "express stoppage rights and work-continuance obligations coexist",
+      "meaning": "9.1.3 and duplicate 9.1.8 allow work stop for an amount due/unpaid after specified written notice and seven-day period. 12.1 requires continued work/approved schedules during dispute mitigation or resolution unless otherwise agreed in writing, paired with owner payment per agreement.",
+      "limit": "Do not say 12.1 categorically overrides the nonpayment clauses or label any stoppage unlawful without checking amounts due, notices and facts."
+    },
+    {
+      "clauses": [
+        "12.2"
+      ],
+      "pdf_pages": [
+        20
+      ],
+      "classification": "express direct-discussion process",
+      "meaning": "Good-faith representative discussions; if unresolved within 5 business days, notify senior executives in writing; executives meet within 5 business days of notice; unresolved after 15 days from first discussion proceeds to selected dispute process."
+    },
+    {
+      "clauses": [
+        "4.4.2"
+      ],
+      "pdf_pages": [
+        10
+      ],
+      "classification": "express owner notice obligation",
+      "quote": "Owner shall give prompt written notice to Design-Builder.",
+      "meaning": "Applies when owner becomes aware of error, omission, noncontract installation or defect. Written punch/defect notice serves a documented purpose."
+    },
+    {
+      "clauses": [
+        "14.1",
+        "14.2"
+      ],
+      "pdf_pages": [
+        22
+      ],
+      "classification": "express contract documents and precedence",
+      "meaning": "Contract includes agreement, most current owner-approved design documents as of commencement, and change orders/amendments. Precedence: change orders/written amendments, agreement, approved designs, other listed documents; latest date controls within category unless otherwise provided.",
+      "limit": "Later signed amendments/change orders may affect obligations; this audit is the identified original final signed agreement, not a determination that no later modifications exist."
+    }
+  ],
+  "scope_limits": [
+    "Factual contract text audit only; no enforceability opinion or determination of current amount due.",
+    "Current closeout packet contents and latest email facts must be assessed separately.",
+    "No express every-subcontractor unconditional-final-release prerequisite or all-party final accounting ledger covenant identified; conditional final waiver is express.",
+    "Exhibit E is referenced in 9.4.1 but its form was not located within this supplied 52-page PDF."
+  ]
+}

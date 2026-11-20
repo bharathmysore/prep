@@ -1,0 +1,439 @@
+{
+  "title": "iSmash Everett email refresh — November 5, 2026 late evening",
+  "source": "Microsoft Outlook Email connector",
+  "captured_at_utc": "2026-11-06T07:11:47Z",
+  "display_timezone": "America/Los_Angeles",
+  "previous_refresh_cutoff_utc": "2026-11-05T18:46:04Z",
+  "previous_snapshot": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-05_refresh.json",
+  "preserved_baseline_sha256": "cb8de3f93f3aeaf6ddfd959f7f547487090d75149835f63ba01eac7979493a1d",
+  "scope": "Project correspondence from Carney, Onesta LLC, iSmash, Alex/NW Prime, City, bank, property management and related vendors since the November 5 morning cutoff.",
+  "message_count": 3,
+  "human_message_count": 2,
+  "human_sent_count": 1,
+  "human_received_count": 1,
+  "automated_message_count": 1,
+  "draft_count": 0,
+  "query_count": 9,
+  "query_audit": [
+    {
+      "query": "from:nwprime.com received>=2026-11-05",
+      "count": 0,
+      "kept_count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:onestallc.com received>=2026-11-05",
+      "count": 2,
+      "kept_count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:carneycontracting.com received>=2026-11-05",
+      "count": 3,
+      "kept_count": 1,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:everettwa.gov received>=2026-11-05",
+      "count": 0,
+      "kept_count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:quaintoak.com received>=2026-11-05",
+      "count": 0,
+      "kept_count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:ismashfranchise.com received>=2026-11-05",
+      "count": 2,
+      "kept_count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:bayalarm.com received>=2026-11-05",
+      "count": 0,
+      "kept_count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "from:motionpg.com received>=2026-11-05",
+      "count": 0,
+      "kept_count": 0,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    },
+    {
+      "query": "iSmash received>=2026-11-05",
+      "count": 9,
+      "kept_count": 2,
+      "has_more": false,
+      "next_from_index": null,
+      "error": null
+    }
+  ],
+  "recent_mail_audit": {
+    "filter": "receivedDateTime gt 2026-11-05T18:46:04Z",
+    "order_by": "receivedDateTime desc",
+    "records_screened": 92,
+    "pages": [
+      {
+        "skip": 0,
+        "count": 50,
+        "has_more": true,
+        "next_from_index": 50,
+        "matched_ids": [
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEKAAAARPm-s742-kq1G05hoJ2zSAAJeTZi6wAAAA=="
+        ]
+      },
+      {
+        "skip": 50,
+        "count": 42,
+        "has_more": false,
+        "next_from_index": null,
+        "matched_ids": [
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQzwAAAA==",
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJeTbl_AAAAA=="
+        ]
+      }
+    ],
+    "has_more": false
+  },
+  "final_incremental_search_check": {
+    "filter": "receivedDateTime gt 2026-11-06T07:10:05Z",
+    "count": 0,
+    "has_more": false,
+    "next_from_index": null,
+    "matched_ids": []
+  },
+  "draft_status_check": {
+    "filter": "isDraft eq true and receivedDateTime gt 2026-11-05T05:07:35Z",
+    "count": 0,
+    "has_more": false,
+    "next_from_index": null,
+    "project_drafts": []
+  },
+  "shared_page_skill_discovery": {
+    "namespace": "skill",
+    "query": "iSmash email refresh",
+    "result": {
+      "items": [],
+      "next_cursor": null,
+      "partial_results": false,
+      "incomplete_reasons": []
+    }
+  },
+  "messages": [
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEKAAAARPm-s742-kq1G05hoJ2zSAAJeTZi6wAAAA==",
+        "subject": "A debit was posted to your account",
+        "body": {
+          "contentType": "html",
+          "content": "| | ![Quaint Oak Bank](https://urldefense.com/v3/__https://23586174.fs1.hubspotusercontent-na1.net/hubfs/23586174/Branding*20Assets/QO-Bank-MemberFDIC-FullColor-Logo.png__;JQ!!P9vvK-4S!lASAwfX3UW1kmLRl_wjIdTCeYQrFoBbjX4r053U6ubzTENCurjjI_HBAuTNTljjhcXVJOXfA9ZBrhy-80ggO5lp4$)  \n---  \n|  \n---  \n| Account Number ending *1461  \n  \nTransaction Date - Nov 05, 2026  \nTransaction Amount - $4.85  \n  \nA debit transaction on your account *1461 was posted on Nov 05, 2026.  \nThank you for your business!  \nSincerely,  \nYour Quaint Oak Bank Team  \n  \n---  \n---  \n| Need to get in touch? Visit our contact us page for multiple ways to\nconnect. Please do not reply to this email, as email replies are not\nmonitored.©2024 Quaint Oak Bank. All rights reserved.Quaint Oak Bank will\nnever send unsolicited emails asking customers to provide, update or verify\ntheir personal or account information, such as passwords, Tax IDs, PINs, card\nnumbers, or other confidential information. As always, Quaint Oak Bank\nrespects your privacy. To learn more, visit\n[https://www.quaintoak.com/privacy/](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.quaintoak.com%2Fprivacy%2F&data=05%7C02%7C%7Cb0f43ffffd1140a0fa5a08df3bb9c574%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639295341203093538%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=qaYL9I7mGeocNQvguNT7bK2iAGE6GNINHCZk7X26CLI%3D&reserved=0).  \n---\n\n"
+        },
+        "bodyPreview": "Account Number ending *1461\r\n\r\nTransaction Date - Nov 05, 2026\r\nTransaction Amount - $4.85\r\n\r\nA debit transaction on your account *1461 was posted on Nov 05, 2026.\r\nThank you for your business!\r\nSincerely,\r\nYour Quaint Oak Bank Team\r\nNeed to get in touch?",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEKAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZi6wAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "alerts@quaintoak.com",
+            "name": "Quaint Oak Bank"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "bharathkumarmn@hotmail.com",
+              "name": "bharathkumarmn@hotmail.com"
+            }
+          }
+        ],
+        "ccRecipients": [],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-06T03:55:20Z",
+        "isRead": false,
+        "categories": [],
+        "has_attachments": false,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEKAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZi6wAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "A debit was posted to your account"
+      },
+      "queries": [
+        "exact_interval"
+      ],
+      "record_id": "E001",
+      "is_draft": false,
+      "classification": "automated"
+    },
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQzwAAAA==",
+        "subject": "Final Invoice and Billing  (NEW INVOICE 11.5.2026)",
+        "body": {
+          "contentType": "html",
+          "content": "Hi Bharath,  \n  \nAttached is the final Invoice to close out the job.  \n  \n**Invoice amount:    $52,184.44  \n**  \nPlease let me know if you have questions , concerns or you need the wire info\nagain.  \n  \nThanks\n\nJeffrey\n\n\n\n**Jeffrey Jordan Howe  \n****Carney Contracting Services******\n\n405 Estates Court,  \nNewtown, PA.   18940\n\n**Office: 215-267-6906****  \n****Email:   [Jeff@Carneycontracting.Com](mailto:Jeff@Carneycontracting.Com)**\n\n\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, November 4, 2026 8:09 PM  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nBharath,\n\n\n\nWe appreciate the opportunity to work with you. Congratulations on your CO\n\n\n\n[@Jeff Howe](mailto:jeff@carneycontracting.com), please send final billing.\n\n\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n\n\n* * *\n\n**From:** Tyson Ferreira <[tyson@onestallc.com](mailto:tyson@onestallc.com)>  \n**Sent:** Wednesday, 04 November 2026 16:03:49  \n**To:** Troy Fink\n<[troy@carneycontracting.com](mailto:troy@carneycontracting.com)>; Bharath\nMysore <[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>;\nScott Laviano\n<[slaviano@ismashfranchise.com](mailto:slaviano@ismashfranchise.com)>  \n**Cc:** Robbi Drahos <[robbi@onestallc.com](mailto:robbi@onestallc.com)>; Kira\nWohlfeil <[kira@onestallc.com](mailto:kira@onestallc.com)>  \n**Subject:** Re: Punch Walk\n\n\n\nTeam,\n\n\n\nPlease see my responses below in Blue.\n\n\n\nThanks\n\n\n\nTyson Ferreira I Founder & CEO\n\nOnesta General Contracting\n\n🏢 253.347.4298 I 📱206.391.4401\n\n703 Industry Drive, Tukwila, WA 98188\n\n[www.onestallc.com](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.onestallc.com%2F&data=05%7C02%7C%7C6df6df54fc204503ec4908df3b79b807%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639295066432662854%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FaKwSf2m2gtClrGVo7mlqmXYvRiOQgmfx3Uu15o%2BE%2Bs%3D&reserved=0)\n\n\n\nStart Strong. Finish Strong.\n\n* * *\n\n**From:** Troy Fink\n<[troy@carneycontracting.com](mailto:troy@carneycontracting.com)>  \n**Sent:** Wednesday, November 4, 2026 1:48 PM  \n**To:** Tyson Ferreira <[tyson@onestallc.com](mailto:tyson@onestallc.com)>;\nBharath Mysore\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>; Scott\nLaviano <[slaviano@ismashfranchise.com](mailto:slaviano@ismashfranchise.com)>  \n**Subject:** Punch Walk\n\n\n\nTyson and Bharath,\n\nBelow is the consolidated list of outstanding punch list items from our\nwalkthrough. The dates noted reflect the completion dates Tyson provided.\nItems without dates still require confirmation of scope, resolution, and\nanticipated completion.\n\n**Event Room**\n\n  * Outlet to the right of TV: Caulk or otherwise finish around outlet. **11/4 DONE**\n  * Electrical panel access sign. **11/4 DONE**\n\n**Smash Room 1**\n\n  * Left steel plate: Second bolt from bottom is loose.\n  * Second steel sheet: Third bolt on right is loose. **11/4 DONE**\n\n**Smash Rooms 1 & 2**\n\n  * Relocate tool racks near steel walls to behind doors. **11/4 DONE**\n\n**Smash Room 2**\n\n  * Outlet near smash wall: Not shown on plans. Confirm why it was installed and associated cost. Replace with blank cover. **11/4 DONE**\n\n**Large Paint Room**\n\n  * Install missing doorstop. **11/4 DONE**\n  * Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.\n\n**Bathroom**\n\n  * Install outlet cover. **11/4 DONE**\n\n**Smash Room 3**\n\n  * Door installed backwards. Correct installation. **_Ordered 11/4 approximately two weeks out_**\n  * Right steel: Third bolt down, third and second bolts from second sheet; second sheet, second bolt down on left. **11/4 DONE**\n  * First steel sheet from right wall is not flush. Correct installation. **DONE**\n\n**Gear Room 2**\n\n  * Install second jumpsuit rack below existing rack. **11/4 DONE**\n  * Replace ceiling tiles. **11/4 DONE**\n  * Touch up door frame. **11/4 DONE  **\n  * Repaint door properly around “Employees Only” sign. **11/4 DONE**\n\n**Paint Cleanup Area**\n\n  * Install cabinet door hardware. **11/5 tomorrow  **\n  * Sink installed is incorrect and undersized. Confirm replacement and timeline. **Here is an option to add one more sink**[**https://a.co/d/0djnkD4N**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2F0djnkD4N&data=05%7C02%7C%7C6df6df54fc204503ec4908df3b79b807%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639295066432688129%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gtsToT01Vn4RxtzcyP%2FtA1Hje8ZQ8WQxkx0AUMvzcW0%3D&reserved=0)**  please confirm this works for Ismash. **\n  * Complete caulking around motion detector and painting around fire alarm. **11/4 DONE  **\n  * Finish small baseboard section, including trim and FRP. **11/4 DONE**\n\n**Smash Room 4**\n\n  * Touch up door frame. **11/4 DONE**\n  * Correct metal sheet that is not flush. **11/4 DONE**\n\n**Paint Rooms**\n\n  * Remove unnecessary door locks. **11/4 DONE**\n\n**Tools and Gear Rooms**\n\n  * Complete tool mounting installation. **11/4 Owner asked us to hold off on installation today due to it potentially moving to a different location.  **\n\n  *  \n\n  * Bats: 2-inch conduit straps\n\n    * Crowbar: 1-inch conduit straps\n    * Two hooks\n    * Sledgehammer: 1.5-inch conduit straps\n\n  * Install disposable glove holders in all three gear rooms. **11/4 DONE**\n\n**All Smash Rooms**\n\n  * Ensure all smash wall steel sheets are flush. **11/4 DONE**\n\n**Fire Safety**\n\n  * Provide two new tagged fire extinguishers and required signage. **Monday, 11/9.****Ordered 11/4**\n\n**Additional Outstanding Items**\n\n  * Install soap dispenser.\n  * Install storage room doors.\n  * Remove gate bolts.\n\n  * Replace three ceiling tiles in storage room.\n\n  * **These items are all DONE 11/4**\n\nTyson, please confirm which dated items have been completed and provide\nanticipated completion dates for everything remaining. For any items requiring\nclarification or a change in scope, please identify those separately.\n\nBharath, please review this list and advise if anything discussed during the\nwalkthrough has been omitted. Our goal is to establish one consolidated list,\nclose out the remaining work, and avoid additional items being introduced\nafter completion.\n\nThank you.\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n\n\n"
+        },
+        "bodyPreview": "Hi Bharath,\r\n\r\nAttached is the final Invoice to close out the job.\r\n\r\nInvoice amount:   $52,184.44\r\n\r\nPlease let me know if you have questions , concerns or you need the wire info again.\r\n\r\nThanks\r\nJeffrey\r\n\r\nJeffrey Jordan Howe\r\nCarney Contracting Servic",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQzwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "jeff@carneycontracting.com",
+            "name": "Jeff Howe"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "bharathkumarmn@hotmail.com",
+              "name": "Bharath Mysore"
+            }
+          }
+        ],
+        "ccRecipients": [
+          {
+            "emailAddress": {
+              "address": "troy@carneycontracting.com",
+              "name": "Troy Fink"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "mcarney@carneycontracting.com",
+              "name": "Michael Carney"
+            }
+          }
+        ],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-05T20:17:23Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": true,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQzwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Final Invoice and Billing  (NEW INVOICE 11.5.2026)"
+      },
+      "queries": [
+        "exact_interval",
+        "from:carneycontracting.com received>=2026-11-05",
+        "iSmash received>=2026-11-05"
+      ],
+      "record_id": "E002",
+      "is_draft": false,
+      "classification": "human_received"
+    },
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJeTbl_AAAAA==",
+        "subject": "Re: Punch Walk",
+        "body": {
+          "contentType": "html",
+          "content": "Tyson,\n\nHeating is not working. It was on yesterday evening and hot in the party room\nbut rest of place was not. Overnight i had set it to 70 and today morning, it\nwas at 61.\n\nCan this be fixed please ?\n\n  \n\nThanks\n\nBharath\n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Wednesday, November 4, 2026 5:43 PM  \n**To:** Troy Fink <troy@carneycontracting.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nTroy,\n\nAbout tool formation- guys were asking for height and I wasn't aware of the\nnumber. It will be in the same location. I have fwd Scott text to Tyson about\nit's placement\n\nAbout installing sink mirror - I have been waiting for it's dimensions. I will\nhave it tomorrow morning for installation.\n\nHVAC isn't heating - Tyson is aware of it and had a tech come in now\n\n  \n\nRegards\n\nBharath\n\n  \n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, 04 November 2026 17:09:15  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nBharath,\n\n  \n\nWe appreciate the opportunity to work with you. Congratulations on your CO\n\n  \n\n[@Jeff Howe](mailto:jeff@carneycontracting.com), please send final billing.\n\n  \n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n**From:** Tyson Ferreira <tyson@onestallc.com>  \n**Sent:** Wednesday, 04 November 2026 16:03:49  \n**To:** Troy Fink <troy@carneycontracting.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Cc:** Robbi Drahos <robbi@onestallc.com>; Kira Wohlfeil <kira@onestallc.com>  \n**Subject:** Re: Punch Walk\n\n\n\nTeam,\n\n  \n\nPlease see my responses below in Blue.\n\n  \n\nThanks\n\n  \n\nTyson Ferreira I Founder & CEO\n\nOnesta General Contracting\n\n🏢 253.347.4298 I 📱206.391.4401\n\n703 Industry Drive, Tukwila, WA 98188\n\nwww.onestallc.com\n\n  \n\nStart Strong. Finish Strong.\n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, November 4, 2026 1:48 PM  \n**To:** Tyson Ferreira <tyson@onestallc.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Subject:** Punch Walk\n\n\n\nTyson and Bharath,\n\nBelow is the consolidated list of outstanding punch list items from our\nwalkthrough. The dates noted reflect the completion dates Tyson provided.\nItems without dates still require confirmation of scope, resolution, and\nanticipated completion.\n\n**Event Room**\n\n  * Outlet to the right of TV: Caulk or otherwise finish around outlet. **11/4 DONE**\n  * Electrical panel access sign. **11/4 DONE**\n\n**Smash Room 1**\n\n  * Left steel plate: Second bolt from bottom is loose.\n  * Second steel sheet: Third bolt on right is loose. **11/4 DONE**\n\n**Smash Rooms 1 & 2**\n\n  * Relocate tool racks near steel walls to behind doors. **11/4 DONE**\n\n**Smash Room 2**\n\n  * Outlet near smash wall: Not shown on plans. Confirm why it was installed and associated cost. Replace with blank cover. **11/4 DONE**\n\n**Large Paint Room**\n\n  * Install missing doorstop. **11/4 DONE**\n  * Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.\n\n**Bathroom**\n\n  * Install outlet cover. **11/4 DONE**\n\n**Smash Room 3**\n\n  * Door installed backwards. Correct installation. **_Ordered 11/4 approximately two weeks out_**\n  * Right steel: Third bolt down, third and second bolts from second sheet; second sheet, second bolt down on left. **11/4 DONE**\n  * First steel sheet from right wall is not flush. Correct installation. **DONE**\n\n**Gear Room 2**\n\n  * Install second jumpsuit rack below existing rack. **11/4 DONE**\n  * Replace ceiling tiles. **11/4 DONE**\n  * Touch up door frame. **11/4 DONE  **\n  * Repaint door properly around “Employees Only” sign. **11/4 DONE**\n\n**Paint Cleanup Area**\n\n  * Install cabinet door hardware. **11/5 tomorrow  **\n  * Sink installed is incorrect and undersized. Confirm replacement and timeline. **Here is an option to add one more sink**[**https://a.co/d/0djnkD4N**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2F0djnkD4N&data=05%7C02%7C%7Caa908feaa7ac49803f4808df3ad96b36%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294377612389424%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2FQttcxDuvg9vJIAQysxaRKnQj8FlkLAPhpLwcdI0sIw%3D&reserved=0)**  please confirm this works for Ismash. **\n  * Complete caulking around motion detector and painting around fire alarm. **11/4 DONE  **\n  * Finish small baseboard section, including trim and FRP. **11/4 DONE**\n\n**Smash Room 4**\n\n  * Touch up door frame. **11/4 DONE**\n  * Correct metal sheet that is not flush. **11/4 DONE**\n\n**Paint Rooms**\n\n  * Remove unnecessary door locks. **11/4 DONE**\n\n**Tools and Gear Rooms**\n\n  * Complete tool mounting installation. **11/4 Owner asked us to hold off on installation today due to it potentially moving to a different location.  **\n\n  * **  \n**\n\n  * Bats: 2-inch conduit straps\n\n    * Crowbar: 1-inch conduit straps\n    * Two hooks\n    * Sledgehammer: 1.5-inch conduit straps\n  * Install disposable glove holders in all three gear rooms. **11/4 DONE**\n\n**All Smash Rooms**\n\n  * Ensure all smash wall steel sheets are flush. **11/4 DONE**\n\n**Fire Safety**\n\n  * Provide two new tagged fire extinguishers and required signage. **Monday, 11/9.****Ordered 11/4**\n\n**Additional Outstanding Items**\n\n  * Install soap dispenser.\n  * Install storage room doors.\n  * Remove gate bolts.\n  * Replace three ceiling tiles in storage room.\n\n  * **These items are all DONE 11/4**\n\nTyson, please confirm which dated items have been completed and provide\nanticipated completion dates for everything remaining. For any items requiring\nclarification or a change in scope, please identify those separately.\n\nBharath, please review this list and advise if anything discussed during the\nwalkthrough has been omitted. Our goal is to establish one consolidated list,\nclose out the remaining work, and avoid additional items being introduced\nafter completion.\n\nThank you.\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n"
+        },
+        "bodyPreview": "Tyson,\r\nHeating is not working. It was on yesterday evening and hot in the party room but rest of place was not. Overnight i had set it to 70 and today morning, it was at 61.\r\nCan this be fixed please ?\r\n\r\nThanks\r\nBharath\r\n________________________________",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTbl%2BAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "troy@carneycontracting.com",
+              "name": "Troy Fink"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "mcarney@carneycontracting.com",
+              "name": "Michael Carney"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "jeff@carneycontracting.com",
+              "name": "Jeff Howe"
+            }
+          }
+        ],
+        "ccRecipients": [],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-05T18:46:17Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": false,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTbl%2BAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Re: Punch Walk"
+      },
+      "queries": [
+        "exact_interval",
+        "iSmash received>=2026-11-05"
+      ],
+      "record_id": "E003",
+      "is_draft": false,
+      "classification": "human_sent"
+    }
+  ],
+  "drafts": [],
+  "key_updates": [
+    {
+      "topic": "Carney final invoice received",
+      "records": [
+        "E002"
+      ],
+      "summary": "November 5 12:17 PM PST: Jeff Howe sends 'Final Invoice and Billing (NEW INVOICE 11.5.2026)' to Bharath, copying Troy and Michael. Email says final invoice to close out job, amount $52,184.44, and invites questions/concerns or request for wire info. Attached exact filename 'CCS Invoice #5 iSmash Seattle  $ 52,184.44.pdf', 1,211,046 bytes. Amount is verified from email body/attachment metadata, not independent PDF line-item or contract reconciliation. No new wire details, due date, proof of completion or owner approval in email body."
+    },
+    {
+      "topic": "HVAC follow-up now sent",
+      "records": [
+        "E003"
+      ],
+      "summary": "November 5 10:46:17 AM PST, 13 seconds after previous cutoff, owner sends heating complaint: party room was hot but rest was not; thermostat set to 70 overnight, morning reading 61, and requests fix. This differs from prior in-progress draft's 64 reading. Preserve both as draft versus sent evidence, with 61 the sent statement. Recipients Troy, Michael and Jeff; salutation says Tyson but Tyson not in To/CC. No contractor reply confirming HVAC repair found."
+    },
+    {
+      "topic": "Bank debit alert",
+      "records": [
+        "E001"
+      ],
+      "summary": "November 5 7:55 PM PST: Quaint Oak reports a $4.85 debit on account ending 1461, transaction date November 5. Merchant/purpose not stated; no link to final invoice or loan payment established."
+    },
+    {
+      "topic": "Unchanged open items",
+      "records": [],
+      "summary": "No new Onesta, corporate, Alex, City, Bay Alarm or property-management message after the morning cutoff. No new confirmations of cabinet hardware, mirror/tool mounting, fan switch, outstanding bolt, heating repair, fire extinguishers or replacement door completion. Earlier sink delivery expected November 6–7 and plumber target November 9–10 remains subject to confirmation. Franchise addendum terms remain unread from prior retrieval failure."
+    }
+  ],
+  "attachment_metadata": [
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQzwAAAA==",
+      "response": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQzwAAAA==",
+          "attachments": [
+            {
+              "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQzwAAAAESABAAfzI0IeZIsEK5P6I5PPkm1Q==",
+              "name": "CCS Invoice #5 iSmash Seattle  $ 52,184.44.pdf",
+              "content_type": "application/pdf",
+              "size_bytes": 1211046,
+              "is_inline": false,
+              "content_id": "931E5D02B5F423449E963F5217C1CFD3@NAMP220.PROD.OUTLOOK.COM",
+              "last_modified_date_time": "2026-11-05T20:17:23Z",
+              "odata_type": "#microsoft.graph.fileAttachment",
+              "payload_status": "not_requested",
+              "file_uri": null,
+              "payload_error": null,
+              "attachment_type": "fileAttachment",
+              "payload_fetch_supported": true,
+              "display_title": "CCS Invoice #5 iSmash Seattle  $ 52,184.44.pdf"
+            }
+          ],
+          "errors": [],
+          "next_link": null
+        },
+        "isError": false
+      }
+    }
+  ],
+  "attachment_materializations": [
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQzwAAAA==",
+      "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQzwAAAAESABAAfzI0IeZIsEK5P6I5PPkm1Q==",
+      "name": "CCS Invoice #5 iSmash Seattle  $ 52,184.44.pdf",
+      "response": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQzwAAAA==",
+          "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQzwAAAAESABAAfzI0IeZIsEK5P6I5PPkm1Q==",
+          "filename": "CCS Invoice #5 iSmash Seattle  $ 52,184.44.pdf",
+          "mime_type": "application/pdf",
+          "size_bytes": 1211046,
+          "attachment_type": "fileAttachment",
+          "content_id": "931E5D02B5F423449E963F5217C1CFD3@NAMP220.PROD.OUTLOOK.COM",
+          "is_inline": false,
+          "file_ext": "pdf",
+          "payload_status": "materialized",
+          "file_uri": {
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_000000003d2c820f994c874c2fa55900&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-3d2c-820f-994c-874c2fa55900%2Fraw%3Fse%3D2026-11-06T07%253A16%253A22Z%26sp%3Dr%26sv%3D2026-02-06%26sr%3Db%26scid%3D8716d61a-2f87-41ab-9502-1a951a5677cd%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-06T01%253A47%253A07Z%26ske%3D2026-11-07T01%253A47%253A07Z%26sks%3Db%26skv%3D2026-02-06%26sig%3DA6cXVqef9RRoOVzWZd6ZW2n8TeHyXXQNGvO0HV7vwMg%253D&content_disposition=inline&encryption_scope_type=chatgpt_workspace_id&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&mime_type=application%2Fpdf&filename=CCS+Invoice+%235+iSmash+Seattle++%24+52%2C184.44.pdf&ts=498319&p=dp&cid=5&sig=bf306281440d239e85da9396332a19c3bb642a7e81e17a4c2a44d0f3132dfbea",
+            "file_id": "file_000000003d2c820f994c874c2fa55900",
+            "mime_type": "application/pdf",
+            "file_name": "CCS Invoice #5 iSmash Seattle  $ 52,184.44.pdf"
+          },
+          "structuredContent": {
+            "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQzwAAAA==",
+            "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQzwAAAAESABAAfzI0IeZIsEK5P6I5PPkm1Q==",
+            "filename": "CCS Invoice #5 iSmash Seattle  $ 52,184.44.pdf",
+            "mime_type": "application/pdf",
+            "size_bytes": 1211046,
+            "attachment_type": "fileAttachment",
+            "file_ext": "pdf",
+            "payload_status": "materialized",
+            "file_uri": {
+              "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_000000003d2c820f994c874c2fa55900&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-3d2c-820f-994c-874c2fa55900%2Fraw%3Fse%3D2026-11-06T07%253A16%253A22Z%26sp%3Dr%26sv%3D2026-02-06%26sr%3Db%26scid%3D8716d61a-2f87-41ab-9502-1a951a5677cd%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-06T01%253A47%253A07Z%26ske%3D2026-11-07T01%253A47%253A07Z%26sks%3Db%26skv%3D2026-02-06%26sig%3DA6cXVqef9RRoOVzWZd6ZW2n8TeHyXXQNGvO0HV7vwMg%253D&content_disposition=inline&encryption_scope_type=chatgpt_workspace_id&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&mime_type=application%2Fpdf&filename=CCS+Invoice+%235+iSmash+Seattle++%24+52%2C184.44.pdf&ts=498319&p=dp&cid=5&sig=bf306281440d239e85da9396332a19c3bb642a7e81e17a4c2a44d0f3132dfbea",
+              "file_id": "file_000000003d2c820f994c874c2fa55900",
+              "mime_type": "application/pdf",
+              "file_name": "CCS Invoice #5 iSmash Seattle  $ 52,184.44.pdf"
+            },
+            "file_id": "file_000000003d2c820f994c874c2fa55900",
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_000000003d2c820f994c874c2fa55900&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-3d2c-820f-994c-874c2fa55900%2Fraw%3Fse%3D2026-11-06T07%253A16%253A22Z%26sp%3Dr%26sv%3D2026-02-06%26sr%3Db%26scid%3D8716d61a-2f87-41ab-9502-1a951a5677cd%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-06T01%253A47%253A07Z%26ske%3D2026-11-07T01%253A47%253A07Z%26sks%3Db%26skv%3D2026-02-06%26sig%3DA6cXVqef9RRoOVzWZd6ZW2n8TeHyXXQNGvO0HV7vwMg%253D&content_disposition=inline&encryption_scope_type=chatgpt_workspace_id&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&mime_type=application%2Fpdf&filename=CCS+Invoice+%235+iSmash+Seattle++%24+52%2C184.44.pdf&ts=498319&p=dp&cid=5&sig=bf306281440d239e85da9396332a19c3bb642a7e81e17a4c2a44d0f3132dfbea",
+            "file_name": "CCS Invoice #5 iSmash Seattle  $ 52,184.44.pdf"
+          }
+        },
+        "isError": false
+      },
+      "local_download": {
+        "path": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-05/CCS Invoice #5 iSmash Seattle  $ 52,184.44.pdf",
+        "chunk_id": "8c9cb5",
+        "wall_time_seconds": 0.000006417,
+        "exit_code": 6,
+        "original_token_count": 72,
+        "output": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (6) Could not resolve host: api.chatgpt.com\n"
+      }
+    }
+  ],
+  "local_document_search": {
+    "paths": [
+      "/Users/bmysoren/Downloads",
+      "/Users/bmysoren/Desktop/2026/iSmash"
+    ],
+    "patterns": [
+      "*Invoice*",
+      "*invoice*",
+      "*11.5*"
+    ],
+    "matching_current_invoice_found": false
+  },
+  "limitations": [
+    "Complete connector-returned bodies/quoted chains and metadata preserved; these are not original EML/MIME files.",
+    "Invoice PDF materialized remotely, but local download failed curl exit 6 because api.chatgpt.com could not resolve. No local PDF bytes saved and invoice pages/line items not read. Signed retrieval reference may expire.",
+    "Earlier addendum and other attachment gaps remain. This refresh does not determine whether final payment is contractually due, approve the invoice, reconcile totals or establish full completion.",
+    "The prior draft observation remains unchanged as evidence. A separate sent message is now archived; assistant did not send or edit it.",
+    "No emails sent, mailbox read-state changed, contacts updated, payments approved, agreements signed or earlier records deleted/overwritten by assistant."
+  ]
+}
+

@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-19",
+  "source_pdf": "/Users/bmysoren/Desktop/2026/iSmash/Construction/Carney_Contracting_CO-iSmash-0017_Corrected.pdf",
+  "preserved_copy": "/Users/bmysoren/prep/ismash/evidence/contracts/Carney_Contracting_CO-iSmash-0017_Corrected.pdf",
+  "sha256": "85a67d2ed5c01056d23f5f5935708351e7b8340521692d73783565fda6b796d4",
+  "visual_review": {
+    "pages": [
+      1
+    ],
+    "signatures": "Bharath Kumarmn and Jeffrey Jordan Howe dated October19,2026"
+  },
+  "latest_co": {
+    "document_number": "CO-iSmash-0017",
+    "invoice_reference": "CO10 (matching latest amount; request explicit ledger mapping)",
+    "total": 3356.4,
+    "direct_items": {
+      "General Conditions": 780.0,
+      "Board rear warehouse door": 771.43,
+      "Move EXIT sign": 750.0,
+      "Install push-bar hardware on left double door leading to warehouse": 450.0
+    },
+    "overhead_profit_labeled_15percent": 343.93,
+    "WSST_labeled_9_9percent": 261.04,
+    "calculation_note": "Amounts add to stated total. Percentage labels do not match applying rates to the apparent full direct subtotal; require bases, not proof of overcharge."
+  },
+  "paid_difference": {
+    "acknowledged_received_co5to9": 27967.0,
+    "signed_forms_co5to9_total": 26968.36,
+    "unreconciled_difference": 998.64,
+    "limit": "Not established overall overpayment; verify allocation and whether already credited. Push-bar charge is separate and not established already paid."
+  },
+  "user_reported_defects": {
+    "door": "User reports third schedule change and Scott summer/final walkthrough notice. Archival evidence supports repeated dates, early wrong-swing-room mapping not explicit. Draft uses repeated deferrals, dates and exact NovemberRoom3 identification.",
+    "hvac": "User reports first communication firstweekNovember; no earlier fault/balancing exclusion notice found in bounded search. Original in-scope commissioning/balancing distinguish excluded baseunit replacement.",
+    "fountain": "Knocking/no-flow during short activation (<1minute), stream overshooting basin/spillage, no operation/flow-adjustment/maintenance/shutoff manual. Cause and responsible service party require inspection.",
+    "pushbar": "User reports no pushbar atstorage door; CO expressly leftdoublewarehouse opening. Draft requests exact opening/location confirmation."
+  },
+  "contract_references": {
+    "3.8.1": "Warranty conforming work, PDF7",
+    "3.8.2": "Owner-specified/purchased product warranty limitations, PDF7-8; draft allows applicable manufacturer claim route",
+    "3.8.4": "Manuals/writtenwarranties delivery,PDF8",
+    "3.8.5": "Startup,adjustment,balancing,PDF8",
+    "3.9.1": "PromptwrittennoticetoCarney andopportunitytoinspect/correct; promptcorrectionofresponsibledefectivework; no fixed24/48hSLA,PDF8",
+    "3.9.4": "14-day election provision concerns afterone-year period; not used as current defectresponse deadline",
+    "8.5.1/8.6": "Itemizedlumpsum/appropriatesupport PDF13",
+    "9.1.7/9.1.12": "150%Carneyestimatedunfinishedcost agreedextent/time,PDF14-15",
+    "M-0.2 230593": "Deficiencyreporting,balancingandseasonaltests,PDF40"
+  },
+  "requested_service_dates": "AckFridayNov20; fountaininspectionMondayNov23,or explainconstraintandearliestappointment. These are requestedcommitments, notcontractstatedfixeddeadlines.",
+  "supersedes": "Earlier inabilitytofind/readlatestCO superseded by currentlocalPDF/visualinspection. Preservepriorhistoricalrecords.",
+  "draft_path": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-19_troy_closeout_response_draft_v2.txt",
+  "actions": "Draftonly,not sent. No paymentrelease orcreditacceptance. Sourceoriginalspreserved."
+}

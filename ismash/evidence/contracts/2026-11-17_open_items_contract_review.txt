@@ -1,0 +1,35 @@
+Carney agreement: outstanding closeout items — review dated November 17, 2026
+
+User question: How does agreemtn with carney cover all these aspects of open item
+
+Source: Construction_Estimate_Increased_iSmash_Everett.pdf, signed January 2026, 52 PDF pages. All page references below are physical PDF pages, starting at 1. Source SHA-256: 08de1a50393213afba8eca7a3c2d73de9c931672df86f8b58f9561cf93b8ca3f. Later change orders and written amendments may alter the baseline: section 14.2, PDF page 22.
+
+1. Punch-list completion and correction
+Sections 3.2.2 and 3.2.4 (p5) require necessary construction work and maintaining the schedule; section 3.1.2 (p4) requires construction according to approved Construction Documents. Section 3.9.1 (p8) requires prompt correction of Carney-responsible defective work at its cost and time following written notice. Section 5.2 (p10) makes Carney responsible for subcontractor management. These support an actual completion/correction schedule for the included unfinished Smash Room 3 door. For fan relocation, identify the current approved drawing or agreed punch-list commitment; an owner's newly requested location is not automatically a defect.
+
+Hardware qualification: A-01.1 (p31) specifies privacy locksets for Small Paint doors 112/113 and passage sets for Large Paint door 105 and storage 107E. Therefore the existence of small-paint locks alone does not prove departure from the original contract. Require reconciliation with later approved drawings, code requirements and Carney's written punch commitments before treating all passage-lever replacements as undisputed original-scope corrections. This review makes no independent code-compliance finding.
+
+2. Uneven heating and three-unit question
+Section 3.8.5 (p8) expressly requires startup, adjustment and balancing. M-0.2 section 230593 (p40) requires measurements/deficiency reports, balancing before final inspection and seasonal tests; M-1.0 note N (p41) requires complete testing/balancing and a written report. This supports current heating-season diagnosis and correction of distribution/installation deficiencies, rather than relying solely on the June cooling report. Plans p41-42 identify three existing units, RTU-3/4/5. Ask for consistent identification, areas served and status; do not infer five units from inconsistent tags in other records.
+
+Scope limit: Exhibit B (p24) includes mechanical internal distribution but assumes existing RTUs in good working order and says no service upgrades/replacements, with landlord to make existing RTUs operational. M-1.1 p42 includes refurbishment/accessory-repair language. These provisions need reconciliation with later changes; the agreement does not justify a blanket claim that all old-unit repairs/replacement are Carney's cost.
+
+3. CO #10, $3,356.40, supporting receipts
+Section 8.5.1 (p13) determines changes by mutually accepted itemized lump sum; section 8.6 (p13) requires written claim documentation, including appropriate supporting documentation. These support requesting the itemized basis and supporting invoices/receipts for CO #10. They do not clearly create an unlimited right to every underlying receipt after accepting a fixed-price CO. The actual executed CO terms and pricing method matter. Signing/clearing a CO is not treated here as undone by this request.
+
+4. Subcontractor accounting and releases
+Section 9.1.2 (p13) requires conditional progress waivers for those seeking payment. Sections 9.1.5/9.1.10 (pp14-15) guarantee lien-free title upon payment. Section 9.4.1 (p16) expressly requires Carney's conditional final waiver. The corrected closeout packet already contains a Carney conditional final waiver, Onesta and Omni final waivers, and older progress forms. The outstanding concern is current coverage, balances/retention and later work. No express clause requiring every subcontractor's unconditional final release before disbursement or a full all-party ledger was identified. Request these as verification of payment/release coverage.
+
+Washington RCW 60.04.071 separately provides for release of paid lien rights upon payment/acceptance and demand; it does not require releasing genuinely unpaid amounts unconditionally. WA L&I recommends signed releases from major contractors/subcontractors/suppliers before final payment. Sources:
+https://app.leg.wa.gov/rcw/default.aspx?cite=60.04.071
+https://www.lni.wa.gov/licensing-permits/contractors/problems-with-a-contractor/about-liens
+
+5. Warranty and handover
+Sections 3.8.3-3.8.4 (p8) expressly require inspection/testing/approval certificates, written warranties and equipment manuals. Section 2.4.23 (p3) requires a jointly signed Substantial Completion certificate. Section 3.8.1 (p7) gives the general one-year warranty from Substantial Completion; section 3.9.2 (p8) gives separate correction-period treatment to work first performed later. The missing certificate does not by itself establish that no warranty period has begun. M-0.2 section 0102 (p40) also requires record drawings, operating instructions/demonstration and mechanical contractor/subcontractor contact information. A designated individual warranty coordinator is a sensible extra arrangement; no response-time SLA was identified.
+
+6. Payment and Quaint Oak
+The clauses must be read together. Section 9.1 (p13) specifies the remaining 10% upon CO; section 9.2 (p15) says retainage not applicable. Sections 9.1.7/9.1.12 (pp14-15) require substantial-completion payment less 150% of Carney's estimated cost of unfinished items agreed as to extent/time. Section 9.4.1 (p16) makes final payment due when work fully completed and requires the conditional final waiver. Section 9.3 (p15) allows reasonable payment adjustment for specified Carney-responsible failures/uncorrected defects; this is not an automatic right to withhold the entire final balance for any unanswered request. Earlier blanket characterizations of the final 10% as retainage conditioned on all punch work and franchisor signoff do not match this wording.
+
+Sections 9.1.6/9.1.11 (pp14-15) say progress payment, occupancy and use do not accept nonconforming work. Section 9.4.2 (p16) contains a final-payment waiver of claims with exceptions for stated workmanship/material defects, nonconforming work and special warranties; it does not preserve every monetary/delay dispute. Bank inspection/review should be coordinated but these reviewed clauses do not create a general bank-review extension of contractual payment deadlines. No conclusion is reached here about the current amount due or enforceability of a withholding/waiver.
+
+Practical use: identify approved scope and the specific deficiency, request correction/delivery dates and a documented estimate for unfinished items, and reconcile any payment adjustment under the actual agreement. Preserve written notice and give reasonable access to inspect/test/correct. No email was sent and no payment was authorized.

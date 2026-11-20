@@ -1,0 +1,36 @@
+{
+  "audit_date": "2026-11-18",
+  "scope": "Early Carney change orders and July progress-payment support",
+  "early_change_orders": [
+    {"number": "CO1", "description": "Building review fees", "amount": 2643.56, "signed_date": "2025-12-11", "source": "/Users/bmysoren/Desktop/2026/iSmash/Finances/AdditionalPayments-CC.pdf", "page": 1, "payment_status": "Included in approved early-CO total and progress-billing contract; no separate paid receipt found"},
+    {"number": "CO2", "description": "Building permit fee, expressly different from CO1 review fees", "amount": 6243.63, "signed_date": "2026-02-10", "source": "/Users/bmysoren/Desktop/2026/iSmash/Finances/AdditionalPayments-CC.pdf", "page": 2, "payment_status": "Included in approved early-CO total and progress-billing contract; no separate paid receipt found"},
+    {"number": "Rubber-flooring CO (functional CO3; document labels ISEW1-CO1)", "description": "Remove/dispose existing rubber flooring, surface preparation, cleaning and seal coat; prepare/seal smash rooms", "amount": 16870.00, "signed_date": "2026-02-15", "source": "/Users/bmysoren/Desktop/2026/iSmash/Finances/AdditionalPayments-CC.pdf", "page": 3, "numbering_caution": "Printed document says Change Order #1 / ISEW1-CO1, not CO3. Printed date says February 13, 2025 but DocuSign dates are February 14 and 15, 2026.", "payment_status": "Included in approved early-CO total and progress-billing contract; no separate paid receipt found"},
+    {"number": "CO4", "description": "Floor prep/glue removal, adhesive residue removal to concrete, substrate preparation before polish", "amount": 5074.74, "source": "/Users/bmysoren/Desktop/2026/iSmash/Finances/AdditionalPayments-CC.pdf", "page": 4, "payment_status": "Included in approved early-CO total and progress-billing contract; no separate paid receipt found"}
+  ],
+  "early_co_total": 30831.93,
+  "july_payment_application": {
+    "source": "/Users/bmysoren/Desktop/2026/iSmash/Invoices/07092026_CC_73140.39.pdf",
+    "page": 2,
+    "visually_checked": true,
+    "application_number": "004B",
+    "period_to": "2026-06-29",
+    "original_contract": 459870.00,
+    "approved_change_orders": 30831.93,
+    "revised_contract": 490701.93,
+    "completed_and_stored": 441873.89,
+    "retainage_line": 0,
+    "previous_certificates": 368733.50,
+    "current_due": 73140.39,
+    "balance_to_finish_including_retainage": 48828.04,
+    "limits": "This is an invoice/application, not a paid receipt. Page 3 waiver becomes effective only upon bank payment. No G703 line-item allocations included in the three-page PDF. Do not assume every early CO was paid 100% or apply an exact 90% allocation."
+  },
+  "bank_email": {
+    "received_utc": "2026-07-14T13:46:28Z",
+    "sender": "RMoran@quaintoak.com",
+    "subject": "RE: Capital injection",
+    "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACTOz30QAAAA=",
+    "excerpt": "Can you confirm below is correct for this draw request ... $73,140.39 Wire to Carney Contracting – Leasehold Improvements ... Remaining owed to Carney Contracting retainage $48,828.04",
+    "limits": "Proposed draw confirmation; not proof wire settled. Owner responds July 14 about being in final stages; no explicit wire receipt in the checked thread."
+  },
+  "conclusion": "Four early CO amounts totaling $30,831.93 are verified in signed documents and incorporated in $490,701.93 progress-billing contract. Their individual fully-paid amounts cannot be isolated from these records. Parent agent has later closeout ledger showing cumulative previous certificates, which can corroborate progression of project payments but not allocate each early CO."
+}

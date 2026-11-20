@@ -1,0 +1,29 @@
+{
+  "status": "draft_not_sent",
+  "date_local": "2026-11-17",
+  "user_supplied_draft_normalized_whitespace": "Thanks Troy,\n\nWe still have open items which need to be completed\n\n- Punch list\n  - Smash room 3 door installation, this is still not complete.\n  - Switch for fan next to the fan - There is no update on this one\n  - Paint rooms - pins were removed but anyone can lock it from inside\n- About HVAC heating, the report show only cooling test. However the reality is we have uneven heating. After checking with landlord, he mentioned that we have 3 HVACs. In your earlier email, you had only mentioned 2 of them.\n- In another thread I had asked for receipts of the CO #10 (3356.40), it was deferred to you and havent got any receipts about them.\n- Complete subcontractor accounting/releases - The packet contains 27 historical progress waivers covering 10 companies. Those forms exclude retention and later work. Nine companies have no newer final release in this packet; current balances and final-release arrangements need confirmation.\n- Warranty and handover - Written warranties, manuals, Substantial Completion certificate, warranty dates and designated warranty/service contacts remain outstanding.\n",
+  "revised_draft": "Hi Troy,\n\nThank you for sending the corrected closeout package. The following work and documentation remain outstanding:\n\n1. Punch-list work\n• Smash Room 3 door: Installation is still incomplete. Please confirm the installation date.\n• Fan switch: We have not received an update on correcting the switch location next to the fan. Please confirm the proposed correction and completion date.\n• Paint-room door handles: Although the pins were removed, the doors can still be locked from inside. Please confirm how this will be corrected and when.\n\n2. Uneven heating\nThe June 8 report shows cooling-mode testing, but we continue to experience uneven heating across the rooms. The landlord has advised that there are three HVAC units, while your earlier email discussed two. Please identify all three units and the areas they serve, clarify which units have been inspected and serviced, and arrange a heating-performance and balancing check. Please provide the findings and a schedule for any remaining work within Carney’s scope.\n\n3. CO #10 receipts — $3,356.40\nI requested the supporting receipts in another thread, and the request was referred to you. I have not yet received them. Please provide the itemized receipts and supplier/subcontractor invoices supporting this change order.\n\n4. Subcontractor accounting and releases\nThe packet contains 27 historical progress waivers covering 10 companies. Those forms exclude retention and later work. Although the packet includes a newer final waiver from Omni, the other nine companies have no newer final release included. Please provide current subcontractor/supplier accounting showing amounts paid, retention and any outstanding balances, together with the applicable final releases or arrangements and dates for obtaining them.\n\n5. Warranty and handover\nPlease provide the written warranties, equipment manuals, Substantial Completion certificate, warranty start/end dates, and designated Carney warranty and local service contacts.\n\nPlease reply with firm dates for the remaining work and expected delivery dates for the outstanding documents. I would like to bring this to completion promptly, with any site work coordinated with us to minimize disruption to operations.\n\nThank you,\nBharath\n",
+  "new_user_reported_facts": [
+    {
+      "item": "Smash Room3 door",
+      "update": "Installation still not complete; now current owner confirmation, beyond earlier email-only uncertainty."
+    },
+    {
+      "item": "Paint-room handles",
+      "update": "Pins removed but doors can still be locked from inside; owner reports unresolved function."
+    },
+    {
+      "item": "Fan switch",
+      "update": "Owner reports no update."
+    },
+    {
+      "item": "HVAC",
+      "update": "Owner reports ongoing uneven heating and landlord statement of3 HVAC units; earlier Carney email discussed2. Do not infer that Carney inspected only2 or miscounted; ask to reconcile equipment identifiers/areas served."
+    },
+    {
+      "item": "CO10",
+      "update": "Owner reports receipts still not received after request referral to Troy."
+    }
+  ],
+  "scope_note": "Owner-selected items for this reply; omitted prior punch items are not automatically completed or withdrawn. No added-cost/payment approval, outgoing email, legal sufficiency finding or live refresh."
+}

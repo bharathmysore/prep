@@ -1,0 +1,738 @@
+{
+  "title": "iSmash Everett pending construction and closeout checklist",
+  "reviewed_at_utc": "2026-11-18T01:30:12Z",
+  "display_timezone": "America/Los_Angeles",
+  "display_date": "2026-11-17",
+  "user_request": "Check whats all pending from the checklist",
+  "basis": "Reconciled November 4 original punch list, November 10 supplement and responses, November 16 closeout reply, and live November 17 correction. Physical status reflects email evidence; no onsite inspection.",
+  "query_audit": [
+    {
+      "query": "carneycontracting.com received>=2026-11-17",
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null
+    },
+    {
+      "query": "onestallc.com received>=2026-11-17",
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null
+    },
+    {
+      "query": "subject:\"Punch Walk\" received>=2026-11-10",
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null
+    },
+    {
+      "query": "ismashfranchise.com received>=2026-11-17",
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null
+    }
+  ],
+  "new_corrected_email": {
+    "message": {
+      "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIkwAAAA==",
+      "subject": "Re: Final Invoice and Billing  (NEW INVOICE 11.5.2026)",
+      "body": {
+        "contentType": "html",
+        "content": "Wrong attachment. Forgive me!\n\n  \n\nPlease see corrected.\n\n  \n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Monday, 16 November 2026 16:45:49  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Jeff Howe\n<jeff@carneycontracting.com>  \n**Cc:** Michael Carney <mcarney@carneycontracting.com>  \n**Subject:** Re: Final Invoice and Billing (NEW INVOICE 11.5.2026)\n\n\n\nHi Bharath,\n\nFollowing up on your request, please find attached the available closeout\ndocumentation for the iSMASH Everett project.\n\nThe package includes:\n\n  1. **Final Invoice and Payment Application:**  Invoice #5 for $52,184.44, including the AIA G702 showing the original contract value, approved change orders, previous payment certificates, and remaining balance.\n\n  2. **Carney Conditional Final Lien Waiver:**  Covering the outstanding final payment of $52,184.44.\n\n  3. **Onesta Unconditional Final Lien Waiver:**  Signed and notarized, confirming $433,979.97 in payments received.\n\n  4. **Subcontractor Lien Waivers:**  27 waivers documenting $195,455.26 in subcontractor payments.\n\n  5. **HVAC Air Balance Report:**  Omni Mechanical's June 8, 2026 report documenting airflow testing and balancing throughout the facility.\n\nThe updated punch list was sent last week.\n\nWe balanced the working Hvac unit and attached it\n\nOur final payment application reflects a total contract value of $521,026.69,\nwith $468,842.25 in previous payment certificates and a final balance of\n$52,184.44.\n\nPlease send payment per our contract at CO and we will schedule the final few\nitems.\n\nThank you,\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Monday, November 16, 2026 1:26 PM  \n**To:** Jeff Howe <jeff@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:** Michael Carney <mcarney@carneycontracting.com>  \n**Subject:** Re: Final Invoice and Billing (NEW INVOICE 11.5.2026)\n\n\n\n[_@Jeff Howe_](mailto:jeff@carneycontracting.com)[ _@Troy\nFink_](mailto:troy@carneycontracting.com)\n\nWanted to followup on the pending items to be closed.\n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Monday, November 9, 2026 12:26 PM  \n**To:** Jeff Howe <jeff@carneycontracting.com>  \n**Cc:** Troy Fink <troy@carneycontracting.com>; Michael Carney\n<mcarney@carneycontracting.com>  \n**Subject:** Re: Final Invoice and Billing (NEW INVOICE 11.5.2026)\n\n\n\nHi Jeff, Troy, and Michael,\n\nThank you for sending the final invoice for $52,184.44. I am reviewing it and\nwould like to coordinate the remaining work and closeout documentation.\n\n  \n\nPlease provide the following:\n\n  1. **Punch-list closeout.**  Thank you, Troy, for providing the updated punch-list dates. Please confirm which scheduled items have now been completed, flag any changes to the dates already provided, and confirm completion dates for any remaining undated items. Please coordinate any work after opening with us to minimize disruption.\n\n  2. **HVAC closeout records.** The immediate HVAC component failures is being looked into. Please provide any diagnostic or service records in Carney’s or Onesta’s possession, any test-and-balance report, and confirmation whether final HVAC adjustment and balancing under Carney’s scope has been completed. If anything remains, please provide the completion date. Last week, i had called out the heat is not balanced. Please have this checked across all the rooms\n\n  3. **Final account reconciliation.**  Please provide a statement showing the original contract amount, approved change orders, payments received, applicable credits, and calculation of the remaining balance. Please also provide the itemized receipts and supplier/subcontractor invoices supporting the latest change order, which I have not yet received.\n\n  4. **Lien documentation.** Please provide Carney’s conditional final lien waiver required under the agreement, together with subcontractor/supplier payment status and available releases for amounts already paid. Please identify any outstanding balances and the arrangements for obtaining the corresponding releases upon payment.\n\n  5. **Lien documentation and final-disbursement process.** Before final disbursement, please provide:\n\n     1. Carney’s conditional final lien waiver under §9.4.1 and Exhibit E;\n\n     2. a final accounting identifying every subcontractor and supplier, amounts paid, and balances remaining;\n\n     3. unconditional lien releases for all amounts already paid; and\n\n     4. conditional final lien waivers from each subcontractor or supplier whose balance will be paid through the final disbursement.\n\nPlease also confirm that, after the final payment clears, Carney will provide\nunconditional final lien releases from Carney, Onesta, and every subcontractor\nor supplier paid through that disbursement. If any party cannot provide the\napplicable waiver or release, please identify that party and amount now so the\nlender can arrange a joint-check or other controlled-payment process.\n\n  6. **Warranty and handover package.** Please provide all written warranties, equipment manuals, applicable inspection/testing records and the Substantial Completion certificate. Please confirm the warranty start/end dates, Carney’s warranty contact and the local contractors who will handle service requests.\n\n  \n\nAfter receiving and reviewing this documentation and confirming the status of\nthe outstanding work, I will coordinate the lender’s final inspection and\npayment process in accordance with our agreement and the lender’s\nrequirements.\n\nReceipt of the Certificate of Occupancy and final invoice does not constitute\nacceptance of unresolved work, approval of the stated balance, confirmation\nthat final payment is presently due, or waiver of any rights or claims.\n\nThanks,  \nBharath\n\n* * *\n\n**From:** Jeff Howe <jeff@carneycontracting.com>  \n**Sent:** Thursday, November 5, 2026 12:16 PM  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Cc:** Troy Fink <troy@carneycontracting.com>; Michael Carney\n<mcarney@carneycontracting.com>  \n**Subject:** Final Invoice and Billing (NEW INVOICE 11.5.2026)\n\n\n\nHi Bharath,  \n  \nAttached is the final Invoice to close out the job.  \n  \n**Invoice amount:    $52,184.44****  \n**  \nPlease let me know if you have questions , concerns or you need the wire info\nagain.  \n  \nThanks\n\nJeffrey\n\n\n\n**Jeffrey Jordan Howe  \n****Carney Contracting Services**\n\n405 Estates Court,  \nNewtown, PA.   18940\n\n**Office: 215-267-6906****  \n****Email:\n**[**_Jeff@Carneycontracting.Com_**](mailto:Jeff@Carneycontracting.Com)\n\n\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, November 4, 2026 8:09 PM  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nBharath,\n\n\n\nWe appreciate the opportunity to work with you. Congratulations on your CO\n\n\n\n[_@Jeff Howe_](mailto:jeff@carneycontracting.com) , please send final billing.\n\n\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n\n\n* * *\n\n**From:** Tyson Ferreira <[_tyson@onestallc.com_](mailto:tyson@onestallc.com)\n>  \n**Sent:** Wednesday, 04 November 2026 16:03:49  \n**To:** Troy Fink\n<[_troy@carneycontracting.com_](mailto:troy@carneycontracting.com) >; Bharath\nMysore <[_bharathkumarmn@hotmail.com_](mailto:bharathkumarmn@hotmail.com) >;\nScott Laviano\n<[_slaviano@ismashfranchise.com_](mailto:slaviano@ismashfranchise.com) >  \n**Cc:** Robbi Drahos <[_robbi@onestallc.com_](mailto:robbi@onestallc.com) >;\nKira Wohlfeil <[_kira@onestallc.com_](mailto:kira@onestallc.com) >  \n**Subject:** Re: Punch Walk\n\n\n\nTeam,\n\n\n\nPlease see my responses below in Blue.\n\n\n\nThanks\n\n\n\nTyson Ferreira I Founder & CEO\n\nOnesta General Contracting\n\n🏢 253.347.4298 I 📱206.391.4401\n\n703 Industry Drive, Tukwila, WA 98188\n\n[\n_www.onestallc.com_](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.onestallc.com%2F&data=05%7C02%7C%7C003561b372ab4f1c783c08df4512c2af%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639305619467711934%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oASPhk3WsIP583SrukGt1n2K2vKw%2FWKMBmf20bQ584Q%3D&reserved=0)\n\n\n\nStart Strong. Finish Strong.\n\n* * *\n\n**From:** Troy Fink\n<[_troy@carneycontracting.com_](mailto:troy@carneycontracting.com) >  \n**Sent:** Wednesday, November 4, 2026 1:48 PM  \n**To:** Tyson Ferreira <[_tyson@onestallc.com_](mailto:tyson@onestallc.com) >;\nBharath Mysore\n<[_bharathkumarmn@hotmail.com_](mailto:bharathkumarmn@hotmail.com) >; Scott\nLaviano <[_slaviano@ismashfranchise.com_](mailto:slaviano@ismashfranchise.com)\n>  \n**Subject:** Punch Walk\n\n\n\nTyson and Bharath,\n\nBelow is the consolidated list of outstanding punch list items from our\nwalkthrough. The dates noted reflect the completion dates Tyson provided.\nItems without dates still require confirmation of scope, resolution, and\nanticipated completion.\n\n**Event Room**\n\n  * Outlet to the right of TV: Caulk or otherwise finish around outlet. **11/4 DONE**\n  * Electrical panel access sign. **11/4 DONE**\n\n**Smash Room 1**\n\n  * Left steel plate: Second bolt from bottom is loose.\n  * Second steel sheet: Third bolt on right is loose. **11/4 DONE**\n\n**Smash Rooms 1 & 2**\n\n  * Relocate tool racks near steel walls to behind doors. **11/4 DONE**\n\n**Smash Room 2**\n\n  * Outlet near smash wall: Not shown on plans. Confirm why it was installed and associated cost. Replace with blank cover. **11/4 DONE**\n\n**Large Paint Room**\n\n  * Install missing doorstop. **11/4 DONE**\n  * Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.\n\n**Bathroom**\n\n  * Install outlet cover. **11/4 DONE**\n\n**Smash Room 3**\n\n  * Door installed backwards. Correct installation. **_Ordered 11/4 approximately two weeks out_**\n  * Right steel: Third bolt down, third and second bolts from second sheet; second sheet, second bolt down on left. **11/4 DONE**\n  * First steel sheet from right wall is not flush. Correct installation. **DONE**\n\n**Gear Room 2**\n\n  * Install second jumpsuit rack below existing rack. **11/4 DONE**\n  * Replace ceiling tiles. **11/4 DONE**\n  * Touch up door frame. **11/4 DONE  **\n  * Repaint door properly around “Employees Only” sign. **11/4 DONE**\n\n**Paint Cleanup Area**\n\n  * Install cabinet door hardware. **11/5 tomorrow  **\n  * Sink installed is incorrect and undersized. Confirm replacement and timeline. **Here is an option to add one more sink**[** _https://a.co/d/0djnkD4N_**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2F0djnkD4N&data=05%7C02%7C%7C003561b372ab4f1c783c08df4512c2af%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639305619467729541%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wV9NJvqPDJNrfRjO%2F1GWJzasZLQ2vi54KIFFlCL0Tr8%3D&reserved=0)**  please confirm this works for Ismash. **\n  * Complete caulking around motion detector and painting around fire alarm. **11/4 DONE  **\n  * Finish small baseboard section, including trim and FRP. **11/4 DONE**\n\n**Smash Room 4**\n\n  * Touch up door frame. **11/4 DONE**\n  * Correct metal sheet that is not flush. **11/4 DONE**\n\n**Paint Rooms**\n\n  * Remove unnecessary door locks. **11/4 DONE**\n\n**Tools and Gear Rooms**\n\n  * Complete tool mounting installation. **11/4 Owner asked us to hold off on installation today due to it potentially moving to a different location.  **\n  *  \n  * Bats: 2-inch conduit straps\n    * Crowbar: 1-inch conduit straps\n    * Two hooks\n    * Sledgehammer: 1.5-inch conduit straps\n  * Install disposable glove holders in all three gear rooms. **11/4 DONE**\n\n**All Smash Rooms**\n\n  * Ensure all smash wall steel sheets are flush. **11/4 DONE**\n\n**Fire Safety**\n\n  * Provide two new tagged fire extinguishers and required signage. **Monday, 11/9.****Ordered 11/4**\n\n**Additional Outstanding Items**\n\n  * Install soap dispenser.\n  * Install storage room doors.\n  * Remove gate bolts.\n  * Replace three ceiling tiles in storage room.\n  * **These items are all DONE 11/4**\n\nTyson, please confirm which dated items have been completed and provide\nanticipated completion dates for everything remaining. For any items requiring\nclarification or a change in scope, please identify those separately.\n\nBharath, please review this list and advise if anything discussed during the\nwalkthrough has been omitted. Our goal is to establish one consolidated list,\nclose out the remaining work, and avoid additional items being introduced\nafter completion.\n\nThank you.\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n\n\n"
+      },
+      "bodyPreview": "Wrong attachment. Forgive me!\r\n\r\nPlease see corrected.\r\n\r\nTroy Fink\r\nClient Relations\r\nCarney Contracting Services, Inc.\r\n405 Estates Ct.\r\nNewtown, PA 18940\r\nC: 215-906-3474\r\n\r\n________________________________\r\nFrom: Troy Fink <troy@carneycontracting.com>",
+      "sender": {
+        "emailAddress": {
+          "address": "troy@carneycontracting.com",
+          "name": "Troy Fink"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "jeff@carneycontracting.com",
+            "name": "Jeff Howe"
+          }
+        }
+      ],
+      "ccRecipients": [
+        {
+          "emailAddress": {
+            "address": "mcarney@carneycontracting.com",
+            "name": "Michael Carney"
+          }
+        }
+      ],
+      "bccRecipients": [],
+      "receivedDateTime": "2026-11-18T01:25:46Z",
+      "isRead": true,
+      "categories": [],
+      "has_attachments": true,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJIIkwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJIIkwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_title": "Re: Final Invoice and Billing  (NEW INVOICE 11.5.2026)"
+    },
+    "queries": [
+      "carneycontracting.com received>=2026-11-17",
+      "onestallc.com received>=2026-11-17",
+      "ismashfranchise.com received>=2026-11-17"
+    ]
+  },
+  "corrected_attachment_metadata": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Action completed."
+      }
+    ],
+    "structuredContent": {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIkwAAAA==",
+      "attachments": [
+        {
+          "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIkwAAAAESABAATTLgJ1aKtEm8F-CDxhiVhw==",
+          "name": "iSMASH_Everett_Closeout_Revised_Final.pdf",
+          "content_type": "application/pdf",
+          "size_bytes": 2261093,
+          "is_inline": false,
+          "content_id": "F1CC9E4D264A7543ABAEC2EEA738E098@NAMP220.PROD.OUTLOOK.COM",
+          "last_modified_date_time": "2026-11-18T01:25:46Z",
+          "odata_type": "#microsoft.graph.fileAttachment",
+          "payload_status": "not_requested",
+          "file_uri": null,
+          "payload_error": null,
+          "attachment_type": "fileAttachment",
+          "payload_fetch_supported": true,
+          "display_title": "iSMASH_Everett_Closeout_Revised_Final.pdf"
+        }
+      ],
+      "errors": [],
+      "next_link": null
+    },
+    "isError": false
+  },
+  "corrected_attachment_materialization": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Action completed."
+      }
+    ],
+    "structuredContent": {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIkwAAAA==",
+      "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIkwAAAAESABAATTLgJ1aKtEm8F-CDxhiVhw==",
+      "filename": "iSMASH_Everett_Closeout_Revised_Final.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 2261093,
+      "attachment_type": "fileAttachment",
+      "content_id": "F1CC9E4D264A7543ABAEC2EEA738E098@NAMP220.PROD.OUTLOOK.COM",
+      "is_inline": false,
+      "file_ext": "pdf",
+      "payload_status": "materialized",
+      "file_uri": {
+        "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000dd8c820fa00c8b962fecb467&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&encryption_scope_type=chatgpt_workspace_id&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-dd8c-820f-a00c-8b962fecb467%2Fraw%3Fse%3D2026-11-18T01%253A32%253A45Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3D057572a3-3cc0-451a-a7c5-8345f44a37ac%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T22%253A32%253A31Z%26ske%3D2026-11-18T22%253A32%253A31Z%26sks%3Db%26skv%3D2026-06-06%26sig%3DQknRtgVaa%2FMOczSQKWSPXYKhFAwXJuQE%252BIl63mHXllM%253D&filename=iSMASH_Everett_Closeout_Revised_Final.pdf&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&content_disposition=inline&mime_type=application%2Fpdf&ts=498601&p=dp&cid=5&sig=4fc06c70939ce2c8a3457ae7f301739a4a74f2b8cb86043b9e198f7587e08de5",
+        "file_id": "file_00000000dd8c820fa00c8b962fecb467",
+        "mime_type": "application/pdf",
+        "file_name": "iSMASH_Everett_Closeout_Revised_Final.pdf"
+      },
+      "structuredContent": {
+        "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIkwAAAA==",
+        "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIkwAAAAESABAATTLgJ1aKtEm8F-CDxhiVhw==",
+        "filename": "iSMASH_Everett_Closeout_Revised_Final.pdf",
+        "mime_type": "application/pdf",
+        "size_bytes": 2261093,
+        "attachment_type": "fileAttachment",
+        "file_ext": "pdf",
+        "payload_status": "materialized",
+        "file_uri": {
+          "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000dd8c820fa00c8b962fecb467&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&encryption_scope_type=chatgpt_workspace_id&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-dd8c-820f-a00c-8b962fecb467%2Fraw%3Fse%3D2026-11-18T01%253A32%253A45Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3D057572a3-3cc0-451a-a7c5-8345f44a37ac%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T22%253A32%253A31Z%26ske%3D2026-11-18T22%253A32%253A31Z%26sks%3Db%26skv%3D2026-06-06%26sig%3DQknRtgVaa%2FMOczSQKWSPXYKhFAwXJuQE%252BIl63mHXllM%253D&filename=iSMASH_Everett_Closeout_Revised_Final.pdf&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&content_disposition=inline&mime_type=application%2Fpdf&ts=498601&p=dp&cid=5&sig=4fc06c70939ce2c8a3457ae7f301739a4a74f2b8cb86043b9e198f7587e08de5",
+          "file_id": "file_00000000dd8c820fa00c8b962fecb467",
+          "mime_type": "application/pdf",
+          "file_name": "iSMASH_Everett_Closeout_Revised_Final.pdf"
+        },
+        "file_id": "file_00000000dd8c820fa00c8b962fecb467",
+        "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000dd8c820fa00c8b962fecb467&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&encryption_scope_type=chatgpt_workspace_id&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-dd8c-820f-a00c-8b962fecb467%2Fraw%3Fse%3D2026-11-18T01%253A32%253A45Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3D057572a3-3cc0-451a-a7c5-8345f44a37ac%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T22%253A32%253A31Z%26ske%3D2026-11-18T22%253A32%253A31Z%26sks%3Db%26skv%3D2026-06-06%26sig%3DQknRtgVaa%2FMOczSQKWSPXYKhFAwXJuQE%252BIl63mHXllM%253D&filename=iSMASH_Everett_Closeout_Revised_Final.pdf&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&content_disposition=inline&mime_type=application%2Fpdf&ts=498601&p=dp&cid=5&sig=4fc06c70939ce2c8a3457ae7f301739a4a74f2b8cb86043b9e198f7587e08de5",
+        "file_name": "iSMASH_Everett_Closeout_Revised_Final.pdf"
+      }
+    },
+    "isError": false
+  },
+  "attachment_access": {
+    "local_file_saved": false,
+    "local_error": "curl exit 6: Could not resolve host: api.chatgpt.com",
+    "browser_error": "net::ERR_BLOCKED_BY_CLIENT",
+    "attempted_destination": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/iSMASH_Everett_Closeout_Revised_Final.pdf",
+    "status": "Corrected package attachment is confirmed in Outlook; contents not reviewed. Remote retrieval reference retained. Prior wrong PDF preserved in earlier snapshot."
+  },
+  "pending_or_completion_unconfirmed_count": 13,
+  "pending_or_completion_unconfirmed": [
+    {
+      "id": "P01",
+      "item": "Smash Room 3 backward-installed door",
+      "status": "Open; completion unconfirmed",
+      "latest": "Replacement ordered November 4, approximately two weeks out. No install confirmation found.",
+      "date_target": "Approximately November 18, estimate only; not established overdue on November 17",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "id": "P02",
+      "item": "Steel-wall/bolt correction and iSmash signoff",
+      "status": "Retightening reported; gap resolution/brand acceptance unconfirmed",
+      "latest": "Scott found three loose bolts and a huge gap in Smash Room 3 on Nov10 10:03 AM. Tyson later said retightened, warning metal studs can compress/crush with excess tightening. Ron Nov11 asked for picture. No later Scott signoff. Original Smash1 left plate second bolt from bottom had no individual DONE annotation; include that bolt in final verification rather than assert it remains physically loose.",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        },
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E018",
+          "date_local": "2026-11-10 10:03 AM PST"
+        },
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        },
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E016",
+          "date_local": "2026-11-11 4:13 AM PST"
+        }
+      ]
+    },
+    {
+      "id": "P03",
+      "item": "Uneven heating / HVAC final adjustment",
+      "status": "Current resolution unconfirmed",
+      "latest": "Tyson deferred balancing to Troy Nov10. Troy Nov16 says working unit balanced and cites Omni June8 report. No confirmed current room-by-room resolution. Nov6 diagnostic summary WAS delivered; RTU1 further evaluation and RTU2 PCB replacement were recommended. Landlord JH Kelly visit scheduled Nov9, result not found in supplied snapshots.",
+      "sources": [
+        {
+          "snapshot": "2026-11-09_refresh.json",
+          "record": "E044",
+          "date_local": "2026-11-06 7:56 AM PST"
+        },
+        {
+          "snapshot": "2026-11-09_refresh.json",
+          "record": "E032",
+          "date_local": "2026-11-06 12:05 PM PST"
+        },
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        },
+        {
+          "snapshot": "2026-11-16_late_refresh.json",
+          "record": "E001",
+          "date_local": "2026-11-16 4:46 PM PST"
+        }
+      ]
+    },
+    {
+      "id": "P04",
+      "item": "Fan-switch location/correction",
+      "status": "Open; decision/date missing",
+      "latest": "Original list calls this Large Paint Room; Nov10 supplement labels Smash Rooms. Switch next to fan versus specified cash wrap. Tyson asks Troy what to do. Confirm exact affected location rather than count as separate defects.",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        },
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        }
+      ]
+    },
+    {
+      "id": "P05",
+      "item": "Paint-room door handle pins / new passage levers",
+      "status": "Open; order/install date absent",
+      "latest": "Tyson says new passage levers need ordering and asserts added cost. No approved amount/order/date or install confirmation found. Lock removal Nov4 was a separate completed step.",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        },
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        }
+      ]
+    },
+    {
+      "id": "P06",
+      "item": "Sink mirror installation",
+      "status": "Open; installation unconfirmed",
+      "latest": "Owner expected delivery Nov10–12; Tyson said not onsite Nov10. Later Amazon shipping notices do not prove installation.",
+      "sources": [
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E023",
+          "date_local": "2026-11-10 9:17 AM PST"
+        },
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        }
+      ]
+    },
+    {
+      "id": "P07",
+      "item": "Paper towel dispenser keys, paint-cleanup/restrooms",
+      "status": "Open; delivery unconfirmed",
+      "latest": "Tyson says 'Working on this' Nov10.",
+      "sources": [
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        }
+      ]
+    },
+    {
+      "id": "P08",
+      "item": "Deep cleaning",
+      "status": "Completion confirmation needed",
+      "latest": "Tyson says 'Happening today' Nov10, not explicit finished.",
+      "sources": [
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        }
+      ]
+    },
+    {
+      "id": "P09",
+      "item": "Gear Room 2 employee sign removal and repainting",
+      "status": "Completion confirmation needed; reopened",
+      "latest": "Nov4 repaint marked DONE, but owner Nov10 again requests sign removal/paint and Tyson gives 11/11 target. Use later response.",
+      "date_target": "November 11",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        },
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        }
+      ]
+    },
+    {
+      "id": "P10",
+      "item": "Soap dispenser installation",
+      "status": "Completion confirmation needed; reopened",
+      "latest": "Grouped DONE Nov4, but Nov10 supplement repeats it and Tyson gives 11/11 target. No later done confirmation.",
+      "date_target": "November 11",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        },
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        }
+      ]
+    },
+    {
+      "id": "P11",
+      "item": "Paint-cleanup cabinet door hardware",
+      "status": "Completion confirmation needed",
+      "latest": "Tyson Nov4 says '11/5 tomorrow'; no subsequent explicit finished status found.",
+      "date_target": "November 5",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "id": "P12",
+      "item": "Two tagged fire extinguishers and required signage",
+      "status": "Completion confirmation needed",
+      "latest": "Ordered Nov4/target Nov9. Nov10 morning Tyson still says 'will also be installing the fire extinguishers'; no subsequent explicit completion/signage confirmation found.",
+      "date_target": "November 9, then planned November 10",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        },
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E024",
+          "date_local": "2026-11-10 9:01 AM PST"
+        }
+      ]
+    },
+    {
+      "id": "P13",
+      "item": "Storage-room passage lever",
+      "status": "Completion confirmation needed",
+      "latest": "Nov10 Tyson says will install; no subsequent completion confirmation. Do not confuse with storage-room doors marked done Nov4.",
+      "sources": [
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E024",
+          "date_local": "2026-11-10 9:01 AM PST"
+        }
+      ]
+    }
+  ],
+  "reported_completed": [
+    {
+      "item": "Event room TV-side outlet finishing",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Event room electrical panel access sign",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Smash Room 1 second steel sheet third bolt on right (other left-plate bolt not individually closed)",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Relocate tool racks behind doors, Smash Rooms 1 and 2",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Smash Room 2 outlet blank cover (installation/cost explanation not answered)",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Large paint room missing doorstop",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Bathroom outlet cover",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Gear Room 2 second jumpsuit rack",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Gear Room 2 ceiling tiles",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Gear Room 2 door-frame touchup",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Paint-cleanup caulking at motion detector and paint at fire alarm",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Paint-cleanup small baseboard/trim/FRP",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Smash Room 4 door-frame touchup",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Smash Room 4 metal sheet flushness (subject to requested steel-wall signoff)",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Paint-room lock removal (new passage lever/pin issue remains)",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Disposable glove holders in three gear rooms",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Storage-room doors",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Gate bolt removal",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Three storage-room ceiling tiles",
+      "status": "Contractor-reported done, not independently inspected",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Tool mounting installation",
+      "status": "Contractor-reported done November 10",
+      "sources": [
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Lobby exit-sign direction",
+      "status": "Contractor-reported done November 10",
+      "sources": [
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Cash-wrap cable holes / hollow-cover access",
+      "status": "Contractor-reported done November 10",
+      "sources": [
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Sink installation",
+      "status": "Reported installed by Tyson and owner November 10; Scott approved proposed sink solution November 4. No onsite independent verification by assistant.",
+      "sources": [
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E024",
+          "date_local": "2026-11-10 9:01 AM PST"
+        },
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E023",
+          "date_local": "2026-11-10 9:17 AM PST"
+        },
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E003",
+          "date_local": "2026-11-04 5:07 PM PST"
+        }
+      ]
+    }
+  ],
+  "other_information_followups": [
+    {
+      "item": "High-low fountain flow adjustment",
+      "status": "Instruction answered, not clearly open construction work",
+      "latest": "Tyson says adjusted from underneath. Ask demonstration/check only if still unresolved onsite; no basis to list installation pending.",
+      "sources": [
+        {
+          "snapshot": "2026-11-16_refresh.json",
+          "record": "E017",
+          "date_local": "2026-11-10 3:28 PM PST"
+        }
+      ]
+    },
+    {
+      "item": "Smash Room 2 outlet explanation/cost",
+      "status": "Explanation unresolved although blank cover reported done",
+      "latest": "Original question asks why unplanned outlet installed and associated cost. DONE notation does not supply explanation/cost.",
+      "sources": [
+        {
+          "snapshot": "2026-11-04_evening_refresh.json",
+          "record": "E004",
+          "date_local": "2026-11-04 4:03 PM PST"
+        }
+      ]
+    }
+  ],
+  "document_followups": [
+    {
+      "area": "Current punch status and dates",
+      "status": "Pending email confirmation",
+      "need": "Item-by-item completed/open list, current dates, clarification of undated and reopened items and post-opening coordination."
+    },
+    {
+      "area": "HVAC current outcome",
+      "status": "Pending confirmation / report review",
+      "need": "Current room-by-room heating/balancing resolution and later repair/service records. Troy's November 6 diagnostic summary exists; June 8 report is described, corrected PDF contents pending."
+    },
+    {
+      "area": "Latest change-order support and financial reconciliation",
+      "status": "Verification pending",
+      "need": "Review corrected package for itemized latest-change-order receipts, supplier/subcontractor invoices, actual payment/credit reconciliation. Do not mark missing until corrected PDF checked."
+    },
+    {
+      "area": "Lien documentation and final-payment release process",
+      "status": "Verification and written confirmation pending",
+      "need": "Check actual named parties, waiver types/amounts, full subcontractor/supplier accounting and outstanding balances. Confirm applicable releases after cleared payment and any exceptions. No legal sufficiency finding."
+    },
+    {
+      "area": "Warranty and handover",
+      "status": "Not substantively answered in email; corrected package review pending",
+      "need": "Written warranties/manuals, inspection/testing records, Substantial Completion certificate, start/end dates and Carney/local service contacts. Corrected PDF may contain additional material."
+    }
+  ],
+  "critical_cautions": [
+    "Items without completion evidence are not proven physically unfinished. Request owner/contractor confirmation.",
+    "Do not mark soap dispenser or Gear2 sign repaint complete solely from Nov4; Nov10 reopens both.",
+    "Do not assert all diagnostic records absent: Troy Nov6 sent detailed diagnostic summary; underlying service paperwork and later outcome remain unverified.",
+    "Do not count storage-room doors as pending; distinguish new passage lever.",
+    "Smash3 door two-week estimate points approximately Nov18, not overdue as of Nov17.",
+    "Do not treat Troy Nov16 payment request or blanket reference to prior list as itemized completion evidence.",
+    "Troy's November 17 5:25 PM correction explicitly says previous attachment was wrong and provides iSMASH_Everett_Closeout_Revised_Final.pdf (2261093 bytes). This supersedes the earlier inference that the one wrong-waiver attachment represented the intended closeout package.",
+    "Physical items without confirmation are not necessarily unfinished; contractor-reported completions are not independent inspection.",
+    "No new work instruction, payment, release, acceptance, policy binding or message sending performed. Legal payment entitlement and scope allocation not decided."
+  ]
+}
+

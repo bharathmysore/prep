@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-19",
+  "scope": "Read-only search local transcript and archived email records for wrong-swing door notice and schedule; limited water-fountain context",
+  "door_events": [
+    {
+      "date": "2026-05-22",
+      "time_in_call": "24:05\u201324:10",
+      "speakers": [
+        "Alex Nells",
+        "Conference Room (Divya Dee) - Speaker 2"
+      ],
+      "source": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-22-everett-weekly-calls.txt",
+      "line": 387,
+      "quote": "Alex: And then does the group smash room door have to be reversed? Divya: Well, that\u2019s what Scott said. And that\u2019s as per the code, so we should probably do that.",
+      "context": "Divya then says Ron is aware of changes Scott shared. This is a reported Scott instruction, not direct quote from Scott or independent code determination."
+    },
+    {
+      "date": "2026-05-29",
+      "time_in_call": "09:00",
+      "speaker": "Ronald Tobiasz",
+      "source": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-05-29-everett-weekly-calls.txt",
+      "line": 127,
+      "quote": "And then one thing on his list, if you don\u2019t know about, we did have one door swinging the wrong way. It was reordered and it\u2019s coming in on Thursday.",
+      "interpretation": "Expected delivery Thursday June4 if forward-looking; not a stated installation date."
+    },
+    {
+      "date": "2026-06-05",
+      "time_in_call": "14:30",
+      "speaker": "Ronald Tobiasz",
+      "source": "/Users/bmysoren/prep/ismash/evidence/read_ai/raw_exports/2026-06-05-everett-weekly-calls.txt",
+      "line": 214,
+      "quote": "Just for Scott, we did fix that door, or we have the door. So we\u2019ll fix that wrong swing door that you pinned here. So we got that. We\u2019ll take care of that next week.",
+      "interpretation": "Speaker corrects himself from did fix to have the door. Next week implies weekJune8; specific wrong-swing door location not labeled in sentence."
+    },
+    {
+      "date": "2026-11-02",
+      "time_PST": "14:41",
+      "speaker": "Scott Laviano",
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-04_refresh.json",
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJdzxBGwAAAA==",
+      "quote": "Rm 3 door is installed backwards",
+      "interpretation": "Direct Scott punch-list email confirms current room3 issue."
+    },
+    {
+      "date": "2026-11-04",
+      "time_PST": "13:48",
+      "speaker": "Troy Fink",
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-04_evening_refresh.json",
+      "quote": "Door installed backwards. Correct installation.",
+      "interpretation": "Original consolidated list had no completion date for room3."
+    },
+    {
+      "date": "2026-11-04",
+      "time_PST": "16:03",
+      "speaker": "Tyson Ferreira",
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-04_evening_refresh.json",
+      "quote": "Ordered 11/4 approximately two weeks out",
+      "interpretation": "Approximate delivery/lead-timearoundNov18; not firm installation date."
+    },
+    {
+      "date": "2026-11-19",
+      "time_PST": "09:50",
+      "speaker": "Troy Fink",
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-19_refresh.json",
+      "quote": "The Smash Room 3 door has been ordered and is scheduled for installation the week of November 30, 2026.",
+      "interpretation": "Latest installation commitment; paint-roomlevers samevisit."
+    }
+  ],
+  "conclusions": [
+    "Wrong-swing smash-door issue recorded inMay/June, including Scott-reported concern and explicit Ron next-week correction commitment.",
+    "Current room3 backwards installation explicitly recorded by ScottNov2 and TroyNov4.",
+    "User identifies early issue as same SmashRoom3door; transcript earlyroomnumber is not explicit. Can state wrong-swing issue datesbackMay/June while avoiding independently claimingroommapping.",
+    "Use repeated postponements/schedulechanges, or attribute threechanges toownersrecords; the records support several dates but do not prove exactlythree reschedulings of identicalinstallation appointment.",
+    "Do not conflate summerrear-egress-door install, board-updoor, storagepanicbar, or paintpassagelever withSmashRoom3."
+  ],
+  "fountain_context": [
+    {
+      "date": "2026-10-20",
+      "speaker": "Troy Fink",
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-10-20_refresh.json",
+      "quote": "High-low drinking fountain: Scheduled for installation tomorrow. Later sameemail lists scheduled today.",
+      "note": "Internal date inconsistency; no needrelyfordefectnotice."
+    },
+    {
+      "date": "2026-10-23",
+      "speaker": "Troy Fink",
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-10-23_evening_refresh.json",
+      "quote": "The fountain has been installed.",
+      "note": "Supports Carney coordinatedinstallation; doesnotidentifywarrantyallocation orproofnormaloperation."
+    },
+    {
+      "date": "2026-10-23",
+      "speaker": "Bharath Mysore",
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-10-25_refresh.json",
+      "quote": "About the high-low water fountain, the lower cover has been installed",
+      "note": "Covercompletion; not heatingorflowperformance."
+    }
+  ],
+  "limits": [
+    "No engineering/code/safety diagnosis performed; classify presentdoorurgency as ownersoperational/safetyconcern.",
+    "Fountain knocking/no-flow/spillage symptoms from currentusermessage not earlier archivedrecord.",
+    "No sourceoriginals changed."
+  ]
+}

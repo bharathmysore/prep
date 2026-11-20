@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-19",
+  "scope": "Primary-document review of HVAC duties, notice, warranty and lease allocation. Email and meeting timeline handled by root/other agent. Read-only originals.",
+  "sources": {
+    "carney": {
+      "path": "/Users/bmysoren/Desktop/2026/iSmash/Construction/Construction_Estimate_Increased_iSmash_Everett.pdf",
+      "pages": 52,
+      "sha256": "08de1a50393213afba8eca7a3c2d73de9c931672df86f8b58f9561cf93b8ca3f",
+      "signatures": "PDF23 visually confirms Michael Carney Jan20,2026 and Bharath/Divya Jan26,2026. ExhibitB also signed/initialed.",
+      "visual_pages": [
+        8,
+        23,
+        24,
+        40,
+        41
+      ],
+      "text_pages": [
+        7,
+        8,
+        10,
+        12,
+        13,
+        22,
+        24,
+        40,
+        41,
+        42
+      ]
+    },
+    "lease": {
+      "path": "/Users/bmysoren/Desktop/2026/iSmash/Lease-2025-SmashDistrictLLC.pdf",
+      "pages": 58,
+      "sha256": "ef42bb75c32bac8442bdaabcafc07080b044ee3000777a3e24dbdd4e97660eda",
+      "version": "Scanned lease with handwritten August4,2025 reference date onPDF2. Critical clauses read visually; full OCR failed. Lease execution signature page not rechecked in this subtask.",
+      "visual_pages": [
+        2,
+        3,
+        14,
+        15,
+        43,
+        44,
+        47,
+        48
+      ]
+    }
+  },
+  "carney_clauses": [
+    {
+      "section": "3.8.5",
+      "pdf_page": 8,
+      "text": "With the assistance of Owner's maintenance personnel, Design-Builder shall direct the checkout of utilities and start-up operations, and adjusting and balancing of systems and equipment for readiness.",
+      "meaning": "Explicit start-up, adjustment and balancing duty."
+    },
+    {
+      "section": "M-0.2 §2305931.3A",
+      "pdf_page": 40,
+      "text": "The TAB specialist shall perform flow measurements of all existing air and hydronic systems that are to remain or to be incorporated into new work prior to the starting of work in the project scope. A report of these measurements, indicating any and all deficiencies shall be submitted for Owner review.",
+      "meaning": "Strong contemporaneous deficiency-report duty specific to HVAC, not just generic later warranty."
+    },
+    {
+      "section": "M-0.2 §2305931.3B-D,J",
+      "pdf_page": 40,
+      "text": "New-system measurements and deficiency report; schematic equipment/measurement locations; balance all systems to design prior to final inspection; random checks within90days and seasonal tests.",
+      "meaning": "Supports asking for missing report, documented incompleteness, and current seasonal performance check. Does not guarantee replacement of excluded old equipment."
+    },
+    {
+      "section": "M-1.0 Note M",
+      "pdf_page": 41,
+      "text": "Architect shall be notified of any and all discrepancies between field conditions and contract documents before proceeding with that portion of work. Failure of proper notification does not relieve contractor. Contractor shall correct work arising from failure to coordinate discrepancies without additional cost to owner.",
+      "meaning": "Requires notice to architect of discrepancies and addresses correction of resulting work; not an automatic transfer of all preexisting-equipment repair expense."
+    },
+    {
+      "section": "M-1.0 Note N",
+      "pdf_page": 41,
+      "text": "Perform complete test and balance of all equipment upon completion and provide written report to architect; capacity within±10% of plans/schedules.",
+      "meaning": "Whole-system completion requirement; reconcile with M-0.2±5% criteria rather than select a tolerance arbitrarily."
+    },
+    {
+      "section": "Exhibit B",
+      "pdf_page": 24,
+      "text": "Mechanical Internal Distribution RTU Units Assumed GWO, Open Areas Kept Exposed-Newly Ducted Rooms: $37,775. Clarification: all major MEP infrastructure assumed in Good Working Order and reused; No Service Upgrades or replacements included; RTUs assumed as is and LL will make in GWO.",
+      "meaning": "Specific limitation on old-equipment replacement/upgrades, while included new distribution work remains Carney's responsibility."
+    },
+    {
+      "section": "M-1.1 Note1 and contractor note",
+      "pdf_page": 42,
+      "text": "Existing RTUs remain; clean/refurbish to like-new condition; repair/replace accessories as required for fully functioning; verify prior to bid. Due diligence and coordinate field discrepancies with engineer/architect before work.",
+      "meaning": "Potential tension with ExhibitB; cannot ignore either. Existing accessories/service vs replacement scope needs factual/design reconciliation."
+    },
+    {
+      "section": "8.3",
+      "pdf_page": 12,
+      "text": "For qualifying concealed or unusual unknown site conditions, stop affected work and give prompt written notice to owner. Owner investigates and issues interimdirective. Work relating to unknowncondition requires written mutualagreement.",
+      "meaning": "Potentially relevant only if HVAC issue meets defined differing/unknowncondition criteria, not every component malfunction."
+    },
+    {
+      "section": "3.8.1",
+      "pdf_page": 7,
+      "text": "Warranty excludes damage or defect caused by abuse, alterations to Work not executed by Carney, improper/insufficient maintenance or operation, normalusage/wear. One-year warranty from SubstantialCompletion.",
+      "meaning": "Causal exclusion; does not say any repair by another vendor automatically voids every HVAC or remaining balancing obligation."
+    },
+    {
+      "section": "3.9.1;4.4.2;5.2",
+      "pdf_pages": [
+        8,
+        10
+      ],
+      "text": "Owner gives promptwritten defectnotice and opportunity to test/correct; Carney corrects responsibleDefectiveWork at owncost/time; Carney manages subcontractors.",
+      "meaning": "Address Carney ascontractcounterparty even if Onesta/Omni performwork. Preserve reasonableinspection/correction opportunity."
+    },
+    {
+      "section": "3.4.5",
+      "pdf_page": 6,
+      "text": "Uninsured damage/loss arising from negligent acts/omissions of Carney or those for whomliable remedied byCarney; owner/others-caused loss remedied byOwner.",
+      "meaning": "Construction-caused equipment damage requires causation evidence; timing alone insufficient."
+    },
+    {
+      "section": "14.2",
+      "pdf_page": 22,
+      "text": "Priority: ChangeOrders/writtenamendments, Agreement, approved design documents asofCommencement, other listed documents; newerwithin samecategory controls.",
+      "meaning": "Later executed scopechanges mustbechecked."
+    }
+  ],
+  "lease_clauses": [
+    {
+      "section": "1.6",
+      "pdf_page": 3,
+      "printed_page": "2",
+      "text": "As-is, subject to latentdefects, but with HVAC,electricalsystems and ADAcompliantrestrooms in goodworkingorder condition andrepair.",
+      "meaning": "As-is language qualified as to HVAC."
+    },
+    {
+      "section": "Exhibit D",
+      "pdf_page": 43,
+      "printed_page": "D-1",
+      "text": "Landlord shall provide HVAC(1ton per300squarefeet includingnecessaryfreshair intake) in goodworkingorder. Landlord will guarantee HVAC goodworkingcondition and systemperformance throughoutTerm.",
+      "meaning": "Strong landlord base-system obligation, separate from TI distribution."
+    },
+    {
+      "section": "Exhibit E§6.7",
+      "pdf_page": 48,
+      "printed_page": "E-5",
+      "text": "Tenant mechanicalwork includes piping,ductwork,miscellaneous exhaust,HVACthermostat,EMSconnection,smokedetectors,heatpumps,materials/labor/equipment for distribution of allmechanicalservices withinPremises.",
+      "meaning": "Tenant arranges TI distribution; contracted to Carney within GCscope."
+    },
+    {
+      "section": "9.1",
+      "pdf_page": 14,
+      "printed_page": "13",
+      "text": "Tenant general nonstructuralmaintenance/repair includes heating/airconditioning servingPremises; landlord responsible atsolecost for latentdefects inbuilding,premises,mechanicalsystemsoverlease/extensionterm.",
+      "meaning": "Faulttype and latentdefect versusroutinework matter."
+    },
+    {
+      "section": "9.2",
+      "pdf_page": 14,
+      "printed_page": "13",
+      "text": "Landlord contracts for HVAC preventivechecks,filterchanges,repairs,replacement,service; tenant agrees to pay costs of suchcalls/filters/repairs/replacements for units servingPremises.",
+      "meaning": "Landlordcoordination does not automatically mean allcosts arelandlordpaid. Must reconcile ExhibitDguarantee andlatentdefectexception."
+    }
+  ],
+  "practical_division": [
+    "Carney should lead diagnosis/completion for internal distribution, thermostat/control work it furnished, duct/damper configuration, commissioning and balancing still owed undercontract.",
+    "Alex/NWPrime is appropriate coordinator for existingbaseRTU service and claimed system-performance failure underlease, subject to leasecostallocation and cause.",
+    "If Carney/Onesta causeddamage, responsibility remains factdependent underGCcontract; no evidence ofcausation determinedhere.",
+    "Repairvendor handles defects initsownrepair, and may perform technicalrebalance ifrequested, but no reviewedclause automatically transfers Carney'suncompleted originalbalancing duty tothatvendor simplybecause repairedRTU.",
+    "If systems were previously fullybalanced andlater repairmateriallychanged operation, incrementalrebalancing costcould differ fromoriginalincompletework. Needbefore/afterreports.",
+    "No contemporaneousnotice, ifconfirmed, supports demanding deficiencyreport, notice proof andexplanation; it alone doesnotprove equipmenthealthy beforework, Carney-causedfailure, or allrepaircostsowedbyCarney."
+  ],
+  "records_to_request": [
+    "Whichunit(s)byplanRTUtag,model,serial androomsserved",
+    "Date defectfirstobserved",
+    "Pre-workTAB/deficiencyreport andJune8testdata",
+    "Datednotice andrecipient list includingowner/architect/landlord",
+    "Whatworkcouldnotbedone andwasexcluded/deferred",
+    "ActualNovemberdiagnostic/repairreport,changesmade andpostrepairtest",
+    "Currentheating-mode distribution/roomperformance check anddocumentedcompletionplan"
+  ],
+  "limitations": [
+    "No currentengineeringdiagnosis ornewwarrantyPDFreview performed.",
+    "No finallegalliability conclusion.",
+    "LeaseOCRfailed; criticalpages visuallyread.",
+    "No sourceoriginals changed."
+  ]
+}

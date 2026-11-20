@@ -1,0 +1,52 @@
+Subject: Re: Final Invoice and Billing — Remaining Work and Reconciliation
+
+Hi Troy,
+
+Thank you for your response. I want to complete the remaining work and close out the account promptly and in accordance with our agreement. The following items still require specific answers and documented resolution.
+
+1. Punch-list work and completion dates
+
+Tyson’s November 4 update stated that the Smash Room 3 replacement door was ordered that day and was “approximately two weeks out.” Please explain why installation is now scheduled for the week of November 30 and confirm the exact installation date. Please also confirm that the paint-room levers installed during that visit will be passage/nonlocking hardware.
+
+I acknowledge the proposed $300 fan-switch credit, but have not agreed that it fully resolves the required correction. Please explain its basis and confirm the proposed correction or agreed scope of the credit.
+
+2. HVAC completion and earlier notice
+
+We continue to experience uneven heating. I have not located a notice provided when the HVAC work or balancing was performed stating that a unit was inoperable and balancing would remain incomplete.
+
+On November 6, you stated that a previously recommended PCB repair had been declined. I asked when the issue was identified, and you said you were looking into the timeline. Please provide the original dated diagnostic report, the notice provided to us, and identify who declined which repair and when.
+
+The June 8 report records cooling-mode airflow under RTU-3, RTU-4 and RTU-5, while your email describes two units. Please identify the units and areas served, explain what balancing remains, and arrange a heating-performance/distribution review.
+
+Section 3.8.5 and the mechanical specifications address startup, balancing and deficiency reporting. I do not agree that repair of a component by another vendor, by itself, establishes that Carney’s remaining balancing obligations have been completed or transferred to that vendor. Please explain the contractual and technical basis for your position.
+
+3. Latest change order and push-bar installation
+
+Please provide the fully executed Carney_Contracting_CO-iSmash-0017_Corrected.pdf, together with its itemized scope, pricing and appropriate supporting documentation for the $3,356.40 charge.
+
+The push-bar installation identified in that change order has not been completed. Please identify the door/location covered and confirm the completion date. If it has been removed from the approved scope, please identify the amount attributable to the omitted work and provide the corresponding credit and revised invoice.
+
+I understand the lump-sum pricing structure. However, Section 8.5.1 calls for an itemized lump sum, and Section 8.6 requires appropriate supporting documentation for a claim to increase the contract price. Please address these requirements and the outstanding request for supporting receipts. If you are withholding particular records, please identify the contractual basis and the alternative documentation supporting the charges.
+
+4. Warranty and handover
+
+Thank you for providing the Substantial Completion certificate and warranty letter. Please clarify the warranty start and end dates in light of the November 5 completion date and November 18 letter, and confirm Carney’s warranty contact and local service arrangements. Please provide delivery dates for the remaining applicable manuals and inspection/testing records.
+
+5. Subcontractor accounting and releases
+
+I acknowledge the Onesta and Omni final waivers and the other waivers already supplied. Several historical forms exclude retention and later work. Please provide current subcontractor/supplier payment accounting and identify any remaining gaps in final-release coverage and how they will be resolved.
+
+6. Completion-cost estimate and final reconciliation
+
+Please provide Carney’s estimated cost to complete each unfinished item, with the remaining scope and firm completion dates, so we can agree on the applicable adjustment under Sections 9.1.7 and 9.1.12.
+
+Please also provide the signed change-order set and a consolidated reconciliation showing approved changes, payments, credits and the revised balance. This should explain the previously identified $998.64 difference between the $27,967 payment acknowledged for COs #5–9 and the $26,968.36 total of the revised signed forms.
+
+Please distinguish credits for omitted work from the 150% withholding for unfinished work so amounts are not counted twice. The proposed $51,884.44 balance remains subject to this reconciliation.
+
+I remain ready to coordinate with Quaint Oak for payment of amounts properly due under the agreement, including undisputed amounts. This email does not authorize a payment release or accept the proposed credit as full resolution.
+
+Please respond by Friday, November 20, with the requested dates and estimate, or a specific delivery date for anything still being prepared, and propose a time for the joint closeout review.
+
+Thank you,
+Bharath

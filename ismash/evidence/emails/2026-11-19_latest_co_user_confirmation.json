@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-19",
+  "source": "User confirmation in this conversation",
+  "user_message": "The lates CO is Carney_Contracting_CO-iSmash-0017_Corrected.pdf",
+  "confirmed_filename": "Carney_Contracting_CO-iSmash-0017_Corrected.pdf",
+  "status": "User confirms this is the latest change order under discussion.",
+  "billing_reference": "The current discussion refers to this latest change order as CO10, totaling $3,356.40 in the final invoice. The document internal number, exact line items and individual push-bar allocation remain unverified until PDF contents are read.",
+  "attachment_source": {
+    "subject": "Completed: Complete with Docusign: Carney_Contracting_CO-iSmash-0017_Corrected.pdf",
+    "receivedDateTime": "2026-10-19T22:23:27Z",
+    "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAH2GX1PQAAAET5v7O%2BNv5KtRtOYaCds0gACW8vePIAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem"
+  },
+  "content_status": "Outlook attachment identified and materialized remotely in previous turn, but PDF content has not been read and no local copy was saved. Earlier candidate-only description is superseded as to the user-confirmed identity, not as to document contents.",
+  "actions": "Preserved user confirmation and appended conversation log; no original evidence overwritten, deleted or outgoing messages sent."
+}

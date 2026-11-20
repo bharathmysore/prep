@@ -1,0 +1,34 @@
+Change-order expense disclosure — November 19, 2026
+
+User: Does the Carney contract mention that they will not disclose the CO expenses?
+
+Answer: No express blanket clause was located in the reviewed signed agreement stating that Carney will not disclose change-order expenses or may withhold all change-order support. The agreement also does not provide a blanket open-book audit right to every internal vendor/subcontractor invoice. Distinguish itemized agreed pricing and appropriate claim support from unrestricted actual-cost access.
+
+Primary source:
+/Users/bmysoren/Desktop/2026/iSmash/Construction/Construction_Estimate_Increased_iSmash_Everett.pdf
+52 pages; SHA256 08de1a50393213afba8eca7a3c2d73de9c931672df86f8b58f9561cf93b8ca3f.
+PDF pages 9, 12, 13 rendered and visually checked.
+
+Relevant provisions:
+1. Section 8.5.1, PDF13: "An increase or decrease in the Contract Price resulting from a change in the Work shall be determined by a mutually accepted, itemized lump sum."
+2. Section 8.6, PDF13: Following claim notice, Carney shall submit written documentation of the claim, "including appropriate supporting documentation", within ten days unless parties agree longer. Applies to claims for increased price/time; does not specify every supplier invoice or create unrestricted post-approval audit rights.
+3. Section 8.1.1, PDF12: Each price adjustment resulting from a CO must clearly separate the amount attributable to design services.
+4. Section 3.10, PDF9: Owner must keep Carney's estimating systems and historical/parameter cost data confidential when disclosed. Parties must specify and mark confidential items. This regulates confidential treatment of disclosed information; it does not expressly exempt COs from Article8 itemization/support.
+5. Section 9.1.1, PDF13: schedule of values consisting of breakdown of contract price.
+6. Sections 9.1.7/9.1.12 concern Carney's estimated cost of completing unfinished items; they do not expressly require independent vendor quotations. This punch-list estimate issue is separate from Article8 CO documentation.
+
+Troy November19 9:50AM PST, archived in 2026-11-19_refresh.json:
+"This project was contracted on a lump sum basis. The approved change orders and contract reconciliation establish the adjustments to the contract price.
+Carney is not obligated under the agreement to disclose its internal subcontractor invoices, vendor pricing, or proprietary cost information."
+He cites no specific nondisclosure clause there. This is his interpretation of lump-sum pricing, not a quoted blanket nondisclosure provision.
+
+Independent bounded form review:
+CO1–9 reviewed; no express nondisclosure, audit bar, receipt waiver or override of Article8 documentation found. Forms include blank 'Backup Attached?' field in CCS Use Only, which is not an unconditional open-book promise.
+Signed CO10 form not located in bounded local review. Corrected closeout PDF2–3 references $3,356.40 but is not the executed CO10 or supporting cost record. Later CO terms could affect analysis and should be checked when obtained.
+
+Suggested narrow request:
+"Troy, I understand that the agreement uses lump-sum pricing. Section8.5.1 nevertheless calls for a mutually accepted, itemized lump sum, and Section8.6 requires appropriate supporting documentation for a claim to increase the contract price. Please provide the executed CO10, its itemized scope and pricing, and the documentation supporting the additional charges. If Carney believes a contractual provision permits withholding that information, please identify the section and explain how it applies. Any information properly designated confidential can be handled under Section3.10."
+
+Limit: Do not equate absence of express nondisclosure with an unlimited invoice/audit right or a right to reopen all accepted fixed prices. No determination that CO10 price is invalid or that all final payment may be withheld.
+
+No original records deleted/altered, outgoing email sent, payment authorized, or proposed terms accepted.

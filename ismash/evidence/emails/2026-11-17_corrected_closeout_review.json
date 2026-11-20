@@ -1,0 +1,1399 @@
+{
+  "title": "Corrected Carney closeout package review and revised six-item checklist",
+  "reviewed_at_utc": "2026-11-18T01:36:09.029042+00:00",
+  "display_timezone": "America/Los_Angeles",
+  "display_date": "2026-11-17T17:36:09.029042-08:00",
+  "user_request": "Correct attachment was sent. Continue pending checklist review using supplied PDF.",
+  "source": {
+    "user_path": "/Users/bmysoren/Desktop/2026/iSmash/Construction/iSMASH_Everett_Closeout_Revised_Final.pdf",
+    "preserved_path": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/iSMASH_Everett_Closeout_Revised_Final.pdf",
+    "bytes": 2260677,
+    "sha256": "daaf7a4c8119309c9d37bd48e57091ff0ad11dfe3dda09966922bd35ad55bd25",
+    "pages": 37,
+    "outlook_metadata_bytes": 2261093,
+    "provenance_note": "User-designated local corrected attachment; local source and preserved copy match byte-for-byte. Outlook metadata was416 bytes larger; remote payload was not obtained, so identity to the remote binary is not independently established."
+  },
+  "basis": {
+    "previous_checklist": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-17_pending_checklist.json",
+    "previous_checklist_sha256": "cc80751e9b9dec444dd39f054b56b9bf3b9b4f5a8a8f09a6ff3c75a0e5008c66",
+    "new_live_email_refresh": false,
+    "method": "All37 pages covered by visual review and text extraction. Page6 is image-only and manually reviewed. Parent reviewed1,35-37; financial audit1-4; waiver audit5-34. Document instructions treated as evidence, not authorization."
+  },
+  "six_item_checklist": [
+    {
+      "number": 1,
+      "request": "Punch-list completion and dates",
+      "status": "Open; no new physical completion evidence",
+      "provided": "This packet supplies no revised punch list or item-level completion dates.",
+      "pending": "Confirm completed/open status, dates for remaining and reopened items, and scheduling around store operations.",
+      "physical_groups": 13
+    },
+    {
+      "number": 2,
+      "request": "HVAC diagnostics, balance and uneven heating",
+      "status": "Historical balance report supplied; current heating resolution unconfirmed",
+      "pages": [
+        35,
+        36,
+        37
+      ],
+      "provided": "Omni June 8, 2026 air balance report, technician Josh Beggs, job26105. Cooling selected, Existing and Commercial selected, Alnor Flow Hood selected. Three RTU headings (3,4,5) and 52 outlet measurement rows.",
+      "pending": "Current heating-mode evaluation/final adjustments, November repair/service outcome and confirmation of even room heating. Reconcile RTU3/4/5 labels with RTU1/2 in November diagnostic email before assuming the same equipment.",
+      "limitation": "Report has airflow values, not room-temperature readings; no signed certification block visible. Historical receipt does not establish current defect resolution. Troy November6 diagnostic summary already exists."
+    },
+    {
+      "number": 3,
+      "request": "Account reconciliation and latest change-order receipts",
+      "status": "Summary supplied; supporting records incomplete",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "provided": "Original459870.00 + changes61156.69 = revised521026.69; less previous payment certificates468842.25 = requested52184.44. Arithmetic correct. CO10 amount3356.40 included.",
+      "pending": "CO10 itemized receipts/supplier-sub invoices; actual received-payment ledger and explicit credit accounting; G703 continuation referenced but absent; clarify tax and G702 dates."
+    },
+    {
+      "number": 4,
+      "request": "Carney and subcontractor lien documentation",
+      "status": "Materially supplied; full current coverage not established",
+      "pages": [
+        4,
+        5,
+        6,
+        23
+      ],
+      "provided": "Carney signed/notarized conditional final waiver52184.44 and prior-payment release468842.25. Onesta signed/notarized final-application unconditional waiver433979.97, November16; earlier October28 copy also retained. Omni November16 final-application unconditional waiver41578.01.",
+      "pending": "Complete current supplier/subcontractor roster and balance/retention confirmation. Nine named downstream parties have only historical progress forms in this packet.",
+      "limitation": "Visible signatures and documentary wording reviewed; no signature authentication or legal sufficiency finding."
+    },
+    {
+      "number": 5,
+      "request": "Detailed final disbursement accounting and final-release process",
+      "status": "Partial",
+      "pages": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "provided": "Carney reports subcontractors paid in full. Directory and 27 historical progress forms cover10 named parties totaling195455.26; newer Omni final amount is cumulative overlap.",
+      "pending": "Current party-by-party totals, paid amounts, retention and remaining balances; final-release coverage for remaining parties and written process after final cleared payment. Carney conditional form refers to a cleared check; clarify payment-method wording if using ACH.",
+      "limitation": "Do not add downstream waivers to prime contract or double count newer Onesta/Omni cumulative forms. Older forms exclude retention and later work."
+    },
+    {
+      "number": 6,
+      "request": "Warranty and handover package",
+      "status": "Not supplied by this packet",
+      "provided": "HVAC historical test data supplied under item2.",
+      "pending": "Written warranties, equipment manuals, remaining inspection/testing closeout records, Substantial Completion certificate, warranty start/end dates, Carney warranty contact and local service contacts."
+    }
+  ],
+  "physical_work_status": {
+    "count": 13,
+    "meaning": "Open or completion-unconfirmed groups carried forward from prior email review, not13 independently observed unfinished defects. Corrected PDF does not resolve them.",
+    "items": [
+      {
+        "id": "P01",
+        "item": "Smash Room 3 backward-installed door",
+        "status": "Open; completion unconfirmed",
+        "latest": "Replacement ordered November 4, approximately two weeks out. No install confirmation found.",
+        "date_target": "Approximately November 18, estimate only; not established overdue on November 17",
+        "sources": [
+          {
+            "snapshot": "2026-11-04_evening_refresh.json",
+            "record": "E004",
+            "date_local": "2026-11-04 4:03 PM PST"
+          }
+        ]
+      },
+      {
+        "id": "P02",
+        "item": "Steel-wall/bolt correction and iSmash signoff",
+        "status": "Retightening reported; gap resolution/brand acceptance unconfirmed",
+        "latest": "Scott found three loose bolts and a huge gap in Smash Room 3 on Nov10 10:03 AM. Tyson later said retightened, warning metal studs can compress/crush with excess tightening. Ron Nov11 asked for picture. No later Scott signoff. Original Smash1 left plate second bolt from bottom had no individual DONE annotation; include that bolt in final verification rather than assert it remains physically loose.",
+        "sources": [
+          {
+            "snapshot": "2026-11-04_evening_refresh.json",
+            "record": "E004",
+            "date_local": "2026-11-04 4:03 PM PST"
+          },
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E018",
+            "date_local": "2026-11-10 10:03 AM PST"
+          },
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E017",
+            "date_local": "2026-11-10 3:28 PM PST"
+          },
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E016",
+            "date_local": "2026-11-11 4:13 AM PST"
+          }
+        ]
+      },
+      {
+        "id": "P03",
+        "item": "Uneven heating / HVAC final adjustment",
+        "status": "Current resolution unconfirmed",
+        "latest": "Tyson deferred balancing to Troy Nov10. Troy Nov16 says working unit balanced and cites Omni June8 report. No confirmed current room-by-room resolution. Nov6 diagnostic summary WAS delivered; RTU1 further evaluation and RTU2 PCB replacement were recommended. Landlord JH Kelly visit scheduled Nov9, result not found in supplied snapshots.",
+        "sources": [
+          {
+            "snapshot": "2026-11-09_refresh.json",
+            "record": "E044",
+            "date_local": "2026-11-06 7:56 AM PST"
+          },
+          {
+            "snapshot": "2026-11-09_refresh.json",
+            "record": "E032",
+            "date_local": "2026-11-06 12:05 PM PST"
+          },
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E017",
+            "date_local": "2026-11-10 3:28 PM PST"
+          },
+          {
+            "snapshot": "2026-11-16_late_refresh.json",
+            "record": "E001",
+            "date_local": "2026-11-16 4:46 PM PST"
+          }
+        ]
+      },
+      {
+        "id": "P04",
+        "item": "Fan-switch location/correction",
+        "status": "Open; decision/date missing",
+        "latest": "Original list calls this Large Paint Room; Nov10 supplement labels Smash Rooms. Switch next to fan versus specified cash wrap. Tyson asks Troy what to do. Confirm exact affected location rather than count as separate defects.",
+        "sources": [
+          {
+            "snapshot": "2026-11-04_evening_refresh.json",
+            "record": "E004",
+            "date_local": "2026-11-04 4:03 PM PST"
+          },
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E017",
+            "date_local": "2026-11-10 3:28 PM PST"
+          }
+        ]
+      },
+      {
+        "id": "P05",
+        "item": "Paint-room door handle pins / new passage levers",
+        "status": "Open; order/install date absent",
+        "latest": "Tyson says new passage levers need ordering and asserts added cost. No approved amount/order/date or install confirmation found. Lock removal Nov4 was a separate completed step.",
+        "sources": [
+          {
+            "snapshot": "2026-11-04_evening_refresh.json",
+            "record": "E004",
+            "date_local": "2026-11-04 4:03 PM PST"
+          },
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E017",
+            "date_local": "2026-11-10 3:28 PM PST"
+          }
+        ]
+      },
+      {
+        "id": "P06",
+        "item": "Sink mirror installation",
+        "status": "Open; installation unconfirmed",
+        "latest": "Owner expected delivery Nov10–12; Tyson said not onsite Nov10. Later Amazon shipping notices do not prove installation.",
+        "sources": [
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E023",
+            "date_local": "2026-11-10 9:17 AM PST"
+          },
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E017",
+            "date_local": "2026-11-10 3:28 PM PST"
+          }
+        ]
+      },
+      {
+        "id": "P07",
+        "item": "Paper towel dispenser keys, paint-cleanup/restrooms",
+        "status": "Open; delivery unconfirmed",
+        "latest": "Tyson says 'Working on this' Nov10.",
+        "sources": [
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E017",
+            "date_local": "2026-11-10 3:28 PM PST"
+          }
+        ]
+      },
+      {
+        "id": "P08",
+        "item": "Deep cleaning",
+        "status": "Completion confirmation needed",
+        "latest": "Tyson says 'Happening today' Nov10, not explicit finished.",
+        "sources": [
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E017",
+            "date_local": "2026-11-10 3:28 PM PST"
+          }
+        ]
+      },
+      {
+        "id": "P09",
+        "item": "Gear Room 2 employee sign removal and repainting",
+        "status": "Completion confirmation needed; reopened",
+        "latest": "Nov4 repaint marked DONE, but owner Nov10 again requests sign removal/paint and Tyson gives 11/11 target. Use later response.",
+        "date_target": "November 11",
+        "sources": [
+          {
+            "snapshot": "2026-11-04_evening_refresh.json",
+            "record": "E004",
+            "date_local": "2026-11-04 4:03 PM PST"
+          },
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E017",
+            "date_local": "2026-11-10 3:28 PM PST"
+          }
+        ]
+      },
+      {
+        "id": "P10",
+        "item": "Soap dispenser installation",
+        "status": "Completion confirmation needed; reopened",
+        "latest": "Grouped DONE Nov4, but Nov10 supplement repeats it and Tyson gives 11/11 target. No later done confirmation.",
+        "date_target": "November 11",
+        "sources": [
+          {
+            "snapshot": "2026-11-04_evening_refresh.json",
+            "record": "E004",
+            "date_local": "2026-11-04 4:03 PM PST"
+          },
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E017",
+            "date_local": "2026-11-10 3:28 PM PST"
+          }
+        ]
+      },
+      {
+        "id": "P11",
+        "item": "Paint-cleanup cabinet door hardware",
+        "status": "Completion confirmation needed",
+        "latest": "Tyson Nov4 says '11/5 tomorrow'; no subsequent explicit finished status found.",
+        "date_target": "November 5",
+        "sources": [
+          {
+            "snapshot": "2026-11-04_evening_refresh.json",
+            "record": "E004",
+            "date_local": "2026-11-04 4:03 PM PST"
+          }
+        ]
+      },
+      {
+        "id": "P12",
+        "item": "Two tagged fire extinguishers and required signage",
+        "status": "Completion confirmation needed",
+        "latest": "Ordered Nov4/target Nov9. Nov10 morning Tyson still says 'will also be installing the fire extinguishers'; no subsequent explicit completion/signage confirmation found.",
+        "date_target": "November 9, then planned November 10",
+        "sources": [
+          {
+            "snapshot": "2026-11-04_evening_refresh.json",
+            "record": "E004",
+            "date_local": "2026-11-04 4:03 PM PST"
+          },
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E024",
+            "date_local": "2026-11-10 9:01 AM PST"
+          }
+        ]
+      },
+      {
+        "id": "P13",
+        "item": "Storage-room passage lever",
+        "status": "Completion confirmation needed",
+        "latest": "Nov10 Tyson says will install; no subsequent completion confirmation. Do not confuse with storage-room doors marked done Nov4.",
+        "sources": [
+          {
+            "snapshot": "2026-11-16_refresh.json",
+            "record": "E024",
+            "date_local": "2026-11-10 9:01 AM PST"
+          }
+        ]
+      }
+    ]
+  },
+  "financial_audit": {
+    "scope": "Factual audit of PDF pages 1-4; text plus visual renders reviewed. No legal validity opinion or independent authentication of signatures/payments.",
+    "source": {
+      "path": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/iSMASH_Everett_Closeout_Revised_Final.pdf",
+      "size_bytes": 2260677,
+      "sha256": "daaf7a4c8119309c9d37bd48e57091ff0ad11dfe3dda09966922bd35ad55bd25",
+      "page_count": 37
+    },
+    "reviewed_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "financial_figures": {
+      "original_contract": "459870.00",
+      "approved_change_orders": "61156.69",
+      "revised_contract": "521026.69",
+      "previous_payment_certificates": "468842.25",
+      "final_payment_requested": "52184.44",
+      "change_orders_prior_months": "57800.29",
+      "change_order_current_month": "3356.40",
+      "current_change_order_number": "10",
+      "total_retainage": "0.00",
+      "balance_to_finish_including_retainage": "0.00"
+    },
+    "arithmetic": [
+      {
+        "calculation": "459870.00 + 61156.69 = 521026.69",
+        "passes": true,
+        "pages": [
+          1,
+          3
+        ]
+      },
+      {
+        "calculation": "521026.69 - 468842.25 = 52184.44",
+        "passes": true,
+        "pages": [
+          1,
+          3
+        ]
+      },
+      {
+        "calculation": "57800.29 + 3356.40 = 61156.69",
+        "passes": true,
+        "pages": [
+          3
+        ]
+      },
+      {
+        "calculation": "Directory of ten subcontractors totals 195455.26 in 27 waivers",
+        "passes": true,
+        "pages": [
+          1
+        ],
+        "note": "Cumulative waiver amounts must not be added to prime contract; document itself says this. Completeness and duplication assessed by separate waiver audit."
+      }
+    ],
+    "findings": [
+      {
+        "pages": [
+          1,
+          2,
+          3
+        ],
+        "status": "present",
+        "topic": "Final balance reconciliation",
+        "detail": "Original amount, total change orders, revised amount, previous payment certificates, and final requested balance are present and agree. Invoice ISEW#5 is dated November 5, 2026, for $52,184.44, including CO#10 $3,356.40."
+      },
+      {
+        "pages": [
+          1,
+          3
+        ],
+        "status": "not_independently_verified",
+        "topic": "Payment history",
+        "detail": "$468,842.25 is labeled previous payment certificates. There is no transaction-by-transaction paid/received ledger or bank evidence in pages 1-4. Page 4 additionally says this previous amount is unconditionally released."
+      },
+      {
+        "pages": [
+          1,
+          2,
+          3
+        ],
+        "status": "not_provided",
+        "topic": "Credits and CO supporting costs",
+        "detail": "No explicit credit reconciliation or affirmative zero-credit confirmation is shown. G702 deductions cells are blank. Page 2 names CO#10 and its total but provides no itemized supplier/subcontractor invoices or receipts for that change order. Full-package text search found no additional invoices."
+      },
+      {
+        "pages": [
+          2
+        ],
+        "status": "clarification_needed",
+        "topic": "Tax",
+        "detail": "Invoice expressly states TAX NOT INCLUDED while stating Total Due $52,184.44. Final tax treatment is not reconciled in pages 1-4."
+      },
+      {
+        "pages": [
+          3
+        ],
+        "status": "correction_or_confirmation_needed",
+        "topic": "G702 dates",
+        "detail": "Visually reads PERIOD TO: 9/22/27 and CONTRACT DATE: 10/27/2026. Period end is future-dated relative to the November 5, 2026 execution and November 17, 2026 cover. Contract date needs reconciliation with the executed agreement; original agreement was not part of this subtask."
+      },
+      {
+        "pages": [
+          2,
+          3,
+          4
+        ],
+        "status": "label_inconsistency",
+        "topic": "Project name/address",
+        "detail": "Project is labeled iSmash: Seattle / Seattle WA, while the physical address is correctly stated as 607 SE Everett Mall Way, Suite 1, Everett WA 98208. Billing address is 1411 233rd Pl SE, Bothell WA 98021; its accuracy was not independently checked. Do not describe the physical job address as wrong."
+      },
+      {
+        "pages": [
+          3
+        ],
+        "status": "not_found",
+        "topic": "G703 continuation sheet",
+        "detail": "G702 says Continuation Sheet, AIA Document G703, is attached. No actual G703 was identified in the cover inventory or searchable text of the 37-page package; the only G703 references are the standard references on page 3. Parent should cross-check other page review."
+      },
+      {
+        "pages": [
+          3
+        ],
+        "status": "visually_present",
+        "topic": "G702 execution",
+        "detail": "Contractor signature appears on By line; dated 11/5/2026. Notarial text, apparent notary signature and seal name Jeffrey Jordan Howe, Bucks County, Pennsylvania, commission expires September 30, 2027. Architect field is blank and no architect certification/signature is shown on this page. Authenticity and any contractual need for architect approval were not assessed."
+      },
+      {
+        "pages": [
+          3
+        ],
+        "status": "contractor_assertion",
+        "topic": "Completion certification",
+        "detail": "G702 claims total completed/stored and earned $521,026.69, retainage $0 and balance to finish $0. These are Carney's certification figures and do not independently establish completion of outstanding checklist/warranty/HVAC issues."
+      },
+      {
+        "pages": [
+          4
+        ],
+        "status": "visually_present",
+        "topic": "Carney conditional final waiver",
+        "detail": "Conditional waiver upon final payment is present, identifies Carney, Smash District LLC, Everett street address, $52,184.44 final payment, $521,026.69 total contract and $468,842.25 prior payments unconditionally released. Apparent signature over printed Michael Carney, President; dated November 5, 2026; notary signature/seal and November 5, 2026 acknowledgment present."
+      },
+      {
+        "pages": [
+          4
+        ],
+        "status": "wording_to_note",
+        "topic": "Conditional payment mechanism",
+        "detail": "Waiver says it becomes effective upon receipt of a check and when the endorsed check is paid by the bank. It does not expressly mention ACH/wire. This is a literal wording observation, not a conclusion on enforceability."
+      },
+      {
+        "pages": [
+          1,
+          4
+        ],
+        "status": "reported_not_independently_verified",
+        "topic": "Subcontractor payment status",
+        "detail": "Cover states all subcontractors have been reported paid in full by Carney. Page 4 certifies labor/laborers paid to its referred date. Neither is a detailed sub/supplier contract-total, paid-to-date and remaining-balance ledger. Other waiver pages are separately reviewed."
+      },
+      {
+        "pages": [
+          4
+        ],
+        "status": "not_found_in_reviewed_pages",
+        "topic": "Post-payment closeout commitment",
+        "detail": "No separate explicit promise to deliver a new unconditional final release after cleared final payment is stated in pages 1-4. Current conditional release says it becomes unconditional when its payment condition is satisfied."
+      }
+    ],
+    "six_request_assessment": {
+      "item_3_final_reconciliation": "Substantially supplied at summary level; still needs latest CO itemized receipts/supplier-sub invoices, credit clarification, and payment-received ledger if requested. Arithmetic is internally consistent.",
+      "item_4_lien_documents": "Carney conditional final waiver visibly present and executed/notarized; all-sub-paid assertion present. Sub/supplier payment ledger and individual-release completeness require other-page review. Do not mark all requirements fulfilled solely from cover statement."
+    }
+  },
+  "waiver_audit": {
+    "audit_date": "2026-11-17",
+    "scope": "Factual review of PDF pages 5–34; no legal enforceability or signature-authenticity conclusions.",
+    "source": {
+      "path": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/iSMASH_Everett_Closeout_Revised_Final.pdf",
+      "bytes": 2260677,
+      "sha256": "daaf7a4c8119309c9d37bd48e57091ff0ad11dfe3dda09966922bd35ad55bd25",
+      "page_count": 37
+    },
+    "method": {
+      "text_extraction": "Existing pypdf per-page extraction cross-checked against rendered images. Page 6 is image-only; its contents read visually.",
+      "visual_review_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "render_resolution_dpi": 110,
+      "renders_prefix": "/private/tmp/ismash_closeout_review_20261117/waiver-"
+    },
+    "key_findings": [
+      "The corrected packet contains an Onesta signed/notarized unconditional final-application waiver stating $433,979.97 on page 6, dated November 16, 2026. Page 5 is an earlier October 28 version without an Amount Paid value visible.",
+      "Page 23 adds Omni Mechanical Inc. signed/notarized unconditional final-application waiver stating $41,578.01, dated November 16, 2026.",
+      "27 historical progress-payment waiver forms, covering 10 named subcontractors, total $195,455.26. These are not 27 different subcontractors or 27 final releases.",
+      "26 of those progress forms are unconditional. Omni page 21 ($28,200.34, October 2 effective date) is conditional on actual receipt and clearance. The later November 16 Omni unconditional form states the cumulative $41,578.01 matching all three Omni progress amounts.",
+      "All 27 progress forms expressly exclude retention and items furnished after their stated effective date. Effective dates span April 6 to October 19, 2026. The packet print date October 19 is not the effective coverage date.",
+      "Nine named downstream parties have only progress forms in these pages. A complete project-wide party roster, current balances/retention ledger, and final-release arrangements cannot be verified from these waiver pages alone.",
+      "Do not add the newer Omni $41,578.01 to the $195,455.26 historical progress sum; it is cumulative overlap. Do not treat Onesta $433,979.97 and downstream waiver amounts as independent owner payments.",
+      "All pages 5–34 show signature marks. This audit confirms visible marks and stated signers/dates, not authenticity, signing authority, notarization validity or legal effect."
+    ],
+    "final_application_style_waivers": [
+      {
+        "page": 5,
+        "party": "Onesta General Contracting",
+        "owner": "Smash District, LLC",
+        "amount_paid": null,
+        "date": "2026-10-28",
+        "printed_name_title": "Tyson Ferreira, CEO",
+        "signature_visible": true,
+        "notary_signature_stamp_visible": true,
+        "notary_name": "Kira Wohlfeil",
+        "county": "King",
+        "state": "Washington",
+        "notary_commission": "26009997",
+        "notary_expiry": "2030-04-06",
+        "notes": [
+          "Earlier version; amount-paid label/value not present despite body referring to Amount Paid.",
+          "Title says unconditional waiver for FINAL application. Body releases previously furnished work paid for as shown above.",
+          "No separate paid-through date, zero-balance amount or retention amount shown."
+        ]
+      },
+      {
+        "page": 6,
+        "party": "Onesta General Contracting",
+        "owner": "Smash District, LLC",
+        "amount_paid": "433979.97",
+        "date": "2026-11-16",
+        "printed_name_title": "Tyson Ferreira, CEO",
+        "signature_visible": true,
+        "notary_signature_stamp_visible": true,
+        "notary_name": "Kira Wohlfeil",
+        "county": "King",
+        "state": "Washington",
+        "notary_commission": "26009997",
+        "notary_expiry": "2030-04-06",
+        "notes": [
+          "Image-only PDF page; visually read.",
+          "Printed month October is crossed out and November handwritten; day 16 and year 2026 visible.",
+          "Newer version includes amount paid; no explicit statement that it supersedes page 5.",
+          "Description refers to general contracting services through project completion and closeout.",
+          "No separate paid-through date, zero-balance amount or retention amount shown."
+        ]
+      },
+      {
+        "page": 23,
+        "party": "Omni Mechanical Inc.",
+        "owner": "Smash District, LLC",
+        "amount_paid": "41578.01",
+        "date": "2026-11-16",
+        "printed_name": "Thomas Mitchell",
+        "title_field": "not filled separately",
+        "signature_visible": true,
+        "notary_signature_stamp_visible": true,
+        "notary_name": "Joyce Aguilar III",
+        "county": "blank",
+        "state_field": "blank; stamp says State of Washington",
+        "notary_license": "25017029",
+        "notary_expiry": "2029-03-05",
+        "notes": [
+          "Title says unconditional waiver for FINAL application.",
+          "Description HVAC Mechanical.",
+          "Body names payments from CarneyContracting, Smash District LLC or any Subcontractor.",
+          "Notary signature and stamp visible; county and state text fields blank.",
+          "General Contractor Payment Application No. blank.",
+          "No separate paid-through date, zero-balance amount or retention amount shown.",
+          "Extracted text includes residual 2078.90$ and blank-looking fields; rendered visible amount is $41,578.01.",
+          "Amount equals pages 20,21,22 combined: $11,298.77 + $28,200.34 + $2,078.90."
+        ]
+      }
+    ],
+    "progress_summary": {
+      "forms": 27,
+      "distinct_named_parties": 10,
+      "total_amount": "195455.26",
+      "unconditional_progress_forms": 26,
+      "unconditional_progress_amount": "167254.92",
+      "conditional_progress_forms": 1,
+      "conditional_progress_amount": "28200.34",
+      "earliest_effective_date": "2026-04-06",
+      "latest_effective_date": "2026-10-19",
+      "blank_total_paid_on_job_fields": 21,
+      "party_totals": [
+        {
+          "party": "Alexander's Electric",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "progress_amount_sum": "38285.00",
+          "latest_progress_effective_date": "2026-10-14",
+          "final_style_unconditional_in_packet": false
+        },
+        {
+          "party": "Wild Flowers Construction LLC",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "progress_amount_sum": "51247.00",
+          "latest_progress_effective_date": "2026-09-02",
+          "final_style_unconditional_in_packet": false
+        },
+        {
+          "party": "Omni Mechanical Inc",
+          "pages": [
+            20,
+            21,
+            22
+          ],
+          "progress_amount_sum": "41578.01",
+          "latest_progress_effective_date": "2026-10-15",
+          "final_style_unconditional_in_packet": true
+        },
+        {
+          "party": "Tony's Remodeling & Painting LLC",
+          "pages": [
+            24,
+            25,
+            26
+          ],
+          "progress_amount_sum": "11700.00",
+          "latest_progress_effective_date": "2026-10-16",
+          "final_style_unconditional_in_packet": false
+        },
+        {
+          "party": "Emerald City Shot Blasting",
+          "pages": [
+            27,
+            28
+          ],
+          "progress_amount_sum": "18500.00",
+          "latest_progress_effective_date": "2026-09-03",
+          "final_style_unconditional_in_packet": false
+        },
+        {
+          "party": "Acoustical Ceiling Systems, Inc",
+          "pages": [
+            29,
+            30
+          ],
+          "progress_amount_sum": "16620.25",
+          "latest_progress_effective_date": "2026-09-04",
+          "final_style_unconditional_in_packet": false
+        },
+        {
+          "party": "TAP Demolition NW LLC",
+          "pages": [
+            31
+          ],
+          "progress_amount_sum": "12500.00",
+          "latest_progress_effective_date": "2026-04-06",
+          "final_style_unconditional_in_packet": false
+        },
+        {
+          "party": "Insulation NW (Commercial)",
+          "pages": [
+            32
+          ],
+          "progress_amount_sum": "2250.00",
+          "latest_progress_effective_date": "2026-08-13",
+          "final_style_unconditional_in_packet": false
+        },
+        {
+          "party": "J and S Plumbing LLC",
+          "pages": [
+            33
+          ],
+          "progress_amount_sum": "2400.00",
+          "latest_progress_effective_date": "2026-10-19",
+          "final_style_unconditional_in_packet": false
+        },
+        {
+          "party": "Ecology Cleaning Services",
+          "pages": [
+            34
+          ],
+          "progress_amount_sum": "375.00",
+          "latest_progress_effective_date": "2026-10-13",
+          "final_style_unconditional_in_packet": false
+        }
+      ]
+    },
+    "progress_records": [
+      {
+        "page": 7,
+        "party": "Alexander's Electric",
+        "type": "unconditional progress",
+        "released_date": "Aug 7, 2026",
+        "effective_date": "Aug 7, 2026",
+        "payment_amount": "1240.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0014 - PO-iSmash-0014 - Electrical Permit -1",
+        "signed_date_time": "Aug 7, 2026, 3:11 PM",
+        "approved_by": "Alexander Korolenko / Its Alexanders inc.",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-08-07"
+      },
+      {
+        "page": 8,
+        "party": "Alexander's Electric",
+        "type": "unconditional progress",
+        "released_date": "Jul 17, 2026",
+        "effective_date": "Jul 20, 2026",
+        "payment_amount": "6500.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0004 - PO-iSmash-0004 - Electrical -4",
+        "signed_date_time": "Jul 20, 2026, 1:42 PM",
+        "approved_by": "Alexander Korolenko / Its Alexanders inc.",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-07-20"
+      },
+      {
+        "page": 9,
+        "party": "Alexander's Electric",
+        "type": "unconditional progress",
+        "released_date": "Jun 26, 2026",
+        "effective_date": "Jun 26, 2026",
+        "payment_amount": "6000.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0004 - PO-iSmash-0004 - Electrical -3",
+        "signed_date_time": "Jun 26, 2026, 1:12 PM",
+        "approved_by": "Alexander Korolenko / Its Alexanders inc.",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-06-26"
+      },
+      {
+        "page": 10,
+        "party": "Alexander's Electric",
+        "type": "unconditional progress",
+        "released_date": "Jun 3, 2026",
+        "effective_date": "Jun 3, 2026",
+        "payment_amount": "10335.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0004 - PO-iSmash-0004 - Electrical -1",
+        "signed_date_time": "Jun 3, 2026, 12:39 PM",
+        "approved_by": "Alexander Korolenko / Its Alexanders inc.",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-06-03"
+      },
+      {
+        "page": 11,
+        "party": "Alexander's Electric",
+        "type": "unconditional progress",
+        "released_date": "Sep 25, 2026",
+        "effective_date": "Sep 28, 2026",
+        "payment_amount": "5615.00",
+        "total_paid_on_job_field": "24075.00",
+        "reference": "PO-iSmash-0004 - PO-iSmash-0004 - Electrical -6",
+        "signed_date_time": "Sep 28, 2026, 4:54 PM",
+        "approved_by": "alexander / Its korolenko",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-09-28"
+      },
+      {
+        "page": 12,
+        "party": "Alexander's Electric",
+        "type": "unconditional progress",
+        "released_date": "Aug 28, 2026",
+        "effective_date": "Oct 7, 2026",
+        "payment_amount": "6000.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0004 - PO-iSmash-0004 - Electrical -5",
+        "signed_date_time": "Oct 7, 2026, 4:37 PM",
+        "approved_by": "alexander / Its korolenko",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-10-07"
+      },
+      {
+        "page": 13,
+        "party": "Alexander's Electric",
+        "type": "unconditional progress",
+        "released_date": "Oct 14, 2026",
+        "effective_date": "Oct 14, 2026",
+        "payment_amount": "920.00",
+        "total_paid_on_job_field": "35690.00",
+        "reference": "PO-iSmash-0018 - PO-iSmash-0018 - Outlets for TVs-1",
+        "signed_date_time": "Oct 14, 2026, 12:11 PM",
+        "approved_by": "alexander / Its korolenko",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-10-14"
+      },
+      {
+        "page": 14,
+        "party": "Alexander's Electric",
+        "type": "unconditional progress",
+        "released_date": "Oct 14, 2026",
+        "effective_date": "Oct 14, 2026",
+        "payment_amount": "1675.00",
+        "total_paid_on_job_field": "35690.00",
+        "reference": "PO-iSmash-0016 - PO-iSmash-0016 - Add'l Lights-1",
+        "signed_date_time": "Oct 14, 2026, 12:14 PM",
+        "approved_by": "alexander / Its korolenko",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-10-14"
+      },
+      {
+        "page": 15,
+        "party": "Wild Flowers Construction LLC",
+        "type": "unconditional progress",
+        "released_date": "Sep 2, 2026",
+        "effective_date": "Sep 2, 2026",
+        "payment_amount": "11250.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0010 - PO-iSmash-0010 - Framing & GWB -4",
+        "signed_date_time": "Sep 2, 2026, 11:58 AM",
+        "approved_by": "Miguel Perez / Its Owner",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-09-02"
+      },
+      {
+        "page": 16,
+        "party": "Wild Flowers Construction LLC",
+        "type": "unconditional progress",
+        "released_date": "Aug 12, 2026",
+        "effective_date": "Aug 17, 2026",
+        "payment_amount": "9997.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0015 - PO-iSmash-0015 - RFI 0013 Structural Steel I",
+        "signed_date_time": "Aug 17, 2026, 10:55 AM",
+        "approved_by": "Miguel Perez / Its Owner",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-08-17"
+      },
+      {
+        "page": 17,
+        "party": "Wild Flowers Construction LLC",
+        "type": "unconditional progress",
+        "released_date": "Jul 31, 2026",
+        "effective_date": "Jul 31, 2026",
+        "payment_amount": "10000.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0010 - PO-iSmash-0010 - Framing & GWB -3",
+        "signed_date_time": "Jul 31, 2026, 6:47 PM",
+        "approved_by": "Miguel Perez / Its Owner",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-07-31"
+      },
+      {
+        "page": 18,
+        "party": "Wild Flowers Construction LLC",
+        "type": "unconditional progress",
+        "released_date": "Jul 17, 2026",
+        "effective_date": "Jul 31, 2026",
+        "payment_amount": "10000.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0010 - PO-iSmash-0010 - Framing & GWB -2",
+        "signed_date_time": "Jul 31, 2026, 6:46 PM",
+        "approved_by": "Miguel Perez / Its owner",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-07-31"
+      },
+      {
+        "page": 19,
+        "party": "Wild Flowers Construction LLC",
+        "type": "unconditional progress",
+        "released_date": "Jun 19, 2026",
+        "effective_date": "Jun 22, 2026",
+        "payment_amount": "10000.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0010 - PO-iSmash-0010 - Framing & GWB -1",
+        "signed_date_time": "Jun 22, 2026, 7:29 PM",
+        "approved_by": "Miguel Perez / Its Owner",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-06-22"
+      },
+      {
+        "page": 20,
+        "party": "Omni Mechanical Inc",
+        "type": "unconditional progress",
+        "released_date": "Aug 28, 2026",
+        "effective_date": "Aug 28, 2026",
+        "payment_amount": "11298.77",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0003 - PO-iSmash-0003 - HVAC -2",
+        "signed_date_time": "Aug 28, 2026, 6:52 PM",
+        "approved_by": "Thomas Mitchell / Its President",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-08-28"
+      },
+      {
+        "page": 21,
+        "party": "Omni Mechanical Inc",
+        "type": "conditional progress",
+        "released_date": "Oct 2, 2026",
+        "effective_date": "Oct 2, 2026",
+        "payment_amount": "28200.34",
+        "total_paid_on_job_field": "11298.77",
+        "reference": "PO-iSmash-0003 - PO-iSmash-0003 - HVAC -1",
+        "signed_date_time": "Oct 2, 2026, 7:10 PM",
+        "approved_by": "Thomas Mitchell / Its President",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-10-02"
+      },
+      {
+        "page": 22,
+        "party": "Omni Mechanical Inc",
+        "type": "unconditional progress",
+        "released_date": "Oct 15, 2026",
+        "effective_date": "Oct 15, 2026",
+        "payment_amount": "2078.90",
+        "total_paid_on_job_field": "16298.77",
+        "reference": "PO-iSmash-0003 - PO-iSmash-0003 - HVAC -3",
+        "signed_date_time": "Oct 15, 2026, 4:53 PM",
+        "approved_by": "Thomas Mitchell / Its President",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-10-15"
+      },
+      {
+        "page": 24,
+        "party": "Tony's Remodeling & Painting LLC",
+        "type": "unconditional progress",
+        "released_date": "Oct 15, 2026",
+        "effective_date": "Oct 16, 2026",
+        "payment_amount": "8910.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0001 - PO-iSmash-0001 - Painting -1",
+        "signed_date_time": "Oct 16, 2026, 10:54 AM",
+        "approved_by": "Antonio Roman / Its Owner",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-10-16"
+      },
+      {
+        "page": 25,
+        "party": "Tony's Remodeling & Painting LLC",
+        "type": "unconditional progress",
+        "released_date": "Oct 15, 2026",
+        "effective_date": "Oct 16, 2026",
+        "payment_amount": "1800.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-98440121030828 - 2026.08.21 Tony's Remodeling $1800.00",
+        "signed_date_time": "Oct 16, 2026, 10:57 AM",
+        "approved_by": "Antonio Roman / Its Owner",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-10-16"
+      },
+      {
+        "page": 26,
+        "party": "Tony's Remodeling & Painting LLC",
+        "type": "unconditional progress",
+        "released_date": "Oct 15, 2026",
+        "effective_date": "Oct 16, 2026",
+        "payment_amount": "990.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0001 - PO-iSmash-0001 - Painting -2",
+        "signed_date_time": "Oct 16, 2026, 10:56 AM",
+        "approved_by": "Antonio Roman / Its Owner",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-10-16"
+      },
+      {
+        "page": 27,
+        "party": "Emerald City Shot Blasting",
+        "type": "unconditional progress",
+        "released_date": "Apr 6, 2026",
+        "effective_date": "Apr 9, 2026",
+        "payment_amount": "3500.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0013 - PO-iSmash-0013 - Scraping Existing flooring Condi",
+        "signed_date_time": "Apr 9, 2026, 4:28 PM",
+        "approved_by": "Kathleen Willis / Its Office Manager",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-04-09"
+      },
+      {
+        "page": 28,
+        "party": "Emerald City Shot Blasting",
+        "type": "unconditional progress",
+        "released_date": "Aug 19, 2026",
+        "effective_date": "Sep 3, 2026",
+        "payment_amount": "15000.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0011 - PO-iSmash-0011 - Polished Concrete-1",
+        "signed_date_time": "Sep 3, 2026, 1:55 PM",
+        "approved_by": "Kathleen Willis / Its Office Manager",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-09-03"
+      },
+      {
+        "page": 29,
+        "party": "Acoustical Ceiling Systems, Inc",
+        "type": "unconditional progress",
+        "released_date": "Jun 26, 2026",
+        "effective_date": "Jun 26, 2026",
+        "payment_amount": "8310.60",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0002 - PO-iSmash-0002 - ACT -1",
+        "signed_date_time": "Jun 26, 2026, 4:00 PM",
+        "approved_by": "Sarah Halbakken / Its Office Manager",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-06-26"
+      },
+      {
+        "page": 30,
+        "party": "Acoustical Ceiling Systems, Inc",
+        "type": "unconditional progress",
+        "released_date": "Jul 10, 2026",
+        "effective_date": "Sep 4, 2026",
+        "payment_amount": "8309.65",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0002 - PO-iSmash-0002 - ACT -2",
+        "signed_date_time": "Sep 4, 2026, 3:24 PM",
+        "approved_by": "Sarah Halbakken on 9/4/2026 / Its Office Manager",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-09-04"
+      },
+      {
+        "page": 31,
+        "party": "TAP Demolition NW LLC",
+        "type": "unconditional progress",
+        "released_date": "Apr 6, 2026",
+        "effective_date": "Apr 6, 2026",
+        "payment_amount": "12500.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0007 - 2026.03.02 Tap Demo $12500.00",
+        "signed_date_time": "Apr 6, 2026, 8:21 AM",
+        "approved_by": "Felicia Zaffiro / Its Tap Demolition NW",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-04-06"
+      },
+      {
+        "page": 32,
+        "party": "Insulation NW (Commercial)",
+        "type": "unconditional progress",
+        "released_date": "Aug 13, 2026",
+        "effective_date": "Aug 13, 2026",
+        "payment_amount": "2250.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0005 - PO-iSmash-0005 - Insulation -1",
+        "signed_date_time": "Aug 13, 2026, 1:23 PM",
+        "approved_by": "Annarosa Diaz / Its Project Administrator",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-08-13"
+      },
+      {
+        "page": 33,
+        "party": "J and S Plumbing LLC",
+        "type": "unconditional progress",
+        "released_date": "Oct 19, 2026",
+        "effective_date": "Oct 19, 2026",
+        "payment_amount": "2400.00",
+        "total_paid_on_job_field": "2400.00",
+        "reference": "PO-iSmash-2448 - 2026.07.16 J and S Plumbing $2400.00",
+        "signed_date_time": "Oct 19, 2026, 11:22 AM",
+        "approved_by": "Jack Ervien / Its owner",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-10-19"
+      },
+      {
+        "page": 34,
+        "party": "Ecology Cleaning Services",
+        "type": "unconditional progress",
+        "released_date": "Oct 12, 2026",
+        "effective_date": "Oct 13, 2026",
+        "payment_amount": "375.00",
+        "total_paid_on_job_field": null,
+        "reference": "PO-iSmash-0566 - 2026.08.24 Ecology Cleaning Services $375.00",
+        "signed_date_time": "Oct 13, 2026, 11:24 AM",
+        "approved_by": "carmen D Nunez / Its Owner",
+        "printed_date": "Oct 19, 2026",
+        "signature_mark_visible": true,
+        "render_visually_reviewed": true,
+        "retention_excluded": true,
+        "items_after_effective_date_excluded": true,
+        "effective_date_iso": "2026-10-13"
+      }
+    ],
+    "duplication_and_reconciliation_notes": [
+      {
+        "pages": [
+          5,
+          6
+        ],
+        "note": "Two different-date Onesta versions, not two separate payments to be summed."
+      },
+      {
+        "pages": [
+          20,
+          21,
+          22,
+          23
+        ],
+        "note": "Newer Omni final-application amount equals three historical progress amounts; cumulative overlap, not additional payment."
+      },
+      {
+        "pages": [
+          17,
+          18
+        ],
+        "note": "Both Wild Flowers $10,000 and effective July31; distinct installment references Framing & GWB -3 and -2, different released dates and signatures at 6:47/6:46 PM. No basis to label as accidental duplicate solely from matching amounts/date."
+      },
+      {
+        "pages": [
+          11,
+          13,
+          14
+        ],
+        "note": "Alexander total-paid fields appear prior-payment cumulative amounts, not amounts to add separately. Pages13 and14 each show $35,690 before current $920/$1,675 payments."
+      },
+      {
+        "pages": [
+          21,
+          22,
+          23
+        ],
+        "note": "Omni historical p22 total-paid-on-job field is $16,298.77, which is not $39,499.11 (p20+p21); requires ledger explanation if relying on intermediate accounting. Later p23 states $41,578.01 unconditionally. Do not infer unpaid current balance solely from historical field."
+      },
+      {
+        "pages": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34
+        ],
+        "note": "No page-image duplicate identified from visual review. Repeated boilerplate is expected; different releases and cumulative versions preserved."
+      }
+    ],
+    "pending_checklist_implications": {
+      "item_4_releases": "Meaningfully advanced: Onesta amount stated and new Omni final-application unconditional are present; Carney page4 reviewed separately by parent. Still verify current complete paid/unpaid roster and any outstanding balances.",
+      "item_5_all_parties_final_releases": "Partially documented: 10 downstream names, 27 historical progress forms plus one new Omni final-application release. Current final/retention/later-work coverage for other nine not demonstrated by these pages; roster completeness not established."
+    }
+  },
+  "form_followups": [
+    {
+      "page": 2,
+      "issue": "Invoice says TAX NOT INCLUDED; clarify whether any additional tax is being claimed."
+    },
+    {
+      "page": 3,
+      "issue": "PERIOD TO9/22/27 is future-dated; CONTRACT DATE10/27/2026 needs confirmation against executed agreement."
+    },
+    {
+      "page": 3,
+      "issue": "G703 described as attached but no G703 appears in37-page inventory."
+    },
+    {
+      "page": 3,
+      "issue": "G702 claims full completion, zero retainage and zero balance to finish; reconcile with acknowledged remaining punch items. These figures do not independently verify physical completion."
+    },
+    {
+      "page": 4,
+      "issue": "Final waiver condition refers to cleared check, not expressly ACH."
+    }
+  ],
+  "preservation": "Earlier checklist/snapshots and PDF source retained; review saved separately. No email sent, payment authorized, signature applied or final acceptance made.",
+  "derived_files": {
+    "extracted_text.txt": {
+      "path": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/closeout_review/extracted_text.txt",
+      "sha256": "9380b9e491d735ed4231ab495de01205549970f8e59aad7c92f2a59f831ffacb",
+      "bytes": 54577
+    },
+    "waiver_audit.json": {
+      "path": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/closeout_review/waiver_audit.json",
+      "sha256": "63970a1d52f80338f899372f7cb099719a211857b770d913fff248ce6b965072",
+      "bytes": 30120
+    },
+    "financial_audit.json": {
+      "path": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/closeout_review/financial_audit.json",
+      "sha256": "0c1936657cf315c0e75bd719040e5a41022a1631d61f15c6c0c7072458ea8aad",
+      "bytes": 7703
+    },
+    "extracted_pages.json": {
+      "path": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/closeout_review/extracted_pages.json",
+      "sha256": "38d40c0d92ef7e5c99b1e0765475bac6621966c3386b013574895672385ed68e",
+      "bytes": 56480
+    }
+  }
+}

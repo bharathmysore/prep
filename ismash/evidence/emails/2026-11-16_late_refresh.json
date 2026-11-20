@@ -1,0 +1,891 @@
+{
+  "title": "iSmash Everett late email refresh — November 16, 2026, 11:14 PM PST",
+  "source": "Microsoft Outlook Email connector; read-only list/search, full-body retrieval and attachments",
+  "capture_started_at_utc": "2026-11-17T07:12:08Z",
+  "captured_at_utc": "2026-11-17T07:14:08Z",
+  "display_timezone": "America/Los_Angeles",
+  "previous_refresh_cutoff_utc": "2026-11-16T22:08:59Z",
+  "previous_snapshot": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-16_refresh.json",
+  "preserved_baseline": {
+    "previous_snapshot_bytes": 1951817,
+    "previous_snapshot_sha256": "9c576d0023ec44a0697ea9b69c41c3fcb8934d041f5a4a6d2e2046199d36a083",
+    "conversation_log_prefix_bytes": 441018,
+    "conversation_log_prefix_sha256": "62ae21d568514b6d41880c8a7e78d56fd6b04a85f1ebf907dc78e829068df068"
+  },
+  "message_count": 3,
+  "owner_sent_count": 1,
+  "business_received_count": 2,
+  "new_draft_count": 2,
+  "existing_context_draft_count": 1,
+  "draft_count": 3,
+  "recent_mail_audit": {
+    "filter": "receivedDateTime gt 2026-11-16T22:08:59Z and receivedDateTime le 2026-11-17T07:12:08Z",
+    "count": 63,
+    "pages": [
+      {
+        "skip": 0,
+        "count": 39,
+        "has_more": true,
+        "next_from_index": 39,
+        "matched_ids": [
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIMAAAAA=="
+        ]
+      },
+      {
+        "skip": 39,
+        "count": 24,
+        "has_more": false,
+        "next_from_index": null,
+        "matched_ids": [
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAA==",
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEKAAAARPm-s742-kq1G05hoJ2zSAAJgJIsCAAAAA==",
+          "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACYCS5aoAAAA="
+        ]
+      }
+    ]
+  },
+  "query_count": 10,
+  "query_audit": [
+    {
+      "query": "ismashfranchise.com received>=2026-11-16",
+      "from_index": 0,
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null
+    },
+    {
+      "query": "motionpg.com received>=2026-11-16",
+      "from_index": 0,
+      "count": 4,
+      "has_more": false,
+      "next_from_index": null
+    },
+    {
+      "query": "quaintoak.com received>=2026-11-16",
+      "from_index": 0,
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null
+    },
+    {
+      "query": "nwprime.com received>=2026-11-16",
+      "from_index": 0,
+      "count": 0,
+      "has_more": false,
+      "next_from_index": null
+    },
+    {
+      "query": "everettwa.gov received>=2026-11-16",
+      "from_index": 0,
+      "count": 0,
+      "has_more": false,
+      "next_from_index": null
+    },
+    {
+      "query": "iSmash received>=2026-11-16",
+      "from_index": 0,
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null
+    },
+    {
+      "query": "carneycontracting.com received>=2026-11-16",
+      "from_index": 0,
+      "size": 25,
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null
+    },
+    {
+      "query": "onestallc.com received>=2026-11-16",
+      "from_index": 0,
+      "size": 25,
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null
+    },
+    {
+      "query": "subject:\"Final Invoice\" received>=2026-11-16",
+      "from_index": 0,
+      "size": 25,
+      "count": 2,
+      "has_more": false,
+      "next_from_index": null
+    },
+    {
+      "query": "subject:\"Punch Walk\" received>=2026-11-16",
+      "from_index": 0,
+      "size": 25,
+      "count": 0,
+      "has_more": false,
+      "next_from_index": null
+    }
+  ],
+  "independent_review": {
+    "path": "/private/tmp/ismash_nov16_late_carney.json",
+    "sha256": "edf7cbf9ad9594db7542b9fc8eca4f309892168249240406a147c704155b50d9",
+    "message_count": 1,
+    "full_body_used": true
+  },
+  "final_incremental_search_check": {
+    "start_utc": "2026-11-17T07:12:08Z",
+    "end_utc": "2026-11-17T07:14:08Z",
+    "count": 1,
+    "has_more": false,
+    "new_actual_project_messages": 0,
+    "new_drafts": 1
+  },
+  "draft_status_check": {
+    "filter": "isDraft eq true",
+    "count": 9,
+    "has_more": false,
+    "archived_relevant_ids": [
+      "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAA==",
+      "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEKAAAARPm-s742-kq1G05hoJ2zSAAJgJIsCAAAAA==",
+      "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJfFPGFwAAAA=="
+    ],
+    "note": "Unrelated and older unchanged drafts excluded."
+  },
+  "messages": [
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIMAAAAA==",
+        "subject": "Re: Final Invoice and Billing  (NEW INVOICE 11.5.2026)",
+        "body": {
+          "contentType": "html",
+          "content": "Hi Bharath,\n\nFollowing up on your request, please find attached the available closeout\ndocumentation for the iSMASH Everett project.\n\nThe package includes:\n\n  1. **Final Invoice and Payment Application:**  Invoice #5 for $52,184.44, including the AIA G702 showing the original contract value, approved change orders, previous payment certificates, and remaining balance.\n\n  2. **Carney Conditional Final Lien Waiver:**  Covering the outstanding final payment of $52,184.44.\n\n  3. **Onesta Unconditional Final Lien Waiver:**  Signed and notarized, confirming $433,979.97 in payments received.\n\n  4. **Subcontractor Lien Waivers:**  27 waivers documenting $195,455.26 in subcontractor payments.\n\n  5. **HVAC Air Balance Report:**  Omni Mechanical's June 8, 2026 report documenting airflow testing and balancing throughout the facility.\n\nThe updated punch list was sent last week.\n\nWe balanced the working Hvac unit and attached it\n\nOur final payment application reflects a total contract value of $521,026.69,\nwith $468,842.25 in previous payment certificates and a final balance of\n$52,184.44.\n\nPlease send payment per our contract at CO and we will schedule the final few\nitems.\n\nThank you,\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Monday, November 16, 2026 1:26 PM  \n**To:** Jeff Howe <jeff@carneycontracting.com>; Troy Fink\n<troy@carneycontracting.com>  \n**Cc:** Michael Carney <mcarney@carneycontracting.com>  \n**Subject:** Re: Final Invoice and Billing (NEW INVOICE 11.5.2026)\n\n\n\n[_@Jeff Howe_](mailto:jeff@carneycontracting.com)[ _@Troy\nFink_](mailto:troy@carneycontracting.com)\n\nWanted to followup on the pending items to be closed.\n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Monday, November 9, 2026 12:26 PM  \n**To:** Jeff Howe <jeff@carneycontracting.com>  \n**Cc:** Troy Fink <troy@carneycontracting.com>; Michael Carney\n<mcarney@carneycontracting.com>  \n**Subject:** Re: Final Invoice and Billing (NEW INVOICE 11.5.2026)\n\n\n\nHi Jeff, Troy, and Michael,\n\nThank you for sending the final invoice for $52,184.44. I am reviewing it and\nwould like to coordinate the remaining work and closeout documentation.\n\n  \n\nPlease provide the following:\n\n  1. **Punch-list closeout.**  Thank you, Troy, for providing the updated punch-list dates. Please confirm which scheduled items have now been completed, flag any changes to the dates already provided, and confirm completion dates for any remaining undated items. Please coordinate any work after opening with us to minimize disruption.\n\n  2. **HVAC closeout records.** The immediate HVAC component failures is being looked into. Please provide any diagnostic or service records in Carney’s or Onesta’s possession, any test-and-balance report, and confirmation whether final HVAC adjustment and balancing under Carney’s scope has been completed. If anything remains, please provide the completion date. Last week, i had called out the heat is not balanced. Please have this checked across all the rooms\n\n  3. **Final account reconciliation.**  Please provide a statement showing the original contract amount, approved change orders, payments received, applicable credits, and calculation of the remaining balance. Please also provide the itemized receipts and supplier/subcontractor invoices supporting the latest change order, which I have not yet received.\n\n  4. **Lien documentation.** Please provide Carney’s conditional final lien waiver required under the agreement, together with subcontractor/supplier payment status and available releases for amounts already paid. Please identify any outstanding balances and the arrangements for obtaining the corresponding releases upon payment.\n\n  5. **Lien documentation and final-disbursement process.** Before final disbursement, please provide:\n\n     1. Carney’s conditional final lien waiver under §9.4.1 and Exhibit E;\n\n     2. a final accounting identifying every subcontractor and supplier, amounts paid, and balances remaining;\n\n     3. unconditional lien releases for all amounts already paid; and\n\n     4. conditional final lien waivers from each subcontractor or supplier whose balance will be paid through the final disbursement.\n\nPlease also confirm that, after the final payment clears, Carney will provide\nunconditional final lien releases from Carney, Onesta, and every subcontractor\nor supplier paid through that disbursement. If any party cannot provide the\napplicable waiver or release, please identify that party and amount now so the\nlender can arrange a joint-check or other controlled-payment process.\n\n  6. **Warranty and handover package.** Please provide all written warranties, equipment manuals, applicable inspection/testing records and the Substantial Completion certificate. Please confirm the warranty start/end dates, Carney’s warranty contact and the local contractors who will handle service requests.\n\n  \n\nAfter receiving and reviewing this documentation and confirming the status of\nthe outstanding work, I will coordinate the lender’s final inspection and\npayment process in accordance with our agreement and the lender’s\nrequirements.\n\nReceipt of the Certificate of Occupancy and final invoice does not constitute\nacceptance of unresolved work, approval of the stated balance, confirmation\nthat final payment is presently due, or waiver of any rights or claims.\n\nThanks,  \nBharath\n\n* * *\n\n**From:** Jeff Howe <jeff@carneycontracting.com>  \n**Sent:** Thursday, November 5, 2026 12:16 PM  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Cc:** Troy Fink <troy@carneycontracting.com>; Michael Carney\n<mcarney@carneycontracting.com>  \n**Subject:** Final Invoice and Billing (NEW INVOICE 11.5.2026)\n\n\n\nHi Bharath,  \n  \nAttached is the final Invoice to close out the job.  \n  \n**Invoice amount:    $52,184.44****  \n**  \nPlease let me know if you have questions , concerns or you need the wire info\nagain.  \n  \nThanks\n\nJeffrey\n\n\n\n**Jeffrey Jordan Howe  \n****Carney Contracting Services**\n\n405 Estates Court,  \nNewtown, PA.   18940\n\n**Office: 215-267-6906****  \n****Email:\n**[**_Jeff@Carneycontracting.Com_**](mailto:Jeff@Carneycontracting.Com)\n\n\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, November 4, 2026 8:09 PM  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Michael Carney\n<mcarney@carneycontracting.com>; Jeff Howe <jeff@carneycontracting.com>  \n**Subject:** Re: Punch Walk\n\n\n\nBharath,\n\n\n\nWe appreciate the opportunity to work with you. Congratulations on your CO\n\n\n\n[_@Jeff Howe_](mailto:jeff@carneycontracting.com) , please send final billing.\n\n\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n\n\n* * *\n\n**From:** Tyson Ferreira <[_tyson@onestallc.com_](mailto:tyson@onestallc.com)\n>  \n**Sent:** Wednesday, 04 November 2026 16:03:49  \n**To:** Troy Fink\n<[_troy@carneycontracting.com_](mailto:troy@carneycontracting.com) >; Bharath\nMysore <[_bharathkumarmn@hotmail.com_](mailto:bharathkumarmn@hotmail.com) >;\nScott Laviano\n<[_slaviano@ismashfranchise.com_](mailto:slaviano@ismashfranchise.com) >  \n**Cc:** Robbi Drahos <[_robbi@onestallc.com_](mailto:robbi@onestallc.com) >;\nKira Wohlfeil <[_kira@onestallc.com_](mailto:kira@onestallc.com) >  \n**Subject:** Re: Punch Walk\n\n\n\nTeam,\n\n\n\nPlease see my responses below in Blue.\n\n\n\nThanks\n\n\n\nTyson Ferreira I Founder & CEO\n\nOnesta General Contracting\n\n🏢 253.347.4298 I 📱206.391.4401\n\n703 Industry Drive, Tukwila, WA 98188\n\n[\n_www.onestallc.com_](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.onestallc.com%2F&data=05%7C02%7C%7C49e0359620254f2a205208df444422e0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639304731948207431%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2Bao9yvGnoV4fjKyO4q61TMG9NjuoxyNYRExCXm4%2Bfng%3D&reserved=0)\n\n\n\nStart Strong. Finish Strong.\n\n* * *\n\n**From:** Troy Fink\n<[_troy@carneycontracting.com_](mailto:troy@carneycontracting.com) >  \n**Sent:** Wednesday, November 4, 2026 1:48 PM  \n**To:** Tyson Ferreira <[_tyson@onestallc.com_](mailto:tyson@onestallc.com) >;\nBharath Mysore\n<[_bharathkumarmn@hotmail.com_](mailto:bharathkumarmn@hotmail.com) >; Scott\nLaviano <[_slaviano@ismashfranchise.com_](mailto:slaviano@ismashfranchise.com)\n>  \n**Subject:** Punch Walk\n\n\n\nTyson and Bharath,\n\nBelow is the consolidated list of outstanding punch list items from our\nwalkthrough. The dates noted reflect the completion dates Tyson provided.\nItems without dates still require confirmation of scope, resolution, and\nanticipated completion.\n\n**Event Room**\n\n  * Outlet to the right of TV: Caulk or otherwise finish around outlet. **11/4 DONE**\n  * Electrical panel access sign. **11/4 DONE**\n\n**Smash Room 1**\n\n  * Left steel plate: Second bolt from bottom is loose.\n  * Second steel sheet: Third bolt on right is loose. **11/4 DONE**\n\n**Smash Rooms 1 & 2**\n\n  * Relocate tool racks near steel walls to behind doors. **11/4 DONE**\n\n**Smash Room 2**\n\n  * Outlet near smash wall: Not shown on plans. Confirm why it was installed and associated cost. Replace with blank cover. **11/4 DONE**\n\n**Large Paint Room**\n\n  * Install missing doorstop. **11/4 DONE**\n  * Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.\n\n**Bathroom**\n\n  * Install outlet cover. **11/4 DONE**\n\n**Smash Room 3**\n\n  * Door installed backwards. Correct installation. **_Ordered 11/4 approximately two weeks out_**\n  * Right steel: Third bolt down, third and second bolts from second sheet; second sheet, second bolt down on left. **11/4 DONE**\n  * First steel sheet from right wall is not flush. Correct installation. **DONE**\n\n**Gear Room 2**\n\n  * Install second jumpsuit rack below existing rack. **11/4 DONE**\n  * Replace ceiling tiles. **11/4 DONE**\n  * Touch up door frame. **11/4 DONE  **\n  * Repaint door properly around “Employees Only” sign. **11/4 DONE**\n\n**Paint Cleanup Area**\n\n  * Install cabinet door hardware. **11/5 tomorrow  **\n  * Sink installed is incorrect and undersized. Confirm replacement and timeline. **Here is an option to add one more sink**[** _https://a.co/d/0djnkD4N_**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2F0djnkD4N&data=05%7C02%7C%7C49e0359620254f2a205208df444422e0%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639304731948230735%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=VzObijLpCmID%2Bh75PQG2tkI20ytzpf3wMZYDwc9NVdw%3D&reserved=0)**  please confirm this works for Ismash. **\n  * Complete caulking around motion detector and painting around fire alarm. **11/4 DONE  **\n  * Finish small baseboard section, including trim and FRP. **11/4 DONE**\n\n**Smash Room 4**\n\n  * Touch up door frame. **11/4 DONE**\n  * Correct metal sheet that is not flush. **11/4 DONE**\n\n**Paint Rooms**\n\n  * Remove unnecessary door locks. **11/4 DONE**\n\n**Tools and Gear Rooms**\n\n  * Complete tool mounting installation. **11/4 Owner asked us to hold off on installation today due to it potentially moving to a different location.  **\n  *  \n  * Bats: 2-inch conduit straps\n    * Crowbar: 1-inch conduit straps\n    * Two hooks\n    * Sledgehammer: 1.5-inch conduit straps\n  * Install disposable glove holders in all three gear rooms. **11/4 DONE**\n\n**All Smash Rooms**\n\n  * Ensure all smash wall steel sheets are flush. **11/4 DONE**\n\n**Fire Safety**\n\n  * Provide two new tagged fire extinguishers and required signage. **Monday, 11/9.****Ordered 11/4**\n\n**Additional Outstanding Items**\n\n  * Install soap dispenser.\n  * Install storage room doors.\n  * Remove gate bolts.\n  * Replace three ceiling tiles in storage room.\n  * **These items are all DONE 11/4**\n\nTyson, please confirm which dated items have been completed and provide\nanticipated completion dates for everything remaining. For any items requiring\nclarification or a change in scope, please identify those separately.\n\nBharath, please review this list and advise if anything discussed during the\nwalkthrough has been omitted. Our goal is to establish one consolidated list,\nclose out the remaining work, and avoid additional items being introduced\nafter completion.\n\nThank you.\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n\n\n"
+        },
+        "bodyPreview": "Hi Bharath,\r\n\r\nFollowing up on your request, please find attached the available closeout documentation for the iSMASH Everett project.\r\n\r\nThe package includes:\r\n\r\n  1.  Final Invoice and Payment Application: Invoice #5 for $52,184.44, including the AIA G7",
+        "sender": {
+          "emailAddress": {
+            "address": "troy@carneycontracting.com",
+            "name": "Troy Fink"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "bharathkumarmn@hotmail.com",
+              "name": "Bharath Mysore"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "jeff@carneycontracting.com",
+              "name": "Jeff Howe"
+            }
+          }
+        ],
+        "ccRecipients": [
+          {
+            "emailAddress": {
+              "address": "mcarney@carneycontracting.com",
+              "name": "Michael Carney"
+            }
+          }
+        ],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-17T00:46:35Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": true,
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJIIMAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJIIMAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Re: Final Invoice and Billing  (NEW INVOICE 11.5.2026)"
+      },
+      "queries": [
+        "interval_scan",
+        "ismashfranchise.com received>=2026-11-16",
+        "iSmash received>=2026-11-16"
+      ],
+      "full_body_fetched_by_independent_review": true,
+      "is_draft": false,
+      "record_id": "E001",
+      "classification": "business_received"
+    },
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAA==",
+        "subject": "Re: Store opening on Nov-13",
+        "body": {
+          "contentType": "html",
+          "content": "Hi Ro,\n\nI have uploaded document and invoices. Upto to last week 1105 - will be\nuploadind rest of the invoices over this week.\n\n  \n\nRelated to the below, can you give me details on what to be included and their\nvalue\n\n  * Evidence of Business Interruption Insurance\n  * Evidence of Business Personal Property Insurance\n  * Evidence of Worker’s Compensation Insurance\n\n  \n\n* * *\n\n**From:** Rosemarie Moran <RMoran@quaintoak.com>  \n**Sent:** Monday, November 9, 2026 11:19 AM  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Steven Willard\n<swillard@quaintoak.com>  \n**Subject:** RE: Store opening on Nov-13\n\n\n\nGood afternoon Bharath\n\n\n\nBelow is what will be needed\n\n\n\n  * Copy of the CO\n  * Final Inspection (let me know when I can order)\n  * Evidence of Business Interruption Insurance\n  * Evidence of Business Personal Property Insurance\n  * Evidence of Worker’s Compensation Insurance\n  * Complete listing of ALL Equipment purchased with the Use of Proceeds, AND for ALL equipment with a\n\n         value of $5,000.00 or more, to include Make, Model and Serial Numbers if applicable Attached are the invoices for equipment did have any other equipment to add to the list\n\n\n\n**Rose Moran**\n\nCommercial Relationship Administrator\n\n![quaint oak bank logo](cid:image001.png@01DD7052.839F7E80)\n\n**Delaware Valley Office** (Corporate Office)\n\n501 Knowles Avenue\n\nSouthampton, PA 18966\n\nNMLS 815841  \nO: 267 504-4398\n\n[rmoran@quaintoak.com](mailto:rmoran@quaintoak.com)\n\n\n\n**_Upcoming Out-Of Office_**\n\n** _ _**\n\n**_ _**\n\n**Your financial security is our top priority**. Be cautious of unsolicited\nrequests for personal information. If you receive any unexpected or suspicious\ncommunication claiming to be from Quaint Oak Bank, do not provide any\ninformation to the requester. Instead, contact us immediately at\n**866.795.4499**.\n\n  \n  \n\n\n\n**Visit Us Online\nat******[**QuaintOak.com**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.quaintoak.com%2F&data=05%7C02%7C%7Cc1846ff55fa048d8c36708df3e966ba3%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639298489266794943%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=yYnpxWJK0hCHRo8eghtT%2Bfc%2Fapyw9oiQRIa3Ac0433g%3D&reserved=0)\n\n\n\n[Please Click here to transfer Secured\nFile](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fquaintoak.sharefile.com%2Fr-\nrb90815687dbe48219e1527ff3700f1ad&data=05%7C02%7C%7Cc1846ff55fa048d8c36708df3e966ba3%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639298489266826161%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DyHgu%2Bs369tL3s1Lo%2FHobVuyOCce3K0Bjm4Kjvo8NZI%3D&reserved=0)\n\n\n\n**![](cid:image002.png@01DD7052.839F7E80)**\n\n\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Sunday, November 8, 2026 3:04 AM  \n**To:** Steven Willard <swillard@quaintoak.com>; Rosemarie Moran\n<RMoran@quaintoak.com>  \n**Subject:** Store opening on Nov-13\n\n\n\nSteven/Ro,\n\nWe got CO last thursday and we are opening on Nov-13.\n\nWhat is the process to closing the construction loan. Do you guys collect\nFinal Unconditional Subcontractor Lien Release before the final draw ?\n\n\n\nRegards\n\nBharath\n\n"
+        },
+        "bodyPreview": "Hi Ro,\r\nI have uploaded document and invoices. Upto to last week 1105 - will be uploadind rest of the invoices over this week.\r\n\r\nRelated to the below, can you give me details on what to be included and their value\r\n\r\n  *   Evidence of Business Interrupti",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJMJaAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "RMoran@quaintoak.com",
+              "name": "Rosemarie Moran"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "swillard@quaintoak.com",
+              "name": "Steven Willard"
+            }
+          }
+        ],
+        "ccRecipients": [],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-16T22:50:51Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": false,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJMJaAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Re: Store opening on Nov-13"
+      },
+      "queries": [
+        "interval_scan",
+        "quaintoak.com received>=2026-11-16"
+      ],
+      "is_draft": false,
+      "record_id": "E002",
+      "classification": "owner_sent"
+    },
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAH2GX1PQAAAET5v7O_Nv5KtRtOYaCds0gACYCS5aoAAAA=",
+        "subject": "RE: Pallet pick up and removal",
+        "body": {
+          "contentType": "html",
+          "content": "Thank you for addressing this.\n\n\n\nKatie Kalamakis\n\n**Motion Property Group**\n\n425-890-4682\n\n[katie@motionpg.com](mailto:katie@motionpg.com)\n\n\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Monday, November 16, 2026 11:51 AM  \n**To:** katie@motionpg.com  \n**Subject:** Re: Pallet pick up and removal\n\n\n\nHi Katie,\n\nWe will be remove it today evening.\n\n* * *\n\n**From:** [katie@motionpg.com](mailto:katie@motionpg.com)\n<[katie@motionpg.com](mailto:katie@motionpg.com)>  \n**Sent:** Monday, November 16, 2026 10:26 AM  \n**To:** 'Bharath Mysore'\n<[bharathkumarmn@hotmail.com](mailto:bharathkumarmn@hotmail.com)>  \n**Subject:** Pallet pick up and removal\n\n\n\nPlease be sure to have all pallets removed from the property. You can reach\nout to Everett Pallets directly at 425-610-8704.\n\n\n\nThank you.\n\n\n\nKatie Kalamakis\n\n**Motion Property Group**\n\n425-890-4682\n\n[katie@motionpg.com](mailto:katie@motionpg.com)\n\n"
+        },
+        "bodyPreview": "Thank you for addressing this.\r\n\r\nKatie Kalamakis\r\nMotion Property Group\r\n425-890-4682\r\nkatie@motionpg.com\r\n\r\nFrom: Bharath Mysore <bharathkumarmn@hotmail.com>\r\nSent: Monday, November 16, 2026 11:51 AM\r\nTo: katie@motionpg.com\r\nSubject: Re: Pallet pick up ",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAH2GX1PQAAAET5v7O%2BNv5KtRtOYaCds0gACYCS5aoAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "katie@motionpg.com",
+            "name": "katie@motionpg.com"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "bharathkumarmn@hotmail.com",
+              "name": "'Bharath Mysore'"
+            }
+          }
+        ],
+        "ccRecipients": [],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-16T22:44:39Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": false,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAH2GX1PQAAAET5v7O%2BNv5KtRtOYaCds0gACYCS5aoAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "RE: Pallet pick up and removal"
+      },
+      "queries": [
+        "interval_scan",
+        "motionpg.com received>=2026-11-16"
+      ],
+      "is_draft": false,
+      "record_id": "E003",
+      "classification": "business_received"
+    }
+  ],
+  "drafts": [
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAA==",
+        "subject": "Re: Store opening on Nov-13",
+        "body": {
+          "contentType": "html",
+          "content": "  \n\n* * *\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Monday, November 16, 2026 2:50 PM  \n**To:** Rosemarie Moran <RMoran@quaintoak.com>; Steven Willard\n<swillard@quaintoak.com>  \n**Subject:** Re: Store opening on Nov-13\n\n\n\nHi Ro,\n\nI have uploaded document and invoices. Upto to last week 1105 - will be\nuploadind rest of the invoices over this week.\n\n  \n\nRelated to the below, can you give me details on what to be included and their\nvalue\n\n  * Evidence of Business Interruption Insurance\n  * Evidence of Business Personal Property Insurance\n  * Evidence of Worker’s Compensation Insurance\n\n  \n\n* * *\n\n**From:** Rosemarie Moran <RMoran@quaintoak.com>  \n**Sent:** Monday, November 9, 2026 11:19 AM  \n**To:** Bharath Mysore <bharathkumarmn@hotmail.com>; Steven Willard\n<swillard@quaintoak.com>  \n**Subject:** RE: Store opening on Nov-13\n\n\n\nGood afternoon Bharath\n\n\n\nBelow is what will be needed\n\n\n\n  * Copy of the CO\n  * Final Inspection (let me know when I can order)\n  * Evidence of Business Interruption Insurance\n  * Evidence of Business Personal Property Insurance\n  * Evidence of Worker’s Compensation Insurance\n  * Complete listing of ALL Equipment purchased with the Use of Proceeds, AND for ALL equipment with a\n\n         value of $5,000.00 or more, to include Make, Model and Serial Numbers if applicable Attached are the invoices for equipment did have any other equipment to add to the list\n\n\n\n**Rose Moran**\n\nCommercial Relationship Administrator\n\n![quaint oak bank logo](cid:image001.png@01DD7052.839F7E80)\n\n**Delaware Valley Office** (Corporate Office)\n\n501 Knowles Avenue\n\nSouthampton, PA 18966\n\nNMLS 815841  \nO: 267 504-4398\n\n[rmoran@quaintoak.com](mailto:rmoran@quaintoak.com)\n\n\n\n**_Upcoming Out-Of Office_**\n\n** _ _**\n\n**_ _**\n\n**Your financial security is our top priority**. Be cautious of unsolicited\nrequests for personal information. If you receive any unexpected or suspicious\ncommunication claiming to be from Quaint Oak Bank, do not provide any\ninformation to the requester. Instead, contact us immediately at\n**866.795.4499**.\n\n  \n  \n\n\n\n**Visit Us Online\nat******[**QuaintOak.com**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.quaintoak.com%2F&data=05%7C02%7C%7Cc1846ff55fa048d8c36708df3e966ba3%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639298489266794943%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=yYnpxWJK0hCHRo8eghtT%2Bfc%2Fapyw9oiQRIa3Ac0433g%3D&reserved=0)\n\n\n\n[Please Click here to transfer Secured\nFile](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fquaintoak.sharefile.com%2Fr-\nrb90815687dbe48219e1527ff3700f1ad&data=05%7C02%7C%7Cc1846ff55fa048d8c36708df3e966ba3%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639298489266826161%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DyHgu%2Bs369tL3s1Lo%2FHobVuyOCce3K0Bjm4Kjvo8NZI%3D&reserved=0)\n\n\n\n**![](cid:image002.png@01DD7052.839F7E80)**\n\n\n\n**From:** Bharath Mysore <bharathkumarmn@hotmail.com>  \n**Sent:** Sunday, November 8, 2026 3:04 AM  \n**To:** Steven Willard <swillard@quaintoak.com>; Rosemarie Moran\n<RMoran@quaintoak.com>  \n**Subject:** Store opening on Nov-13\n\n\n\nSteven/Ro,\n\nWe got CO last thursday and we are opening on Nov-13.\n\nWhat is the process to closing the construction loan. Do you guys collect\nFinal Unconditional Subcontractor Lien Release before the final draw ?\n\n\n\nRegards\n\nBharath\n\n"
+        },
+        "bodyPreview": "________________________________\r\nFrom: Bharath Mysore <bharathkumarmn@hotmail.com>\r\nSent: Monday, November 16, 2026 2:50 PM\r\nTo: Rosemarie Moran <RMoran@quaintoak.com>; Steven Willard <swillard@quaintoak.com>\r\nSubject: Re: Store opening on Nov-13\r\n\r\nHi",
+        "sender": {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "RMoran@quaintoak.com",
+              "name": "Rosemarie Moran"
+            }
+          },
+          {
+            "emailAddress": {
+              "address": "swillard@quaintoak.com",
+              "name": "Steven Willard"
+            }
+          }
+        ],
+        "ccRecipients": [],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-17T07:12:35Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": false,
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEPAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJMFgAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEPAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJMFgAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Re: Store opening on Nov-13"
+      },
+      "queries": [
+        "quaintoak.com received>=2026-11-16"
+      ],
+      "is_draft": true,
+      "record_id": "D001",
+      "classification": "unsent_draft"
+    },
+    {
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEKAAAARPm-s742-kq1G05hoJ2zSAAJgJIsCAAAAA==",
+        "subject": "eWaste bin",
+        "body": {
+          "contentType": "html",
+          "content": "Katie, we have Ewaste tr\n\n  \n\nRegards\n\nBharath\n\n  \n\n"
+        },
+        "bodyPreview": "Katie, we have Ewaste tr\r\n\r\nRegards\r\nBharath",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEKAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJIsCAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": null,
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "katie@motionpg.com",
+              "name": "Katie Kalamakis"
+            }
+          }
+        ],
+        "ccRecipients": [],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-16T22:49:33Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": false,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEKAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJgJIsCAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "eWaste bin"
+      },
+      "queries": [
+        "interval_scan"
+      ],
+      "is_draft": true,
+      "record_id": "D002",
+      "classification": "unsent_draft"
+    },
+    {
+      "record_id": "D003",
+      "message": {
+        "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJfFPGFwAAAA==",
+        "subject": "Base-Rent Commencement date",
+        "body": {
+          "contentType": "html",
+          "content": "Hi Alex,\n\n  \n\nThank you again for completing the exterior stair work and helping us obtain\nthe final Certificate of Occupancy on November 3.\n\n  \n\nI am asking you to reconsider our earlier request and extend the current Base\nRent abatement for aleast three additional months, covering December 1, 2026\nthrough February 28, 2027, with Base Rent commencing April 1, 2027. We would\ncontinue paying NNN, utilities and other applicable Additional Rent during\nthis period.\n\n  \n\nThe fire alarm work took approximately 142 days - April-to-August. During\nsubstantial portions of this period, critical-path tenant work—including\nclosure of the affected ceilings and progress toward final inspections—was\nmaterially delayed.\n\n  \n\nWe have made a substantial investment in the premises and incurred significant\ncarrying costs while being unable to operate. A three to four month extension\nwould help the new business stabilize after these construction and compliance\ndelays while preserving the long-term landlord-tenant relationship.\n\n  \n\nPlease reconsider allowing Base Rent to commence on April 1, 2027. We would\ndocument the revised commencement date in a short written lease amendment\nbefore December 1.\n\n  \n\nThank you for considering this request. I would be happy to discuss it with\nyou directly.\n\n  \n\nBest regards,\n\nBharath\n\nSmash District, LLC\n\n"
+        },
+        "bodyPreview": "Hi Alex,\r\n\r\nThank you again for completing the exterior stair work and helping us obtain the final Certificate of Occupancy on November 3.\r\n\r\nI am asking you to reconsider our earlier request and extend the current Base Rent abatement for aleast three add",
+        "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEPAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJfFPGFwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "sender": {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        "toRecipients": [
+          {
+            "emailAddress": {
+              "address": "alex@nwprime.com",
+              "name": "ALEX JO"
+            }
+          }
+        ],
+        "ccRecipients": [],
+        "bccRecipients": [],
+        "receivedDateTime": "2026-11-09T22:48:29Z",
+        "isRead": true,
+        "categories": [],
+        "has_attachments": false,
+        "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEPAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJfFPGFwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+        "display_title": "Base-Rent Commencement date"
+      },
+      "is_draft": true,
+      "classification": "existing_unsent_draft",
+      "queries": [
+        "draft_status_check"
+      ],
+      "note": "Existing context outside new-message interval."
+    }
+  ],
+  "attachment_count": 5,
+  "substantive_attachment_count": 1,
+  "inline_attachment_count": 4,
+  "attachment_metadata": [
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIMAAAAA==",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIMAAAAA==",
+          "attachments": [
+            {
+              "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIMAAAAAESABAAY9KBUVu98kKt8TS4WJO9pA==",
+              "name": "2A.Unconditional Final Payment Waiver[64].pdf",
+              "content_type": "application/pdf",
+              "size_bytes": 194598,
+              "is_inline": false,
+              "content_id": "E3D4B17496E5A24784AD9D973C2BCE92@NAMP220.PROD.OUTLOOK.COM",
+              "last_modified_date_time": "2026-11-17T00:46:34Z",
+              "odata_type": "#microsoft.graph.fileAttachment",
+              "payload_status": "not_requested",
+              "file_uri": null,
+              "payload_error": null,
+              "attachment_type": "fileAttachment",
+              "payload_fetch_supported": true,
+              "display_title": "2A.Unconditional Final Payment Waiver[64].pdf"
+            }
+          ],
+          "errors": [],
+          "next_link": null
+        },
+        "isError": false
+      }
+    },
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAA==",
+      "result": {
+        "status": "fulfilled",
+        "value": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Action completed."
+            }
+          ],
+          "structuredContent": {
+            "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAA==",
+            "attachments": [
+              {
+                "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAAESABAAYIgB5XEFXkSVF9wsAoGKIA==",
+                "name": "image001.png",
+                "content_type": "image/png",
+                "size_bytes": 9905,
+                "is_inline": true,
+                "content_id": "image001.png@01DD7052.839F7E80",
+                "last_modified_date_time": "2026-11-16T22:50:51Z",
+                "odata_type": "#microsoft.graph.fileAttachment",
+                "payload_status": "not_requested",
+                "file_uri": null,
+                "payload_error": null,
+                "attachment_type": "fileAttachment",
+                "payload_fetch_supported": true,
+                "display_title": "image001.png"
+              },
+              {
+                "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAAESABAAR76Pa00yEES_2UEoMJKZOg==",
+                "name": "image002.png",
+                "content_type": "image/png",
+                "size_bytes": 8892,
+                "is_inline": true,
+                "content_id": "image002.png@01DD7052.839F7E80",
+                "last_modified_date_time": "2026-11-16T22:50:51Z",
+                "odata_type": "#microsoft.graph.fileAttachment",
+                "payload_status": "not_requested",
+                "file_uri": null,
+                "payload_error": null,
+                "attachment_type": "fileAttachment",
+                "payload_fetch_supported": true,
+                "display_title": "image002.png"
+              }
+            ],
+            "errors": [],
+            "next_link": null
+          },
+          "isError": false
+        }
+      }
+    },
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAA==",
+      "result": {
+        "status": "fulfilled",
+        "value": {
+          "content": [
+            {
+              "type": "text",
+              "text": "Action completed."
+            }
+          ],
+          "structuredContent": {
+            "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAA==",
+            "attachments": [
+              {
+                "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAAESABAAHD_3MsqNmEez48jC1gAszg==",
+                "name": "image001.png",
+                "content_type": "image/png",
+                "size_bytes": 9905,
+                "is_inline": true,
+                "content_id": "image001.png@01DD7052.839F7E80",
+                "last_modified_date_time": "2026-11-17T07:12:35Z",
+                "odata_type": "#microsoft.graph.fileAttachment",
+                "payload_status": "not_requested",
+                "file_uri": null,
+                "payload_error": null,
+                "attachment_type": "fileAttachment",
+                "payload_fetch_supported": true,
+                "display_title": "image001.png"
+              },
+              {
+                "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAAESABAAIdtsMF8mhE6JOxas-sWN-Q==",
+                "name": "image002.png",
+                "content_type": "image/png",
+                "size_bytes": 8892,
+                "is_inline": true,
+                "content_id": "image002.png@01DD7052.839F7E80",
+                "last_modified_date_time": "2026-11-17T07:12:35Z",
+                "odata_type": "#microsoft.graph.fileAttachment",
+                "payload_status": "not_requested",
+                "file_uri": null,
+                "payload_error": null,
+                "attachment_type": "fileAttachment",
+                "payload_fetch_supported": true,
+                "display_title": "image002.png"
+              }
+            ],
+            "errors": [],
+            "next_link": null
+          },
+          "isError": false
+        }
+      }
+    }
+  ],
+  "attachment_materializations": [
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIMAAAAA==",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIMAAAAA==",
+          "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIMAAAAAESABAAY9KBUVu98kKt8TS4WJO9pA==",
+          "filename": "2A.Unconditional Final Payment Waiver[64].pdf",
+          "mime_type": "application/pdf",
+          "size_bytes": 194598,
+          "attachment_type": "fileAttachment",
+          "content_id": "E3D4B17496E5A24784AD9D973C2BCE92@NAMP220.PROD.OUTLOOK.COM",
+          "is_inline": false,
+          "file_ext": "pdf",
+          "payload_status": "materialized",
+          "file_uri": {
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000a9b8820faf0d013eee34af37&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&mime_type=application%2Fpdf&filename=2A.Unconditional+Final+Payment+Waiver%5B64%5D.pdf&encryption_scope_type=chatgpt_workspace_id&content_disposition=inline&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-a9b8-820f-af0d-013eee34af37%2Fraw%3Fse%3D2026-11-17T07%253A18%253A36Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Dd502422d-ef9f-4825-8889-9d367845c4ca%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T01%253A44%253A43Z%26ske%3D2026-11-18T01%253A44%253A43Z%26sks%3Db%26skv%3D2026-06-06%26sig%3DohL5vUAAFqBzXkw2aQhqfOJGLIS0xoVata6PiNuqOZk%253D&ts=498583&p=dp&cid=5&sig=93cea7d40ff94d6fcbb3445aaedb5d5a26399d4ffd2a519486d2340adb2ef0da",
+            "file_id": "file_00000000a9b8820faf0d013eee34af37",
+            "mime_type": "application/pdf",
+            "file_name": "2A.Unconditional Final Payment Waiver[64].pdf"
+          },
+          "structuredContent": {
+            "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIMAAAAA==",
+            "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIMAAAAAESABAAY9KBUVu98kKt8TS4WJO9pA==",
+            "filename": "2A.Unconditional Final Payment Waiver[64].pdf",
+            "mime_type": "application/pdf",
+            "size_bytes": 194598,
+            "attachment_type": "fileAttachment",
+            "file_ext": "pdf",
+            "payload_status": "materialized",
+            "file_uri": {
+              "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000a9b8820faf0d013eee34af37&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&mime_type=application%2Fpdf&filename=2A.Unconditional+Final+Payment+Waiver%5B64%5D.pdf&encryption_scope_type=chatgpt_workspace_id&content_disposition=inline&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-a9b8-820f-af0d-013eee34af37%2Fraw%3Fse%3D2026-11-17T07%253A18%253A36Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Dd502422d-ef9f-4825-8889-9d367845c4ca%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T01%253A44%253A43Z%26ske%3D2026-11-18T01%253A44%253A43Z%26sks%3Db%26skv%3D2026-06-06%26sig%3DohL5vUAAFqBzXkw2aQhqfOJGLIS0xoVata6PiNuqOZk%253D&ts=498583&p=dp&cid=5&sig=93cea7d40ff94d6fcbb3445aaedb5d5a26399d4ffd2a519486d2340adb2ef0da",
+              "file_id": "file_00000000a9b8820faf0d013eee34af37",
+              "mime_type": "application/pdf",
+              "file_name": "2A.Unconditional Final Payment Waiver[64].pdf"
+            },
+            "file_id": "file_00000000a9b8820faf0d013eee34af37",
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000a9b8820faf0d013eee34af37&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&mime_type=application%2Fpdf&filename=2A.Unconditional+Final+Payment+Waiver%5B64%5D.pdf&encryption_scope_type=chatgpt_workspace_id&content_disposition=inline&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-a9b8-820f-af0d-013eee34af37%2Fraw%3Fse%3D2026-11-17T07%253A18%253A36Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Dd502422d-ef9f-4825-8889-9d367845c4ca%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T01%253A44%253A43Z%26ske%3D2026-11-18T01%253A44%253A43Z%26sks%3Db%26skv%3D2026-06-06%26sig%3DohL5vUAAFqBzXkw2aQhqfOJGLIS0xoVata6PiNuqOZk%253D&ts=498583&p=dp&cid=5&sig=93cea7d40ff94d6fcbb3445aaedb5d5a26399d4ffd2a519486d2340adb2ef0da",
+            "file_name": "2A.Unconditional Final Payment Waiver[64].pdf"
+          }
+        },
+        "isError": false
+      }
+    },
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAA==",
+      "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAAESABAAYIgB5XEFXkSVF9wsAoGKIA==",
+      "name": "image001.png",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAA==",
+          "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAAESABAAYIgB5XEFXkSVF9wsAoGKIA==",
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size_bytes": 9905,
+          "attachment_type": "fileAttachment",
+          "content_id": "image001.png@01DD7052.839F7E80",
+          "is_inline": true,
+          "file_ext": "png",
+          "payload_status": "materialized",
+          "file_uri": {
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000602c820fb10e250f8a18e2a4&mime_type=image%2Fpng&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-602c-820f-b10e-250f8a18e2a4%2Fraw%3Fse%3D2026-11-17T07%253A19%253A05Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Df0afff29-311a-42da-bb26-2bcb7822085c%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T01%253A44%253A52Z%26ske%3D2026-11-18T01%253A44%253A52Z%26sks%3Db%26skv%3D2026-06-06%26sig%3D6f6D%2Fy9pwhMNaDa%2FrFd8jjIj8Z2EzkkC0tf7ttzHTTc%253D&content_disposition=inline&filename=image001.png&encryption_scope_type=chatgpt_workspace_id&ts=498583&p=dp&cid=5&sig=09809cc0ab75db73e74f8ed63898426ec37d1e7f74484c25b1cd670b9f36b47c",
+            "file_id": "file_00000000602c820fb10e250f8a18e2a4",
+            "mime_type": "image/png",
+            "file_name": "image001.png"
+          },
+          "structuredContent": {
+            "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAA==",
+            "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAAESABAAYIgB5XEFXkSVF9wsAoGKIA==",
+            "filename": "image001.png",
+            "mime_type": "image/png",
+            "size_bytes": 9905,
+            "attachment_type": "fileAttachment",
+            "file_ext": "png",
+            "payload_status": "materialized",
+            "file_uri": {
+              "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000602c820fb10e250f8a18e2a4&mime_type=image%2Fpng&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-602c-820f-b10e-250f8a18e2a4%2Fraw%3Fse%3D2026-11-17T07%253A19%253A05Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Df0afff29-311a-42da-bb26-2bcb7822085c%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T01%253A44%253A52Z%26ske%3D2026-11-18T01%253A44%253A52Z%26sks%3Db%26skv%3D2026-06-06%26sig%3D6f6D%2Fy9pwhMNaDa%2FrFd8jjIj8Z2EzkkC0tf7ttzHTTc%253D&content_disposition=inline&filename=image001.png&encryption_scope_type=chatgpt_workspace_id&ts=498583&p=dp&cid=5&sig=09809cc0ab75db73e74f8ed63898426ec37d1e7f74484c25b1cd670b9f36b47c",
+              "file_id": "file_00000000602c820fb10e250f8a18e2a4",
+              "mime_type": "image/png",
+              "file_name": "image001.png"
+            },
+            "file_id": "file_00000000602c820fb10e250f8a18e2a4",
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000602c820fb10e250f8a18e2a4&mime_type=image%2Fpng&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-602c-820f-b10e-250f8a18e2a4%2Fraw%3Fse%3D2026-11-17T07%253A19%253A05Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Df0afff29-311a-42da-bb26-2bcb7822085c%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T01%253A44%253A52Z%26ske%3D2026-11-18T01%253A44%253A52Z%26sks%3Db%26skv%3D2026-06-06%26sig%3D6f6D%2Fy9pwhMNaDa%2FrFd8jjIj8Z2EzkkC0tf7ttzHTTc%253D&content_disposition=inline&filename=image001.png&encryption_scope_type=chatgpt_workspace_id&ts=498583&p=dp&cid=5&sig=09809cc0ab75db73e74f8ed63898426ec37d1e7f74484c25b1cd670b9f36b47c",
+            "file_name": "image001.png"
+          }
+        },
+        "isError": false
+      }
+    },
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAA==",
+      "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAAESABAAR76Pa00yEES_2UEoMJKZOg==",
+      "name": "image002.png",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAA==",
+          "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAAESABAAR76Pa00yEES_2UEoMJKZOg==",
+          "filename": "image002.png",
+          "mime_type": "image/png",
+          "size_bytes": 8892,
+          "attachment_type": "fileAttachment",
+          "content_id": "image002.png@01DD7052.839F7E80",
+          "is_inline": true,
+          "file_ext": "png",
+          "payload_status": "materialized",
+          "file_uri": {
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_000000000b5c820fb04f8fe6cff54491&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-0b5c-820f-b04f-8fe6cff54491%2Fraw%3Fse%3D2026-11-17T07%253A19%253A06Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Da4c590b1-cfd8-484d-9d53-043a26266093%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T01%253A49%253A14Z%26ske%3D2026-11-18T01%253A49%253A14Z%26sks%3Db%26skv%3D2026-06-06%26sig%3DmT6M%252BSrGaTtuKx%2FSF0gaNkUEJqNQejYyNZZFccz7%252BBo%253D&filename=image002.png&encryption_scope_type=chatgpt_workspace_id&content_disposition=inline&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&mime_type=image%2Fpng&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&ts=498583&p=dp&cid=5&sig=fd9ffc08ff980375957c4019f9cdf3aff961f88033d6c6a7da8c3e1075a74a31",
+            "file_id": "file_000000000b5c820fb04f8fe6cff54491",
+            "mime_type": "image/png",
+            "file_name": "image002.png"
+          },
+          "structuredContent": {
+            "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAA==",
+            "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJgJMJaAAAAAESABAAR76Pa00yEES_2UEoMJKZOg==",
+            "filename": "image002.png",
+            "mime_type": "image/png",
+            "size_bytes": 8892,
+            "attachment_type": "fileAttachment",
+            "file_ext": "png",
+            "payload_status": "materialized",
+            "file_uri": {
+              "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_000000000b5c820fb04f8fe6cff54491&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-0b5c-820f-b04f-8fe6cff54491%2Fraw%3Fse%3D2026-11-17T07%253A19%253A06Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Da4c590b1-cfd8-484d-9d53-043a26266093%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T01%253A49%253A14Z%26ske%3D2026-11-18T01%253A49%253A14Z%26sks%3Db%26skv%3D2026-06-06%26sig%3DmT6M%252BSrGaTtuKx%2FSF0gaNkUEJqNQejYyNZZFccz7%252BBo%253D&filename=image002.png&encryption_scope_type=chatgpt_workspace_id&content_disposition=inline&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&mime_type=image%2Fpng&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&ts=498583&p=dp&cid=5&sig=fd9ffc08ff980375957c4019f9cdf3aff961f88033d6c6a7da8c3e1075a74a31",
+              "file_id": "file_000000000b5c820fb04f8fe6cff54491",
+              "mime_type": "image/png",
+              "file_name": "image002.png"
+            },
+            "file_id": "file_000000000b5c820fb04f8fe6cff54491",
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_000000000b5c820fb04f8fe6cff54491&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-0b5c-820f-b04f-8fe6cff54491%2Fraw%3Fse%3D2026-11-17T07%253A19%253A06Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Da4c590b1-cfd8-484d-9d53-043a26266093%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T01%253A49%253A14Z%26ske%3D2026-11-18T01%253A49%253A14Z%26sks%3Db%26skv%3D2026-06-06%26sig%3DmT6M%252BSrGaTtuKx%2FSF0gaNkUEJqNQejYyNZZFccz7%252BBo%253D&filename=image002.png&encryption_scope_type=chatgpt_workspace_id&content_disposition=inline&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&mime_type=image%2Fpng&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&ts=498583&p=dp&cid=5&sig=fd9ffc08ff980375957c4019f9cdf3aff961f88033d6c6a7da8c3e1075a74a31",
+            "file_name": "image002.png"
+          }
+        },
+        "isError": false
+      }
+    },
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAA==",
+      "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAAESABAAHD_3MsqNmEez48jC1gAszg==",
+      "name": "image001.png",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAA==",
+          "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAAESABAAHD_3MsqNmEez48jC1gAszg==",
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size_bytes": 9905,
+          "attachment_type": "fileAttachment",
+          "content_id": "image001.png@01DD7052.839F7E80",
+          "is_inline": true,
+          "file_ext": "png",
+          "payload_status": "materialized",
+          "file_uri": {
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000bd58820f87b1c47305f73344&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&content_disposition=inline&mime_type=image%2Fpng&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-bd58-820f-87b1-c47305f73344%2Fraw%3Fse%3D2026-11-17T07%253A19%253A07Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Dcad99439-6743-4d7e-ac4a-3a4562db37f9%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T01%253A54%253A50Z%26ske%3D2026-11-18T01%253A54%253A50Z%26sks%3Db%26skv%3D2026-06-06%26sig%3D83%2FLqJouGrJaIFONxn2Tw%2FjJxx%252BShpR8pdJn5Gut%2F%2Fg%253D&encryption_scope_type=chatgpt_workspace_id&filename=image001.png&ts=498583&p=dp&cid=5&sig=bf5c59bde8abd8252a2f2ce0f279562b2724bd29d7c0b2353b9b59706ffaae4b",
+            "file_id": "file_00000000bd58820f87b1c47305f73344",
+            "mime_type": "image/png",
+            "file_name": "image001.png"
+          },
+          "structuredContent": {
+            "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAA==",
+            "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAAESABAAHD_3MsqNmEez48jC1gAszg==",
+            "filename": "image001.png",
+            "mime_type": "image/png",
+            "size_bytes": 9905,
+            "attachment_type": "fileAttachment",
+            "file_ext": "png",
+            "payload_status": "materialized",
+            "file_uri": {
+              "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000bd58820f87b1c47305f73344&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&content_disposition=inline&mime_type=image%2Fpng&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-bd58-820f-87b1-c47305f73344%2Fraw%3Fse%3D2026-11-17T07%253A19%253A07Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Dcad99439-6743-4d7e-ac4a-3a4562db37f9%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T01%253A54%253A50Z%26ske%3D2026-11-18T01%253A54%253A50Z%26sks%3Db%26skv%3D2026-06-06%26sig%3D83%2FLqJouGrJaIFONxn2Tw%2FjJxx%252BShpR8pdJn5Gut%2F%2Fg%253D&encryption_scope_type=chatgpt_workspace_id&filename=image001.png&ts=498583&p=dp&cid=5&sig=bf5c59bde8abd8252a2f2ce0f279562b2724bd29d7c0b2353b9b59706ffaae4b",
+              "file_id": "file_00000000bd58820f87b1c47305f73344",
+              "mime_type": "image/png",
+              "file_name": "image001.png"
+            },
+            "file_id": "file_00000000bd58820f87b1c47305f73344",
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000bd58820f87b1c47305f73344&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&content_disposition=inline&mime_type=image%2Fpng&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-bd58-820f-87b1-c47305f73344%2Fraw%3Fse%3D2026-11-17T07%253A19%253A07Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Dcad99439-6743-4d7e-ac4a-3a4562db37f9%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T01%253A54%253A50Z%26ske%3D2026-11-18T01%253A54%253A50Z%26sks%3Db%26skv%3D2026-06-06%26sig%3D83%2FLqJouGrJaIFONxn2Tw%2FjJxx%252BShpR8pdJn5Gut%2F%2Fg%253D&encryption_scope_type=chatgpt_workspace_id&filename=image001.png&ts=498583&p=dp&cid=5&sig=bf5c59bde8abd8252a2f2ce0f279562b2724bd29d7c0b2353b9b59706ffaae4b",
+            "file_name": "image001.png"
+          }
+        },
+        "isError": false
+      }
+    },
+    {
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAA==",
+      "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAAESABAAIdtsMF8mhE6JOxas-sWN-Q==",
+      "name": "image002.png",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAA==",
+          "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAAESABAAIdtsMF8mhE6JOxas-sWN-Q==",
+          "filename": "image002.png",
+          "mime_type": "image/png",
+          "size_bytes": 8892,
+          "attachment_type": "fileAttachment",
+          "content_id": "image002.png@01DD7052.839F7E80",
+          "is_inline": true,
+          "file_ext": "png",
+          "payload_status": "materialized",
+          "file_uri": {
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000a60c820f9038b2ef9cd68167&content_disposition=inline&encryption_scope_type=chatgpt_workspace_id&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-a60c-820f-9038-b2ef9cd68167%2Fraw%3Fse%3D2026-11-17T07%253A19%253A08Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Db6d30cea-70a8-4665-9ee3-4dfe0dc0db86%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T06%253A48%253A48Z%26ske%3D2026-11-18T06%253A48%253A48Z%26sks%3Db%26skv%3D2026-06-06%26sig%3DAsLOVGpVs24KjGkXpLUO7GNQRb%252Bx7eZZQNTG2E9pdAg%253D&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&mime_type=image%2Fpng&filename=image002.png&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&ts=498583&p=dp&cid=5&sig=b3deed7697ef18f62bf695c2baa2a8dc4e32a1ae2ab1885afd806b24e7093fb0",
+            "file_id": "file_00000000a60c820f9038b2ef9cd68167",
+            "mime_type": "image/png",
+            "file_name": "image002.png"
+          },
+          "structuredContent": {
+            "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAA==",
+            "attachment_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEPAAAARPm-s742-kq1G05hoJ2zSAAJgJMFgAAAAAESABAAIdtsMF8mhE6JOxas-sWN-Q==",
+            "filename": "image002.png",
+            "mime_type": "image/png",
+            "size_bytes": 8892,
+            "attachment_type": "fileAttachment",
+            "file_ext": "png",
+            "payload_status": "materialized",
+            "file_uri": {
+              "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000a60c820f9038b2ef9cd68167&content_disposition=inline&encryption_scope_type=chatgpt_workspace_id&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-a60c-820f-9038-b2ef9cd68167%2Fraw%3Fse%3D2026-11-17T07%253A19%253A08Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Db6d30cea-70a8-4665-9ee3-4dfe0dc0db86%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T06%253A48%253A48Z%26ske%3D2026-11-18T06%253A48%253A48Z%26sks%3Db%26skv%3D2026-06-06%26sig%3DAsLOVGpVs24KjGkXpLUO7GNQRb%252Bx7eZZQNTG2E9pdAg%253D&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&mime_type=image%2Fpng&filename=image002.png&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&ts=498583&p=dp&cid=5&sig=b3deed7697ef18f62bf695c2baa2a8dc4e32a1ae2ab1885afd806b24e7093fb0",
+              "file_id": "file_00000000a60c820f9038b2ef9cd68167",
+              "mime_type": "image/png",
+              "file_name": "image002.png"
+            },
+            "file_id": "file_00000000a60c820f9038b2ef9cd68167",
+            "download_url": "https://api.chatgpt.com/api/estuary/api_decryption_proxy?id=file_00000000a60c820f9038b2ef9cd68167&content_disposition=inline&encryption_scope_type=chatgpt_workspace_id&download_url=https%3A%2F%2Fsdmntprcentralusdr.oaiusercontent.com%2Ffiles%2F00000000-a60c-820f-9038-b2ef9cd68167%2Fraw%3Fse%3D2026-11-17T07%253A19%253A08Z%26sp%3Dr%26sv%3D2026-06-06%26sr%3Db%26scid%3Db6d30cea-70a8-4665-9ee3-4dfe0dc0db86%26skoid%3Dc953efd6-2ae8-41b4-a6d6-34b1475ac07c%26sktid%3Da48cca56-e6da-484e-a814-9c849652bcb3%26skt%3D2026-11-17T06%253A48%253A48Z%26ske%3D2026-11-18T06%253A48%253A48Z%26sks%3Db%26skv%3D2026-06-06%26sig%3DAsLOVGpVs24KjGkXpLUO7GNQRb%252Bx7eZZQNTG2E9pdAg%253D&encryption_scope_organization_id=org-UkrwBwI6lO5gNE2Yq6IZfoUK&mime_type=image%2Fpng&filename=image002.png&encryption_scope_customer_id=7fb09b21-c400-4a68-a7f3-1f94a035df42&ts=498583&p=dp&cid=5&sig=b3deed7697ef18f62bf695c2baa2a8dc4e32a1ae2ab1885afd806b24e7093fb0",
+            "file_name": "image002.png"
+          }
+        },
+        "isError": false
+      }
+    }
+  ],
+  "attachment_download_result": {
+    "exit_code": 6,
+    "error": "curl: (6) Could not resolve host: api.chatgpt.com",
+    "saved": false,
+    "attempted_destination": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-16_late/2A.Unconditional Final Payment Waiver[64].pdf",
+    "saved_files": [],
+    "other_same_host_records_not_attempted": 4
+  },
+  "key_updates": [
+    {
+      "records": [
+        "E001"
+      ],
+      "topic": "Troy closeout response, November 16 at 4:46 PM PST",
+      "finding": "Troy now responds to owner's closeout requests and describes available closeout documentation. He lists Invoice #5/AIA G702 with $52,184.44 final balance; Carney conditional final lien waiver for that amount; Onesta signed/notarized unconditional final waiver reportedly confirming $433,979.97 received; 27 subcontractor waivers reportedly documenting $195,455.26 paid; and Omni Mechanical's June 8, 2026 HVAC balance report. These are Troy's descriptions, not verified attachment contents. Do not add Onesta/subcontractor totals: overlap and scope unverified."
+    },
+    {
+      "records": [
+        "E001"
+      ],
+      "topic": "Payment and remaining-work scheduling",
+      "finding": "Exact new sentence: “Please send payment per our contract at CO and we will schedule the final few items.” Troy ties scheduling remaining items to payment. This records his position, not a legal conclusion that payment is presently due or suspension is contractually permitted. He refers to last week’s punch list but supplies no new itemized completion dates in the new body."
+    },
+    {
+      "records": [
+        "E001"
+      ],
+      "topic": "Claimed account figures and HVAC scope",
+      "finding": "Troy states contract value $521,026.69, previous payment certificates $468,842.25, remaining $52,184.44. Subtraction matches, but prior certificates are not independently verified actual paid amounts. Says 'We balanced the working Hvac unit and attached it'; email describes a June 8 report, which does not by itself establish resolution of November uneven-heating/failed-unit issues. No explicit warranty/manual/Substantial Completion package or latest change-order receipts listed in the new body."
+    },
+    {
+      "records": [
+        "E001"
+      ],
+      "topic": "Attachment mismatch",
+      "finding": "Outlook list_attachments returns exactly one file, 2A.Unconditional Final Payment Waiver[64].pdf, 194,598 bytes, and no next page/errors. Materialized remotely; local download failed with DNS curl exit 6. Cannot determine if PDF bundles other documents or verify signature, notarization, release scope, amounts, exclusions, HVAC report or completeness. Do not treat all described closeout documents as verified received."
+    },
+    {
+      "records": [
+        "E002"
+      ],
+      "topic": "Bank questions now sent",
+      "finding": "November 16 at 2:50 PM PST owner actually sent the earlier draft to Rosemarie Moran and Steven Willard, saying invoices/documents through November 5 uploaded with more to follow and asking required details/values for business interruption, business personal property and workers compensation coverage. Upload statement not independently verified. No new bank response found."
+    },
+    {
+      "records": [
+        "E003"
+      ],
+      "topic": "Katie acknowledgment",
+      "finding": "November 16 at 2:44 PM Katie thanks owner for addressing pallet removal. Acknowledges owner's plan to remove that evening, but does not explicitly confirm pallets physically removed."
+    },
+    {
+      "records": [
+        "D001",
+        "D002",
+        "D003"
+      ],
+      "topic": "Drafts kept separate",
+      "finding": "D001 new blank reply draft at 11:12 PM contains quoted sent bank correspondence and no new authored text. D002 incomplete eWaste bin draft at 2:49 PM addressed to Katie has text 'Katie, we have Ewaste tr'; unsent. D003 existing rent-abatement draft remains unsent with previously noted February 28/April 1 date mismatch. No draft edited/sent by assistant."
+    }
+  ],
+  "limitations": [
+    "Complete connector-returned message bodies and quoted chains retained; not original MIME/EML. Truncated Troy listing body replaced with full fetch body captured by independent reviewer.",
+    "Only one substantive PDF returned for Troy's email although his body describes several document groups. No pagination or attachment-list error. PDF contents unavailable because local retrieval DNS failed; completeness and claims are unverified. Four other records are bank-thread inline images. All five remote references are saved and may expire; zero local attachment bytes saved.",
+    "Drafts are unsent and do not establish communication to recipients or assent. Existing rent draft included only as current context.",
+    "No independent legal interpretation of final-payment entitlement or remaining-work scheduling performed. No new work completion, final balance approval, payment authorization, rights waiver or closeout acceptance established by this refresh.",
+    "No email sent, mailbox draft edited, read state intentionally changed, payment authorized, agreement signed, bank inspection ordered or outside party contacted."
+  ]
+}
+

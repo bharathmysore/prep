@@ -1,0 +1,70 @@
+Subject: Re: Final Invoice and Billing — Urgent Corrections, Warranty Service and Reconciliation
+
+Hi Troy,
+
+Thank you for your response. I want to complete the remaining work and resolve the final account promptly. The items below require specific answers, firm dates and reconciliation under our agreement.
+
+1. Smash Room 3 door — urgent correction
+
+This door remains a serious operational and safety concern. Its correction has been repeatedly deferred, and it needs immediate attention.
+
+The wrong-swing door issue was discussed during the May 29 call, when Ron said a replacement had been ordered. On June 5, he said the door was available and would be corrected the following week. Scott expressly identified the Room 3 door as installed backwards again on November 2, during the final walkthrough process.
+
+Tyson’s November 4 update then stated “ordered 11/4 approximately two weeks out,” and your latest email schedules installation for the week of November 30. Please reconcile these earlier commitments, explain the continued delay and prioritize the earliest possible installation appointment.
+
+Sections 3.8.1 and 3.9.1 address conforming workmanship and prompt correction of defective work for which Carney is responsible. Please provide an exact completion date and any interim measures needed pending correction. Also confirm the date for installing passage/nonlocking levers in the paint rooms.
+
+2. HVAC — complete the TI balancing and heating verification
+
+The first specific notice I received of the faulty/inoperable unit was during the first week of November. I have no record of an earlier notice during the HVAC work or June balancing that a unit could not operate and balancing would remain unfinished. Had this been communicated when identified, I would have promptly coordinated with the landlord to address it.
+
+My position is that completing the original TI testing, adjustment and balancing remains within Carney’s scope under Section 3.8.5, Exhibit B’s mechanical internal-distribution scope, and specification 230593, including its deficiency-reporting and seasonal-testing provisions.
+
+The June report records cooling-mode airflow readings; uneven heating remains unresolved. Please arrange a room-by-room heating/distribution review, complete the outstanding in-scope balancing and provide the results. Please also reconcile the report’s RTU-3/4/5 labels with your description of two units.
+
+On November 6, I asked when the PCB issue had been identified after you said the repair had previously been declined. Please provide the original dated report, any earlier written notice, and identify who declined which repair and when. Repair by another vendor does not, by itself, establish that Carney’s original balancing obligations were completed or transferred.
+
+3. Water fountain — written defect notice and warranty service
+
+Please treat this email as written notice under Section 3.9.1 of the following fountain problems:
+
+- During short operation, including activations of less than one minute, we hear knocking and at times no water is dispensed.
+- When water does dispense, the stream overshoots the basin and causes spillage.
+- We have not received the manual or instructions explaining operation, flow adjustment, maintenance and shutoff, including what requires a qualified technician.
+
+Please arrange for the responsible technician to inspect, diagnose and correct the installation or equipment issue. If a manufacturer warranty applies, please identify the coverage and coordinate the applicable service process.
+
+Section 3.8.4 requires delivery of written warranties and equipment manuals, and Section 3.9.1 requires prompt correction of defective work for which Carney is responsible. We will provide access for inspection and correction.
+
+Please acknowledge this report by Friday, November 20, and arrange an inspection by Monday, November 23. If that is not possible, explain the constraint and provide the earliest appointment. Please provide a repair plan and completion date following diagnosis.
+
+For ongoing warranty requests, please confirm the reporting email/phone number, designated Carney and local service contacts, urgent escalation process, and expected acknowledgment, attendance and repair timeframes.
+
+4. Latest change order — uninstalled push bar and supporting documentation
+
+The signed Carney_Contracting_CO-iSmash-0017_Corrected.pdf includes $450 to “Install push bar door hardware on the left double door leading to the warehouse.” There is no push bar installed on the storage door.
+
+Please identify the exact opening covered by this charge and confirm whether the work was performed. If it remains required, provide a firm completion date. If it has been removed from the approved scope, provide a credit for the omitted work and the corresponding overhead/profit and applicable tax adjustments, with a revised invoice.
+
+Sections 8.5.1 and 8.6 address itemized pricing and appropriate supporting documentation. Please provide the outstanding support for this change order and explain the calculation bases for the $343.93 overhead/profit and $261.04 sales-tax amounts. Please also reconcile this document’s CO-iSmash-0017 identifier with the invoice’s CO #10 reference.
+
+5. Payment discrepancy and final reconciliation
+
+Your September 24 email confirms receipt of $27,967 toward COs #5–9, while the revised signed forms total $26,968.36. Please show how the $998.64 difference was applied and identify any resulting credit in the final balance.
+
+Please provide the consolidated signed change-order set and ledger showing approved amounts, payments applied, credits and remaining balances. Keep the above payment difference separate from any credit for the unperformed push-bar work.
+
+Please also provide Carney’s itemized estimated cost to complete the unfinished work, together with the scope and completion dates, so we can apply Sections 9.1.7 and 9.1.12 without double-counting credits and unfinished-work withholding.
+
+I acknowledge the proposed $300 fan-switch credit, but have not accepted it as full resolution. Please explain its basis and confirm how the switch-location issue will be resolved. The proposed $51,884.44 balance remains subject to reconciliation.
+
+6. Remaining closeout records
+
+Thank you for the Substantial Completion certificate, warranty letter and waivers supplied. Please confirm the warranty start/end dates, provide delivery dates for remaining manuals/testing records, and identify any current subcontractor/supplier balances or final-release gaps not covered by the historical waivers.
+
+I remain ready to coordinate with Quaint Oak for amounts properly due, including undisputed amounts, in accordance with the agreement. This email does not authorize a payment release or accept unresolved work or proposed credits.
+
+Please respond by Friday, November 20, with firm dates and the requested reconciliation, or a specific delivery date for anything still being prepared. Please also propose a time for the joint closeout review.
+
+Thank you,
+Bharath

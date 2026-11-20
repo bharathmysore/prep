@@ -1,0 +1,178 @@
+{
+  "scope": "Read-only local CO document and payment-status audit. Primary PDFs plus existing archived summary; parent independently reading live payment emails. No evidence moved or changed.",
+  "as_of": "2026-11-18",
+  "rows": [
+    {
+      "co": "1",
+      "description": "Building review fees",
+      "approved_amount": "2643.56",
+      "approval_date": "2025-12-11",
+      "source": "/Users/bmysoren/Desktop/2026/iSmash/Finances/CCS Invoice #3 (Not Sent) iSmash Seattle $238,641.00.pdf",
+      "page": 3,
+      "local_status": "Signed CO visibly present; included in April progress billing; individual settled payment not established from local PDF"
+    },
+    {
+      "co": "2",
+      "description": "Building permit fee (separate from building review fees)",
+      "approved_amount": "6243.63",
+      "approval_date": "2026-02-10",
+      "source": "/Users/bmysoren/Desktop/2026/iSmash/Finances/CCS Invoice #3 (Not Sent) iSmash Seattle $238,641.00.pdf",
+      "page": 4,
+      "local_status": "Signed CO visibly present; included in April progress billing; individual settled payment not established from local PDF"
+    },
+    {
+      "co": "3 inferred sequence / document says ISEW1-CO1",
+      "description": "Rubber flooring removal/disposal; surface preparation and seal coat, including smash rooms",
+      "approved_amount": "16870.00",
+      "approval_date": "2026-02-15 owner; 2026-02-14 contractor",
+      "source": "/Users/bmysoren/Desktop/2026/iSmash/Finances/CCS Invoice #3 (Not Sent) iSmash Seattle $238,641.00.pdf",
+      "page": 5,
+      "local_status": "Signed CO visibly present; invoice calls four attached forms COs1\u20134 but this form is mislabeled CO1. No local individual payment confirmation."
+    },
+    {
+      "co": "4",
+      "description": "Additional floor-prep layer/glue removal, adhesive residue removal and substrate preparation",
+      "approved_amount": "5074.74",
+      "approval_date": "2026-03-05",
+      "source": "/Users/bmysoren/Desktop/2026/iSmash/Finances/CCS Invoice #3 (Not Sent) iSmash Seattle $238,641.00.pdf",
+      "page": 6,
+      "local_status": "Signed CO visibly present; included in April progress billing; individual settled payment not established from local PDF"
+    },
+    {
+      "co": "5",
+      "description": "Structural steel",
+      "approved_amount": "9175.00",
+      "source": "Sep24 completed DocuSign metadata / archived conversation; root independently checking email",
+      "local_status": "No underlying signed PDF locally located by this audit. Parent confirms Jeff September24 received $27967 aggregate toward CO5\u20139; no per-item payment allocation in local documents."
+    },
+    {
+      "co": "6 revised numbering",
+      "description": "Steel plate drilling",
+      "approved_amount": "8700.00",
+      "source": "Sep24 completed DocuSign metadata / archived conversation",
+      "local_status": "Replaces earlier CO6 wing-wall numbering; old steel drilling was CO10. Do not duplicate old and revised numbers. Aggregate CO5\u20139 paid email to be cited by root."
+    },
+    {
+      "co": "7\u20139",
+      "description": "HVAC, electrical and plumbing permit fees",
+      "approved_amount": "9093.36",
+      "source": "Sep24 completed DocuSign metadata / archived conversation",
+      "components_reported": {
+        "HVAC": "4428.92",
+        "electrical": "2450.00",
+        "plumbing": "2214.44"
+      },
+      "local_status": "Combined revised amount supported by archived attachment metadata; standalone earlier plumbing filename used2214.00. Actual signed PDF should govern. Aggregate CO5\u20139 payment confirmed by parent."
+    },
+    {
+      "co": "10 new final CO / possible CO0017 cross-reference unverified",
+      "description": "Latest added work; scope cannot be established from final invoice alone",
+      "approved_amount": "3356.40",
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/iSMASH_Everett_Closeout_Revised_Final.pdf",
+      "pages": [
+        2,
+        3
+      ],
+      "local_status": "Included in November5 final invoice $52184.44; latest requested balance still outstanding in known record, so not shown paid. Do not confuse with August drilling CO10."
+    }
+  ],
+  "reconciliation": {
+    "co1_4_total": "30831.93",
+    "co5_9_reissued_total": "26968.36",
+    "co1_9_total": "57800.29",
+    "co10_new_amount": "3356.40",
+    "all_current_cos_approved_total": "61156.69",
+    "base": "459870.00",
+    "revised_contract": "521026.69",
+    "previous_payment_certificates": "468842.25",
+    "final_requested": "52184.44",
+    "approved_sum_matches_final_g702": true,
+    "co5_9_reported_received_parent_verified": "27967.00",
+    "co5_9_paid_invoice_filename": "26967.00",
+    "received_minus_reissued_co_total": "998.64",
+    "received_minus_filename": "1000.00"
+  },
+  "payment_allocation_limits": [
+    "The four original signed COs establish approval, not separate receipt of payment.",
+    "April1 invoice p1 expressly says70% of contract and CO1\u20134; p2 cumulativeearned343733.50 and priorcertificates105092.50. File itself is named Not Sent, so transmission or settlement cannot be inferred.",
+    "Final closeout p3 previouscertificates468842.25 and p4 priorpayments unconditionally released support aggregate prior payment recognition, not per-CO allocation.",
+    "No G703/SOV found in final package; cannot allocate final balance into exact CO retainage/remaining percentages from it.",
+    "The contract and G702 say retainage not applicable/zero; a final milestone balance should not casually be renamed retainage.",
+    "Do not label all61156.69 approvedCOtotal as fully paid. CO10 is included in currently requested finalinvoice."
+  ],
+  "arithmetic_discrepancies": [
+    {
+      "source": "/Users/bmysoren/Desktop/2026/iSmash/Finances/CCS Invoice #3 (Not Sent) iSmash Seattle $238,641.00.pdf",
+      "pages": [
+        1,
+        2
+      ],
+      "fact": "343733.50 cumulativeearned vs70% of490701.93 =343491.351",
+      "difference_rounded": "242.15",
+      "interpretation": "Internal percentage-description mismatch; actualpayment allocation unproven"
+    },
+    {
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/iSMASH_Everett_Closeout_Revised_Final.pdf",
+      "page": 3,
+      "hypothesis": "If base+CO1\u20134 were90% paid and revisedCO5\u20139 fully paid, expected cumulativepaid468600.10",
+      "reported_previous_certificates": "468842.25",
+      "difference_rounded": "242.15",
+      "interpretation": "Illustrative hypothesis does not reconcile; do not present90% perCO as established"
+    },
+    {
+      "hypothesis": "10% of(base+CO1\u20134)+CO10",
+      "amount": "52426.59",
+      "actual_requested_final": "52184.44",
+      "difference_rounded": "242.15",
+      "interpretation": "Same mismatch; requires ledger rather than invented allocation"
+    }
+  ],
+  "visual_review": {
+    "april_invoice_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "final_package_pages_previously_reviewed": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "source_originals_unchanged": true
+  },
+  "key_sources": [
+    {
+      "path": "/Users/bmysoren/Desktop/2026/iSmash/Finances/CCS Invoice #3 (Not Sent) iSmash Seattle $238,641.00.pdf",
+      "pages": {
+        "billing": 1,
+        "g702": 2,
+        "co1": 3,
+        "co2": 4,
+        "rubber_flooring": 5,
+        "co4": 6,
+        "conditional_progress_waiver": 7
+      }
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/iSMASH_Everett_Closeout_Revised_Final.pdf",
+      "pages": {
+        "summary": 1,
+        "finalinvoice": 2,
+        "g702": 3,
+        "conditional_final_waiver": 4
+      }
+    },
+    {
+      "path": "/Users/bmysoren/prep/ismash/conversations.md",
+      "lines": [
+        952,
+        1106
+      ],
+      "use": "Prior archived payment and numbering reconciliation; parent obtaining actual emails"
+    }
+  ]
+}

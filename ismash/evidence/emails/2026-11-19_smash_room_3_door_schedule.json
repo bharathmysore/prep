@@ -1,0 +1,111 @@
+{
+  "review_date": "2026-11-19",
+  "user_request": "When was the door work scheduled originally in the punch list?",
+  "item": "Smash Room 3 backwards-installed door correction",
+  "finding": "Original Troy November 4 1:48 PM PST punch list had no completion date for this door. Tyson's November 4 4:03 PM PST reply added: 'Ordered 11/4 approximately two weeks out'. This points to around November 18 as an approximate lead-time/availability estimate; it is not an explicit firm installation appointment. Troy's November 19 reply later schedules installation for the week of November 30.",
+  "source_messages": [
+    {
+      "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQZQAAAA==",
+      "subject": "Punch Walk",
+      "body": {
+        "contentType": "html",
+        "content": "Tyson and Bharath,\n\nBelow is the consolidated list of outstanding punch list items from our\nwalkthrough. The dates noted reflect the completion dates Tyson provided.\nItems without dates still require confirmation of scope, resolution, and\nanticipated completion.\n\n**Event Room**\n\n  * Outlet to the right of TV: Caulk or otherwise finish around outlet. **11/4**\n  * Electrical panel access sign. **11/4**\n\n**Smash Room 1**\n\n  * Left steel plate: Second bolt from bottom is loose.\n  * Second steel sheet: Third bolt on right is loose. **11/4**\n\n**Smash Rooms 1 & 2**\n\n  * Relocate tool racks near steel walls to behind doors. **11/4**\n\n**Smash Room 2**\n\n  * Outlet near smash wall: Not shown on plans. Confirm why it was installed and associated cost. Replace with blank cover. **11/4**\n\n**Large Paint Room**\n\n  * Install missing doorstop. **11/4**\n  * Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.\n\n**Bathroom**\n\n  * Install outlet cover. **11/4**\n\n**Smash Room 3**\n\n  * Door installed backwards. Correct installation.\n  * Right steel: Third bolt down, third and second bolts from second sheet; second sheet, second bolt down on left. **11/4**\n  * First steel sheet from right wall is not flush. Correct installation.\n\n**Gear Room 2**\n\n  * Install second jumpsuit rack below existing rack. **11/4**\n  * Replace ceiling tiles. **11/4**\n  * Touch up door frame. **11/4**\n  * Repaint door properly around “Employees Only” sign. **11/4**\n\n**Paint Cleanup Area**\n\n  * Install cabinet door hardware. **11/4**\n  * Sink installed is incorrect and undersized. Confirm replacement and timeline. **TBD**\n  * Complete caulking around motion detector and painting around fire alarm.\n  * Finish small baseboard section, including trim and FRP. **11/4**\n\n**Smash Room 4**\n\n  * Touch up door frame. **11/4**\n  * Correct metal sheet that is not flush. **11/4**\n\n**Paint Rooms**\n\n  * Remove unnecessary door locks. **11/4**\n\n**Tools and Gear Rooms**\n\n  * Complete tool mounting installation. **11/4**  \n  \n\n    * Bats: 2-inch conduit straps\n    * Crowbar: 1-inch conduit straps\n    * Two hooks\n    * Sledgehammer: 1.5-inch conduit straps\n  * Install disposable glove holders in all three gear rooms. **11/4**\n\n**All Smash Rooms**\n\n  * Ensure all smash wall steel sheets are flush. **11/4**\n\n**Fire Safety**\n\n  * Provide two new tagged fire extinguishers and required signage. **Monday, 11/9**\n\n**Additional Outstanding Items**\n\n  * Install soap dispenser.\n  * Install storage room doors.\n  * Remove gate bolts.\n  * Replace three ceiling tiles in storage room.\n\nTyson, please confirm which dated items have been completed and provide\nanticipated completion dates for everything remaining. For any items requiring\nclarification or a change in scope, please identify those separately.\n\nBharath, please review this list and advise if anything discussed during the\nwalkthrough has been omitted. Our goal is to establish one consolidated list,\nclose out the remaining work, and avoid additional items being introduced\nafter completion.\n\nThank you.\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n"
+      },
+      "bodyPreview": "Tyson and Bharath,\r\n\r\nBelow is the consolidated list of outstanding punch list items from our walkthrough. The dates noted reflect the completion dates Tyson provided. Items without dates still require confirmation of scope, resolution, and anticipated co",
+      "sender": {
+        "emailAddress": {
+          "address": "troy@carneycontracting.com",
+          "name": "Troy Fink"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "address": "tyson@onestallc.com",
+            "name": "Tyson Ferreira"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "slaviano@ismashfranchise.com",
+            "name": "Scott Laviano"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "receivedDateTime": "2026-11-04T21:48:05Z",
+      "isRead": true,
+      "categories": [],
+      "has_attachments": false,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQZQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQZQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_title": "Punch Walk"
+    },
+    {
+      "id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQdwAAAA==",
+      "subject": "Re: Punch Walk",
+      "body": {
+        "contentType": "html",
+        "content": "Team,\n\n  \n\nPlease see my responses below in Blue.\n\n  \n\nThanks\n\n  \n\nTyson Ferreira I Founder & CEO\n\nOnesta General Contracting\n\n🏢 253.347.4298 I 📱206.391.4401\n\n703 Industry Drive, Tukwila, WA 98188\n\nwww.onestallc.com\n\n  \n\nStart Strong. Finish Strong.\n\n* * *\n\n**From:** Troy Fink <troy@carneycontracting.com>  \n**Sent:** Wednesday, November 4, 2026 1:48 PM  \n**To:** Tyson Ferreira <tyson@onestallc.com>; Bharath Mysore\n<bharathkumarmn@hotmail.com>; Scott Laviano <slaviano@ismashfranchise.com>  \n**Subject:** Punch Walk\n\n\n\nTyson and Bharath,\n\nBelow is the consolidated list of outstanding punch list items from our\nwalkthrough. The dates noted reflect the completion dates Tyson provided.\nItems without dates still require confirmation of scope, resolution, and\nanticipated completion.\n\n**Event Room**\n\n  * Outlet to the right of TV: Caulk or otherwise finish around outlet. **11/4 DONE**\n  * Electrical panel access sign. **11/4 DONE**\n\n**Smash Room 1**\n\n  * Left steel plate: Second bolt from bottom is loose.\n  * Second steel sheet: Third bolt on right is loose. **11/4 DONE**\n\n**Smash Rooms 1 & 2**\n\n  * Relocate tool racks near steel walls to behind doors. **11/4 DONE**\n\n**Smash Room 2**\n\n  * Outlet near smash wall: Not shown on plans. Confirm why it was installed and associated cost. Replace with blank cover. **11/4 DONE**\n\n**Large Paint Room**\n\n  * Install missing doorstop. **11/4 DONE**\n  * Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.\n\n**Bathroom**\n\n  * Install outlet cover. **11/4 DONE**\n\n**Smash Room 3**\n\n  * Door installed backwards. Correct installation. **_Ordered 11/4 approximately two weeks out_**\n  * Right steel: Third bolt down, third and second bolts from second sheet; second sheet, second bolt down on left. **11/4 DONE**\n  * First steel sheet from right wall is not flush. Correct installation. **DONE**\n\n**Gear Room 2**\n\n  * Install second jumpsuit rack below existing rack. **11/4 DONE**\n  * Replace ceiling tiles. **11/4 DONE**\n  * Touch up door frame. **11/4 DONE  **\n  * Repaint door properly around “Employees Only” sign. **11/4 DONE**\n\n**Paint Cleanup Area**\n\n  * Install cabinet door hardware. **11/5 tomorrow  **\n  * Sink installed is incorrect and undersized. Confirm replacement and timeline. **Here is an option to add one more sink**[**https://a.co/d/0djnkD4N**](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2F0djnkD4N&data=05%7C02%7C%7Cb55b2c30a2eb4df5bf8408df3ad04819%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639294338371679672%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=iNxq6nqD10f0dJz7N7ssZv6tixMz%2B4s9iZoF8YEMogA%3D&reserved=0)**  please confirm this works for Ismash. **\n  * Complete caulking around motion detector and painting around fire alarm. **11/4 DONE  **\n  * Finish small baseboard section, including trim and FRP. **11/4 DONE**\n\n**Smash Room 4**\n\n  * Touch up door frame. **11/4 DONE**\n  * Correct metal sheet that is not flush. **11/4 DONE**\n\n**Paint Rooms**\n\n  * Remove unnecessary door locks. **11/4 DONE**\n\n**Tools and Gear Rooms**\n\n  * Complete tool mounting installation. **11/4 Owner asked us to hold off on installation today due to it potentially moving to a different location.  **\n\n  * **  \n**\n\n  * Bats: 2-inch conduit straps\n\n    * Crowbar: 1-inch conduit straps\n    * Two hooks\n    * Sledgehammer: 1.5-inch conduit straps\n  * Install disposable glove holders in all three gear rooms. **11/4 DONE**\n\n**All Smash Rooms**\n\n  * Ensure all smash wall steel sheets are flush. **11/4 DONE**\n\n**Fire Safety**\n\n  * Provide two new tagged fire extinguishers and required signage. **Monday, 11/9.****Ordered 11/4**\n\n**Additional Outstanding Items**\n\n  * Install soap dispenser.\n  * Install storage room doors.\n  * Remove gate bolts.\n  * Replace three ceiling tiles in storage room.\n\n  * **These items are all DONE 11/4**\n\nTyson, please confirm which dated items have been completed and provide\nanticipated completion dates for everything remaining. For any items requiring\nclarification or a change in scope, please identify those separately.\n\nBharath, please review this list and advise if anything discussed during the\nwalkthrough has been omitted. Our goal is to establish one consolidated list,\nclose out the remaining work, and avoid additional items being introduced\nafter completion.\n\nThank you.\n\nTroy Fink\n\nClient Relations\n\nCarney Contracting Services, Inc.\n\n405 Estates Ct.\n\nNewtown, PA 18940\n\nC: 215-906-3474\n\n  \n\n"
+      },
+      "bodyPreview": "Team,\r\n\r\nPlease see my responses below in Blue.\r\n\r\nThanks\r\n\r\nTyson Ferreira I Founder & CEO\r\nOnesta General Contracting\r\n🏢 253.347.4298 I 📱206.391.4401\r\n703 Industry Drive, Tukwila, WA 98188\r\nwww.onestallc.com\r\n\r\nStart Strong. Finish Strong.\r\n__________",
+      "sender": {
+        "emailAddress": {
+          "address": "tyson@onestallc.com",
+          "name": "Tyson Ferreira"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "address": "troy@carneycontracting.com",
+            "name": "Troy Fink"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "slaviano@ismashfranchise.com",
+            "name": "Scott Laviano"
+          }
+        }
+      ],
+      "ccRecipients": [
+        {
+          "emailAddress": {
+            "address": "robbi@onestallc.com",
+            "name": "Robbi Drahos"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "kira@onestallc.com",
+            "name": "Kira Wohlfeil"
+          }
+        }
+      ],
+      "bccRecipients": [],
+      "receivedDateTime": "2026-11-05T00:03:57Z",
+      "isRead": true,
+      "categories": [],
+      "has_attachments": false,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQdwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_url": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQdwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "display_title": "Re: Punch Walk"
+    }
+  ],
+  "later_source": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-19_refresh.json",
+  "note": "User question interpreted as Smash Room 3 door based on current closeout discussion. No emails sent or prior evidence changed."
+}

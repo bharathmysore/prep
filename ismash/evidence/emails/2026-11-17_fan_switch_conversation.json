@@ -1,0 +1,219 @@
+{
+  "title": "Fan-switch location conversation",
+  "review_date_local": "2026-11-17",
+  "basis": "Saved original sent/received emails; no live refresh this turn. Quotes are excerpts, not new instructions.",
+  "records": [
+    {
+      "source_file": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-04_refresh.json",
+      "source_sha256": "1690a556a54cb221f0bf0da831a4c29d4eca28103bf15470d13fbab71ac95bee",
+      "record_id": "E022",
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJdzxBGwAAAA==",
+      "subject": "Re: Next Steps — Revised Egress Plans and City CO for iSmash Everett [WAS Re: CO]",
+      "sender": {
+        "address": "slaviano@ismashfranchise.com",
+        "name": "Scott Laviano"
+      },
+      "recipients": [
+        {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        }
+      ],
+      "date_utc": "2026-11-02T22:41:52Z",
+      "date_local": "2026-11-02T14:41:52-08:00",
+      "is_draft": false,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJdzxBGwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "excerpt": "Why a switch for fan next to the fan? Plan call for the fan to have a switch at the cash wrap, not at the fan. Even at the door would have been better",
+      "note": "Original iSmash punch-walk observation; fan bullet itself does not name the room."
+    },
+    {
+      "source_file": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-04_evening_refresh.json",
+      "source_sha256": "646b06a248ba5123d885af000d98095e88f55d5e52f88044c4b387703064141f",
+      "record_id": "E005",
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQZQAAAA==",
+      "subject": "Punch Walk",
+      "sender": {
+        "address": "troy@carneycontracting.com",
+        "name": "Troy Fink"
+      },
+      "recipients": [
+        {
+          "emailAddress": {
+            "address": "tyson@onestallc.com",
+            "name": "Tyson Ferreira"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "slaviano@ismashfranchise.com",
+            "name": "Scott Laviano"
+          }
+        }
+      ],
+      "date_utc": "2026-11-04T21:48:05Z",
+      "date_local": "2026-11-04T13:48:05-08:00",
+      "is_draft": false,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQZQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "excerpt": "Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.",
+      "note": "Troy includes item under Large Paint Room; no completion date. Introduction says undated items require scope, resolution and completion confirmation."
+    },
+    {
+      "source_file": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-04_evening_refresh.json",
+      "source_sha256": "646b06a248ba5123d885af000d98095e88f55d5e52f88044c4b387703064141f",
+      "record_id": "E004",
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJeTZQdwAAAA==",
+      "subject": "Re: Punch Walk",
+      "sender": {
+        "address": "tyson@onestallc.com",
+        "name": "Tyson Ferreira"
+      },
+      "recipients": [
+        {
+          "emailAddress": {
+            "address": "troy@carneycontracting.com",
+            "name": "Troy Fink"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "slaviano@ismashfranchise.com",
+            "name": "Scott Laviano"
+          }
+        }
+      ],
+      "date_utc": "2026-11-05T00:03:57Z",
+      "date_local": "2026-11-04T16:03:57-08:00",
+      "is_draft": false,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJeTZQdwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "excerpt": "Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.",
+      "note": "Tyson retains the quoted fan item without inline response, date or DONE annotation."
+    },
+    {
+      "source_file": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-16_refresh.json",
+      "source_sha256": "9c576d0023ec44a0697ea9b69c41c3fcb8934d041f5a4a6d2e2046199d36a083",
+      "record_id": "E023",
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJfRN60AAAAA==",
+      "subject": "Re: Punch Walk",
+      "sender": {
+        "address": "bharathkumarmn@hotmail.com",
+        "name": "Bharath Mysore"
+      },
+      "recipients": [
+        {
+          "emailAddress": {
+            "address": "tyson@onestallc.com",
+            "name": "Tyson Ferreira"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "troy@carneycontracting.com",
+            "name": "Troy Fink"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "slaviano@ismashfranchise.com",
+            "name": "Scott Laviano"
+          }
+        }
+      ],
+      "date_utc": "2026-11-10T17:17:21Z",
+      "date_local": "2026-11-10T09:17:21-08:00",
+      "is_draft": false,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJfRN60AAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "excerpt": "Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.",
+      "note": "Owner follows up in Punch Walk thread, labeling item Smash Rooms."
+    },
+    {
+      "source_file": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-16_refresh.json",
+      "source_sha256": "9c576d0023ec44a0697ea9b69c41c3fcb8934d041f5a4a6d2e2046199d36a083",
+      "record_id": "E022",
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEJAAAARPm-s742-kq1G05hoJ2zSAAJfRN60QAAAA==",
+      "subject": "Re: Next Steps — Revised Egress Plans and City CO for iSmash Everett [WAS Re: CO]",
+      "sender": {
+        "address": "bharathkumarmn@hotmail.com",
+        "name": "Bharath Mysore"
+      },
+      "recipients": [
+        {
+          "emailAddress": {
+            "address": "tyson@onestallc.com",
+            "name": "Tyson Ferreira"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "support@ismashfranchise.com",
+            "name": "iSmash Support"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "ron@carneycontracting.com",
+            "name": "Ron Tobiasz"
+          }
+        }
+      ],
+      "date_utc": "2026-11-10T17:20:30Z",
+      "date_local": "2026-11-10T09:20:30-08:00",
+      "is_draft": false,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEJAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJfRN60QAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "excerpt": "Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action.",
+      "note": "Owner repeats request in wider Next Steps thread at9:20AM."
+    },
+    {
+      "source_file": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-16_refresh.json",
+      "source_sha256": "9c576d0023ec44a0697ea9b69c41c3fcb8934d041f5a4a6d2e2046199d36a083",
+      "record_id": "E017",
+      "message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJfRMkQQAAAA==",
+      "subject": "Re: Punch Walk",
+      "sender": {
+        "address": "tyson@onestallc.com",
+        "name": "Tyson Ferreira"
+      },
+      "recipients": [
+        {
+          "emailAddress": {
+            "address": "bharathkumarmn@hotmail.com",
+            "name": "Bharath Mysore"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "troy@carneycontracting.com",
+            "name": "Troy Fink"
+          }
+        },
+        {
+          "emailAddress": {
+            "address": "slaviano@ismashfranchise.com",
+            "name": "Scott Laviano"
+          }
+        }
+      ],
+      "date_utc": "2026-11-10T23:28:07Z",
+      "date_local": "2026-11-10T15:28:07-08:00",
+      "is_draft": false,
+      "web_link": "https://outlook.live.com/owa/?ItemID=AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj%2F9k%2BOYHH6pBAo%2BgcARPm%2Fs742%2Fkq1G05hoJ2zSAAAAgEMAAAARPm%2Fs742%2Fkq1G05hoJ2zSAAJfRMkQQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "excerpt": "Fan switch: Explain why switch was installed next to fan rather than at cash wrap as indicated on plans. Confirm corrective action. **Troy what do you want to do here?**",
+      "note": "Tyson adds inline response asking Troy what to do; no proposed correction or completion date."
+    }
+  ],
+  "conclusion": "Scott raised the issue Nov2, Troy included it in his Nov4 punch list, owner repeated Nov10, and Tyson referred it to Troy. No corrective-action commitment or completion date identified in this exchange. Room labels differ: Troy Large Paint Room; owner Nov10 Smash Rooms.",
+  "limits": "Referenced plans were not independently checked in this task; the statement about planned cash-wrap location is attributed to email participants."
+}

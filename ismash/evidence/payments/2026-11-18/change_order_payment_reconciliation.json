@@ -1,0 +1,120 @@
+{
+  "as_of_local": "2026-11-18 America/Los_Angeles",
+  "purpose": "List Carney change orders and distinguish contract values from confirmed payment",
+  "rows": [
+    {
+      "co": "1",
+      "description": "Building review fees",
+      "amount": 2643.56,
+      "status": "Included in earlier progress-payment billing; individually fully paid amount not established",
+      "source": "COs_1-4_signed_source.pdf",
+      "page": 1
+    },
+    {
+      "co": "2",
+      "description": "Building permit fee",
+      "amount": 6243.63,
+      "status": "Included in earlier progress-payment billing; individually fully paid amount not established",
+      "source": "COs_1-4_signed_source.pdf",
+      "page": 2
+    },
+    {
+      "co": "3 (inferred sequence; form mislabeled CO1)",
+      "description": "Rubber flooring removal, preparation and sealing",
+      "amount": 16870,
+      "status": "Included in earlier progress-payment billing; individually fully paid amount not established",
+      "source": "COs_1-4_signed_source.pdf",
+      "page": 3
+    },
+    {
+      "co": "4",
+      "description": "Additional flooring/glue removal and substrate preparation",
+      "amount": 5074.74,
+      "status": "Included in earlier progress-payment billing; individually fully paid amount not established",
+      "source": "COs_1-4_signed_source.pdf",
+      "page": 4
+    },
+    {
+      "co": "5",
+      "description": "Structural steel for smash-room walls",
+      "amount": 9175,
+      "status": "Carney confirmed COs5-9 batch paid September24,2026",
+      "source": "CO5_structural_steel_signed.pdf",
+      "page": 1
+    },
+    {
+      "co": "6 (revised)",
+      "description": "Steel plate drilling",
+      "amount": 8700,
+      "status": "Carney confirmed COs5-9 batch paid September24,2026",
+      "source": "CO6_revised_drilling_signed.pdf",
+      "page": 1
+    },
+    {
+      "co": "7",
+      "description": "HVAC permit review/fees",
+      "amount": 4428.92,
+      "status": "Carney confirmed COs5-9 batch paid September24,2026",
+      "source": "COs_7-9_permits_signed.pdf",
+      "page": 1
+    },
+    {
+      "co": "8",
+      "description": "Electrical permit review/fees",
+      "amount": 2450,
+      "status": "Carney confirmed COs5-9 batch paid September24,2026",
+      "source": "COs_7-9_permits_signed.pdf",
+      "page": 2
+    },
+    {
+      "co": "9",
+      "description": "Plumbing permit review/fees",
+      "amount": 2214.44,
+      "status": "Carney confirmed COs5-9 batch paid September24,2026",
+      "source": "COs_7-9_permits_signed.pdf",
+      "page": 3
+    },
+    {
+      "co": "10 (latest)",
+      "description": "Latest additional work; detailed scope not established from final invoice",
+      "amount": 3356.4,
+      "status": "Not confirmed paid; included in $52,184.44 pending final invoice",
+      "source": "/Users/bmysoren/prep/ismash/evidence/emails/attachments/2026-11-17/iSMASH_Everett_Closeout_Revised_Final.pdf",
+      "pages": [
+        2,
+        3
+      ]
+    }
+  ],
+  "totals": {
+    "co1_4_value": 30831.93,
+    "co5_9_value": 26968.36,
+    "co1_9_value": 57800.29,
+    "co10_latest_value": 3356.4,
+    "all_approved_co_value": 61156.69,
+    "co5_9_cash_acknowledged": 27967,
+    "difference_cash_vs_signed_CO5_9_values": 998.64,
+    "final_requested_balance": 52184.44
+  },
+  "evidence": {
+    "early_progress": "Quaint Oak Rose Moran April24,2026 09:17PDT email confirms $238,641 payment; April invoice includes contract and COs1-4. Later final waiver recognizes $468,842.25 prior payments but no per-CO allocation.",
+    "specific_CO_payment": "Jeff Howe September24,2026 12:28PDT confirms second $12,967 payment and $27,967 total toward COs5-9, attached invoice described as Paid.",
+    "latest_pending": "Owner November18,2026 16:36PST email asks how much goes to Carney and states pending payment about $52,184.44. Quoted bank email says it will pay Carney once invoice/release paperwork received; not completed disbursement.",
+    "sources": [
+      "../../emails/2026-11-18_co_payment_sources.json",
+      "../../emails/2026-11-18_co_payment_progress_confirmation.json",
+      "source_manifest.json"
+    ]
+  },
+  "limitations": [
+    "Values in rows are signed/approved CO values, not separately established cleared cash for each row.",
+    "Early COs1-4 are included in progress billing with confirmed aggregate progress payments; cannot establish each as fully paid or assign exact percentages.",
+    "$998.64 is an unreconciled difference, not a proven overpayment or refund entitlement.",
+    "September24 paid attachment filename says $26,967.00, while Jeff body acknowledges $27,967; signed COs5-9 total $26,968.36. Attachment content could not be downloaded/read in this run; preserve this discrepancy.",
+    "Rubber flooring form calls itself CO1 but treated as third original change order in CO1-4 grouping.",
+    "September revised CO6 is drilling. Earlier August CO6 wing-wall $999.60 and August CO10 drilling are not additional paid change orders in this list.",
+    "July invoice and conditional waiver alone are not a settled payment receipt. Final ledger allocation explains $468,842.25 using $26,968.36 for revisedCO5-9 rather than $27,967 cash acknowledgement.",
+    "Raw subagent financial audit is preliminary and says revised PDFs were not located by that agent; root subsequently located, visually verified and archived exact signed revised forms. This consolidated report supersedes that source-availability note.",
+    "Sources are a focused review, not a complete bank account or mailbox audit. No external messages, payments or changes authorized."
+  ]
+}

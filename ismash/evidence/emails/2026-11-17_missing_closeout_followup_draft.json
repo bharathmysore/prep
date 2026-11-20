@@ -1,0 +1,19 @@
+{
+  "status": "draft_not_sent",
+  "date_local": "2026-11-17",
+  "user_request": "Draft email for carney, emphasizing whats missing",
+  "reply_target": "Troy November17 7:37PM PST reply in Final Invoice and Billing thread",
+  "body": "Hi Troy, Jeff, and Michael,\n\nThank you for the update. I acknowledge the closeout documents received and your statement that all subcontractors have been paid. The following specific requests remain unanswered, and we still need firm dates for the remaining work.\n\n1. Punch-list completion dates\nPlease confirm the corrective action and completion date for each item:\n• Smash Room 3 door — installation remains incomplete.\n• Fan switch — no proposed correction or date has been provided for the switch installed next to the fan.\n• Paint-room door handles — the doors can still be locked from inside despite the pins being removed.\n\nPlease provide the actual work schedule so we can arrange access and minimize disruption to operations.\n\n2. Current heating performance\nThe June 8 cooling-mode report does not address the uneven heating we are experiencing now. Please confirm when heating performance and balancing will be checked across the rooms. The landlord has identified three HVAC units, while the earlier email discussed two; please identify all units, the areas they serve, their inspection/service status, and any remaining work within Carney’s scope.\n\n3. CO #10 supporting receipts — $3,356.40\nThe itemized receipts and supplier/subcontractor invoices supporting this change order are still missing. Please provide the supporting documents and identify how they reconcile to the total charged.\n\n4. Current subcontractor accounting and final releases\nI acknowledge the Onesta and Omni final waivers provided. The remaining historical progress waivers exclude retention and work after their stated dates. Please provide current accounting identifying every subcontractor and supplier, amounts paid, retention and any remaining balances, including confirmation of zero balances where applicable.\n\nFor the other nine companies represented by progress waivers, please provide the applicable final releases or identify the arrangements and dates for obtaining them. Please also confirm the process for providing Carney’s unconditional final release after final payment clears.\n\n5. Warranty and handover documents\nWe still need the written warranties, equipment manuals, Substantial Completion certificate, warranty start/end dates, and designated Carney warranty and local service contacts. Please confirm when this package will be delivered.\n\nI am already coordinating the final inspection and review with Quaint Oak and will keep you updated on the payment process. Please continue coordinating the remaining work while that review proceeds.\n\nPlease respond to each numbered item by Wednesday, November 18, with its status and confirmed work or document-delivery date. If any requested information has already been supplied, please identify the specific document and page so we can reconcile the records promptly.\n\nThank you,\nBharath\n",
+  "sources": [
+    "2026-11-17_evening_refresh.json E001/E002/E003",
+    "2026-11-17_corrected_closeout_review.json",
+    "2026-11-17_closeout_followup_draft_v2.json"
+  ],
+  "drafting_choices": [
+    "Acknowledge documents and paid-status assertion, request specific information and dates.",
+    "November18 is proposed deadline for response and schedule, not deadline to complete all work.",
+    "QuaintOak coordination already underway; no payment-due conclusion or authorization.",
+    "Do not reopen earlier paid disputed change orders; request supporting receipts forCO10."
+  ],
+  "sent": false
+}

@@ -1,0 +1,42 @@
+Source: Onesta General Contracting Buildertrend proposal public-share page
+Retrieved: 2026-10-30
+Share ID: 3071d2aa-6df0-4f42-8531-31e6faa12d0e
+Page URL: https://buildertrend.net/app/share/3071d2aa-6df0-4f42-8531-31e6faa12d0e/Proposal
+
+Proposal title: Proposal for Ismash Fence Gate repairs
+Proposal date shown: 10-30-2026
+Status shown: Pending by Tyson Ferreira on Oct 30, 2026
+Approvals panel: Bharath Mysore — Pending
+
+Line item:
+- Dock Fence Repairs (06200 - Finish Carpentry)
+- Description: Install marine-grade plywood backing and secure with heavy-duty hardware and structural screws. Install cane bolt and anchor securely into the existing concrete.
+- Price: $510.00
+
+Pricing:
+- Subtotal: $510.00
+- Tax: $50.49
+- Total price: $560.49
+
+Qualifications, assumptions, and exclusions:
+1. Excludes costs of building permits.
+2. Excludes architectural costs.
+3. Excludes any engineering costs.
+4. Excludes special inspections.
+5. Excludes corrections to code violations if discovered.
+6. Excludes utility company charges.
+7. Excludes street use permits, traffic management, and side walk closure permits.
+8. Excludes hidden or unforeseen conditions if discovered.
+9. Excludes any items not specifically listed in the above scope of work.
+10. Excludes Sales Tax unless specifically added above.
+
+Acceptance terms shown:
+"The above proposal is hereby accepted and Onesta, LLC is directed with the work. Payment in full will be made upon substantial completion of the work. This proposal will act as a contract and will carry the same terms and language as the AIA 101 Owner-Contractor contract."
+
+Signature language shown: "I confirm that my action here represents my electronic signature and is binding."
+Signature, Name, and Date fields were visible and blank. No approval, decline, signature, project change, or message action was taken.
+
+Contractor contact shown on proposal: Onesta General Contracting; 703 Industry Dr, Tukwila, WA 98188-3409; phone 1.253.347.4298.
+Job address shown: 607 SE Everett Mall Way Ste 1, Everett, WA 98208.
+
+Capture note: Proposal content was readable in the Buildertrend share page's accessibility view. A Print control was visible, but no PDF file was generated or saved in this capture.

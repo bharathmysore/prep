@@ -1,0 +1,42 @@
+HVAC notice and responsibility review — November 19, 2026
+
+Question: Was there any communication about an HVAC issue when Carney performed the work, and who should handle it if no notice was given?
+
+FINDING
+Specific defect notices were found in November. No contemporaneous construction-period notice of an inoperable unit or inability to complete balancing was located in the searched mailbox history, available local transcripts and June 8 report. This is a bounded finding, not proof no notice existed. The September 17, 2025 site-inspection attachment was located by metadata but not reviewed.
+
+TIMELINE
+- April 2: Ron described HVAC rough as complete; diffusers still to be installed after ceiling grid.
+- May 29: Ron said all HVAC material was in the ceiling.
+- June 8: Omni cooling-mode airflow report shows RTU3/4/5 headings and branch readings, with no failure/excluded-unit/incomplete-balancing note. No heating test shown. Report appears in corrected November 17 closeout packet; earlier delivery is unverified.
+- August 28: Ron said all MEP finals, including HVAC, were complete. This does not certify heating performance.
+- November 4–5: Owner reports no/uneven heating; November 5 says party room hot but other rooms not, overnight setpoint 70 and morning 61.
+- November 6, 7:56 AM PST: Troy reports RTU1 delayed ignition, gas odor and low temperature rise requiring further evaluation. RTU2 has faulty PCB; says Josh had previously diagnosed it and repair had previously been declined. Does not identify original diagnosis date, notification date/recipient, or declining person.
+- November 6, 10:25 AM: Owner asks when identified.
+- November 6, 3:55 PM: Troy says he is looking into timelines, landlord should deliver working unit, offers PCB repair for $3,500. No dated earlier notice established.
+- November 7, 11:57 PM: Owner says landlord technician arranged for Monday and heating worked when construction began. This is owner's recollection, not independent causation evidence.
+- November 19: Troy claims one unit could not be balanced and repair vendor should now balance it. Unit identities remain unreconciled with June report.
+
+CONTRACT BASIS
+Signed January GC packet: Construction_Estimate_Increased_iSmash_Everett.pdf.
+- PDF40, M-0.2 §230593 1.3A: pre-work measurements of retained/incorporated existing systems and report of all deficiencies for owner review.
+- PDF40–41: complete balancing/reporting, testing and seasonal tests; notify architect of discrepancies before affected work.
+- PDF8 §3.8.5: Carney directs startup, adjustment and balancing.
+- PDF24 Exhibit B: internal distribution included ($37,775); existing RTUs as-is, no service upgrades/replacements included, landlord to make good working order.
+- PDF42 also contains retained-unit cleaning/refurbishment/accessory obligations. Reconcile with specific Exhibit B limitation and any later signed scope changes.
+- PDF7 §3.8.1 excludes defects CAUSED BY others' alterations; no blanket transfer of all balancing obligations upon third-party repair.
+- PDF8 §3.9.1 / PDF10 §5.2: written defect notice, correction opportunity, Carney subcontractor management.
+
+LEASE
+Lease-2025-SmashDistrictLLC.pdf.
+- PDF43 Exhibit D: landlord HVAC good-working-condition and system-performance guarantee throughout term.
+- PDF48 Exhibit E §6.7: tenant distribution/ducts/controls work.
+- PDF14 §§9.1–9.2: broad tenant maintenance/payment provisions; landlord arranges service and bears latent-defect responsibility. Landlord coordination does not automatically mean landlord pays every repair bill.
+
+PRACTICAL ALLOCATION
+Carney should investigate and finish in-scope commissioning/balancing and correct defective distribution/controls work it or its subcontractors furnished. Alex/NW Prime should coordinate existing rooftop equipment service under the lease. Ultimate equipment repair cost depends on cause and applicable lease/contract terms. If original balancing was complete and a subsequent repair changed operation, incremental rebalancing may be different from unfinished original work; request before/after records. Missing notice alone does not prove Carney caused equipment failure or owes all repair costs.
+
+REQUEST TO CARNEY
+Request the original dated diagnostic and pre-work deficiency reports; unit tags/model/serial and rooms served; when defect discovered and to whom notice was given; who declined which repair and when; identification of any deferred balancing; reconciliation of June RTU3/4/5 report with November RTU1/2 references; and a current heating/distribution check and plan for completing in-scope balancing.
+
+Preserved full source emails and search audit in 2026-11-19_hvac_notice_and_responsibility_review.json. Detailed local timeline and document review saved alongside. No email sent or originals changed/deleted.

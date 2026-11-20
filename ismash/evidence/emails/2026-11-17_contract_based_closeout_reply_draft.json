@@ -1,0 +1,37 @@
+{
+  "status": "Unsent local draft; no Outlook draft created",
+  "reply_to_time_local": "2026-11-17 8:02 PM PST",
+  "reply_to_message_id": "AQMkADAwATExAGJmNy00YzRjLTJiYzgtMDACLTAwCgBGAAADA2tUiFj-9k_OYHH6pBAo_gcARPm-s742-kq1G05hoJ2zSAAAAgEMAAAARPm-s742-kq1G05hoJ2zSAAJgJIIoQAAAA==",
+  "intended_to": [
+    "troy@carneycontracting.com",
+    "jeff@carneycontracting.com"
+  ],
+  "intended_cc": [
+    "mcarney@carneycontracting.com"
+  ],
+  "basis": "Acknowledges CO payment milestone and proposes reconciliation under substantial-completion/unfinished-work provisions; requests dated performance and outstanding records.",
+  "review_date_local": "2026-11-17",
+  "contract_review": "/Users/bmysoren/prep/ismash/evidence/contracts/2026-11-17_open_items_contract_review.json",
+  "evidence_refresh": "/Users/bmysoren/prep/ismash/evidence/emails/2026-11-17_late_refresh.json",
+  "safeguards": [
+    "No agreement that the entire $52,184.44 is presently overdue.",
+    "No unilateral withholding amount or blanket refusal to pay.",
+    "150% mechanism is subject to applicable contract terms and agreement on unfinished work/time, not owner-selected amount.",
+    "No claim that bank review automatically extends contractual payment deadlines.",
+    "No accusation that current email announces work stoppage or establishes breach.",
+    "No assertion that every requested receipt or unconditional subcontractor waiver is an express payment prerequisite.",
+    "Paint hardware and switch scope subject to current approved plans and changes; heating confined to Carney scope.",
+    "Nov18 is a requested response/status deadline, not a contractual cure period or promised payment date.",
+    "No representation that unilateral reservation language defeats section9.4.2 claims waiver."
+  ],
+  "unresolved_risks": [
+    "Actual amount and due date remain subject to all invoice/application terms, acceptance/rejection history and later written modifications.",
+    "Nov9 response fell within7 days of Nov5 invoice, but whether it was a sufficient contractual rejection is unresolved; corrected Nov17 packet is not assumed to reset deadlines.",
+    "No agreed unfinished-item estimate/holdback or signed Substantial Completion date has been established by this refresh.",
+    "Bank inspection scheduling/review is underway; appointment, disbursement approval and transfer date remain unconfirmed.",
+    "Email wording cannot guarantee no existing breach or eliminate obligation to pay amounts properly due.",
+    "Final payment has separate claims-waiver consequences under9.4.2.",
+    "Statutory paid-lien release requirement verified at https://app.leg.wa.gov/rcw/default.aspx?cite=60.04.071; not used as unconditional-before-payment demand."
+  ],
+  "draft": "Subject: Re: Final Invoice and Billing (NEW INVOICE 11.5.2026)\n\nHi Troy, Jeff, and Michael,\n\nI acknowledge the CO payment milestone in Section 9.1 and remain committed to paying amounts properly due under our agreement. Your latest reply does not address the outstanding work or the specific closeout requests in my earlier email.\n\nThe agreement also addresses payment for unfinished work at Substantial Completion in Sections 9.1.7 and 9.1.12, and final payment when the work is fully completed in Section 9.4.1. We need to apply these provisions together.\n\nPlease provide Carney’s itemized estimate of the cost to complete the remaining contract work, together with its scope and firm completion dates. This will allow us to agree on the unfinished items and completion timing, apply the 150% provision where applicable, and promptly reconcile the amount presently payable against the $52,184.44 invoice.\n\nPlease respond point by point to the five items in my earlier email by Wednesday, November 18. In particular:\n\n1. Provide a confirmed completion date for the Smash Room 3 door and a written resolution for the fan-switch and paint-room hardware items. If Carney disputes the scope of a requested correction, identify the applicable approved drawing or change order and explain its position.\n\n2. Schedule a current heating-performance and balancing check within Carney’s scope, identify all units serving the premises and the areas they serve, and provide the findings and any proposed corrective work.\n\n3. Provide the written warranties, equipment manuals and applicable inspection/testing records required by Sections 3.8.3–3.8.4, along with the Substantial Completion certificate and proposed date for joint review, warranty dates and service contacts.\n\n4. Address the outstanding request for CO #10 supporting documents and current subcontractor/supplier payment and release coverage. I acknowledge the waivers already supplied; please identify any remaining balances or gaps in coverage and how they will be resolved.\n\nPlease provide a delivery date for anything that is not yet available. A statement that work is “being scheduled” leaves us without the dates needed to arrange access and complete closeout.\n\nI have already contacted Quaint Oak to arrange its inspection and review, and I will provide a payment-process status update by November 18. Please identify Carney’s contact for any documentation the bank requests.\n\nPlease continue coordinating the remaining agreed work while we reconcile payment. We will provide reasonable access for inspection, testing and completion.\n\nThank you,\nBharath\n"
+}
